@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "last_updated": "2026-07-09T14:27:18",
+  "last_updated": "2026-07-09T14:27:51",
   "html": {
     "https://web.archive.org/web/20260517045435if_/https://twitter.com/GrievousPotato1/status/2055874599686906057": {
       "status": "done",
@@ -4445,18 +4445,18 @@
       "referenced_by": [
         "20260607080411_twitter_com_GrievousPotato1_status_2063532460596506959.json"
       ],
-      "last_updated": "2026-07-09T11:44:08",
+      "last_updated": "2026-07-09T14:27:37",
       "last_reason": "HTTPError: 403 Client Error: Forbidden for url: https://web.archive.org/web/20260620164054/https://video.twimg.com/amplify_video/2063420472612782080/vid/avc1/720x1280/Clx1LFJnS7l0tj7B.mp4",
-      "miss_count": 1
+      "miss_count": 2
     },
     "https://video.twimg.com/amplify_video/2064212624657543168/vid/avc1/720x1280/V5zi5zusHWZ7K5yV.mp4": {
       "status": "failed_all",
       "referenced_by": [
         "20260609101223_twitter_com_GrievousPotato1_status_2064289499018879111.json"
       ],
-      "last_updated": "2026-07-09T14:19:33",
+      "last_updated": "2026-07-09T14:27:41",
       "last_reason": "HTTPError: 403 Client Error: Forbidden for url: https://web.archive.org/web/20260619031848/https://video.twimg.com/amplify_video/2064212624657543168/vid/avc1/720x1280/V5zi5zusHWZ7K5yV.mp4",
-      "miss_count": 2
+      "miss_count": 3
     },
     "https://video.twimg.com/amplify_video/2064458593101852672/vid/avc1/802x720/Tu8iRe8XexHtrINj.mp4": {
       "status": "done",
@@ -4477,27 +4477,27 @@
       "referenced_by": [
         "20260610122958_twitter_com_GrievousPotato1_status_2064686509022675164.json"
       ],
-      "last_updated": "2026-07-09T14:19:32",
+      "last_updated": "2026-07-09T14:27:43",
       "last_reason": "HTTPError: 404 Client Error: NOT FOUND for url: https://web.archive.org/web/20260610122958/https://video.twimg.com/amplify_video/2064504904618561536/vid/avc1/1280x706/k-OM5uh3NbExDPiQ.mp4",
-      "miss_count": 2
+      "miss_count": 3
     },
     "https://video.twimg.com/amplify_video/2064963582043762688/vid/avc1/568x1094/5KoFmQw3fKd6PysL.mp4": {
       "status": "failed_all",
       "referenced_by": [
         "20260611082417_twitter_com_GrievousPotato1_status_2064987067961004530.json"
       ],
-      "last_updated": "2026-07-09T14:19:33",
+      "last_updated": "2026-07-09T14:27:47",
       "last_reason": "HTTPError: 404 Client Error: Not Found for url: https://web.archive.org/web/20260617151648/https://video.twimg.com/amplify_video/2064963582043762688/vid/avc1/568x1094/5KoFmQw3fKd6PysL.mp4",
-      "miss_count": 2
+      "miss_count": 3
     },
     "https://video.twimg.com/amplify_video/2064963582022832128/vid/avc1/720x720/UFrEZGkjGnmHh7Rk.mp4": {
       "status": "failed_all",
       "referenced_by": [
         "20260611082417_twitter_com_GrievousPotato1_status_2064987067961004530.json"
       ],
-      "last_updated": "2026-07-09T14:19:36",
+      "last_updated": "2026-07-09T14:27:51",
       "last_reason": "HTTPError: 404 Client Error: Not Found for url: https://web.archive.org/web/20260630063655/https://video.twimg.com/amplify_video/2064963582022832128/vid/avc1/720x720/UFrEZGkjGnmHh7Rk.mp4",
-      "miss_count": 2
+      "miss_count": 3
     },
     "https://video.twimg.com/tweet_video/HKu4NFIWcAAD-Dr.mp4": {
       "status": "done",
