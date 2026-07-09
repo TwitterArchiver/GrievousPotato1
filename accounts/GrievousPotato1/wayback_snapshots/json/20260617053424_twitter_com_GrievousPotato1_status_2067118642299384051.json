@@ -1,0 +1,544 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2066867506153709568"
+      ],
+      "media_source_tweet_id": [
+        "2066867511820202139"
+      ]
+    },
+    "author_id": "2055822314969665536",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "id": "1280550787207147521",
+          "name": "Arts & culture"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Visual Arts",
+          "id": "1046577790353428480",
+          "name": "Visual arts"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Visual Arts",
+          "id": "1046577790353428480",
+          "name": "Visual arts"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1265660441822281728",
+          "name": "Art"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1280550787207147521",
+          "name": "Arts & culture"
+        }
+      }
+    ],
+    "conversation_id": "2067118642299384051",
+    "created_at": "2026-06-17T05:34:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-17T06:34:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067118642299384051"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 17,
+          "start": 13,
+          "tag": "sfx"
+        },
+        {
+          "end": 23,
+          "start": 18,
+          "tag": "fake"
+        },
+        {
+          "end": 27,
+          "start": 24,
+          "tag": "ai"
+        },
+        {
+          "end": 32,
+          "start": 28,
+          "tag": "art"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2065502933794390017",
+          "start": 3,
+          "username": "Meatmaq"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/og22LGfZhv",
+          "end": 56,
+          "expanded_url": "https://x.com/Meatmaq/status/2066867511820202139/photo/1",
+          "media_key": "3_2066867506153709568",
+          "start": 33,
+          "url": "https://t.co/og22LGfZhv"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067118642299384051",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 106
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066867511820202139",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Meatmaq: #sfx #fake #ai #art https://t.co/og22LGfZhv"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1114,
+        "media_key": "3_2066867506153709568",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HK79C84W4AAncoV.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2066867506153709568"
+          ],
+          "media_source_tweet_id": [
+            "2066867511820202139"
+          ]
+        },
+        "author_id": "2055822314969665536",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Visual Arts",
+              "id": "1046577790353428480",
+              "name": "Visual arts"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Visual Arts",
+              "id": "1046577790353428480",
+              "name": "Visual arts"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1265660441822281728",
+              "name": "Art"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          }
+        ],
+        "conversation_id": "2067118642299384051",
+        "created_at": "2026-06-17T05:34:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T06:34:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067118642299384051"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 17,
+              "start": 13,
+              "tag": "sfx"
+            },
+            {
+              "end": 23,
+              "start": 18,
+              "tag": "fake"
+            },
+            {
+              "end": 27,
+              "start": 24,
+              "tag": "ai"
+            },
+            {
+              "end": 32,
+              "start": 28,
+              "tag": "art"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2065502933794390017",
+              "start": 3,
+              "username": "Meatmaq"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/og22LGfZhv",
+              "end": 56,
+              "expanded_url": "https://x.com/Meatmaq/status/2066867511820202139/photo/1",
+              "media_key": "3_2066867506153709568",
+              "start": 33,
+              "url": "https://t.co/og22LGfZhv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067118642299384051",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 106
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066867511820202139",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Meatmaq: #sfx #fake #ai #art https://t.co/og22LGfZhv"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2066867506153709568"
+          ]
+        },
+        "author_id": "2065502933794390017",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Visual Arts",
+              "id": "1046577790353428480",
+              "name": "Visual arts"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Visual Arts",
+              "id": "1046577790353428480",
+              "name": "Visual arts"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1265660441822281728",
+              "name": "Art"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          }
+        ],
+        "conversation_id": "2066867511820202139",
+        "created_at": "2026-06-16T12:56:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-16T13:56:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066867511820202139"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 4,
+              "start": 0,
+              "tag": "sfx"
+            },
+            {
+              "end": 10,
+              "start": 5,
+              "tag": "fake"
+            },
+            {
+              "end": 14,
+              "start": 11,
+              "tag": "ai"
+            },
+            {
+              "end": 19,
+              "start": 15,
+              "tag": "art"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/og22LGfZhv",
+              "end": 43,
+              "expanded_url": "https://x.com/Meatmaq/status/2066867511820202139/photo/1",
+              "media_key": "3_2066867506153709568",
+              "start": 20,
+              "url": "https://t.co/og22LGfZhv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066867511820202139",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 38,
+          "impression_count": 3788,
+          "like_count": 926,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 106
+        },
+        "reply_settings": "everyone",
+        "text": "#sfx #fake #ai #art https://t.co/og22LGfZhv"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-17T01:27:33.000Z",
+        "description": "同类互fo，成分请查看@aeglepotato/点赞狂魔/备用@aeglepotato /🦋@aeglepotato /https://t.co/C8vIKrLtCN",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 11,
+                "username": "aeglepotato"
+              },
+              {
+                "end": 43,
+                "start": 31,
+                "username": "aeglepotato"
+              },
+              {
+                "end": 58,
+                "start": 46,
+                "username": "aeglepotato"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/aeglepotato",
+                "end": 83,
+                "expanded_url": "https://ngl.link/aeglepotato",
+                "start": 60,
+                "url": "https://t.co/C8vIKrLtCN"
+              }
+            ]
+          }
+        },
+        "id": "2055822314969665536",
+        "name": "🌈ALLice☃️赛博幽灵",
+        "pinned_tweet_id": "2064878659698102753",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055823521440301056/FmjUDDvC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 104,
+          "following_count": 171,
+          "like_count": 4435,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 294
+        },
+        "username": "GrievousPotato1",
+        "verified": false
+      },
+      {
+        "created_at": "2026-06-12T18:34:34.000Z",
+        "description": "!!BLOCK DONT REPORT!! 5'5.5 diagnosed w mdd,ed,gad,ptsd,adhd",
+        "id": "2065502933794390017",
+        "location": "Feel free to dm/comment!!",
+        "name": "meat (🔪twt-censored)",
+        "pinned_tweet_id": "2065594937123438782",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065503167962382336/PTZOZgKV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 139,
+          "following_count": 159,
+          "like_count": 171,
+          "listed_count": 2,
+          "media_count": 29,
+          "tweet_count": 82
+        },
+        "username": "Meatmaq",
+        "verified": false
+      }
+    ]
+  }
+}

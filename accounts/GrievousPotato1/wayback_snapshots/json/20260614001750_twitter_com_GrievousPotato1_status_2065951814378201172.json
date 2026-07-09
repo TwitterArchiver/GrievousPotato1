@@ -1,0 +1,160 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "16_2065951793004052480"
+      ]
+    },
+    "author_id": "2055822314969665536",
+    "conversation_id": "2065951814378201172",
+    "created_at": "2026-06-14T00:17:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-14T01:17:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2065951814378201172"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/OWom37MZ1T",
+          "end": 209,
+          "expanded_url": "https://x.com/GrievousPotato1/status/2065951814378201172/photo/1",
+          "media_key": "16_2065951793004052480",
+          "start": 186,
+          "url": "https://t.co/OWom37MZ1T"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065951814378201172",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我喜欢突然做一些莫名其妙的事情，突然说一些莫名其妙的话，然后突然莫名其妙的恢复正常\n所以我现在决定对所有看到这条推文的友友们打招呼：hello👋hello👋hello👋hello👋hello👋hello👋hello👋hello👋hello👋hello👋hello👋hello👋hello👋hello👋hello👋hello👋hello👋hello👋\n什么都不做就是打招呼 https://t.co/OWom37MZ1T"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 300,
+        "media_key": "16_2065951793004052480",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/HKu8NbkWgAA_kg_.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/HKu8NbkWgAA_kg_.mp4"
+          }
+        ],
+        "width": 304
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_2065951793004052480"
+          ]
+        },
+        "author_id": "2055822314969665536",
+        "conversation_id": "2065951814378201172",
+        "created_at": "2026-06-14T00:17:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T01:17:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2065951814378201172"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/OWom37MZ1T",
+              "end": 209,
+              "expanded_url": "https://x.com/GrievousPotato1/status/2065951814378201172/photo/1",
+              "media_key": "16_2065951793004052480",
+              "start": 186,
+              "url": "https://t.co/OWom37MZ1T"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065951814378201172",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我喜欢突然做一些莫名其妙的事情，突然说一些莫名其妙的话，然后突然莫名其妙的恢复正常\n所以我现在决定对所有看到这条推文的友友们打招呼：hello👋hello👋hello👋hello👋hello👋hello👋hello👋hello👋hello👋hello👋hello👋hello👋hello👋hello👋hello👋hello👋hello👋hello👋\n什么都不做就是打招呼 https://t.co/OWom37MZ1T"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-17T01:27:33.000Z",
+        "description": "同类回fo，至于是什么同类x不让我说/点赞狂魔/查成分请翻回复or 去🦋 @aeglepotato / https://t.co/C8vIKrLtCN",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 49,
+                "start": 37,
+                "username": "aeglepotato"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/aeglepotato",
+                "end": 75,
+                "expanded_url": "https://ngl.link/aeglepotato",
+                "start": 52,
+                "url": "https://t.co/C8vIKrLtCN"
+              }
+            ]
+          }
+        },
+        "id": "2055822314969665536",
+        "name": "🌈ALLice☃️赛博幽灵",
+        "pinned_tweet_id": "2064878659698102753",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055823521440301056/FmjUDDvC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 71,
+          "following_count": 122,
+          "like_count": 3454,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 213
+        },
+        "username": "GrievousPotato1",
+        "verified": false
+      }
+    ]
+  }
+}

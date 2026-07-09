@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2055822314969665536",
+    "conversation_id": "2059631898570506604",
+    "created_at": "2026-05-28T09:26:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-28T10:26:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059929215982555246"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1901471587477442560",
+          "start": 0,
+          "username": "Another_and_Me"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059929215982555246",
+    "in_reply_to_user_id": "1901471587477442560",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059631898570506604",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Another_and_Me 不推荐亚硝喵，亚硝走的很痛苦也可能会被救回来的，而且现在禁售了，普通买是很难买到的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2055822314969665536",
+        "conversation_id": "2059631898570506604",
+        "created_at": "2026-05-28T09:26:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T10:26:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059929215982555246"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1901471587477442560",
+              "start": 0,
+              "username": "Another_and_Me"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059929215982555246",
+        "in_reply_to_user_id": "1901471587477442560",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059631898570506604",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Another_and_Me 不推荐亚硝喵，亚硝走的很痛苦也可能会被救回来的，而且现在禁售了，普通买是很难买到的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1901471587477442560",
+        "conversation_id": "2059631898570506604",
+        "created_at": "2026-05-27T13:44:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T14:44:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059631898570506604"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2059631898570506604",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 3190,
+          "like_count": 41,
+          "quote_count": 1,
+          "reply_count": 20,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "拜托了，别这样，谁能告诉我哪里能够买到亚硝酸钠？已经够了，我不想再出什么意外了......六次自杀未遂，真的......好狼狈.......\n不，不要什么“帮助”。想活下去的话我自己就能给自己最好的帮助。不需要干预。是我自己拒绝了一切。\n......愿今夜不会成为第七次。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-17T01:27:33.000Z",
+        "description": "同类回fo，至于是什么同类x不让我说/点赞狂魔/想看我发言请翻回复",
+        "id": "2055822314969665536",
+        "name": "🌈ALLice☃️剧烈复活",
+        "pinned_tweet_id": "2056519884301877431",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055823521440301056/FmjUDDvC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15,
+          "following_count": 32,
+          "like_count": 698,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 42
+        },
+        "username": "GrievousPotato1",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-17T03:12:24.000Z",
+        "description": "我爱这世间，如同我恨它一般。\n\n圈子：绘画/八宝粥/phigros/月计/「不/存在的你，和我」/明日方舟（已退游）/哲学/心理学/文学\n人格：具备自我修正系统的人机。共情力已剧烈衰退，懒散且自私。如果您不喜欢我的某些言行请指出，我会吸收您的建议并考虑改变。\n状态：淡推学生党",
+        "id": "1901471587477442560",
+        "location": "坠落中的半空",
+        "name": "迷",
+        "pinned_tweet_id": "2018507944284078222",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1919218508115951616/uKmDCsFd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 244,
+          "following_count": 110,
+          "like_count": 1991,
+          "listed_count": 1,
+          "media_count": 183,
+          "tweet_count": 1192
+        },
+        "username": "Another_and_Me",
+        "verified": false
+      }
+    ]
+  }
+}

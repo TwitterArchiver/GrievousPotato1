@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2055822314969665536",
+    "conversation_id": "2064379857392357728",
+    "created_at": "2026-06-09T16:11:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-09T17:11:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064379857392357728"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1641737484714532865",
+          "start": 3,
+          "username": "thecaptaingold"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064379857392357728",
+    "lang": "ko",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1932
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064304896799854695",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @thecaptaingold: 기분 안좋아서 정병 부릴때\n누가 위로해주려고 물어보면 대답하긴 귀찮고 그냥 정병만 부리고싶은데\n트친들은 딱 정병글에 맘찍, 만 해줌으로써\n더이상 묻지않고 공감만 해주는게 넘 편하고 감동임"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2055822314969665536",
+        "conversation_id": "2064379857392357728",
+        "created_at": "2026-06-09T16:11:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T17:11:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064379857392357728"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1641737484714532865",
+              "start": 3,
+              "username": "thecaptaingold"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064379857392357728",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1932
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064304896799854695",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @thecaptaingold: 기분 안좋아서 정병 부릴때\n누가 위로해주려고 물어보면 대답하긴 귀찮고 그냥 정병만 부리고싶은데\n트친들은 딱 정병글에 맘찍, 만 해줌으로써\n더이상 묻지않고 공감만 해주는게 넘 편하고 감동임"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1641737484714532865",
+        "conversation_id": "2064304896799854695",
+        "created_at": "2026-06-09T11:13:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T12:13:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064304896799854695"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2064304896799854695",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 263,
+          "impression_count": 166169,
+          "like_count": 3315,
+          "quote_count": 387,
+          "reply_count": 4,
+          "retweet_count": 1932
+        },
+        "reply_settings": "everyone",
+        "text": "기분 안좋아서 정병 부릴때\n누가 위로해주려고 물어보면 대답하긴 귀찮고 그냥 정병만 부리고싶은데\n트친들은 딱 정병글에 맘찍, 만 해줌으로써\n더이상 묻지않고 공감만 해주는게 넘 편하고 감동임"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-17T01:27:33.000Z",
+        "description": "同类回fo，至于是什么同类x不让我说/点赞狂魔，只互动不发推/查成分请翻回复or 去🦋 @aeglepotato / https://t.co/C8vIKrKVNf",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 56,
+                "start": 44,
+                "username": "aeglepotato"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/aeglepotato",
+                "end": 82,
+                "expanded_url": "https://ngl.link/aeglepotato",
+                "start": 59,
+                "url": "https://t.co/C8vIKrKVNf"
+              }
+            ]
+          }
+        },
+        "id": "2055822314969665536",
+        "name": "🌈ALLice☃️赛博幽灵",
+        "pinned_tweet_id": "2056519884301877431",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055823521440301056/FmjUDDvC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 50,
+          "following_count": 95,
+          "like_count": 2647,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 152
+        },
+        "username": "GrievousPotato1",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-31T09:42:27.000Z",
+        "description": "안녕허삽니까",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "spin-spin.com/thecaptaingold",
+                "end": 23,
+                "expanded_url": "https://spin-spin.com/thecaptaingold",
+                "start": 0,
+                "url": "https://t.co/DMREhM1dA6"
+              }
+            ]
+          }
+        },
+        "id": "1641737484714532865",
+        "name": "짜코",
+        "pinned_tweet_id": "1962392772679455042",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004532245437280256/s9SkIKWS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14546,
+          "following_count": 37,
+          "like_count": 1792,
+          "listed_count": 8,
+          "media_count": 1851,
+          "tweet_count": 13239
+        },
+        "url": "https://t.co/DMREhM1dA6",
+        "username": "thecaptaingold",
+        "verified": false
+      }
+    ]
+  }
+}

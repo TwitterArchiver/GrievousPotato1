@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2055822314969665536",
+    "conversation_id": "2072478167437103441",
+    "created_at": "2026-07-02T00:31:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-02T01:31:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2072478167437103441"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1560129932524544000",
+          "start": 3,
+          "username": "xijiu_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072478167437103441",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 5
+    },
+    "referenced_tweets": [
+      {
+        "id": "2072288298127777847",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @xijiu_: 医生们不应该想着怎么把双相患者治好\n他们只需要想办法把患者维持在轻躁狂状态才是最好的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2055822314969665536",
+        "conversation_id": "2072478167437103441",
+        "created_at": "2026-07-02T00:31:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-02T01:31:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072478167437103441"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1560129932524544000",
+              "start": 3,
+              "username": "xijiu_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072478167437103441",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072288298127777847",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @xijiu_: 医生们不应该想着怎么把双相患者治好\n他们只需要想办法把患者维持在轻躁狂状态才是最好的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1560129932524544000",
+        "conversation_id": "2072288298127777847",
+        "created_at": "2026-07-01T11:56:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-01T12:56:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2072288298127777847"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2072288298127777847",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 4455,
+          "like_count": 110,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "医生们不应该想着怎么把双相患者治好\n他们只需要想办法把患者维持在轻躁狂状态才是最好的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-17T01:27:33.000Z",
+        "description": "同类互fo，成分请查看@aeglepotato/点赞狂魔/平时喜欢说怪话和发癫/备用@aeglepotato /🦋@aeglepotato /匿名提问箱https://t.co/C8vIKrLtCN",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 11,
+                "username": "aeglepotato"
+              },
+              {
+                "end": 54,
+                "start": 42,
+                "username": "aeglepotato"
+              },
+              {
+                "end": 69,
+                "start": 57,
+                "username": "aeglepotato"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/aeglepotato",
+                "end": 99,
+                "expanded_url": "https://ngl.link/aeglepotato",
+                "start": 76,
+                "url": "https://t.co/C8vIKrLtCN"
+              }
+            ]
+          }
+        },
+        "id": "2055822314969665536",
+        "name": "⛄ALLice🌈赛博幽灵",
+        "pinned_tweet_id": "2064878659698102753",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067517312576421888/aGH7Myxd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 192,
+          "following_count": 265,
+          "like_count": 8413,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 523
+        },
+        "url": "",
+        "username": "GrievousPotato1",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-18T05:02:26.000Z",
+        "description": "🏳️‍⚧️|生命久如暗室，不妨碍我明写春诗|I’m Nicy , a freshman majoring in chemistry from China.| The Jesus loves us equally.",
+        "id": "1560129932524544000",
+        "location": "被有机实验室炸飞的电化学实验室",
+        "name": "希玖.",
+        "pinned_tweet_id": "1858024741422117307",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1799273016024846336/s8YOvPfF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3653,
+          "following_count": 859,
+          "like_count": 204053,
+          "listed_count": 3,
+          "media_count": 693,
+          "tweet_count": 9692
+        },
+        "url": "",
+        "username": "xijiu_",
+        "verified": false
+      }
+    ]
+  }
+}

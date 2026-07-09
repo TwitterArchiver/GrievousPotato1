@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2067085279853453314"
+      ],
+      "media_source_tweet_id": [
+        "2067085312808088051"
+      ]
+    },
+    "author_id": "2055822314969665536",
+    "conversation_id": "2067115444905848908",
+    "created_at": "2026-06-17T05:21:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-17T06:21:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067115444905848908"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2065580384406921216",
+          "start": 3,
+          "username": "tutu0630mi"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/oqmQkKta4B",
+          "end": 46,
+          "expanded_url": "https://x.com/tutu0630mi/status/2067085312808088051/photo/1",
+          "media_key": "3_2067085279853453314",
+          "start": 23,
+          "url": "https://t.co/oqmQkKta4B"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067115444905848908",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067085312808088051",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @tutu0630mi: 被举报我也发 https://t.co/oqmQkKta4B"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2067115444905848908].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2067115444905848908",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2067115444905848908"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2067085279853453314",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HK_DHDIaoAIvvXW.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2067085279853453314"
+          ]
+        },
+        "author_id": "2065580384406921216",
+        "conversation_id": "2067085312808088051",
+        "created_at": "2026-06-17T03:21:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T04:21:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067085312808088051"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/oqmQkKta4B",
+              "end": 30,
+              "expanded_url": "https://x.com/tutu0630mi/status/2067085312808088051/photo/1",
+              "media_key": "3_2067085279853453314",
+              "start": 7,
+              "url": "https://t.co/oqmQkKta4B"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067085312808088051",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 68,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "被举报我也发 https://t.co/oqmQkKta4B"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-17T01:27:33.000Z",
+        "description": "同类互fo，成分请查看@aeglepotato/点赞狂魔/备用@aeglepotato /🦋@aeglepotato /https://t.co/C8vIKrLtCN",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 11,
+                "username": "aeglepotato"
+              },
+              {
+                "end": 43,
+                "start": 31,
+                "username": "aeglepotato"
+              },
+              {
+                "end": 58,
+                "start": 46,
+                "username": "aeglepotato"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/aeglepotato",
+                "end": 83,
+                "expanded_url": "https://ngl.link/aeglepotato",
+                "start": 60,
+                "url": "https://t.co/C8vIKrLtCN"
+              }
+            ]
+          }
+        },
+        "id": "2055822314969665536",
+        "name": "🌈ALLice☃️赛博幽灵",
+        "pinned_tweet_id": "2064878659698102753",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055823521440301056/FmjUDDvC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 104,
+          "following_count": 169,
+          "like_count": 4423,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 293
+        },
+        "username": "GrievousPotato1",
+        "verified": false
+      },
+      {
+        "created_at": "2026-06-12T23:43:46.000Z",
+        "description": "大号@KG6I1x｜你们都来和我互动行不行｜我抗压差，你们不准骂我｜小女孩我无条件回fo呀｜只会小女孩和同类谢谢｜这是我闺蜜@zhheou",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 9,
+                "start": 2,
+                "username": "KG6I1x"
+              },
+              {
+                "end": 69,
+                "start": 62,
+                "username": "zhheou"
+              }
+            ]
+          }
+        },
+        "id": "2065580384406921216",
+        "name": "荼蘼花二代目",
+        "pinned_tweet_id": "2066896798388720049",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065581328507011072/wYddomwT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 83,
+          "following_count": 50,
+          "like_count": 789,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 162
+        },
+        "username": "tutu0630mi",
+        "verified": false
+      }
+    ]
+  }
+}

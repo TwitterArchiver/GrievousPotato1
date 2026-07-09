@@ -1,0 +1,488 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2055822314969665536",
+    "conversation_id": "2064987067961004530",
+    "created_at": "2026-06-11T08:24:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-11T09:24:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064987067961004530"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 27,
+          "start": 19,
+          "tag": "shedtwt"
+        },
+        {
+          "end": 37,
+          "start": 28,
+          "tag": "sharmtwt"
+        },
+        {
+          "end": 44,
+          "start": 38,
+          "tag": "shtwt"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 17,
+          "id": "2056936250905387008",
+          "start": 3,
+          "username": "konkusuriuri_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064987067961004530",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 15
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064963663102927204",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @konkusuriuri_: #shedtwt #sharmtwt #shtwt\n\nAll of this is educational SFX! Entirely makeup SFX for educational purposes. SFX and AI. I a…"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 18518,
+        "height": 1094,
+        "media_key": "13_2064963582043762688",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2064963582043762688/img/1Hp6UROBgsqLUTgk.jpg",
+        "public_metrics": {
+          "view_count": 303
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2064963582043762688/vid/avc1/320x616/o889udVXW4wtXPsu.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2064963582043762688/vid/avc1/480x924/N2ql20_3MCnqeS9Q.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2064963582043762688/vid/avc1/568x1094/5KoFmQw3fKd6PysL.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2064963582043762688/pl/rLLpPosqpczY5phx.m3u8"
+          }
+        ],
+        "width": 568
+      },
+      {
+        "duration_ms": 21316,
+        "height": 720,
+        "media_key": "13_2064963582022832128",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2064963582022832128/img/KuLGIEIS8UqjdcKk.jpg",
+        "public_metrics": {
+          "view_count": 63
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 432000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2064963582022832128/vid/avc1/320x320/1RBRr64Xp9IZyINL.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2064963582022832128/vid/avc1/540x540/AiLj3N16GNMkwrW1.mp4"
+          },
+          {
+            "bit_rate": 1280000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2064963582022832128/vid/avc1/720x720/UFrEZGkjGnmHh7Rk.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2064963582022832128/pl/ymW-8TEZX8u27MHY.m3u8"
+          }
+        ],
+        "width": 720
+      },
+      {
+        "height": 804,
+        "media_key": "3_2064963582014418944",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKg5b-wWcAAZ8cf.jpg",
+        "width": 577
+      },
+      {
+        "height": 751,
+        "media_key": "3_2064963582022893568",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKg5b-yXwAA9eJ5.jpg",
+        "width": 569
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2055822314969665536",
+        "conversation_id": "2064987067961004530",
+        "created_at": "2026-06-11T08:24:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-11T09:24:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064987067961004530"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 27,
+              "start": 19,
+              "tag": "shedtwt"
+            },
+            {
+              "end": 37,
+              "start": 28,
+              "tag": "sharmtwt"
+            },
+            {
+              "end": 44,
+              "start": 38,
+              "tag": "shtwt"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 17,
+              "id": "2056936250905387008",
+              "start": 3,
+              "username": "konkusuriuri_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064987067961004530",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 15
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064963663102927204",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @konkusuriuri_: #shedtwt #sharmtwt #shtwt\n\nAll of this is educational SFX! Entirely makeup SFX for educational purposes. SFX and AI. I a…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2064963582043762688",
+            "13_2064963582022832128",
+            "3_2064963582014418944",
+            "3_2064963582022893568"
+          ]
+        },
+        "author_id": "2056936250905387008",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to makeup, perfumes and skin care",
+              "id": "1557696505548394496",
+              "name": "Beauty, Cosmetic & Personal Care Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1721576765879980032",
+              "name": "Grok Ai"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1721576765879980032",
+              "name": "Grok Ai"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1265660441822281728",
+              "name": "Art"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1537182142450372608",
+              "name": "AI image generation"
+            }
+          }
+        ],
+        "conversation_id": "2064963663102927204",
+        "created_at": "2026-06-11T06:51:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-11T07:51:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064963663102927204"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 8,
+              "start": 0,
+              "tag": "shedtwt"
+            },
+            {
+              "end": 18,
+              "start": 9,
+              "tag": "sharmtwt"
+            },
+            {
+              "end": 25,
+              "start": 19,
+              "tag": "shtwt"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/sMfpD9ap7g",
+              "end": 300,
+              "expanded_url": "https://x.com/konkusuriuri_/status/2064963663102927204/video/1",
+              "media_key": "13_2064963582043762688",
+              "start": 277,
+              "url": "https://t.co/sMfpD9ap7g"
+            },
+            {
+              "display_url": "pic.x.com/sMfpD9ap7g",
+              "end": 300,
+              "expanded_url": "https://x.com/konkusuriuri_/status/2064963663102927204/video/1",
+              "media_key": "13_2064963582022832128",
+              "start": 277,
+              "url": "https://t.co/sMfpD9ap7g"
+            },
+            {
+              "display_url": "pic.x.com/sMfpD9ap7g",
+              "end": 300,
+              "expanded_url": "https://x.com/konkusuriuri_/status/2064963663102927204/video/1",
+              "media_key": "3_2064963582014418944",
+              "start": 277,
+              "url": "https://t.co/sMfpD9ap7g"
+            },
+            {
+              "display_url": "pic.x.com/sMfpD9ap7g",
+              "end": 300,
+              "expanded_url": "https://x.com/konkusuriuri_/status/2064963663102927204/video/1",
+              "media_key": "3_2064963582022893568",
+              "start": 277,
+              "url": "https://t.co/sMfpD9ap7g"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064963663102927204",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7,
+          "impression_count": 633,
+          "like_count": 110,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 15
+        },
+        "reply_settings": "everyone",
+        "text": "#shedtwt #sharmtwt #shtwt\n\nAll of this is educational SFX! Entirely makeup SFX for educational purposes. SFX and AI. I am an AI artist and this is my art.\n\nThis is AI generated makeup by Grok. Grok generated this for me. This is makeup SFX generated by Grok. Label this as AI. https://t.co/sMfpD9ap7g"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-17T01:27:33.000Z",
+        "description": "同类回fo，至于是什么同类x不让我说/点赞狂魔/查成分请翻回复or 去🦋 @aeglepotato / https://t.co/C8vIKrLtCN",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 49,
+                "start": 37,
+                "username": "aeglepotato"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/aeglepotato",
+                "end": 75,
+                "expanded_url": "https://ngl.link/aeglepotato",
+                "start": 52,
+                "url": "https://t.co/C8vIKrLtCN"
+              }
+            ]
+          }
+        },
+        "id": "2055822314969665536",
+        "name": "🌈ALLice☃️赛博幽灵",
+        "pinned_tweet_id": "2064878659698102753",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055823521440301056/FmjUDDvC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 58,
+          "following_count": 101,
+          "like_count": 3019,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 177
+        },
+        "username": "GrievousPotato1",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-20T03:13:44.000Z",
+        "description": "────୨ৎ────\n⋆｡ ﾟ☁︎｡ ⋆｡ ﾟ☾ ﾟ｡ ⋆ \nsuspended 24/7… alt @rawpilchard\n #shedtwt #shtwt || cw: 64kg || gw: 60-55kg || everything on this account is sfx/ai",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 73,
+                "start": 65,
+                "tag": "shedtwt"
+              },
+              {
+                "end": 80,
+                "start": 74,
+                "tag": "shtwt"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 63,
+                "start": 51,
+                "username": "rawpilchard"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "salmonofcapistrano.com",
+                "end": 23,
+                "expanded_url": "http://salmonofcapistrano.com/",
+                "start": 0,
+                "url": "https://t.co/9NpnII0pld"
+              }
+            ]
+          }
+        },
+        "id": "2056936250905387008",
+        "location": "shedtwt/vkeitwt/shtwt/edtwt",
+        "name": "teru mikami of fucking shedtwt",
+        "pinned_tweet_id": "2064127696322384207",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064135804260081664/MTSnOYct_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 237,
+          "following_count": 237,
+          "like_count": 2319,
+          "listed_count": 2,
+          "media_count": 32,
+          "tweet_count": 878
+        },
+        "url": "https://t.co/9NpnII0pld",
+        "username": "konkusuriuri_",
+        "verified": false
+      }
+    ]
+  }
+}

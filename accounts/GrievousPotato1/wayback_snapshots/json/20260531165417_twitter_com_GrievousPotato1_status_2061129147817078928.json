@@ -1,0 +1,186 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2055822314969665536",
+    "conversation_id": "2061129147817078928",
+    "created_at": "2026-05-31T16:54:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-31T17:54:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2061129147817078928"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1638260734684549132",
+          "start": 3,
+          "username": "musoverao"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061129147817078928",
+    "lang": "pt",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1253
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060842361962291386",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @musoverao: meu primeiro erro foi n ter me matado aos 11 anos"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2055822314969665536",
+        "conversation_id": "2061129147817078928",
+        "created_at": "2026-05-31T16:54:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-31T17:54:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061129147817078928"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1638260734684549132",
+              "start": 3,
+              "username": "musoverao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061129147817078928",
+        "lang": "pt",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1253
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060842361962291386",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @musoverao: meu primeiro erro foi n ter me matado aos 11 anos"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1638260734684549132",
+        "conversation_id": "2060842361962291386",
+        "created_at": "2026-05-30T21:54:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T22:54:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060842361962291386"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2060842361962291386",
+        "lang": "pt",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 57,
+          "impression_count": 35051,
+          "like_count": 2979,
+          "quote_count": 38,
+          "reply_count": 14,
+          "retweet_count": 1253
+        },
+        "reply_settings": "everyone",
+        "text": "meu primeiro erro foi n ter me matado aos 11 anos"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-17T01:27:33.000Z",
+        "description": "同类回fo，至于是什么同类x不让我说/点赞狂魔，只互动不发推/查成分请翻回复or 去bluesky🦋 @aeglepotato",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 63,
+                "start": 51,
+                "username": "aeglepotato"
+              }
+            ]
+          }
+        },
+        "id": "2055822314969665536",
+        "name": "🌈ALLice☃️剧烈复活",
+        "pinned_tweet_id": "2056519884301877431",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055823521440301056/FmjUDDvC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22,
+          "following_count": 53,
+          "like_count": 1120,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 60
+        },
+        "username": "GrievousPotato1",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-21T19:26:19.000Z",
+        "description": "todos os tweets aqui foram programados antes de cristo nada aqui eh real",
+        "id": "1638260734684549132",
+        "location": "Eunápolis, Brasil",
+        "name": "JHON",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045944288786423808/Tv2tKkEV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1209,
+          "following_count": 1157,
+          "like_count": 475,
+          "listed_count": 0,
+          "media_count": 19,
+          "tweet_count": 992
+        },
+        "username": "musoverao",
+        "verified": true
+      }
+    ]
+  }
+}

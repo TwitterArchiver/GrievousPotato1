@@ -1,0 +1,280 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2067962831106977792"
+      ]
+    },
+    "author_id": "2055822314969665536",
+    "conversation_id": "2067962834130972987",
+    "created_at": "2026-06-19T13:28:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-19T14:28:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2067962834130972987"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/3CtvUqYjaB",
+          "end": 37,
+          "expanded_url": "https://x.com/GrievousPotato1/status/2067962834130972987/photo/1",
+          "media_key": "3_2067962831106977792",
+          "start": 14,
+          "url": "https://t.co/3CtvUqYjaB"
+        },
+        {
+          "display_url": "x.com/GptRainy/statu…",
+          "end": 61,
+          "expanded_url": "https://twitter.com/GptRainy/status/2067798085347197019",
+          "start": 38,
+          "url": "https://t.co/LU04wKu8BM"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067962834130972987",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067798085347197019",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我会随机写一些何意味的东西 https://t.co/3CtvUqYjaB https://t.co/LU04wKu8BM"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1859,
+        "media_key": "3_2067962831106977792",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLLhPQTXsAALKKv.jpg",
+        "width": 1220
+      },
+      {
+        "height": 428,
+        "media_key": "3_2067798079513001984",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLJLZcybgAA-TtT.png",
+        "width": 482
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2067962831106977792"
+          ]
+        },
+        "author_id": "2055822314969665536",
+        "conversation_id": "2067962834130972987",
+        "created_at": "2026-06-19T13:28:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T14:28:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067962834130972987"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/3CtvUqYjaB",
+              "end": 37,
+              "expanded_url": "https://x.com/GrievousPotato1/status/2067962834130972987/photo/1",
+              "media_key": "3_2067962831106977792",
+              "start": 14,
+              "url": "https://t.co/3CtvUqYjaB"
+            },
+            {
+              "display_url": "x.com/GptRainy/statu…",
+              "end": 61,
+              "expanded_url": "https://twitter.com/GptRainy/status/2067798085347197019",
+              "start": 38,
+              "url": "https://t.co/LU04wKu8BM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067962834130972987",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067798085347197019",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我会随机写一些何意味的东西 https://t.co/3CtvUqYjaB https://t.co/LU04wKu8BM"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2067798079513001984"
+          ]
+        },
+        "author_id": "2054196065172344832",
+        "conversation_id": "2067798085347197019",
+        "created_at": "2026-06-19T02:34:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T03:34:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067798085347197019"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/jr53QwGBiy",
+              "end": 52,
+              "expanded_url": "https://x.com/GptRainy/status/2067798085347197019/photo/1",
+              "media_key": "3_2067798079513001984",
+              "start": 29,
+              "url": "https://t.co/jr53QwGBiy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067798085347197019",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 404,
+          "like_count": 11,
+          "quote_count": 2,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "热知识：很多中登口中的种种“传统”还没有可口可乐的历史长 https://t.co/jr53QwGBiy"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-17T01:27:33.000Z",
+        "description": "同类互fo，成分请查看@aeglepotato/点赞狂魔/备用@aeglepotato /🦋@aeglepotato /匿名提问箱https://t.co/C8vIKrLtCN",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 11,
+                "username": "aeglepotato"
+              },
+              {
+                "end": 43,
+                "start": 31,
+                "username": "aeglepotato"
+              },
+              {
+                "end": 58,
+                "start": 46,
+                "username": "aeglepotato"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/aeglepotato",
+                "end": 88,
+                "expanded_url": "https://ngl.link/aeglepotato",
+                "start": 65,
+                "url": "https://t.co/C8vIKrLtCN"
+              }
+            ]
+          }
+        },
+        "id": "2055822314969665536",
+        "name": "🌈ALLice☃️赛博幽灵",
+        "pinned_tweet_id": "2064878659698102753",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067517312576421888/aGH7Myxd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 118,
+          "following_count": 181,
+          "like_count": 5134,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 331
+        },
+        "url": "",
+        "username": "GrievousPotato1",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-12T13:44:50.000Z",
+        "description": "msk你还我6k粉大号😭。/Transfem🏳️‍⚧️/queer leftist/CS Dev💻/休学治双相/o割/请和我交朋友/PM随时开放🥺",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "angelkawaii.xyz",
+                "end": 23,
+                "expanded_url": "https://angelkawaii.xyz",
+                "start": 0,
+                "url": "https://t.co/b8fHY6IT3G"
+              }
+            ]
+          }
+        },
+        "id": "2054196065172344832",
+        "location": "宁静且永远安乐的天堂；",
+        "name": "小雨（疯狂互fo版）",
+        "pinned_tweet_id": "2060575051024564602",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054196311235457024/AR_qFcWp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1085,
+          "following_count": 358,
+          "like_count": 520,
+          "listed_count": 0,
+          "media_count": 72,
+          "tweet_count": 288
+        },
+        "url": "https://t.co/b8fHY6IT3G",
+        "username": "GptRainy",
+        "verified": true
+      }
+    ]
+  }
+}

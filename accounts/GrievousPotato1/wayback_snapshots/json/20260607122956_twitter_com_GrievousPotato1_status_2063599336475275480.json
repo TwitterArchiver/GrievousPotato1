@@ -1,0 +1,367 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2055822314969665536",
+    "conversation_id": "2063599336475275480",
+    "created_at": "2026-06-07T12:29:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-07T13:29:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063599336475275480"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1837383281517776901",
+          "start": 3,
+          "username": "farhachimi"
+        },
+        {
+          "end": 115,
+          "id": "1851254945984741376",
+          "start": 104,
+          "username": "LastExeX01"
+        },
+        {
+          "end": 132,
+          "id": "1616696567549034496",
+          "start": 116,
+          "username": "LovelyJerry2013"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063599336475275480",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063419278116962543",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @farhachimi: 我他妈真服了，为什么自杀是不被允许的问题下，一堆回答认为自杀在⏰是被允许的，认为不被允许的都是殖人目田，此问题是基督教友团建问题，那跳楼扣分的校规，高中搞防跳楼栅栏是干嘛的😅 @LastExeX01 @LovelyJerry2013 @Virlo…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 454,
+        "media_key": "3_2063418184636780544",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKK76A5bUAA52wt.jpg",
+        "width": 434
+      },
+      {
+        "height": 261,
+        "media_key": "3_2063418184661880832",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKK76A_aUAAYG0G.jpg",
+        "width": 419
+      },
+      {
+        "height": 369,
+        "media_key": "3_2063418184640921600",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKK76A6agAA9Zba.jpg",
+        "width": 434
+      },
+      {
+        "height": 217,
+        "media_key": "3_2063418184649297920",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKK76A8aUAA6l6V.jpg",
+        "width": 419
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2055822314969665536",
+        "conversation_id": "2063599336475275480",
+        "created_at": "2026-06-07T12:29:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T13:29:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063599336475275480"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1837383281517776901",
+              "start": 3,
+              "username": "farhachimi"
+            },
+            {
+              "end": 115,
+              "id": "1851254945984741376",
+              "start": 104,
+              "username": "LastExeX01"
+            },
+            {
+              "end": 132,
+              "id": "1616696567549034496",
+              "start": 116,
+              "username": "LovelyJerry2013"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063599336475275480",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063419278116962543",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @farhachimi: 我他妈真服了，为什么自杀是不被允许的问题下，一堆回答认为自杀在⏰是被允许的，认为不被允许的都是殖人目田，此问题是基督教友团建问题，那跳楼扣分的校规，高中搞防跳楼栅栏是干嘛的😅 @LastExeX01 @LovelyJerry2013 @Virlo…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2063418184636780544",
+            "3_2063418184661880832",
+            "3_2063418184640921600",
+            "3_2063418184649297920"
+          ]
+        },
+        "author_id": "1837383281517776901",
+        "conversation_id": "2063419278116962543",
+        "created_at": "2026-06-07T00:34:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T01:34:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063419278116962543"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 99,
+              "id": "1851254945984741376",
+              "start": 88,
+              "username": "LastExeX01"
+            },
+            {
+              "end": 116,
+              "id": "1616696567549034496",
+              "start": 100,
+              "username": "LovelyJerry2013"
+            },
+            {
+              "end": 127,
+              "id": "1041906844824825857",
+              "start": 117,
+              "username": "Virlorkit"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/MJdygX8Nzk",
+              "end": 151,
+              "expanded_url": "https://x.com/farhachimi/status/2063419278116962543/photo/1",
+              "media_key": "3_2063418184636780544",
+              "start": 128,
+              "url": "https://t.co/MJdygX8Nzk"
+            },
+            {
+              "display_url": "pic.x.com/MJdygX8Nzk",
+              "end": 151,
+              "expanded_url": "https://x.com/farhachimi/status/2063419278116962543/photo/1",
+              "media_key": "3_2063418184661880832",
+              "start": 128,
+              "url": "https://t.co/MJdygX8Nzk"
+            },
+            {
+              "display_url": "pic.x.com/MJdygX8Nzk",
+              "end": 151,
+              "expanded_url": "https://x.com/farhachimi/status/2063419278116962543/photo/1",
+              "media_key": "3_2063418184640921600",
+              "start": 128,
+              "url": "https://t.co/MJdygX8Nzk"
+            },
+            {
+              "display_url": "pic.x.com/MJdygX8Nzk",
+              "end": 151,
+              "expanded_url": "https://x.com/farhachimi/status/2063419278116962543/photo/1",
+              "media_key": "3_2063418184649297920",
+              "start": 128,
+              "url": "https://t.co/MJdygX8Nzk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063419278116962543",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 299,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "我他妈真服了，为什么自杀是不被允许的问题下，一堆回答认为自杀在⏰是被允许的，认为不被允许的都是殖人目田，此问题是基督教友团建问题，那跳楼扣分的校规，高中搞防跳楼栅栏是干嘛的😅 @LastExeX01 @LovelyJerry2013 @Virlorkit https://t.co/MJdygX8Nzk"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-17T01:27:33.000Z",
+        "description": "同类回fo，至于是什么同类x不让我说/点赞狂魔，只互动不发推/查成分请翻回复or 去🦋 @aeglepotato",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 56,
+                "start": 44,
+                "username": "aeglepotato"
+              }
+            ]
+          }
+        },
+        "id": "2055822314969665536",
+        "name": "🌈ALLice☃️赛博幽灵",
+        "pinned_tweet_id": "2056519884301877431",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055823521440301056/FmjUDDvC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 41,
+          "following_count": 77,
+          "like_count": 2041,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 114
+        },
+        "username": "GrievousPotato1",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-21T06:48:19.000Z",
+        "description": "",
+        "id": "1837383281517776901",
+        "name": "hachimi",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038234630508425216/bPZdyeIS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14,
+          "following_count": 25,
+          "like_count": 5,
+          "listed_count": 0,
+          "media_count": 24,
+          "tweet_count": 175
+        },
+        "username": "farhachimi",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-29T13:29:13.000Z",
+        "description": "│🏳️‍⚧️MtX│🇺🇳🇪🇺🇺🇦🇵🇸🇲🇽│现代化、进步主义和理性│请坚定不移的支持胡春华路线│",
+        "id": "1851254945984741376",
+        "location": "家住北京中南海",
+        "name": "我早就不是建制派了",
+        "pinned_tweet_id": "2058123518584500464",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1951149350907944964/a9pbadi4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1327,
+          "following_count": 396,
+          "like_count": 21213,
+          "listed_count": 5,
+          "media_count": 1115,
+          "tweet_count": 9468
+        },
+        "username": "LastExeX01",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-21T07:18:09.000Z",
+        "description": "重度社交恐惧\\历史学\\ Trotskyism ☭⁴\\异端托派\\mtx🏳️‍⚧️enby\\无证🍥\\Lolita\\DDLC&Just Yuri💜芙兰秀秀\\香风智乃\\晓美焰\\猫和老鼠\\q娃\\北方谦三\\HMS光辉号\\幸德秋水\\我是花枝鼠🐭\\2013\\照片大部分在媒体里\\里推@KawaiiYuri2013",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 148,
+                "start": 133,
+                "username": "KawaiiYuri2013"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "marxists.org/chinese/",
+                "end": 23,
+                "expanded_url": "http://marxists.org/chinese/",
+                "start": 0,
+                "url": "https://t.co/UnTrdQVDUJ"
+              }
+            ]
+          }
+        },
+        "id": "1616696567549034496",
+        "location": "佐賀県唐津市",
+        "name": "✧*♡𝓝𝓪𝓽𝓼𝓾𝓶𝓮𝓢𝓱𝓾𝓼𝓾𝓲♡*⊹🍀✒️🍬",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062447079079997440/khQWhWY5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 969,
+          "following_count": 1507,
+          "like_count": 52057,
+          "listed_count": 4,
+          "media_count": 289,
+          "tweet_count": 4176
+        },
+        "url": "https://t.co/UnTrdQVDUJ",
+        "username": "LovelyJerry2013",
+        "verified": false
+      }
+    ]
+  }
+}

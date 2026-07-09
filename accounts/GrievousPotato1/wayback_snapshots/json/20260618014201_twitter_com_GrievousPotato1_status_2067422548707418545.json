@@ -1,0 +1,256 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2055822314969665536",
+    "conversation_id": "2067285199105425520",
+    "created_at": "2026-06-18T01:42:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-18T02:42:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067422548707418545"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2055521229625262080",
+          "start": 0,
+          "username": "ynxxx_jjkk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067422548707418545",
+    "in_reply_to_user_id": "2055521229625262080",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067285199105425520",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ynxxx_jjkk 精卫笑话+1"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 366,
+        "media_key": "3_2067285192130367488",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLB47eZbEAAlWBC.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2055822314969665536",
+        "conversation_id": "2067285199105425520",
+        "created_at": "2026-06-18T01:42:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T02:42:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067422548707418545"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2055521229625262080",
+              "start": 0,
+              "username": "ynxxx_jjkk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067422548707418545",
+        "in_reply_to_user_id": "2055521229625262080",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067285199105425520",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ynxxx_jjkk 精卫笑话+1"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2067285192130367488"
+          ]
+        },
+        "author_id": "2055521229625262080",
+        "conversation_id": "2067285199105425520",
+        "created_at": "2026-06-17T16:36:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T17:36:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067285199105425520"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/M7zAhvmhSf",
+              "end": 40,
+              "expanded_url": "https://x.com/ynxxx_jjkk/status/2067285199105425520/photo/1",
+              "media_key": "3_2067285192130367488",
+              "start": 17,
+              "url": "https://t.co/M7zAhvmhSf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067285199105425520",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1164,
+          "like_count": 17,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "如果你有抑郁症的话，请告诉医生。 https://t.co/M7zAhvmhSf"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-17T01:27:33.000Z",
+        "description": "同类互fo，成分请查看@aeglepotato/点赞狂魔/备用@aeglepotato /🦋@aeglepotato /https://t.co/C8vIKrLtCN",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 11,
+                "username": "aeglepotato"
+              },
+              {
+                "end": 43,
+                "start": 31,
+                "username": "aeglepotato"
+              },
+              {
+                "end": 58,
+                "start": 46,
+                "username": "aeglepotato"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/aeglepotato",
+                "end": 83,
+                "expanded_url": "https://ngl.link/aeglepotato",
+                "start": 60,
+                "url": "https://t.co/C8vIKrLtCN"
+              }
+            ]
+          }
+        },
+        "id": "2055822314969665536",
+        "name": "🌈ALLice☃️赛博幽灵",
+        "pinned_tweet_id": "2064878659698102753",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055823521440301056/FmjUDDvC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 112,
+          "following_count": 174,
+          "like_count": 4680,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 305
+        },
+        "url": "",
+        "username": "GrievousPotato1",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-16T05:30:39.000Z",
+        "description": "我的随笔病历本。\n前两个号都被封了，这是我的3.0\n我还存在在@YNxxxjjkk",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 41,
+                "start": 31,
+                "username": "YNxxxjjkk"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xxxynyn",
+                "end": 23,
+                "expanded_url": "https://ngl.link/xxxynyn",
+                "start": 0,
+                "url": "https://t.co/R72PhVmJRy"
+              }
+            ]
+          }
+        },
+        "id": "2055521229625262080",
+        "name": "旖旎3.0",
+        "pinned_tweet_id": "2062970664160809111",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055521656643502080/L8pEAvzr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 323,
+          "following_count": 215,
+          "like_count": 808,
+          "listed_count": 0,
+          "media_count": 27,
+          "tweet_count": 231
+        },
+        "url": "https://t.co/R72PhVmJRy",
+        "username": "ynxxx_jjkk",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2055822314969665536",
+    "conversation_id": "2064370570213446097",
+    "created_at": "2026-06-09T15:34:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-09T16:34:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064370570213446097"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1677369315388174336",
+          "start": 3,
+          "username": "UR_Part_of_Me"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064370570213446097",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064185305482305804",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @UR_Part_of_Me: 了解一个人，其实就是慢慢收集他生活里的无数细小痕迹。\n他每天吃什么、看什么、听什么歌，喜欢在什么时间睡觉，遇到什么事会开心、因为什么而失落，闲下来会想些什么，会把钱花在哪里，会记住哪些人和哪些瞬间。…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2055822314969665536",
+        "conversation_id": "2064370570213446097",
+        "created_at": "2026-06-09T15:34:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T16:34:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064370570213446097"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1677369315388174336",
+              "start": 3,
+              "username": "UR_Part_of_Me"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064370570213446097",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064185305482305804",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @UR_Part_of_Me: 了解一个人，其实就是慢慢收集他生活里的无数细小痕迹。\n他每天吃什么、看什么、听什么歌，喜欢在什么时间睡觉，遇到什么事会开心、因为什么而失落，闲下来会想些什么，会把钱花在哪里，会记住哪些人和哪些瞬间。…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1677369315388174336",
+        "conversation_id": "2064185305482305804",
+        "created_at": "2026-06-09T03:18:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T04:18:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064185305482305804"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2064185305482305804",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "了解一个人，其实就是慢慢收集他生活里的无数细小痕迹。\n他每天吃什么、看什么、听什么歌，喜欢在什么时间睡觉，遇到什么事会开心、因为什么而失落，闲下来会想些什么，会把钱花在哪里，会记住哪些人和哪些瞬间。\n把这些看似零散的碎片拼在一起，你看到的不只是他的生活轨迹，更是他的兴趣、习惯、价值观、情感需求，以及他如何看待自己和这个世界。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 76,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "了解一个人，其实就是慢慢收集他生活里的无数细小痕迹。\n他每天吃什么、看什么、听什么歌，喜欢在什么时间睡觉，遇到什么事会开心、因为什么而失落，闲下来会想些什么，会把钱花在哪里，会记住哪些人和哪些瞬间。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-17T01:27:33.000Z",
+        "description": "同类回fo，至于是什么同类x不让我说/点赞狂魔，只互动不发推/查成分请翻回复or 去🦋 @aeglepotato / https://t.co/C8vIKrKVNf",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 56,
+                "start": 44,
+                "username": "aeglepotato"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/aeglepotato",
+                "end": 82,
+                "expanded_url": "https://ngl.link/aeglepotato",
+                "start": 59,
+                "url": "https://t.co/C8vIKrKVNf"
+              }
+            ]
+          }
+        },
+        "id": "2055822314969665536",
+        "name": "🌈ALLice☃️赛博幽灵",
+        "pinned_tweet_id": "2056519884301877431",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055823521440301056/FmjUDDvC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 50,
+          "following_count": 95,
+          "like_count": 2612,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 149
+        },
+        "username": "GrievousPotato1",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-07T17:29:58.000Z",
+        "description": "最爱听@soulboy_KFong",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 3,
+                "username": "soulboy_KFong"
+              }
+            ]
+          }
+        },
+        "id": "1677369315388174336",
+        "location": "不存在",
+        "name": "AAA人类观测员鱼蛋🍋",
+        "pinned_tweet_id": "2053357613640028211",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046082330608259072/trWy5rdj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 172,
+          "following_count": 131,
+          "like_count": 10997,
+          "listed_count": 2,
+          "media_count": 460,
+          "tweet_count": 3877
+        },
+        "username": "UR_Part_of_Me",
+        "verified": true
+      }
+    ]
+  }
+}

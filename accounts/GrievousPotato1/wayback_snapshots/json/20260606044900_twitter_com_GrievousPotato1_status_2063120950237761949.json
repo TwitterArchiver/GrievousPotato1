@@ -1,0 +1,306 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2055822314969665536",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "1129090662622588930",
+          "name": "Psychology"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1129090662622588930",
+          "name": "Psychology"
+        }
+      },
+      {
+        "domain": {
+          "description": "for all fields of study, e.g., futurology, microbiology ",
+          "id": "164",
+          "name": "Fields of study"
+        },
+        "entity": {
+          "id": "1129090662622588930",
+          "name": "Psychology"
+        }
+      }
+    ],
+    "conversation_id": "2063120950237761949",
+    "created_at": "2026-06-06T04:49:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-06T05:49:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063120950237761949"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1959609845335699456",
+          "start": 3,
+          "username": "ryufodasi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063120950237761949",
+    "lang": "pt",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 745
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062871968739647757",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ryufodasi: tira a vida sai mais barato doq ir no psicólogo"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2055822314969665536",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "1129090662622588930",
+              "name": "Psychology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1129090662622588930",
+              "name": "Psychology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for all fields of study, e.g., futurology, microbiology ",
+              "id": "164",
+              "name": "Fields of study"
+            },
+            "entity": {
+              "id": "1129090662622588930",
+              "name": "Psychology"
+            }
+          }
+        ],
+        "conversation_id": "2063120950237761949",
+        "created_at": "2026-06-06T04:49:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-06T05:49:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063120950237761949"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1959609845335699456",
+              "start": 3,
+              "username": "ryufodasi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063120950237761949",
+        "lang": "pt",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 745
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062871968739647757",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ryufodasi: tira a vida sai mais barato doq ir no psicólogo"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1959609845335699456",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "1129090662622588930",
+              "name": "Psychology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1129090662622588930",
+              "name": "Psychology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for all fields of study, e.g., futurology, microbiology ",
+              "id": "164",
+              "name": "Fields of study"
+            },
+            "entity": {
+              "id": "1129090662622588930",
+              "name": "Psychology"
+            }
+          }
+        ],
+        "conversation_id": "2062871968739647757",
+        "created_at": "2026-06-05T12:19:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-05T13:19:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062871968739647757"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2062871968739647757",
+        "lang": "pt",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 25,
+          "impression_count": 32734,
+          "like_count": 2221,
+          "quote_count": 25,
+          "reply_count": 15,
+          "retweet_count": 745
+        },
+        "reply_settings": "everyone",
+        "text": "tira a vida sai mais barato doq ir no psicólogo"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-17T01:27:33.000Z",
+        "description": "同类回fo，至于是什么同类x不让我说/点赞狂魔，只互动不发推/查成分请翻回复or 去bluesky🦋 @aeglepotato",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 63,
+                "start": 51,
+                "username": "aeglepotato"
+              }
+            ]
+          }
+        },
+        "id": "2055822314969665536",
+        "name": "🌈ALLice☃️赛博幽灵",
+        "pinned_tweet_id": "2056519884301877431",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055823521440301056/FmjUDDvC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 29,
+          "following_count": 62,
+          "like_count": 1570,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 90
+        },
+        "username": "GrievousPotato1",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-24T13:33:54.000Z",
+        "description": "filha do satosugo",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "open.spotify.com/user/31ekodacu…",
+                "end": 23,
+                "expanded_url": "https://open.spotify.com/user/31ekodacugc5ehvfe4r5b3krry5u?si=2rXL7eVtQayrclSDsCtDug",
+                "start": 0,
+                "url": "https://t.co/7mccFzhCxp"
+              }
+            ]
+          }
+        },
+        "id": "1959609845335699456",
+        "location": "casa do caralho",
+        "name": "bella",
+        "pinned_tweet_id": "2047721896972624288",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047453162055823360/LHqwqjoL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 253,
+          "following_count": 89,
+          "like_count": 6583,
+          "listed_count": 0,
+          "media_count": 33,
+          "tweet_count": 424
+        },
+        "url": "https://t.co/7mccFzhCxp",
+        "username": "ryufodasi",
+        "verified": false
+      }
+    ]
+  }
+}

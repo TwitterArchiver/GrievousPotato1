@@ -1,0 +1,200 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2055822314969665536",
+    "conversation_id": "2063913183580955111",
+    "created_at": "2026-06-08T09:17:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-08T10:17:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063913183580955111"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2014333215369277440",
+          "start": 3,
+          "username": "18sajangnim"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063913183580955111",
+    "lang": "ko",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 568
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063650039109673341",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @18sajangnim: 고문이라는 거 진짜 사랑해야만 할수있는 행위같음 대가리 날려서 한번에 죽여버릴 수 있는 거 굳이굳이 손발 뒤로 묶고 변기통 구경시켜주고 전기구이 체험도 시켜줬다가 어금니 쌩발치도 해보고 청테이프로 코입막은채로 브컨도 당…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2055822314969665536",
+        "conversation_id": "2063913183580955111",
+        "created_at": "2026-06-08T09:17:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T10:17:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063913183580955111"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2014333215369277440",
+              "start": 3,
+              "username": "18sajangnim"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063913183580955111",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 568
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063650039109673341",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @18sajangnim: 고문이라는 거 진짜 사랑해야만 할수있는 행위같음 대가리 날려서 한번에 죽여버릴 수 있는 거 굳이굳이 손발 뒤로 묶고 변기통 구경시켜주고 전기구이 체험도 시켜줬다가 어금니 쌩발치도 해보고 청테이프로 코입막은채로 브컨도 당…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2014333215369277440",
+        "conversation_id": "2063650039109673341",
+        "created_at": "2026-06-07T15:51:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T16:51:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063650039109673341"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2063650039109673341",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 343,
+          "impression_count": 141909,
+          "like_count": 1386,
+          "quote_count": 448,
+          "reply_count": 6,
+          "retweet_count": 568
+        },
+        "reply_settings": "everyone",
+        "text": "고문이라는 거 진짜 사랑해야만 할수있는 행위같음 대가리 날려서 한번에 죽여버릴 수 있는 거 굳이굳이 손발 뒤로 묶고 변기통 구경시켜주고 전기구이 체험도 시켜줬다가 어금니 쌩발치도 해보고 청테이프로 코입막은채로 브컨도 당해보고 칼빵도 좀 놔주고 이게 순애가 아니면 뭔데"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-17T01:27:33.000Z",
+        "description": "同类回fo，至于是什么同类x不让我说/点赞狂魔，只互动不发推/查成分请翻回复or 去🦋 @aeglepotato",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 56,
+                "start": 44,
+                "username": "aeglepotato"
+              }
+            ]
+          }
+        },
+        "id": "2055822314969665536",
+        "name": "🌈ALLice☃️赛博幽灵",
+        "pinned_tweet_id": "2056519884301877431",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055823521440301056/FmjUDDvC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 46,
+          "following_count": 82,
+          "like_count": 2212,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 122
+        },
+        "username": "GrievousPotato1",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-22T13:44:07.000Z",
+        "description": "구독계",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "spin-spin.com/sajang",
+                "end": 23,
+                "expanded_url": "https://spin-spin.com/sajang",
+                "start": 0,
+                "url": "https://t.co/M698oVHMjs"
+              }
+            ]
+          }
+        },
+        "id": "2014333215369277440",
+        "name": "사장",
+        "pinned_tweet_id": "2020655342879912437",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039560723064619008/jHjbSyMw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 417,
+          "following_count": 28,
+          "like_count": 2910,
+          "listed_count": 0,
+          "media_count": 61,
+          "tweet_count": 1853
+        },
+        "url": "https://t.co/M698oVHMjs",
+        "username": "18sajangnim",
+        "verified": false
+      }
+    ]
+  }
+}

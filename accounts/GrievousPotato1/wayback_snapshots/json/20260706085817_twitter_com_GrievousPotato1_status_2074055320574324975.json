@@ -1,0 +1,225 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2055822314969665536",
+    "conversation_id": "2074001651871138219",
+    "created_at": "2026-07-06T08:58:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-06T09:58:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074055320574324975"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1629877998148042757",
+          "start": 0,
+          "username": "99905230523aol"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074055320574324975",
+    "in_reply_to_user_id": "1629877998148042757",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074001651871138219",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@99905230523aol 应该是触发关键词引流到鉴证圈了，鉴证圈很多这种批量注册机器人"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2055822314969665536",
+        "conversation_id": "2074001651871138219",
+        "created_at": "2026-07-06T08:58:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-06T09:58:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074055320574324975"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1629877998148042757",
+              "start": 0,
+              "username": "99905230523aol"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074055320574324975",
+        "in_reply_to_user_id": "1629877998148042757",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074001651871138219",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@99905230523aol 应该是触发关键词引流到鉴证圈了，鉴证圈很多这种批量注册机器人"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1629877998148042757",
+        "conversation_id": "2074001651871138219",
+        "created_at": "2026-07-06T05:25:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-06T06:25:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074001651871138219"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/99905230523aol…",
+              "end": 78,
+              "expanded_url": "https://twitter.com/99905230523aol/status/2073319285896978845",
+              "start": 55,
+              "url": "https://t.co/ZFGGy1Yr9r"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074001651871138219",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 153,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073319285896978845",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我是不是被某个人“宣传”了，这么多刚注册的号开始瞎骂，随便一句话居然能招惹到这么多曲，1 不过这推也算半🔥了 https://t.co/ZFGGy1Yr9r"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-17T01:27:33.000Z",
+        "description": "同类互fo，成分请查看@aeglepotato/点赞狂魔/平时喜欢说怪话和发癫/备用@aeglepotato /🦋@aeglepotato /匿名提问箱https://t.co/C8vIKrLtCN",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 11,
+                "username": "aeglepotato"
+              },
+              {
+                "end": 54,
+                "start": 42,
+                "username": "aeglepotato"
+              },
+              {
+                "end": 69,
+                "start": 57,
+                "username": "aeglepotato"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/aeglepotato",
+                "end": 99,
+                "expanded_url": "https://ngl.link/aeglepotato",
+                "start": 76,
+                "url": "https://t.co/C8vIKrLtCN"
+              }
+            ]
+          }
+        },
+        "id": "2055822314969665536",
+        "name": "⛄ALLice🌈赛博幽灵",
+        "pinned_tweet_id": "2064878659698102753",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067517312576421888/aGH7Myxd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 222,
+          "following_count": 291,
+          "like_count": 9339,
+          "listed_count": 0,
+          "media_count": 20,
+          "tweet_count": 596
+        },
+        "url": "",
+        "username": "GrievousPotato1",
+        "verified": false
+      },
+      {
+        "created_at": "2023-02-26T16:16:23.000Z",
+        "description": "一个激进分子（背景图不是LGBT旗，只是想表示各类安）\n支持致幻剂合法化，大麻合法化\n/双性恋\n高功能孤独症谱系/支持神经多样性运动",
+        "id": "1629877998148042757",
+        "location": "激进主义分子",
+        "name": "无政府主义联盟",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061047941188743168/OTSCZ730_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 100,
+          "following_count": 70,
+          "like_count": 28,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 153
+        },
+        "url": "",
+        "username": "99905230523aol",
+        "verified": false
+      }
+    ]
+  }
+}

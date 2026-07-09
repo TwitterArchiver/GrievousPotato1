@@ -1,0 +1,123 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2055822314969665536",
+    "conversation_id": "2066132618811171054",
+    "created_at": "2026-06-14T12:16:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-14T13:16:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2066132618811171054"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2066132618811171054",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "其实我对宗教的亲和力挺高的，我有动力有空的时候就会去寺庙坐坐，能得到短暂的平静，而且感觉很舒服，但我信不起来\n有时候怀疑自己真的是一只幽灵，去寺庙是去吃香火的，所以在寺庙呆着才觉得舒服ww\n\n逛墓地也是，总之只要去到远离世俗的地方我就感觉很舒服"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2055822314969665536",
+        "conversation_id": "2066132618811171054",
+        "created_at": "2026-06-14T12:16:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T13:16:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066132618811171054"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2066132618811171054",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "其实我对宗教的亲和力挺高的，我有动力有空的时候就会去寺庙坐坐，能得到短暂的平静，而且感觉很舒服，但我信不起来\n有时候怀疑自己真的是一只幽灵，去寺庙是去吃香火的，所以在寺庙呆着才觉得舒服ww\n\n逛墓地也是，总之只要去到远离世俗的地方我就感觉很舒服"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-17T01:27:33.000Z",
+        "description": "同类互fo，成分请查看@aeglepotato/点赞狂魔/备用@aeglepotato /🦋@aeglepotato /https://t.co/C8vIKrLtCN",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 11,
+                "username": "aeglepotato"
+              },
+              {
+                "end": 43,
+                "start": 31,
+                "username": "aeglepotato"
+              },
+              {
+                "end": 58,
+                "start": 46,
+                "username": "aeglepotato"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/aeglepotato",
+                "end": 83,
+                "expanded_url": "https://ngl.link/aeglepotato",
+                "start": 60,
+                "url": "https://t.co/C8vIKrLtCN"
+              }
+            ]
+          }
+        },
+        "id": "2055822314969665536",
+        "name": "🌈ALLice☃️赛博幽灵",
+        "pinned_tweet_id": "2064878659698102753",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055823521440301056/FmjUDDvC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 75,
+          "following_count": 133,
+          "like_count": 3762,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 243
+        },
+        "username": "GrievousPotato1",
+        "verified": false
+      }
+    ]
+  }
+}

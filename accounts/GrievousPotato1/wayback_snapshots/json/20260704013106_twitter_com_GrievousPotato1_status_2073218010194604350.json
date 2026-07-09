@@ -1,0 +1,318 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2073045985358749696"
+      ],
+      "media_source_tweet_id": [
+        "2073046090555998405"
+      ]
+    },
+    "author_id": "2055822314969665536",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2073218010194604350",
+    "created_at": "2026-07-04T01:31:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-04T02:31:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073218010194604350"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1700948552078467072",
+          "start": 3,
+          "username": "Overdose_DBD"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/EbDgOsBDa7",
+          "end": 69,
+          "expanded_url": "https://x.com/Overdose_DBD/status/2073046090555998405/video/1",
+          "media_key": "13_2073045985358749696",
+          "start": 46,
+          "url": "https://t.co/EbDgOsBDa7"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073218010194604350",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 5
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073046090555998405",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Overdose_DBD: 【新高原】2026.07未管抑制剂利用优先级梯度排行表 https://t.co/EbDgOsBDa7"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 119721,
+        "height": 720,
+        "media_key": "13_2073045985358749696",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2073045985358749696/img/EuNDZr-a03JvvBih.jpg",
+        "public_metrics": {
+          "view_count": 817
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 288000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2073045985358749696/vid/avc1/480x270/Kzpiy_hIaoTmXkyu.mp4?tag=14"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2073045985358749696/vid/avc1/640x360/01m-_sHE9BmuyHcl.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2073045985358749696/vid/avc1/1280x720/HTya88ivdkCAHDl7.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2073045985358749696/pl/vTqZSipQ7Ij9_mEj.m3u8?tag=14&v=45e"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2073045985358749696"
+          ],
+          "media_source_tweet_id": [
+            "2073046090555998405"
+          ]
+        },
+        "author_id": "2055822314969665536",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2073218010194604350",
+        "created_at": "2026-07-04T01:31:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-04T02:31:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073218010194604350"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1700948552078467072",
+              "start": 3,
+              "username": "Overdose_DBD"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/EbDgOsBDa7",
+              "end": 69,
+              "expanded_url": "https://x.com/Overdose_DBD/status/2073046090555998405/video/1",
+              "media_key": "13_2073045985358749696",
+              "start": 46,
+              "url": "https://t.co/EbDgOsBDa7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073218010194604350",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073046090555998405",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Overdose_DBD: 【新高原】2026.07未管抑制剂利用优先级梯度排行表 https://t.co/EbDgOsBDa7"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2073045985358749696"
+          ]
+        },
+        "author_id": "1700948552078467072",
+        "conversation_id": "2073046090555998405",
+        "created_at": "2026-07-03T14:07:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-03T15:07:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2073046090555998405"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/EbDgOsBDa7",
+              "end": 51,
+              "expanded_url": "https://x.com/Overdose_DBD/status/2073046090555998405/video/1",
+              "media_key": "13_2073045985358749696",
+              "start": 28,
+              "url": "https://t.co/EbDgOsBDa7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073046090555998405",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 16,
+          "impression_count": 1891,
+          "like_count": 53,
+          "quote_count": 1,
+          "reply_count": 7,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "【新高原】2026.07未管抑制剂利用优先级梯度排行表 https://t.co/EbDgOsBDa7"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-17T01:27:33.000Z",
+        "description": "同类互fo，成分请查看@aeglepotato/点赞狂魔/平时喜欢说怪话和发癫/备用@aeglepotato /🦋@aeglepotato /匿名提问箱https://t.co/C8vIKrLtCN",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 11,
+                "username": "aeglepotato"
+              },
+              {
+                "end": 54,
+                "start": 42,
+                "username": "aeglepotato"
+              },
+              {
+                "end": 69,
+                "start": 57,
+                "username": "aeglepotato"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/aeglepotato",
+                "end": 99,
+                "expanded_url": "https://ngl.link/aeglepotato",
+                "start": 76,
+                "url": "https://t.co/C8vIKrLtCN"
+              }
+            ]
+          }
+        },
+        "id": "2055822314969665536",
+        "name": "⛄ALLice🌈赛博幽灵",
+        "pinned_tweet_id": "2064878659698102753",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067517312576421888/aGH7Myxd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 212,
+          "following_count": 283,
+          "like_count": 8969,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 572
+        },
+        "url": "",
+        "username": "GrievousPotato1",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-10T19:05:21.000Z",
+        "description": "右蓝染 可以叫我染",
+        "id": "1700948552078467072",
+        "name": "☨ Dextr' Blu' Dyein' ☨",
+        "pinned_tweet_id": "2068396126202667216",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068394962576973824/yLemHV3a_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4593,
+          "following_count": 73,
+          "like_count": 3,
+          "listed_count": 10,
+          "media_count": 746,
+          "tweet_count": 7332
+        },
+        "url": "",
+        "username": "Overdose_DBD",
+        "verified": false
+      }
+    ]
+  }
+}

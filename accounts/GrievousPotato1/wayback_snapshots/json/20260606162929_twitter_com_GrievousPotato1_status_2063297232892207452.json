@@ -1,0 +1,104 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2055822314969665536",
+    "conversation_id": "2063297232892207452",
+    "created_at": "2026-06-06T16:29:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-06T17:29:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2063297232892207452"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2063297232892207452",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我看墙内人对超天酱动画的评价，感觉很多人喜欢超天酱只是为了幻想自己的女友是糖糖然后撸管而已（直言不讳）\n知道阿p不是主角已经走了一大半，播到糖糖对着不可名状之物叫阿p又破防了一半，番是不看的梗是要玩的\n果然“人类都只是在对方身上看到对自己有利的自我而已”（超天酱原话）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2055822314969665536",
+        "conversation_id": "2063297232892207452",
+        "created_at": "2026-06-06T16:29:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-06T17:29:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063297232892207452"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2063297232892207452",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我看墙内人对超天酱动画的评价，感觉很多人喜欢超天酱只是为了幻想自己的女友是糖糖然后撸管而已（直言不讳）\n知道阿p不是主角已经走了一大半，播到糖糖对着不可名状之物叫阿p又破防了一半，番是不看的梗是要玩的\n果然“人类都只是在对方身上看到对自己有利的自我而已”（超天酱原话）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-17T01:27:33.000Z",
+        "description": "同类回fo，至于是什么同类x不让我说/点赞狂魔，只互动不发推/查成分请翻回复or 去bluesky🦋 @aeglepotato",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 63,
+                "start": 51,
+                "username": "aeglepotato"
+              }
+            ]
+          }
+        },
+        "id": "2055822314969665536",
+        "name": "🌈ALLice☃️赛博幽灵",
+        "pinned_tweet_id": "2056519884301877431",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055823521440301056/FmjUDDvC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 34,
+          "following_count": 68,
+          "like_count": 1739,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 97
+        },
+        "username": "GrievousPotato1",
+        "verified": false
+      }
+    ]
+  }
+}

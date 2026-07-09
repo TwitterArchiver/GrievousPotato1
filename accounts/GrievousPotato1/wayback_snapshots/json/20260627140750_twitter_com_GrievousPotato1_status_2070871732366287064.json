@@ -1,0 +1,171 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2055822314969665536",
+    "conversation_id": "2070871729799315663",
+    "created_at": "2026-06-27T14:07:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-27T15:07:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070871732366287064"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2070871732366287064",
+    "in_reply_to_user_id": "2055822314969665536",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070871729799315663",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "一生中只体验过2次这种广义上的好幻觉吧，剩下的都不怎么好……\n\n后来学会了苦中作乐，所以现在所有幻觉在我这都算好幻觉🤤👍"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2055822314969665536",
+        "conversation_id": "2070871729799315663",
+        "created_at": "2026-06-27T14:07:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-27T15:07:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070871732366287064"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2070871732366287064",
+        "in_reply_to_user_id": "2055822314969665536",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070871729799315663",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "一生中只体验过2次这种广义上的好幻觉吧，剩下的都不怎么好……\n\n后来学会了苦中作乐，所以现在所有幻觉在我这都算好幻觉🤤👍"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2055822314969665536",
+        "conversation_id": "2070871729799315663",
+        "created_at": "2026-06-27T14:07:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-27T15:07:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070871729799315663"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2070871729799315663",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我可以分享个我自己的好幻觉\n那天躺在床上准备睡觉，突然感觉自己的灵魂飞了起来，进入到一个漆黑又绚烂的异空间，四周非常寂静，我动弹不得，但不感到害怕，然后我的全身被温暖的黏糊物质包裹，感到全身发麻，是舒服的麻，过了3分钟左右灵魂开始下坠回到身体"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-17T01:27:33.000Z",
+        "description": "同类互fo，成分请查看@aeglepotato/点赞狂魔/备用@aeglepotato /🦋@aeglepotato /匿名提问箱https://t.co/C8vIKrKVNf",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 11,
+                "username": "aeglepotato"
+              },
+              {
+                "end": 43,
+                "start": 31,
+                "username": "aeglepotato"
+              },
+              {
+                "end": 58,
+                "start": 46,
+                "username": "aeglepotato"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/aeglepotato",
+                "end": 88,
+                "expanded_url": "https://ngl.link/aeglepotato",
+                "start": 65,
+                "url": "https://t.co/C8vIKrKVNf"
+              }
+            ]
+          }
+        },
+        "id": "2055822314969665536",
+        "name": "⛄ALLice🌈赛博幽灵",
+        "pinned_tweet_id": "2064878659698102753",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067517312576421888/aGH7Myxd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 150,
+          "following_count": 222,
+          "like_count": 6981,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 444
+        },
+        "url": "",
+        "username": "GrievousPotato1",
+        "verified": false
+      }
+    ]
+  }
+}

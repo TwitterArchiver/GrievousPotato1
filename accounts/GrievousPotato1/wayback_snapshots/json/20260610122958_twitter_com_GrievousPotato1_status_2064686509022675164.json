@@ -1,0 +1,324 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2055822314969665536",
+    "conversation_id": "2064686509022675164",
+    "created_at": "2026-06-10T12:29:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-10T13:29:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064686509022675164"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 135,
+          "start": 127,
+          "tag": "shedtwt"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 19,
+          "id": "2041906777072062464",
+          "start": 3,
+          "username": "uhmsuicidalvirg"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064686509022675164",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 25
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064504963712045360",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @uhmsuicidalvirg: sfx makeup \n⚠️ warning !!!\n\n🫘\nbeans,beans…ouch😭😭OOOOOOOH\n\n((only made one, but i w make more lately...))\n\n#shedtwt #sh…"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 6833,
+        "height": 706,
+        "media_key": "13_2064504904618561536",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2064504904618561536/img/fCK9L70F8bngrgGz.jpg",
+        "public_metrics": {
+          "view_count": 1194
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2064504904618561536/vid/avc1/488x270/i-fTJk2d5inb99pC.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2064504904618561536/vid/avc1/652x360/jIAD09Elk_A9ZEtQ.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2064504904618561536/vid/avc1/1280x706/k-OM5uh3NbExDPiQ.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2064504904618561536/pl/fGQeWjliGn5bCc_B.m3u8"
+          }
+        ],
+        "width": 1280
+      },
+      {
+        "height": 1200,
+        "media_key": "3_2064504903414820864",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKaYRX0XsAAXoyN.jpg",
+        "width": 1200
+      },
+      {
+        "height": 1824,
+        "media_key": "3_2064504903414808576",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKaYRX0XgAAtJdQ.jpg",
+        "width": 1316
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2055822314969665536",
+        "conversation_id": "2064686509022675164",
+        "created_at": "2026-06-10T12:29:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T13:29:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064686509022675164"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 135,
+              "start": 127,
+              "tag": "shedtwt"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 19,
+              "id": "2041906777072062464",
+              "start": 3,
+              "username": "uhmsuicidalvirg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064686509022675164",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 25
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064504963712045360",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @uhmsuicidalvirg: sfx makeup \n⚠️ warning !!!\n\n🫘\nbeans,beans…ouch😭😭OOOOOOOH\n\n((only made one, but i w make more lately...))\n\n#shedtwt #sh…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2064504904618561536",
+            "3_2064504903414820864",
+            "3_2064504903414808576"
+          ]
+        },
+        "author_id": "2041906777072062464",
+        "conversation_id": "2064504963712045360",
+        "created_at": "2026-06-10T00:28:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T01:28:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064504963712045360"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 114,
+              "start": 106,
+              "tag": "shedtwt"
+            },
+            {
+              "end": 121,
+              "start": 115,
+              "tag": "shtwt"
+            },
+            {
+              "end": 133,
+              "start": 122,
+              "tag": "suicidetwt"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/cwICFDo5tC",
+              "end": 157,
+              "expanded_url": "https://x.com/uhmsuicidalvirg/status/2064504963712045360/video/1",
+              "media_key": "13_2064504904618561536",
+              "start": 134,
+              "url": "https://t.co/cwICFDo5tC"
+            },
+            {
+              "display_url": "pic.x.com/cwICFDo5tC",
+              "end": 157,
+              "expanded_url": "https://x.com/uhmsuicidalvirg/status/2064504963712045360/video/1",
+              "media_key": "3_2064504903414820864",
+              "start": 134,
+              "url": "https://t.co/cwICFDo5tC"
+            },
+            {
+              "display_url": "pic.x.com/cwICFDo5tC",
+              "end": 157,
+              "expanded_url": "https://x.com/uhmsuicidalvirg/status/2064504963712045360/video/1",
+              "media_key": "3_2064504903414808576",
+              "start": 134,
+              "url": "https://t.co/cwICFDo5tC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064504963712045360",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 21,
+          "impression_count": 1870,
+          "like_count": 227,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 25
+        },
+        "reply_settings": "everyone",
+        "text": "sfx makeup \n⚠️ warning !!!\n\n🫘\nbeans,beans…ouch😭😭OOOOOOOH\n\n((only made one, but i w make more lately...))\n\n#shedtwt #shtwt #suicidetwt https://t.co/cwICFDo5tC"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-17T01:27:33.000Z",
+        "description": "同类回fo，至于是什么同类x不让我说/点赞狂魔，只互动不发推/查成分请翻回复or 去🦋 @aeglepotato / https://t.co/C8vIKrKVNf",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 56,
+                "start": 44,
+                "username": "aeglepotato"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/aeglepotato",
+                "end": 82,
+                "expanded_url": "https://ngl.link/aeglepotato",
+                "start": 59,
+                "url": "https://t.co/C8vIKrKVNf"
+              }
+            ]
+          }
+        },
+        "id": "2055822314969665536",
+        "name": "🌈ALLice☃️赛博幽灵",
+        "pinned_tweet_id": "2056519884301877431",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055823521440301056/FmjUDDvC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 55,
+          "following_count": 96,
+          "like_count": 2864,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 164
+        },
+        "username": "GrievousPotato1",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-08T15:52:02.000Z",
+        "description": "‼️shtwt … #shedtwt #suicidetwt \n\n.minor !!! // he/him . 🤍",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 18,
+                "start": 10,
+                "tag": "shedtwt"
+              },
+              {
+                "end": 30,
+                "start": 19,
+                "tag": "suicidetwt"
+              }
+            ]
+          }
+        },
+        "id": "2041906777072062464",
+        "name": "ℛ 𝘪𝘬𝘪 of 𝘀𝗵𝘁𝘄𝘁 !!",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056057361396006912/O48FNw3V_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 29,
+          "following_count": 69,
+          "like_count": 249,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 78
+        },
+        "username": "uhmsuicidalvirg",
+        "verified": false
+      }
+    ]
+  }
+}

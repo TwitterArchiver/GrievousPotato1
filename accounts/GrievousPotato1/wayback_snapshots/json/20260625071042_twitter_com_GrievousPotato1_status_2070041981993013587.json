@@ -1,0 +1,303 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2069803265781374976",
+        "3_2069803269216518144"
+      ],
+      "media_source_tweet_id": [
+        "2069803274559955072",
+        "2069803274559955072"
+      ]
+    },
+    "author_id": "2055822314969665536",
+    "conversation_id": "2070041981993013587",
+    "created_at": "2026-06-25T07:10:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-25T08:10:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070041981993013587"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "25950119",
+          "start": 3,
+          "username": "not_2b_or_2b"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/fWsmHrtpp7",
+          "end": 48,
+          "expanded_url": "https://x.com/not_2b_or_2b/status/2069803274559955072/photo/1",
+          "media_key": "3_2069803265781374976",
+          "start": 25,
+          "url": "https://t.co/fWsmHrtpp7"
+        },
+        {
+          "display_url": "pic.x.com/fWsmHrtpp7",
+          "end": 48,
+          "expanded_url": "https://x.com/not_2b_or_2b/status/2069803274559955072/photo/1",
+          "media_key": "3_2069803269216518144",
+          "start": 25,
+          "url": "https://t.co/fWsmHrtpp7"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070041981993013587",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 9
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069803274559955072",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @not_2b_or_2b: 这也太棒了吧 https://t.co/fWsmHrtpp7"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 908,
+        "media_key": "3_2069803265781374976",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLlrGpvXoAAZaWn.jpg",
+        "width": 1080
+      },
+      {
+        "height": 1605,
+        "media_key": "3_2069803269216518144",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLlrG2iXwAAD3ll.jpg",
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2069803265781374976",
+            "3_2069803269216518144"
+          ],
+          "media_source_tweet_id": [
+            "2069803274559955072",
+            "2069803274559955072"
+          ]
+        },
+        "author_id": "2055822314969665536",
+        "conversation_id": "2070041981993013587",
+        "created_at": "2026-06-25T07:10:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-25T08:10:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070041981993013587"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "25950119",
+              "start": 3,
+              "username": "not_2b_or_2b"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/fWsmHrtpp7",
+              "end": 48,
+              "expanded_url": "https://x.com/not_2b_or_2b/status/2069803274559955072/photo/1",
+              "media_key": "3_2069803265781374976",
+              "start": 25,
+              "url": "https://t.co/fWsmHrtpp7"
+            },
+            {
+              "display_url": "pic.x.com/fWsmHrtpp7",
+              "end": 48,
+              "expanded_url": "https://x.com/not_2b_or_2b/status/2069803274559955072/photo/1",
+              "media_key": "3_2069803269216518144",
+              "start": 25,
+              "url": "https://t.co/fWsmHrtpp7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070041981993013587",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 9
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069803274559955072",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @not_2b_or_2b: 这也太棒了吧 https://t.co/fWsmHrtpp7"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2069803265781374976",
+            "3_2069803269216518144"
+          ]
+        },
+        "author_id": "25950119",
+        "conversation_id": "2069803274559955072",
+        "created_at": "2026-06-24T15:22:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-24T16:22:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2069803274559955072"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/fWsmHrtpp7",
+              "end": 30,
+              "expanded_url": "https://x.com/not_2b_or_2b/status/2069803274559955072/photo/1",
+              "media_key": "3_2069803265781374976",
+              "start": 7,
+              "url": "https://t.co/fWsmHrtpp7"
+            },
+            {
+              "display_url": "pic.x.com/fWsmHrtpp7",
+              "end": 30,
+              "expanded_url": "https://x.com/not_2b_or_2b/status/2069803274559955072/photo/1",
+              "media_key": "3_2069803269216518144",
+              "start": 7,
+              "url": "https://t.co/fWsmHrtpp7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069803274559955072",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 27,
+          "impression_count": 19273,
+          "like_count": 271,
+          "quote_count": 0,
+          "reply_count": 23,
+          "retweet_count": 9
+        },
+        "reply_settings": "everyone",
+        "text": "这也太棒了吧 https://t.co/fWsmHrtpp7"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-17T01:27:33.000Z",
+        "description": "同类互fo，成分请查看@aeglepotato/点赞狂魔/备用@aeglepotato /🦋@aeglepotato /匿名提问箱https://t.co/C8vIKrLtCN",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 11,
+                "username": "aeglepotato"
+              },
+              {
+                "end": 43,
+                "start": 31,
+                "username": "aeglepotato"
+              },
+              {
+                "end": 58,
+                "start": 46,
+                "username": "aeglepotato"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/aeglepotato",
+                "end": 88,
+                "expanded_url": "https://ngl.link/aeglepotato",
+                "start": 65,
+                "url": "https://t.co/C8vIKrLtCN"
+              }
+            ]
+          }
+        },
+        "id": "2055822314969665536",
+        "name": "🌈ALLice☃️赛博幽灵",
+        "pinned_tweet_id": "2064878659698102753",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067517312576421888/aGH7Myxd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 140,
+          "following_count": 208,
+          "like_count": 6215,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 411
+        },
+        "url": "",
+        "username": "GrievousPotato1",
+        "verified": false
+      },
+      {
+        "created_at": "2009-03-23T04:08:06.000Z",
+        "description": "Less is more",
+        "id": "25950119",
+        "location": "Canada",
+        "name": "To be, or not to be",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/573708483322773504/C38RzJoL_normal.jpeg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 39343,
+          "following_count": 178,
+          "like_count": 186,
+          "listed_count": 237,
+          "media_count": 7607,
+          "tweet_count": 12663
+        },
+        "url": "",
+        "username": "not_2b_or_2b",
+        "verified": false
+      }
+    ]
+  }
+}

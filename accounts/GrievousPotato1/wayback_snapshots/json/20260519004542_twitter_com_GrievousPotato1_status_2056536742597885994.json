@@ -1,0 +1,93 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2055822314969665536",
+    "conversation_id": "2056536742597885994",
+    "created_at": "2026-05-19T00:45:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-19T01:45:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2056536742597885994"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2056536742597885994",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "哦对了还有一件事情，前几年在中推圈出现过一次高仿账号大量出没事件，他们会扒真人的头像和昵称，然后发麦片内容或者⛵\n所以最好记一下好友at后面的用户名是啥，不要光凭头像和昵称记人"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2055822314969665536",
+        "conversation_id": "2056536742597885994",
+        "created_at": "2026-05-19T00:45:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-19T01:45:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2056536742597885994"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2056536742597885994",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "哦对了还有一件事情，前几年在中推圈出现过一次高仿账号大量出没事件，他们会扒真人的头像和昵称，然后发麦片内容或者⛵\n所以最好记一下好友at后面的用户名是啥，不要光凭头像和昵称记人"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-17T01:27:33.000Z",
+        "description": "",
+        "id": "2055822314969665536",
+        "name": "🌈ALLice☃️剧烈复活",
+        "pinned_tweet_id": "2056519884301877431",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055823521440301056/FmjUDDvC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 3,
+          "like_count": 29,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 13
+        },
+        "username": "GrievousPotato1",
+        "verified": false
+      }
+    ]
+  }
+}

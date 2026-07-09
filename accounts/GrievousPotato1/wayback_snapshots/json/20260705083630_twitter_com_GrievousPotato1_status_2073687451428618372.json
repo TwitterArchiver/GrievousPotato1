@@ -1,0 +1,225 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2055822314969665536",
+    "conversation_id": "2073687451428618372",
+    "created_at": "2026-07-05T08:36:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-05T09:36:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2073687451428618372"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/efubiku/status…",
+          "end": 31,
+          "expanded_url": "https://twitter.com/efubiku/status/2073573027661623416",
+          "start": 8,
+          "url": "https://t.co/fu2SzqJFNf"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073687451428618372",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073573027661623416",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "严肃加入书签🤤 https://t.co/fu2SzqJFNf"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2055822314969665536",
+        "conversation_id": "2073687451428618372",
+        "created_at": "2026-07-05T08:36:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T09:36:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2073687451428618372"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/efubiku/status…",
+              "end": 31,
+              "expanded_url": "https://twitter.com/efubiku/status/2073573027661623416",
+              "start": 8,
+              "url": "https://t.co/fu2SzqJFNf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073687451428618372",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073573027661623416",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "严肃加入书签🤤 https://t.co/fu2SzqJFNf"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1759525317692297216",
+        "conversation_id": "2073543886400901327",
+        "created_at": "2026-07-05T01:01:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T02:01:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073573027661623416"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2054912328978817024",
+              "start": 0,
+              "username": "Nauseous_17"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073573027661623416",
+        "in_reply_to_user_id": "2054912328978817024",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 9,
+          "impression_count": 778,
+          "like_count": 14,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073543886400901327",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Nauseous_17 最简单合法玩幻觉的就是闭黑关，非常成熟且无数人验证了两千多年的方法，佛教的根源技艺。\n\n双盘坐姿麻痹下肢感官，暗室隔绝视觉感觉，木质香稳定嗅觉感官，耳塞隔绝听觉。\n\n正常情况下保持 3-5 小时脑内 DMT 一上来内幻就直接飞上天外天了，毫无操作门槛。\n\n睡眠剥夺这种危险行为还是少干。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-17T01:27:33.000Z",
+        "description": "同类互fo，成分请查看@aeglepotato/点赞狂魔/平时喜欢说怪话和发癫/备用@aeglepotato /🦋@aeglepotato /匿名提问箱https://t.co/C8vIKrLtCN",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 11,
+                "username": "aeglepotato"
+              },
+              {
+                "end": 54,
+                "start": 42,
+                "username": "aeglepotato"
+              },
+              {
+                "end": 69,
+                "start": 57,
+                "username": "aeglepotato"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/aeglepotato",
+                "end": 99,
+                "expanded_url": "https://ngl.link/aeglepotato",
+                "start": 76,
+                "url": "https://t.co/C8vIKrLtCN"
+              }
+            ]
+          }
+        },
+        "id": "2055822314969665536",
+        "name": "⛄ALLice🌈赛博幽灵",
+        "pinned_tweet_id": "2064878659698102753",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067517312576421888/aGH7Myxd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 221,
+          "following_count": 289,
+          "like_count": 9269,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 578
+        },
+        "url": "",
+        "username": "GrievousPotato1",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-19T10:29:14.000Z",
+        "description": "害羞幽靈v2. Husband with 2 cats. コイン&お札収集",
+        "id": "1759525317692297216",
+        "location": "Japan",
+        "name": "Fv.ik",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2002226544237010944/mUkAMzAD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1163,
+          "following_count": 170,
+          "like_count": 2160,
+          "listed_count": 9,
+          "media_count": 247,
+          "tweet_count": 1090
+        },
+        "url": "",
+        "username": "efubiku",
+        "verified": true
+      }
+    ]
+  }
+}

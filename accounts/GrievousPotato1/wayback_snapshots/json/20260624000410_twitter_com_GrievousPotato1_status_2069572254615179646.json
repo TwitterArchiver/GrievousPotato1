@@ -1,0 +1,239 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2055822314969665536",
+    "conversation_id": "2069572254615179646",
+    "created_at": "2026-06-24T00:04:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-24T01:04:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2069572254615179646"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2055521229625262080",
+          "start": 3,
+          "username": "ynxxx_jjkk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069572254615179646",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069428059221180487",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ynxxx_jjkk: 我的建议是就算你线下的认识的人好像会很关心你, 都要谨记把嘴闭上, 不要把自己的苦难全部倾诉给他们, 大概提一下自己是什么状态就好。 \n血淋淋的教训让我知道了我的不幸会不知道什么时候变成了八卦的材料, 同时健全人永远无法理解神经病以及世界上永远不…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2055822314969665536",
+        "conversation_id": "2069572254615179646",
+        "created_at": "2026-06-24T00:04:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-24T01:04:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069572254615179646"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2055521229625262080",
+              "start": 3,
+              "username": "ynxxx_jjkk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069572254615179646",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069428059221180487",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ynxxx_jjkk: 我的建议是就算你线下的认识的人好像会很关心你, 都要谨记把嘴闭上, 不要把自己的苦难全部倾诉给他们, 大概提一下自己是什么状态就好。 \n血淋淋的教训让我知道了我的不幸会不知道什么时候变成了八卦的材料, 同时健全人永远无法理解神经病以及世界上永远不…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2055521229625262080",
+        "conversation_id": "2069428059221180487",
+        "created_at": "2026-06-23T14:31:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-23T15:31:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2069428059221180487"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2069428059221180487",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 908,
+          "like_count": 45,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "我的建议是就算你线下的认识的人好像会很关心你, 都要谨记把嘴闭上, 不要把自己的苦难全部倾诉给他们, 大概提一下自己是什么状态就好。 \n血淋淋的教训让我知道了我的不幸会不知道什么时候变成了八卦的材料, 同时健全人永远无法理解神经病以及世界上永远不缺想看别人过得糟糕的人们."
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-17T01:27:33.000Z",
+        "description": "同类互fo，成分请查看@aeglepotato/点赞狂魔/备用@aeglepotato /🦋@aeglepotato /匿名提问箱https://t.co/C8vIKrLtCN",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 11,
+                "username": "aeglepotato"
+              },
+              {
+                "end": 43,
+                "start": 31,
+                "username": "aeglepotato"
+              },
+              {
+                "end": 58,
+                "start": 46,
+                "username": "aeglepotato"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/aeglepotato",
+                "end": 88,
+                "expanded_url": "https://ngl.link/aeglepotato",
+                "start": 65,
+                "url": "https://t.co/C8vIKrLtCN"
+              }
+            ]
+          }
+        },
+        "id": "2055822314969665536",
+        "name": "🌈ALLice☃️赛博幽灵",
+        "pinned_tweet_id": "2064878659698102753",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067517312576421888/aGH7Myxd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 131,
+          "following_count": 193,
+          "like_count": 5791,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 383
+        },
+        "url": "",
+        "username": "GrievousPotato1",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-16T05:30:39.000Z",
+        "description": "我的随笔病历本。\n一世@xxx_jjkk+二世@yn_xxxjkjk\n我还存在在@YNxxxjjkk",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 11,
+                "username": "xxx_jjkk"
+              },
+              {
+                "end": 34,
+                "start": 23,
+                "username": "yn_xxxjkjk"
+              },
+              {
+                "end": 50,
+                "start": 40,
+                "username": "YNxxxjjkk"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xxxynyn",
+                "end": 23,
+                "expanded_url": "https://ngl.link/xxxynyn",
+                "start": 0,
+                "url": "https://t.co/R72PhVmJRy"
+              }
+            ]
+          }
+        },
+        "id": "2055521229625262080",
+        "name": "旖旎3.0",
+        "pinned_tweet_id": "2062970664160809111",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055521656643502080/L8pEAvzr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 386,
+          "following_count": 270,
+          "like_count": 1435,
+          "listed_count": 0,
+          "media_count": 41,
+          "tweet_count": 354
+        },
+        "url": "https://t.co/R72PhVmJRy",
+        "username": "ynxxx_jjkk",
+        "verified": false
+      }
+    ]
+  }
+}

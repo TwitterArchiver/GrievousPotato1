@@ -1,0 +1,197 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2055822314969665536",
+    "conversation_id": "2063967377373728946",
+    "created_at": "2026-06-09T00:23:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-09T01:23:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064141351327842529"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1994724283176947712",
+          "start": 0,
+          "username": "lvovl3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064141351327842529",
+    "in_reply_to_user_id": "1994724283176947712",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063967377373728946",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "following",
+    "text": "@lvovl3 会被管制，散播负能量，会被健全人围剿🥹"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2055822314969665536",
+        "conversation_id": "2063967377373728946",
+        "created_at": "2026-06-09T00:23:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T01:23:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064141351327842529"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1994724283176947712",
+              "start": 0,
+              "username": "lvovl3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064141351327842529",
+        "in_reply_to_user_id": "1994724283176947712",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063967377373728946",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "@lvovl3 会被管制，散播负能量，会被健全人围剿🥹"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1994724283176947712",
+        "conversation_id": "2063967377373728946",
+        "created_at": "2026-06-08T12:52:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T13:52:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063967377373728946"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2063967377373728946",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 120,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "following",
+        "text": "为什么没人像研究被害一样研究自杀？\n\n我是说  \n世界上有那么那么多的悬疑和推理作\n研究自杀的书 论文 视频 音频 二创 \n我知道这样的作品不少\n但比起被害呢？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-17T01:27:33.000Z",
+        "description": "同类回fo，至于是什么同类x不让我说/点赞狂魔，只互动不发推/查成分请翻回复or 去🦋 @aeglepotato / https://t.co/C8vIKrKVNf",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 56,
+                "start": 44,
+                "username": "aeglepotato"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/aeglepotato",
+                "end": 82,
+                "expanded_url": "https://ngl.link/aeglepotato",
+                "start": 59,
+                "url": "https://t.co/C8vIKrKVNf"
+              }
+            ]
+          }
+        },
+        "id": "2055822314969665536",
+        "name": "🌈ALLice☃️赛博幽灵",
+        "pinned_tweet_id": "2056519884301877431",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055823521440301056/FmjUDDvC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 47,
+          "following_count": 86,
+          "like_count": 2318,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 131
+        },
+        "username": "GrievousPotato1",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-29T11:05:37.000Z",
+        "description": "22岁AUDHD 双相 精神分裂 ed 剧烈嗑药中！同类回fo\n嫡嫡道道餐券女/全世界最恨homework之人\n人生是被恐惧追赶着逃跑",
+        "id": "1994724283176947712",
+        "name": "只是想不存在",
+        "pinned_tweet_id": "2051808991211389330",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045457060691947520/5tmyTi7D_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 124,
+          "following_count": 363,
+          "like_count": 2767,
+          "listed_count": 0,
+          "media_count": 213,
+          "tweet_count": 2971
+        },
+        "username": "lvovl3",
+        "verified": false
+      }
+    ]
+  }
+}

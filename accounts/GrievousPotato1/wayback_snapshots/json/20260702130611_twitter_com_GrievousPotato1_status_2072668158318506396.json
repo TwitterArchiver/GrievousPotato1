@@ -1,0 +1,238 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2055822314969665536",
+    "conversation_id": "2072630993299591169",
+    "created_at": "2026-07-02T13:06:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-02T14:06:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2072668158318506396"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1829371164822769664",
+          "start": 0,
+          "username": "yiz1226"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072668158318506396",
+    "in_reply_to_user_id": "1829371164822769664",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2072655409559879928",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yiz1226 小焱，好吃🤤"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2055822314969665536",
+        "conversation_id": "2072630993299591169",
+        "created_at": "2026-07-02T13:06:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-02T14:06:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072668158318506396"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1829371164822769664",
+              "start": 0,
+              "username": "yiz1226"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072668158318506396",
+        "in_reply_to_user_id": "1829371164822769664",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072655409559879928",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yiz1226 小焱，好吃🤤"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1829371164822769664",
+        "conversation_id": "2072630993299591169",
+        "created_at": "2026-07-02T12:15:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-02T13:15:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072655409559879928"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2055822314969665536",
+              "start": 0,
+              "username": "GrievousPotato1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072655409559879928",
+        "in_reply_to_user_id": "2055822314969665536",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072630993299591169",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@GrievousPotato1 allice好吃🤤（"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-17T01:27:33.000Z",
+        "description": "同类互fo，成分请查看@aeglepotato/点赞狂魔/平时喜欢说怪话和发癫/备用@aeglepotato /🦋@aeglepotato /匿名提问箱https://t.co/C8vIKrLtCN",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 11,
+                "username": "aeglepotato"
+              },
+              {
+                "end": 54,
+                "start": 42,
+                "username": "aeglepotato"
+              },
+              {
+                "end": 69,
+                "start": 57,
+                "username": "aeglepotato"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/aeglepotato",
+                "end": 99,
+                "expanded_url": "https://ngl.link/aeglepotato",
+                "start": 76,
+                "url": "https://t.co/C8vIKrLtCN"
+              }
+            ]
+          }
+        },
+        "id": "2055822314969665536",
+        "name": "⛄ALLice🌈赛博幽灵",
+        "pinned_tweet_id": "2064878659698102753",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067517312576421888/aGH7Myxd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 201,
+          "following_count": 268,
+          "like_count": 8622,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 545
+        },
+        "url": "",
+        "username": "GrievousPotato1",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-30T04:11:05.000Z",
+        "description": "请随意和我互动 互fo来私信我！剧烈喜欢你们摸摸贴贴亲亲啃啃\n请吃掉我吧^_^",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/rafayel0306",
+                "end": 23,
+                "expanded_url": "http://ngl.link/rafayel0306",
+                "start": 0,
+                "url": "https://t.co/HNDBdwsWJr"
+              }
+            ]
+          }
+        },
+        "id": "1829371164822769664",
+        "location": "天国",
+        "name": "小焱",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059679424887595008/YPjdFu45_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 261,
+          "following_count": 349,
+          "like_count": 2512,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 160
+        },
+        "url": "https://t.co/HNDBdwsWJr",
+        "username": "yiz1226",
+        "verified": false
+      }
+    ]
+  }
+}

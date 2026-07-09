@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2055822314969665536",
+    "conversation_id": "2070786974122701180",
+    "created_at": "2026-07-02T00:52:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-02T01:52:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2072483471293821371"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1687931201397432320",
+          "start": 0,
+          "username": "legardanosopla"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072483471293821371",
+    "in_reply_to_user_id": "1687931201397432320",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070786974122701180",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@legardanosopla 爱"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2055822314969665536",
+        "conversation_id": "2070786974122701180",
+        "created_at": "2026-07-02T00:52:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-02T01:52:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072483471293821371"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1687931201397432320",
+              "start": 0,
+              "username": "legardanosopla"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072483471293821371",
+        "in_reply_to_user_id": "1687931201397432320",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070786974122701180",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@legardanosopla 爱"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1687931201397432320",
+        "conversation_id": "2070786974122701180",
+        "created_at": "2026-06-27T08:31:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-27T09:31:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2070786974122701180"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2070786974122701180",
+        "lang": "es",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1173,
+          "impression_count": 593020,
+          "like_count": 32563,
+          "quote_count": 309,
+          "reply_count": 140,
+          "retweet_count": 9661
+        },
+        "reply_settings": "everyone",
+        "text": "De que sustancia debo de abusar para sentirme vivo otra vez"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-17T01:27:33.000Z",
+        "description": "同类互fo，成分请查看@aeglepotato/点赞狂魔/平时喜欢说怪话和发癫/备用@aeglepotato /🦋@aeglepotato /匿名提问箱https://t.co/C8vIKrLtCN",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 11,
+                "username": "aeglepotato"
+              },
+              {
+                "end": 54,
+                "start": 42,
+                "username": "aeglepotato"
+              },
+              {
+                "end": 69,
+                "start": 57,
+                "username": "aeglepotato"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/aeglepotato",
+                "end": 99,
+                "expanded_url": "https://ngl.link/aeglepotato",
+                "start": 76,
+                "url": "https://t.co/C8vIKrLtCN"
+              }
+            ]
+          }
+        },
+        "id": "2055822314969665536",
+        "name": "⛄ALLice🌈赛博幽灵",
+        "pinned_tweet_id": "2064878659698102753",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067517312576421888/aGH7Myxd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 193,
+          "following_count": 265,
+          "like_count": 8476,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 529
+        },
+        "url": "",
+        "username": "GrievousPotato1",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-05T20:59:01.000Z",
+        "description": "@lincolngelable",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 0,
+                "username": "lincolngelable"
+              }
+            ]
+          }
+        },
+        "id": "1687931201397432320",
+        "name": "L",
+        "pinned_tweet_id": "2055118457587245476",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055117197622521856/sBFCLVZz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1704,
+          "following_count": 141,
+          "like_count": 128069,
+          "listed_count": 4,
+          "media_count": 3663,
+          "tweet_count": 36328
+        },
+        "url": "",
+        "username": "legardanosopla",
+        "verified": false
+      }
+    ]
+  }
+}

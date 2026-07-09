@@ -1,0 +1,372 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2065198803037093888",
+        "3_2065198803079077888"
+      ],
+      "media_source_tweet_id": [
+        "2065198808233873657",
+        "2065198808233873657"
+      ]
+    },
+    "author_id": "2055822314969665536",
+    "conversation_id": "2065223022085120130",
+    "created_at": "2026-06-12T00:01:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-12T01:01:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065223022085120130"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 36,
+          "start": 28,
+          "tag": "shedtwt"
+        },
+        {
+          "end": 45,
+          "start": 37,
+          "tag": "slittwt"
+        },
+        {
+          "end": 54,
+          "start": 46,
+          "tag": "cutting"
+        },
+        {
+          "end": 60,
+          "start": 55,
+          "tag": "shed"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 18,
+          "id": "2035730783210778625",
+          "start": 3,
+          "username": "maneater391012"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/LnS7Kivy5C",
+          "end": 113,
+          "expanded_url": "https://x.com/maneater391012/status/2065198808233873657/photo/1",
+          "media_key": "3_2065198803037093888",
+          "start": 90,
+          "url": "https://t.co/LnS7Kivy5C"
+        },
+        {
+          "display_url": "pic.x.com/LnS7Kivy5C",
+          "end": 113,
+          "expanded_url": "https://x.com/maneater391012/status/2065198808233873657/photo/1",
+          "media_key": "3_2065198803079077888",
+          "start": 90,
+          "url": "https://t.co/LnS7Kivy5C"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065223022085120130",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 87
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065198808233873657",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @maneater391012: ouchi 🥺 #shedtwt #slittwt #cutting #shed ALL FAKE!! MAKEUP SFX AND AI https://t.co/LnS7Kivy5C"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2065198803037093888",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKkPXpWWgAAc-wQ.jpg",
+        "width": 1152
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2065198803079077888",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKkPXpgXIAAchK1.jpg",
+        "width": 1152
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2065198803037093888",
+            "3_2065198803079077888"
+          ],
+          "media_source_tweet_id": [
+            "2065198808233873657",
+            "2065198808233873657"
+          ]
+        },
+        "author_id": "2055822314969665536",
+        "conversation_id": "2065223022085120130",
+        "created_at": "2026-06-12T00:01:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-12T01:01:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065223022085120130"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 36,
+              "start": 28,
+              "tag": "shedtwt"
+            },
+            {
+              "end": 45,
+              "start": 37,
+              "tag": "slittwt"
+            },
+            {
+              "end": 54,
+              "start": 46,
+              "tag": "cutting"
+            },
+            {
+              "end": 60,
+              "start": 55,
+              "tag": "shed"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 18,
+              "id": "2035730783210778625",
+              "start": 3,
+              "username": "maneater391012"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/LnS7Kivy5C",
+              "end": 113,
+              "expanded_url": "https://x.com/maneater391012/status/2065198808233873657/photo/1",
+              "media_key": "3_2065198803037093888",
+              "start": 90,
+              "url": "https://t.co/LnS7Kivy5C"
+            },
+            {
+              "display_url": "pic.x.com/LnS7Kivy5C",
+              "end": 113,
+              "expanded_url": "https://x.com/maneater391012/status/2065198808233873657/photo/1",
+              "media_key": "3_2065198803079077888",
+              "start": 90,
+              "url": "https://t.co/LnS7Kivy5C"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065223022085120130",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 87
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065198808233873657",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @maneater391012: ouchi 🥺 #shedtwt #slittwt #cutting #shed ALL FAKE!! MAKEUP SFX AND AI https://t.co/LnS7Kivy5C"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2065198803037093888",
+            "3_2065198803079077888"
+          ]
+        },
+        "author_id": "2035730783210778625",
+        "conversation_id": "2065198808233873657",
+        "created_at": "2026-06-11T22:25:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-11T23:25:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2065198808233873657"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 16,
+              "start": 8,
+              "tag": "shedtwt"
+            },
+            {
+              "end": 25,
+              "start": 17,
+              "tag": "slittwt"
+            },
+            {
+              "end": 34,
+              "start": 26,
+              "tag": "cutting"
+            },
+            {
+              "end": 40,
+              "start": 35,
+              "tag": "shed"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/LnS7Kivy5C",
+              "end": 93,
+              "expanded_url": "https://x.com/maneater391012/status/2065198808233873657/photo/1",
+              "media_key": "3_2065198803037093888",
+              "start": 70,
+              "url": "https://t.co/LnS7Kivy5C"
+            },
+            {
+              "display_url": "pic.x.com/LnS7Kivy5C",
+              "end": 93,
+              "expanded_url": "https://x.com/maneater391012/status/2065198808233873657/photo/1",
+              "media_key": "3_2065198803079077888",
+              "start": 70,
+              "url": "https://t.co/LnS7Kivy5C"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065198808233873657",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 42,
+          "impression_count": 2729,
+          "like_count": 729,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 87
+        },
+        "reply_settings": "everyone",
+        "text": "ouchi 🥺 #shedtwt #slittwt #cutting #shed ALL FAKE!! MAKEUP SFX AND AI https://t.co/LnS7Kivy5C"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-17T01:27:33.000Z",
+        "description": "同类回fo，至于是什么同类x不让我说/点赞狂魔/查成分请翻回复or 去🦋 @aeglepotato / https://t.co/C8vIKrLtCN",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 49,
+                "start": 37,
+                "username": "aeglepotato"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/aeglepotato",
+                "end": 75,
+                "expanded_url": "https://ngl.link/aeglepotato",
+                "start": 52,
+                "url": "https://t.co/C8vIKrLtCN"
+              }
+            ]
+          }
+        },
+        "id": "2055822314969665536",
+        "name": "🌈ALLice☃️赛博幽灵",
+        "pinned_tweet_id": "2064878659698102753",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055823521440301056/FmjUDDvC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 59,
+          "following_count": 106,
+          "like_count": 3095,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 182
+        },
+        "username": "GrievousPotato1",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-22T14:50:23.000Z",
+        "description": "𝜗𝜚 -13. BMI : 23.7  .ᐟ ʚɞ #shedtwt • #drugtwt 🍥// all SFX makeup 🩹",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 34,
+                "start": 26,
+                "tag": "shedtwt"
+              },
+              {
+                "end": 45,
+                "start": 37,
+                "tag": "drugtwt"
+              }
+            ]
+          }
+        },
+        "id": "2035730783210778625",
+        "name": "ᶻ 𝗓 𐰁 MAL ᶻ 𝗓 𐰁",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059140337700937729/DBL7pX1U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 473,
+          "following_count": 37,
+          "like_count": 3750,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 104
+        },
+        "username": "maneater391012",
+        "verified": false
+      }
+    ]
+  }
+}

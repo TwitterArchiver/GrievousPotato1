@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2055822314969665536",
+    "conversation_id": "2066923197555937381",
+    "created_at": "2026-06-16T16:37:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-16T17:37:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066923197555937381"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1815828707346636803",
+          "start": 3,
+          "username": "aeae_8194"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066923197555937381",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066716463675879541",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @aeae_8194: 我现在是彻底的反出生主义者了，生育完全就是造孽￼。通过give birth把陌生人拖入痛苦的深渊简直就是犯罪。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2055822314969665536",
+        "conversation_id": "2066923197555937381",
+        "created_at": "2026-06-16T16:37:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-16T17:37:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066923197555937381"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1815828707346636803",
+              "start": 3,
+              "username": "aeae_8194"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066923197555937381",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066716463675879541",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @aeae_8194: 我现在是彻底的反出生主义者了，生育完全就是造孽￼。通过give birth把陌生人拖入痛苦的深渊简直就是犯罪。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1815828707346636803",
+        "conversation_id": "2066716463675879541",
+        "created_at": "2026-06-16T02:56:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-16T03:56:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066716463675879541"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2066716463675879541",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 1757,
+          "like_count": 36,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "我现在是彻底的反出生主义者了，生育完全就是造孽￼。通过give birth把陌生人拖入痛苦的深渊简直就是犯罪。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-17T01:27:33.000Z",
+        "description": "同类互fo，成分请查看@aeglepotato/点赞狂魔/备用@aeglepotato /🦋@aeglepotato /https://t.co/C8vIKrLtCN",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 11,
+                "username": "aeglepotato"
+              },
+              {
+                "end": 43,
+                "start": 31,
+                "username": "aeglepotato"
+              },
+              {
+                "end": 58,
+                "start": 46,
+                "username": "aeglepotato"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/aeglepotato",
+                "end": 83,
+                "expanded_url": "https://ngl.link/aeglepotato",
+                "start": 60,
+                "url": "https://t.co/C8vIKrLtCN"
+              }
+            ]
+          }
+        },
+        "id": "2055822314969665536",
+        "name": "🌈ALLice☃️赛博幽灵",
+        "pinned_tweet_id": "2064878659698102753",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055823521440301056/FmjUDDvC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 99,
+          "following_count": 161,
+          "like_count": 4284,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 274
+        },
+        "username": "GrievousPotato1",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-23T19:18:06.000Z",
+        "description": "正版蟑螂童叟无欺",
+        "id": "1815828707346636803",
+        "location": "蟑螂屋",
+        "name": "闷声挣大钱",
+        "pinned_tweet_id": "2006010941565989238",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062934857639243781/gUF8aKjf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14143,
+          "following_count": 430,
+          "like_count": 3173,
+          "listed_count": 70,
+          "media_count": 882,
+          "tweet_count": 4899
+        },
+        "username": "aeae_8194",
+        "verified": false
+      }
+    ]
+  }
+}

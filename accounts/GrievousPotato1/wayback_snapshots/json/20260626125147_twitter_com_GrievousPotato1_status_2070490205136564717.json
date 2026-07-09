@@ -1,0 +1,385 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2070390325911465984",
+        "3_2070390344529911808"
+      ],
+      "media_source_tweet_id": [
+        "2070394126592315669",
+        "2070394126592315669"
+      ]
+    },
+    "author_id": "2055822314969665536",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2070490205136564717",
+    "created_at": "2026-06-26T12:51:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-26T13:51:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070490205136564717"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1545277694325116928",
+          "start": 3,
+          "username": "YongQuan"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/DubKUhWFCo",
+          "end": 51,
+          "expanded_url": "https://x.com/YongQuan/status/2070394126592315669/photo/1",
+          "media_key": "3_2070390325911465984",
+          "start": 28,
+          "url": "https://t.co/DubKUhWFCo"
+        },
+        {
+          "display_url": "pic.x.com/DubKUhWFCo",
+          "end": 51,
+          "expanded_url": "https://x.com/YongQuan/status/2070394126592315669/photo/1",
+          "media_key": "3_2070390344529911808",
+          "start": 28,
+          "url": "https://t.co/DubKUhWFCo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070490205136564717",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 88
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070394126592315669",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @YongQuan: X版蒙古上单\n我们怀念他( https://t.co/DubKUhWFCo"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1025,
+        "media_key": "3_2070390325911465984",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLuBCDJbsAAD8w6.jpg",
+        "width": 1206
+      },
+      {
+        "height": 891,
+        "media_key": "3_2070390344529911808",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLuBDIgaoAA6M31.jpg",
+        "width": 1206
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2070390325911465984",
+            "3_2070390344529911808"
+          ],
+          "media_source_tweet_id": [
+            "2070394126592315669",
+            "2070394126592315669"
+          ]
+        },
+        "author_id": "2055822314969665536",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2070490205136564717",
+        "created_at": "2026-06-26T12:51:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-26T13:51:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070490205136564717"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1545277694325116928",
+              "start": 3,
+              "username": "YongQuan"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/DubKUhWFCo",
+              "end": 51,
+              "expanded_url": "https://x.com/YongQuan/status/2070394126592315669/photo/1",
+              "media_key": "3_2070390325911465984",
+              "start": 28,
+              "url": "https://t.co/DubKUhWFCo"
+            },
+            {
+              "display_url": "pic.x.com/DubKUhWFCo",
+              "end": 51,
+              "expanded_url": "https://x.com/YongQuan/status/2070394126592315669/photo/1",
+              "media_key": "3_2070390344529911808",
+              "start": 28,
+              "url": "https://t.co/DubKUhWFCo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070490205136564717",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 88
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070394126592315669",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @YongQuan: X版蒙古上单\n我们怀念他( https://t.co/DubKUhWFCo"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2070390325911465984",
+            "3_2070390344529911808"
+          ]
+        },
+        "author_id": "1545277694325116928",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2070394126592315669",
+        "created_at": "2026-06-26T06:30:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-26T07:30:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2070394126592315669"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/DubKUhWFCo",
+              "end": 37,
+              "expanded_url": "https://x.com/YongQuan/status/2070394126592315669/photo/1",
+              "media_key": "3_2070390325911465984",
+              "start": 14,
+              "url": "https://t.co/DubKUhWFCo"
+            },
+            {
+              "display_url": "pic.x.com/DubKUhWFCo",
+              "end": 37,
+              "expanded_url": "https://x.com/YongQuan/status/2070394126592315669/photo/1",
+              "media_key": "3_2070390344529911808",
+              "start": 14,
+              "url": "https://t.co/DubKUhWFCo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070394126592315669",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 142,
+          "impression_count": 163943,
+          "like_count": 1686,
+          "quote_count": 15,
+          "reply_count": 110,
+          "retweet_count": 88
+        },
+        "reply_settings": "everyone",
+        "text": "X版蒙古上单\n我们怀念他( https://t.co/DubKUhWFCo"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-17T01:27:33.000Z",
+        "description": "同类互fo，成分请查看@aeglepotato/点赞狂魔/备用@aeglepotato /🦋@aeglepotato /匿名提问箱https://t.co/C8vIKrKVNf",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 11,
+                "username": "aeglepotato"
+              },
+              {
+                "end": 43,
+                "start": 31,
+                "username": "aeglepotato"
+              },
+              {
+                "end": 58,
+                "start": 46,
+                "username": "aeglepotato"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/aeglepotato",
+                "end": 88,
+                "expanded_url": "https://ngl.link/aeglepotato",
+                "start": 65,
+                "url": "https://t.co/C8vIKrKVNf"
+              }
+            ]
+          }
+        },
+        "id": "2055822314969665536",
+        "name": "⛄ALLice🌈赛博幽灵",
+        "pinned_tweet_id": "2064878659698102753",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067517312576421888/aGH7Myxd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 143,
+          "following_count": 214,
+          "like_count": 6673,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 425
+        },
+        "url": "",
+        "username": "GrievousPotato1",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-08T05:24:56.000Z",
+        "description": "日常在 @yqua_｜爱人 ❤️@XUEQIUxka\nEN/JP/CN｜Enby｜reHRT：2026.5.5\n梗图meme｜赛事评论员｜日常\n#小铨的月季花 #铨在天津卫",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 79,
+                "start": 72,
+                "tag": "小铨的月季花"
+              },
+              {
+                "end": 86,
+                "start": 80,
+                "tag": "铨在天津卫"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 10,
+                "start": 4,
+                "username": "yqua_"
+              },
+              {
+                "end": 26,
+                "start": 16,
+                "username": "XUEQIUxka"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/ryq59",
+                "end": 23,
+                "expanded_url": "http://linktr.ee/ryq59",
+                "start": 0,
+                "url": "https://t.co/LbGkYNpDZO"
+              }
+            ]
+          }
+        },
+        "id": "1545277694325116928",
+        "location": "天津",
+        "name": "铨铨起床🍥｜雪秋重度依赖",
+        "pinned_tweet_id": "2054146631860371564",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063651253125832704/cM7WOQVl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10841,
+          "following_count": 4650,
+          "like_count": 51326,
+          "listed_count": 34,
+          "media_count": 4598,
+          "tweet_count": 15055
+        },
+        "url": "https://t.co/LbGkYNpDZO",
+        "username": "YongQuan",
+        "verified": true
+      }
+    ]
+  }
+}

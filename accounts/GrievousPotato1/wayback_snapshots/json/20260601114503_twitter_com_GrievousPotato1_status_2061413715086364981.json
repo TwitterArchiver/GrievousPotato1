@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2055822314969665536",
+    "conversation_id": "2061413715086364981",
+    "created_at": "2026-06-01T11:45:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-01T12:45:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2061413715086364981"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Knnibal_val/st…",
+          "end": 34,
+          "expanded_url": "https://twitter.com/Knnibal_val/status/2061122654539493430",
+          "start": 11,
+          "url": "https://t.co/CRHulAvaXg"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061413715086364981",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061122654539493430",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "最后一个阶段好久了（ https://t.co/CRHulAvaXg"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2055822314969665536",
+        "conversation_id": "2061413715086364981",
+        "created_at": "2026-06-01T11:45:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-01T12:45:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2061413715086364981"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Knnibal_val/st…",
+              "end": 34,
+              "expanded_url": "https://twitter.com/Knnibal_val/status/2061122654539493430",
+              "start": 11,
+              "url": "https://t.co/CRHulAvaXg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061413715086364981",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061122654539493430",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "最后一个阶段好久了（ https://t.co/CRHulAvaXg"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2038281683636461570",
+        "conversation_id": "2061122654539493430",
+        "created_at": "2026-05-31T16:28:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-31T17:28:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2061122654539493430"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2061122654539493430",
+        "lang": "es",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 253,
+          "impression_count": 29770,
+          "like_count": 4408,
+          "quote_count": 33,
+          "reply_count": 20,
+          "retweet_count": 1404
+        },
+        "reply_settings": "everyone",
+        "text": "Etapas del sh:\n- Me corto porque me siento mal\n- Me corto para sentir algo \n - Ya no me genera nada \n- Dejo el sh por un tiempo \n- Recaigo\n- Se vuelve maña \n- Me re gusta cortarme\n- Me re calienta cortarme"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-17T01:27:33.000Z",
+        "description": "同类回fo，至于是什么同类x不让我说/点赞狂魔，只互动不发推/查成分请翻回复or 去bluesky🦋 @aeglepotato",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 63,
+                "start": 51,
+                "username": "aeglepotato"
+              }
+            ]
+          }
+        },
+        "id": "2055822314969665536",
+        "name": "🌈ALLice☃️剧烈复活",
+        "pinned_tweet_id": "2056519884301877431",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055823521440301056/FmjUDDvC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22,
+          "following_count": 53,
+          "like_count": 1166,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 62
+        },
+        "username": "GrievousPotato1",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-29T15:47:07.000Z",
+        "description": "♰•𝑆𝑖 𝑢𝑛 𝑑𝑖́𝑎 𝑡𝑒 𝑝𝑖𝑒𝑟𝑑𝑒𝑠 𝑏𝑢𝑠𝑘𝑡𝑒 𝑒𝑛 𝑙𝑜 𝑘𝑒 𝑚𝑎𝑠 𝑎𝑚𝑎𝑠 #shtwt #edtwt #drugtwt\nsecond account: @x_zmbie",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 55,
+                "start": 49,
+                "tag": "shtwt"
+              },
+              {
+                "end": 62,
+                "start": 56,
+                "tag": "edtwt"
+              },
+              {
+                "end": 71,
+                "start": 63,
+                "tag": "drugtwt"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 96,
+                "start": 88,
+                "username": "x_zmbie"
+              }
+            ]
+          }
+        },
+        "id": "2038281683636461570",
+        "location": "catboys city",
+        "name": "𝑧𝑚𝑏𝑖𝑒",
+        "pinned_tweet_id": "2061130322931032179",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038282875926171648/f2wQ0myg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 591,
+          "following_count": 79,
+          "like_count": 3453,
+          "listed_count": 0,
+          "media_count": 49,
+          "tweet_count": 455
+        },
+        "username": "Knnibal_val",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2055822314969665536",
+    "conversation_id": "2062707369092456853",
+    "created_at": "2026-06-05T01:25:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-05T02:25:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062707369092456853"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1852895432269234176",
+          "start": 3,
+          "username": "432Ifantrygroup"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062707369092456853",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062617726045339746",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @432Ifantrygroup: 对于难以接受/超乎认知的现象的愤怒或不平才是催生理性思考的源头。\n我一直认为，你看到一个事物时第一瞬间产生的那个情绪波动，那个直觉，才是宝贵的。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2055822314969665536",
+        "conversation_id": "2062707369092456853",
+        "created_at": "2026-06-05T01:25:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-05T02:25:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062707369092456853"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1852895432269234176",
+              "start": 3,
+              "username": "432Ifantrygroup"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062707369092456853",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062617726045339746",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @432Ifantrygroup: 对于难以接受/超乎认知的现象的愤怒或不平才是催生理性思考的源头。\n我一直认为，你看到一个事物时第一瞬间产生的那个情绪波动，那个直觉，才是宝贵的。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852895432269234176",
+        "conversation_id": "2062617726045339746",
+        "created_at": "2026-06-04T19:29:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-04T20:29:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062617726045339746"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/ying040507ying…",
+              "end": 96,
+              "expanded_url": "https://twitter.com/ying040507ying/status/2062422565017235759",
+              "start": 73,
+              "url": "https://t.co/w4CcxYf7nr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062617726045339746",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 334,
+          "like_count": 12,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062422565017235759",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "对于难以接受/超乎认知的现象的愤怒或不平才是催生理性思考的源头。\n我一直认为，你看到一个事物时第一瞬间产生的那个情绪波动，那个直觉，才是宝贵的。 https://t.co/w4CcxYf7nr"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-17T01:27:33.000Z",
+        "description": "同类回fo，至于是什么同类x不让我说/点赞狂魔，只互动不发推/查成分请翻回复or 去bluesky🦋 @aeglepotato",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 63,
+                "start": 51,
+                "username": "aeglepotato"
+              }
+            ]
+          }
+        },
+        "id": "2055822314969665536",
+        "name": "🌈ALLice☃️赛博幽灵",
+        "pinned_tweet_id": "2056519884301877431",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055823521440301056/FmjUDDvC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 26,
+          "following_count": 60,
+          "like_count": 1464,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 79
+        },
+        "username": "GrievousPotato1",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-03T02:08:20.000Z",
+        "description": "自由意志共产主义，未成年权利主义暨青少年解放，中国人，男。可以叫我东方或者东方白。\n会回关所有人，互关扩列友好😇\n匿名提问https://t.co/Z4sVuEWKLp",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/fightforspirit",
+                "end": 84,
+                "expanded_url": "https://ngl.link/fightforspirit",
+                "start": 61,
+                "url": "https://t.co/Z4sVuEWKLp"
+              }
+            ]
+          }
+        },
+        "id": "1852895432269234176",
+        "name": "432InfantryRegiment",
+        "pinned_tweet_id": "2062576495936381265",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900594696520691714/2Z7_CLpC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1557,
+          "following_count": 4052,
+          "like_count": 42398,
+          "listed_count": 4,
+          "media_count": 470,
+          "tweet_count": 11869
+        },
+        "username": "432Ifantrygroup",
+        "verified": false
+      }
+    ]
+  }
+}

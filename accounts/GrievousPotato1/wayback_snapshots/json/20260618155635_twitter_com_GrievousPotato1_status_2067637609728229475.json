@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2055822314969665536",
+    "conversation_id": "2067599697121075647",
+    "created_at": "2026-06-18T15:56:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-18T16:56:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067637609728229475"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2054912328978817024",
+          "start": 0,
+          "username": "jiuyouforwhite2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067637609728229475",
+    "in_reply_to_user_id": "2054912328978817024",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067599697121075647",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jiuyouforwhite2 又到了我最喜欢的trip报告时间🤤"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1500,
+        "media_key": "3_2067599694046605312",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLGW95VasAAQS0I.jpg",
+        "width": 1500
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2055822314969665536",
+        "conversation_id": "2067599697121075647",
+        "created_at": "2026-06-18T15:56:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T16:56:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067637609728229475"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2054912328978817024",
+              "start": 0,
+              "username": "jiuyouforwhite2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067637609728229475",
+        "in_reply_to_user_id": "2054912328978817024",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067599697121075647",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jiuyouforwhite2 又到了我最喜欢的trip报告时间🤤"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2067599694046605312"
+          ]
+        },
+        "author_id": "2054912328978817024",
+        "conversation_id": "2067599697121075647",
+        "created_at": "2026-06-18T13:25:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T14:25:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067599697121075647"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/HwcJ2X4DLf",
+              "end": 146,
+              "expanded_url": "https://x.com/jiuyouforwhite2/status/2067599697121075647/photo/1",
+              "media_key": "3_2067599694046605312",
+              "start": 123,
+              "url": "https://t.co/HwcJ2X4DLf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067599697121075647",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 1139,
+          "like_count": 26,
+          "quote_count": 2,
+          "reply_count": 29,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "Ket  测试(模拟给药 仅供娱乐科普)\n\n「以下纯个人虚构娱乐！！！仅供参考，严禁模仿，任何物质使用请咨询医师，支持科学减害 严格遵循X规则」\n\n(本帖只做测试科普 模拟盐酸艾司氯胺酮治疗进行后 患者的大致感受，不出售不推广也不存在任何卖家) https://t.co/HwcJ2X4DLf"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-17T01:27:33.000Z",
+        "description": "同类互fo，成分请查看@aeglepotato/点赞狂魔/备用@aeglepotato /🦋@aeglepotato /https://t.co/C8vIKrLtCN",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 11,
+                "username": "aeglepotato"
+              },
+              {
+                "end": 43,
+                "start": 31,
+                "username": "aeglepotato"
+              },
+              {
+                "end": 58,
+                "start": 46,
+                "username": "aeglepotato"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/aeglepotato",
+                "end": 83,
+                "expanded_url": "https://ngl.link/aeglepotato",
+                "start": 60,
+                "url": "https://t.co/C8vIKrLtCN"
+              }
+            ]
+          }
+        },
+        "id": "2055822314969665536",
+        "name": "🌈ALLice☃️赛博幽灵",
+        "pinned_tweet_id": "2064878659698102753",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067517312576421888/aGH7Myxd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 116,
+          "following_count": 178,
+          "like_count": 4890,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 320
+        },
+        "username": "GrievousPotato1",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-14T13:11:55.000Z",
+        "description": "And in yours you say,Your teeth are falling out.",
+        "id": "2054912328978817024",
+        "location": "Hopelessly free",
+        "name": "反胃的YozoOba",
+        "pinned_tweet_id": "2055265228334739510",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061736621465346048/7Ddy5_W7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 330,
+          "following_count": 79,
+          "like_count": 148,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 100
+        },
+        "username": "jiuyouforwhite2",
+        "verified": false
+      }
+    ]
+  }
+}

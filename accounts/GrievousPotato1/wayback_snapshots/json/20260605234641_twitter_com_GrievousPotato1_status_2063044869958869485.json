@@ -1,0 +1,156 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2055822314969665536",
+    "conversation_id": "2063044869958869485",
+    "created_at": "2026-06-05T23:46:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-06T00:46:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2063044869958869485"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "description": "【Clover】 Still Dancing (Music Video)Brenda is a charismatic tap d...",
+          "display_url": "youtu.be/AlYdp8P1s6c?si…",
+          "end": 31,
+          "expanded_url": "https://youtu.be/AlYdp8P1s6c?si=G9puP7M-cmL0GL0e",
+          "images": [
+            {
+              "height": 720,
+              "url": "https://pbs.twimg.com/news_img/2062832681688367105/8rQ5PEw-?format=jpg&name=orig",
+              "width": 1280
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/2062832681688367105/8rQ5PEw-?format=jpg&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 8,
+          "status": 200,
+          "title": "【Clover】 Still Dancing (Music Video)",
+          "unwound_url": "https://www.youtube.com/watch?si=G9puP7M-cmL0GL0e&v=AlYdp8P1s6c&feature=youtu.be",
+          "url": "https://t.co/tO2gJ34EXX"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063044869958869485",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "很喜欢的一首歌\nhttps://t.co/tO2gJ34EXX"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2055822314969665536",
+        "conversation_id": "2063044869958869485",
+        "created_at": "2026-06-05T23:46:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-06T00:46:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063044869958869485"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "【Clover】 Still Dancing (Music Video)Brenda is a charismatic tap d...",
+              "display_url": "youtu.be/AlYdp8P1s6c?si…",
+              "end": 31,
+              "expanded_url": "https://youtu.be/AlYdp8P1s6c?si=G9puP7M-cmL0GL0e",
+              "images": [
+                {
+                  "height": 720,
+                  "url": "https://pbs.twimg.com/news_img/2062832681688367105/8rQ5PEw-?format=jpg&name=orig",
+                  "width": 1280
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2062832681688367105/8rQ5PEw-?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 8,
+              "status": 200,
+              "title": "【Clover】 Still Dancing (Music Video)",
+              "unwound_url": "https://www.youtube.com/watch?si=G9puP7M-cmL0GL0e&v=AlYdp8P1s6c&feature=youtu.be",
+              "url": "https://t.co/tO2gJ34EXX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063044869958869485",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "很喜欢的一首歌\nhttps://t.co/tO2gJ34EXX"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-17T01:27:33.000Z",
+        "description": "同类回fo，至于是什么同类x不让我说/点赞狂魔，只互动不发推/查成分请翻回复or 去bluesky🦋 @aeglepotato",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 63,
+                "start": 51,
+                "username": "aeglepotato"
+              }
+            ]
+          }
+        },
+        "id": "2055822314969665536",
+        "name": "🌈ALLice☃️赛博幽灵",
+        "pinned_tweet_id": "2056519884301877431",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055823521440301056/FmjUDDvC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 29,
+          "following_count": 60,
+          "like_count": 1502,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 82
+        },
+        "username": "GrievousPotato1",
+        "verified": false
+      }
+    ]
+  }
+}

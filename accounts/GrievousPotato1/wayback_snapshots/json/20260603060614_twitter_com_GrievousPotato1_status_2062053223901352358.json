@@ -1,0 +1,186 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2055822314969665536",
+    "conversation_id": "2062053223901352358",
+    "created_at": "2026-06-03T06:06:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-03T07:06:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062053223901352358"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1985648276046315520",
+          "start": 3,
+          "username": "0o_170o"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062053223901352358",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061879816446705952",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @0o_170o: 目前三觀： 如果不能保證能死成請別自殺"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2055822314969665536",
+        "conversation_id": "2062053223901352358",
+        "created_at": "2026-06-03T06:06:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-03T07:06:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062053223901352358"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1985648276046315520",
+              "start": 3,
+              "username": "0o_170o"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062053223901352358",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061879816446705952",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @0o_170o: 目前三觀： 如果不能保證能死成請別自殺"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1985648276046315520",
+        "conversation_id": "2061879816446705952",
+        "created_at": "2026-06-02T18:37:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-02T19:37:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2061879816446705952"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2061879816446705952",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 96,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "目前三觀： 如果不能保證能死成請別自殺"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-17T01:27:33.000Z",
+        "description": "同类回fo，至于是什么同类x不让我说/点赞狂魔，只互动不发推/查成分请翻回复or 去bluesky🦋 @aeglepotato",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 63,
+                "start": 51,
+                "username": "aeglepotato"
+              }
+            ]
+          }
+        },
+        "id": "2055822314969665536",
+        "name": "🌈ALLice☃️剧烈复活",
+        "pinned_tweet_id": "2056519884301877431",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055823521440301056/FmjUDDvC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 24,
+          "following_count": 59,
+          "like_count": 1408,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 76
+        },
+        "username": "GrievousPotato1",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-04T10:00:24.000Z",
+        "description": "20↑ 雑多",
+        "id": "1985648276046315520",
+        "location": "吵死了",
+        "name": "四月一日★",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048648241718480896/WtDM7fXp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 145,
+          "following_count": 497,
+          "like_count": 5443,
+          "listed_count": 0,
+          "media_count": 129,
+          "tweet_count": 2512
+        },
+        "username": "0o_170o",
+        "verified": false
+      }
+    ]
+  }
+}

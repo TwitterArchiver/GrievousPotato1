@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2055822314969665536",
+    "conversation_id": "2063168168487461017",
+    "created_at": "2026-06-06T07:56:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-06T08:56:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063168168487461017"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1576083963713503232",
+          "start": 3,
+          "username": "WhitesugarC"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063168168487461017",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 6
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062873063826571720",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @WhitesugarC: 近期的海月水母事件，我是坚定反对 tyw 的。与其谈论人是否有结束自己生命的权利，不如先想想：我们是否构建了一个让人有足够理由想要活下去的社会？是否能让遭受痛苦的人不感到被遗弃，有机会重获生命的希望？盲目的「生命权至上」观念，恐怕只是受到佛教/…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2055822314969665536",
+        "conversation_id": "2063168168487461017",
+        "created_at": "2026-06-06T07:56:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-06T08:56:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063168168487461017"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1576083963713503232",
+              "start": 3,
+              "username": "WhitesugarC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063168168487461017",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 6
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062873063826571720",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @WhitesugarC: 近期的海月水母事件，我是坚定反对 tyw 的。与其谈论人是否有结束自己生命的权利，不如先想想：我们是否构建了一个让人有足够理由想要活下去的社会？是否能让遭受痛苦的人不感到被遗弃，有机会重获生命的希望？盲目的「生命权至上」观念，恐怕只是受到佛教/…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1576083963713503232",
+        "conversation_id": "2062873063826571720",
+        "created_at": "2026-06-05T12:23:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-05T13:23:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062873063826571720"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2062873063826571720",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 1045,
+          "like_count": 41,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "近期的海月水母事件，我是坚定反对 tyw 的。与其谈论人是否有结束自己生命的权利，不如先想想：我们是否构建了一个让人有足够理由想要活下去的社会？是否能让遭受痛苦的人不感到被遗弃，有机会重获生命的希望？盲目的「生命权至上」观念，恐怕只是受到佛教/亚伯拉罕宗教的潜移默化影响罢了。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-17T01:27:33.000Z",
+        "description": "同类回fo，至于是什么同类x不让我说/点赞狂魔，只互动不发推/查成分请翻回复or 去bluesky🦋 @aeglepotato",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 63,
+                "start": 51,
+                "username": "aeglepotato"
+              }
+            ]
+          }
+        },
+        "id": "2055822314969665536",
+        "name": "🌈ALLice☃️赛博幽灵",
+        "pinned_tweet_id": "2056519884301877431",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055823521440301056/FmjUDDvC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 29,
+          "following_count": 62,
+          "like_count": 1596,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 93
+        },
+        "username": "GrievousPotato1",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-01T05:37:59.000Z",
+        "description": "@Whatasiger 二阶段｜友男跨顺｜翻车概率为 0!｜「我们生来是为了燃烧的。我们是烟花。」｜🏳️‍🌈",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 11,
+                "start": 0,
+                "username": "Whatasiger"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "Whatasiger.XYZ",
+                "end": 23,
+                "expanded_url": "http://Whatasiger.XYZ",
+                "start": 0,
+                "url": "https://t.co/XdFzuqLNUB"
+              }
+            ]
+          }
+        },
+        "id": "1576083963713503232",
+        "name": "Whatasigers",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061855369761312768/lCV-grQ9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 39,
+          "following_count": 26,
+          "like_count": 85,
+          "listed_count": 2,
+          "media_count": 8,
+          "tweet_count": 59
+        },
+        "url": "https://t.co/XdFzuqLNUB",
+        "username": "WhitesugarC",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,124 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2055822314969665536",
+    "conversation_id": "2070438565201228267",
+    "created_at": "2026-06-26T09:26:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-26T10:26:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2070438565201228267"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2070438565201228267",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我的见证人格上线时，会觉得之所以国家管自杀/od，本质是把人的生命和意志当成国家资源，如果人民随随便便就能获得快乐/自主结束生命，那上位者就不能完全支配资源\n但见证人格下线时就觉得这样想有点魔怔\n\n所以道德和法律本质上是一种上位者对人民的sm玩法（胡话"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2055822314969665536",
+        "conversation_id": "2070438565201228267",
+        "created_at": "2026-06-26T09:26:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-26T10:26:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2070438565201228267"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2070438565201228267",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我的见证人格上线时，会觉得之所以国家管自杀/od，本质是把人的生命和意志当成国家资源，如果人民随随便便就能获得快乐/自主结束生命，那上位者就不能完全支配资源\n但见证人格下线时就觉得这样想有点魔怔\n\n所以道德和法律本质上是一种上位者对人民的sm玩法（胡话"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-17T01:27:33.000Z",
+        "description": "同类互fo，成分请查看@aeglepotato/点赞狂魔/备用@aeglepotato /🦋@aeglepotato /匿名提问箱https://t.co/C8vIKrKVNf",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 11,
+                "username": "aeglepotato"
+              },
+              {
+                "end": 43,
+                "start": 31,
+                "username": "aeglepotato"
+              },
+              {
+                "end": 58,
+                "start": 46,
+                "username": "aeglepotato"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/aeglepotato",
+                "end": 88,
+                "expanded_url": "https://ngl.link/aeglepotato",
+                "start": 65,
+                "url": "https://t.co/C8vIKrKVNf"
+              }
+            ]
+          }
+        },
+        "id": "2055822314969665536",
+        "name": "⛄ALLice🌈赛博幽灵",
+        "pinned_tweet_id": "2064878659698102753",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067517312576421888/aGH7Myxd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 141,
+          "following_count": 211,
+          "like_count": 6496,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 418
+        },
+        "url": "",
+        "username": "GrievousPotato1",
+        "verified": false
+      }
+    ]
+  }
+}

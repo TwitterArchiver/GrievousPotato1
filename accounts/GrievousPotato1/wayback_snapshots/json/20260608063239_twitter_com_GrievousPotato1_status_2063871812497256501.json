@@ -1,0 +1,268 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2063651247048298496"
+      ],
+      "media_source_tweet_id": [
+        "2063651251469066735"
+      ]
+    },
+    "author_id": "2055822314969665536",
+    "conversation_id": "2063871812497256501",
+    "created_at": "2026-06-08T06:32:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-08T07:32:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063871812497256501"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1889861257",
+          "start": 3,
+          "username": "__summer__sea__"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/uV4OjtLlyt",
+          "end": 86,
+          "expanded_url": "https://x.com/__summer__sea__/status/2063651251469066735/photo/1",
+          "media_key": "3_2063651247048298496",
+          "start": 63,
+          "url": "https://t.co/uV4OjtLlyt"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063871812497256501",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063651251469066735",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @__summer__sea__: 人就是一张皮包着血肉，美在哪里啊?愚痴的人才会迷恋美色，淫乱，玩的就是个烂肉而己. https://t.co/uV4OjtLlyt"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 624,
+        "media_key": "3_2063651247048298496",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKOP4CCbEAA2jWh.jpg",
+        "width": 700
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2063651247048298496"
+          ],
+          "media_source_tweet_id": [
+            "2063651251469066735"
+          ]
+        },
+        "author_id": "2055822314969665536",
+        "conversation_id": "2063871812497256501",
+        "created_at": "2026-06-08T06:32:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T07:32:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063871812497256501"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1889861257",
+              "start": 3,
+              "username": "__summer__sea__"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/uV4OjtLlyt",
+              "end": 86,
+              "expanded_url": "https://x.com/__summer__sea__/status/2063651251469066735/photo/1",
+              "media_key": "3_2063651247048298496",
+              "start": 63,
+              "url": "https://t.co/uV4OjtLlyt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063871812497256501",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063651251469066735",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @__summer__sea__: 人就是一张皮包着血肉，美在哪里啊?愚痴的人才会迷恋美色，淫乱，玩的就是个烂肉而己. https://t.co/uV4OjtLlyt"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2063651247048298496"
+          ]
+        },
+        "author_id": "1889861257",
+        "conversation_id": "2063651251469066735",
+        "created_at": "2026-06-07T15:56:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T16:56:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063651251469066735"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/uV4OjtLlyt",
+              "end": 65,
+              "expanded_url": "https://x.com/__summer__sea__/status/2063651251469066735/photo/1",
+              "media_key": "3_2063651247048298496",
+              "start": 42,
+              "url": "https://t.co/uV4OjtLlyt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063651251469066735",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 246,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "人就是一张皮包着血肉，美在哪里啊?愚痴的人才会迷恋美色，淫乱，玩的就是个烂肉而己. https://t.co/uV4OjtLlyt"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-17T01:27:33.000Z",
+        "description": "同类回fo，至于是什么同类x不让我说/点赞狂魔，只互动不发推/查成分请翻回复or 去🦋 @aeglepotato",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 56,
+                "start": 44,
+                "username": "aeglepotato"
+              }
+            ]
+          }
+        },
+        "id": "2055822314969665536",
+        "name": "🌈ALLice☃️赛博幽灵",
+        "pinned_tweet_id": "2056519884301877431",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055823521440301056/FmjUDDvC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 45,
+          "following_count": 80,
+          "like_count": 2183,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 121
+        },
+        "username": "GrievousPotato1",
+        "verified": false
+      },
+      {
+        "created_at": "2013-09-21T11:07:58.000Z",
+        "description": "神户盐｜16岁｜护理专业｜已扭转一年半｜情感淡漠｜家长不管党｜Q:3755457720｜对象:@sklmm_｜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 54,
+                "start": 47,
+                "username": "sklmm_"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/brentcruz106",
+                "end": 23,
+                "expanded_url": "https://t.me/brentcruz106",
+                "start": 0,
+                "url": "https://t.co/1e7qTaQHLq"
+              }
+            ]
+          }
+        },
+        "id": "1889861257",
+        "name": "盐🍥",
+        "pinned_tweet_id": "2063845585845989427",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061179467889074177/WoZoQ9BB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 761,
+          "following_count": 903,
+          "like_count": 8866,
+          "listed_count": 0,
+          "media_count": 154,
+          "tweet_count": 2770
+        },
+        "url": "https://t.co/1e7qTaQHLq",
+        "username": "__summer__sea__",
+        "verified": false
+      }
+    ]
+  }
+}

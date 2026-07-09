@@ -1,0 +1,187 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2055822314969665536",
+    "conversation_id": "2071465884187496846",
+    "created_at": "2026-06-29T05:30:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-29T06:30:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2071466392692363626"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2071466392692363626",
+    "in_reply_to_user_id": "2055822314969665536",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071465884187496846",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "但如果一个人能从这些标签中获得认同和快乐，并且没有影响到其他人的话我觉得也是件好事，但我本人是不会这样做的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2055822314969665536",
+        "conversation_id": "2071465884187496846",
+        "created_at": "2026-06-29T05:30:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-29T06:30:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071466392692363626"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2071466392692363626",
+        "in_reply_to_user_id": "2055822314969665536",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071465884187496846",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "但如果一个人能从这些标签中获得认同和快乐，并且没有影响到其他人的话我觉得也是件好事，但我本人是不会这样做的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2055822314969665536",
+        "conversation_id": "2071465884187496846",
+        "created_at": "2026-06-29T05:28:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-29T06:28:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071465884187496846"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/SalviaSWC/stat…",
+              "end": 166,
+              "expanded_url": "https://twitter.com/SalviaSWC/status/2071443086329213309",
+              "start": 143,
+              "url": "https://t.co/w1hA5Wg91a"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071465884187496846",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 16,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071443086329213309",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我很讨厌给某个标签硬加价值的做法，最经典的就是男生必须xxx，女生必须xxx，延伸到od就是od的人都xxx，我很讨厌这种行为\n人是复杂而多面的，每个人都是独一无二的个体，这些标签只是帮助我们快速认识一个人，或者作为自我探索的垫脚石，但将人简化成标签，或者活成标签的样子，就倒果为因了 https://t.co/w1hA5Wg91a"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-17T01:27:33.000Z",
+        "description": "同类互fo，成分请查看@aeglepotato/点赞狂魔/平时喜欢说怪话和发癫/备用@aeglepotato /🦋@aeglepotato /匿名提问箱https://t.co/C8vIKrLtCN",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 11,
+                "username": "aeglepotato"
+              },
+              {
+                "end": 54,
+                "start": 42,
+                "username": "aeglepotato"
+              },
+              {
+                "end": 69,
+                "start": 57,
+                "username": "aeglepotato"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/aeglepotato",
+                "end": 99,
+                "expanded_url": "https://ngl.link/aeglepotato",
+                "start": 76,
+                "url": "https://t.co/C8vIKrLtCN"
+              }
+            ]
+          }
+        },
+        "id": "2055822314969665536",
+        "name": "⛄ALLice🌈赛博幽灵",
+        "pinned_tweet_id": "2064878659698102753",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067517312576421888/aGH7Myxd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 172,
+          "following_count": 242,
+          "like_count": 7539,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 469
+        },
+        "url": "",
+        "username": "GrievousPotato1",
+        "verified": false
+      }
+    ]
+  }
+}

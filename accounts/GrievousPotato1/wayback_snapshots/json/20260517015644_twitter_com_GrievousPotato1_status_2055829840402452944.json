@@ -1,0 +1,130 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2055822314969665536",
+    "conversation_id": "2055829840402452944",
+    "created_at": "2026-05-17T01:56:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-17T02:56:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2055829840402452944"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1432723332760104960",
+          "start": 5,
+          "username": "AeglePotato"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055829840402452944",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我的四代目@aeglepotato 被影ban了，目前无法互动，但号还在，大家关注这个号或者那个号都行，我将用这个号来互动"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2055822314969665536",
+        "conversation_id": "2055829840402452944",
+        "created_at": "2026-05-17T01:56:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-17T02:56:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055829840402452944"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1432723332760104960",
+              "start": 5,
+              "username": "AeglePotato"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055829840402452944",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我的四代目@aeglepotato 被影ban了，目前无法互动，但号还在，大家关注这个号或者那个号都行，我将用这个号来互动"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-17T01:27:33.000Z",
+        "description": "",
+        "id": "2055822314969665536",
+        "name": "🌈ALLice☃️剧烈复活",
+        "pinned_tweet_id": "2055824887655121357",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055823521440301056/FmjUDDvC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 2,
+          "like_count": 0,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 6
+        },
+        "username": "GrievousPotato1",
+        "verified": false
+      },
+      {
+        "created_at": "2021-08-31T15:14:04.000Z",
+        "description": "=Allice，喜欢一切异常的人和事/猎奇&od&餐卷&精神疾病&退游人士&多意识可互fo/平时不说话，只会大量转发个人喜欢的画作/🦋同id\n\n-CHN/ENG/JPN/YUE",
+        "id": "1432723332760104960",
+        "name": "🌈ALLsnow☃️",
+        "pinned_tweet_id": "2048583168698020294",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1739373512945459200/xOaMKbog_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 15,
+          "following_count": 107,
+          "like_count": 14928,
+          "listed_count": 1,
+          "media_count": 18,
+          "tweet_count": 3435
+        },
+        "username": "AeglePotato",
+        "verified": false
+      }
+    ]
+  }
+}

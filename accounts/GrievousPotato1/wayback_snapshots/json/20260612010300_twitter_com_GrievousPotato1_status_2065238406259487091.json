@@ -1,0 +1,254 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2064918114853326848"
+      ],
+      "media_source_tweet_id": [
+        "2064918121451053110"
+      ]
+    },
+    "author_id": "2055822314969665536",
+    "conversation_id": "2065238406259487091",
+    "created_at": "2026-06-12T01:03:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-12T02:03:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065238406259487091"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "934764850655379456",
+          "start": 3,
+          "username": "meiguoxiong001"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/PbxfK6mtbh",
+          "end": 62,
+          "expanded_url": "https://x.com/meiguoxiong001/status/2064918121451053110/photo/1",
+          "media_key": "3_2064918114853326848",
+          "start": 39,
+          "url": "https://t.co/PbxfK6mtbh"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065238406259487091",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 22
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064918121451053110",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @meiguoxiong001: 希望世间不会有太多人对这段话有共鸣。 https://t.co/PbxfK6mtbh"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 399,
+        "media_key": "3_2064918114853326848",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKgQFcYaEAAwJwB.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2064918114853326848"
+          ],
+          "media_source_tweet_id": [
+            "2064918121451053110"
+          ]
+        },
+        "author_id": "2055822314969665536",
+        "conversation_id": "2065238406259487091",
+        "created_at": "2026-06-12T01:03:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-12T02:03:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065238406259487091"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "934764850655379456",
+              "start": 3,
+              "username": "meiguoxiong001"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/PbxfK6mtbh",
+              "end": 62,
+              "expanded_url": "https://x.com/meiguoxiong001/status/2064918121451053110/photo/1",
+              "media_key": "3_2064918114853326848",
+              "start": 39,
+              "url": "https://t.co/PbxfK6mtbh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065238406259487091",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 22
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064918121451053110",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @meiguoxiong001: 希望世间不会有太多人对这段话有共鸣。 https://t.co/PbxfK6mtbh"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2064918114853326848"
+          ]
+        },
+        "author_id": "934764850655379456",
+        "conversation_id": "2064918121451053110",
+        "created_at": "2026-06-11T03:50:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-11T04:50:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064918121451053110"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/PbxfK6mtbh",
+              "end": 42,
+              "expanded_url": "https://x.com/meiguoxiong001/status/2064918121451053110/photo/1",
+              "media_key": "3_2064918114853326848",
+              "start": 19,
+              "url": "https://t.co/PbxfK6mtbh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064918121451053110",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 36,
+          "impression_count": 4889,
+          "like_count": 120,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 22
+        },
+        "reply_settings": "everyone",
+        "text": "希望世间不会有太多人对这段话有共鸣。 https://t.co/PbxfK6mtbh"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-17T01:27:33.000Z",
+        "description": "同类回fo，至于是什么同类x不让我说/点赞狂魔/查成分请翻回复or 去🦋 @aeglepotato / https://t.co/C8vIKrLtCN",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 49,
+                "start": 37,
+                "username": "aeglepotato"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/aeglepotato",
+                "end": 75,
+                "expanded_url": "https://ngl.link/aeglepotato",
+                "start": 52,
+                "url": "https://t.co/C8vIKrLtCN"
+              }
+            ]
+          }
+        },
+        "id": "2055822314969665536",
+        "name": "🌈ALLice☃️赛博幽灵",
+        "pinned_tweet_id": "2064878659698102753",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055823521440301056/FmjUDDvC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 59,
+          "following_count": 107,
+          "like_count": 3146,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 183
+        },
+        "username": "GrievousPotato1",
+        "verified": false
+      },
+      {
+        "created_at": "2017-11-26T12:44:42.000Z",
+        "description": "生活无聊又无趣！",
+        "id": "934764850655379456",
+        "location": "Perth, Western Australia",
+        "name": "请叫我小老虎涂涂",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1780148791557185536/QBEM4tZe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8549,
+          "following_count": 66,
+          "like_count": 3667,
+          "listed_count": 129,
+          "media_count": 373,
+          "tweet_count": 1310
+        },
+        "username": "meiguoxiong001",
+        "verified": false
+      }
+    ]
+  }
+}

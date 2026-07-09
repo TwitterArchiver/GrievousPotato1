@@ -1,0 +1,285 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2055822314969665536",
+    "conversation_id": "2068139167511359905",
+    "created_at": "2026-06-20T01:09:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-20T02:09:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2068139167511359905"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/seyirnotlari/s…",
+          "end": 125,
+          "expanded_url": "https://twitter.com/seyirnotlari/status/2067907046985392502",
+          "start": 102,
+          "url": "https://t.co/1sSQNl59RJ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068139167511359905",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067907046985392502",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我会坚定地选1\n从图片来看，门口应该在图片的下方，2 3绝对不会选因为如果有人来了ta可能会直接坐在你的床上，绝对不能接受❌\n4也可以，但我喜欢工作的地方靠窗，这样发呆的时候可以看风景，所以1是最好的😋 https://t.co/1sSQNl59RJ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_2067901924632911872",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLKp2CAXYAAnzMl.jpg",
+        "width": 1584
+      },
+      {
+        "height": 1920,
+        "media_key": "3_2067902112688750592",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLKqA-kXwAAM5GV.jpg",
+        "width": 1579
+      },
+      {
+        "height": 1920,
+        "media_key": "3_2067902122977280000",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLKqBk5WQAAHuO5.jpg",
+        "width": 1584
+      },
+      {
+        "height": 1920,
+        "media_key": "3_2067902322613616640",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLKqNMmXAAASFUj.jpg",
+        "width": 1582
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2055822314969665536",
+        "conversation_id": "2068139167511359905",
+        "created_at": "2026-06-20T01:09:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-20T02:09:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068139167511359905"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/seyirnotlari/s…",
+              "end": 125,
+              "expanded_url": "https://twitter.com/seyirnotlari/status/2067907046985392502",
+              "start": 102,
+              "url": "https://t.co/1sSQNl59RJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068139167511359905",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067907046985392502",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我会坚定地选1\n从图片来看，门口应该在图片的下方，2 3绝对不会选因为如果有人来了ta可能会直接坐在你的床上，绝对不能接受❌\n4也可以，但我喜欢工作的地方靠窗，这样发呆的时候可以看风景，所以1是最好的😋 https://t.co/1sSQNl59RJ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2067901924632911872",
+            "3_2067902112688750592",
+            "3_2067902122977280000",
+            "3_2067902322613616640"
+          ]
+        },
+        "author_id": "1737275736501653504",
+        "conversation_id": "2067907046985392502",
+        "created_at": "2026-06-19T09:47:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T10:47:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067907046985392502"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/gtoUwa15oZ",
+              "end": 73,
+              "expanded_url": "https://x.com/seyirnotlari/status/2067907046985392502/photo/1",
+              "media_key": "3_2067901924632911872",
+              "start": 50,
+              "url": "https://t.co/gtoUwa15oZ"
+            },
+            {
+              "display_url": "pic.x.com/gtoUwa15oZ",
+              "end": 73,
+              "expanded_url": "https://x.com/seyirnotlari/status/2067907046985392502/photo/1",
+              "media_key": "3_2067902112688750592",
+              "start": 50,
+              "url": "https://t.co/gtoUwa15oZ"
+            },
+            {
+              "display_url": "pic.x.com/gtoUwa15oZ",
+              "end": 73,
+              "expanded_url": "https://x.com/seyirnotlari/status/2067907046985392502/photo/1",
+              "media_key": "3_2067902122977280000",
+              "start": 50,
+              "url": "https://t.co/gtoUwa15oZ"
+            },
+            {
+              "display_url": "pic.x.com/gtoUwa15oZ",
+              "end": 73,
+              "expanded_url": "https://x.com/seyirnotlari/status/2067907046985392502/photo/1",
+              "media_key": "3_2067902322613616640",
+              "start": 50,
+              "url": "https://t.co/gtoUwa15oZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067907046985392502",
+        "lang": "tr",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7286,
+          "impression_count": 5632219,
+          "like_count": 13970,
+          "quote_count": 2196,
+          "reply_count": 1908,
+          "retweet_count": 966
+        },
+        "reply_settings": "everyone",
+        "text": "Psikolojik test ⁉️\nHangi odayı tercih ederdiniz?? https://t.co/gtoUwa15oZ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-17T01:27:33.000Z",
+        "description": "同类互fo，成分请查看@aeglepotato/点赞狂魔/备用@aeglepotato /🦋@aeglepotato /匿名提问箱https://t.co/C8vIKrLtCN",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 11,
+                "username": "aeglepotato"
+              },
+              {
+                "end": 43,
+                "start": 31,
+                "username": "aeglepotato"
+              },
+              {
+                "end": 58,
+                "start": 46,
+                "username": "aeglepotato"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/aeglepotato",
+                "end": 88,
+                "expanded_url": "https://ngl.link/aeglepotato",
+                "start": 65,
+                "url": "https://t.co/C8vIKrLtCN"
+              }
+            ]
+          }
+        },
+        "id": "2055822314969665536",
+        "name": "🌈ALLice☃️赛博幽灵",
+        "pinned_tweet_id": "2064878659698102753",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067517312576421888/aGH7Myxd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 120,
+          "following_count": 182,
+          "like_count": 5215,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 336
+        },
+        "url": "",
+        "username": "GrievousPotato1",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-20T00:56:29.000Z",
+        "description": "Keyfime göre her şeyi paylaşıyorum..\nNe aklıma gelirse.",
+        "id": "1737275736501653504",
+        "location": "SYR 🎉",
+        "name": "Seyir.",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066949379265601536/JD0Kfuxz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5797,
+          "following_count": 3423,
+          "like_count": 3049,
+          "listed_count": 5,
+          "media_count": 231,
+          "tweet_count": 2242
+        },
+        "url": "",
+        "username": "seyirnotlari",
+        "verified": true
+      }
+    ]
+  }
+}

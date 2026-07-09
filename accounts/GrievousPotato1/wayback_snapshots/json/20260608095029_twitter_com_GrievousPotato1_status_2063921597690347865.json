@@ -1,0 +1,201 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2055822314969665536",
+    "conversation_id": "2063921597690347865",
+    "created_at": "2026-06-08T09:50:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-08T10:50:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063921597690347865"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1605093608910381056",
+          "start": 3,
+          "username": "suekageseikiyo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063921597690347865",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 4
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063634429889921226",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @suekageseikiyo: 想象一下你的对象死了，你的朋友被外魔蒙骗一起闯入你家中，你被封印神志后身体被炼成AI傀儡，再受外魔操控冒充过去的自己去骗旧友\n心理不扭曲的话是想不出这样的精神酷刑的，可惜今天它确确实实的发生了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2055822314969665536",
+        "conversation_id": "2063921597690347865",
+        "created_at": "2026-06-08T09:50:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T10:50:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063921597690347865"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1605093608910381056",
+              "start": 3,
+              "username": "suekageseikiyo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063921597690347865",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 4
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063634429889921226",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @suekageseikiyo: 想象一下你的对象死了，你的朋友被外魔蒙骗一起闯入你家中，你被封印神志后身体被炼成AI傀儡，再受外魔操控冒充过去的自己去骗旧友\n心理不扭曲的话是想不出这样的精神酷刑的，可惜今天它确确实实的发生了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1605093608910381056",
+        "conversation_id": "2063634429889921226",
+        "created_at": "2026-06-07T14:49:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T15:49:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063634429889921226"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/17nuun/status/…",
+              "end": 120,
+              "expanded_url": "https://twitter.com/17nuun/status/2063457816569082263",
+              "start": 97,
+              "url": "https://t.co/BgBvJOcIcK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063634429889921226",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 537,
+          "like_count": 23,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 4
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063457816569082263",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "想象一下你的对象死了，你的朋友被外魔蒙骗一起闯入你家中，你被封印神志后身体被炼成AI傀儡，再受外魔操控冒充过去的自己去骗旧友\n心理不扭曲的话是想不出这样的精神酷刑的，可惜今天它确确实实的发生了 https://t.co/BgBvJOcIcK"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-17T01:27:33.000Z",
+        "description": "同类回fo，至于是什么同类x不让我说/点赞狂魔，只互动不发推/查成分请翻回复or 去🦋 @aeglepotato",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 56,
+                "start": 44,
+                "username": "aeglepotato"
+              }
+            ]
+          }
+        },
+        "id": "2055822314969665536",
+        "name": "🌈ALLice☃️赛博幽灵",
+        "pinned_tweet_id": "2056519884301877431",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055823521440301056/FmjUDDvC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 46,
+          "following_count": 83,
+          "like_count": 2240,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 127
+        },
+        "username": "GrievousPotato1",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-20T06:51:57.000Z",
+        "description": "",
+        "id": "1605093608910381056",
+        "name": "末々🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2026309621338820609/hO5ufogg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 290,
+          "following_count": 590,
+          "like_count": 5534,
+          "listed_count": 2,
+          "media_count": 90,
+          "tweet_count": 638
+        },
+        "username": "suekageseikiyo",
+        "verified": true
+      }
+    ]
+  }
+}

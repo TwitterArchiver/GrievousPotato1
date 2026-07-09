@@ -1,0 +1,104 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2055822314969665536",
+    "conversation_id": "2063917078201930000",
+    "created_at": "2026-06-08T09:32:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-08T10:32:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2063917078201930000"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2063917078201930000",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "刚刚看到一个案子，讲的是一个精神分裂症去挖坟墓偷尸被抓了之后，没判死刑，但是被关精神病院，判决写的是6个月，6个月后的评估结果是得继续关，就这么6个月6个月的一直加，最后这个人死在了精神病院里\n\n所以大家千万不要犯罪被关精神病院啊，比死刑还可怕"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2055822314969665536",
+        "conversation_id": "2063917078201930000",
+        "created_at": "2026-06-08T09:32:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T10:32:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063917078201930000"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2063917078201930000",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "刚刚看到一个案子，讲的是一个精神分裂症去挖坟墓偷尸被抓了之后，没判死刑，但是被关精神病院，判决写的是6个月，6个月后的评估结果是得继续关，就这么6个月6个月的一直加，最后这个人死在了精神病院里\n\n所以大家千万不要犯罪被关精神病院啊，比死刑还可怕"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-17T01:27:33.000Z",
+        "description": "同类回fo，至于是什么同类x不让我说/点赞狂魔，只互动不发推/查成分请翻回复or 去🦋 @aeglepotato",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 56,
+                "start": 44,
+                "username": "aeglepotato"
+              }
+            ]
+          }
+        },
+        "id": "2055822314969665536",
+        "name": "🌈ALLice☃️赛博幽灵",
+        "pinned_tweet_id": "2056519884301877431",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055823521440301056/FmjUDDvC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 46,
+          "following_count": 82,
+          "like_count": 2225,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 125
+        },
+        "username": "GrievousPotato1",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,295 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2066086774775152640",
+        "3_2066086774779367424"
+      ],
+      "media_source_tweet_id": [
+        "2066086785512624442",
+        "2066086785512624442"
+      ]
+    },
+    "author_id": "2055822314969665536",
+    "conversation_id": "2066113513307677110",
+    "created_at": "2026-06-14T11:00:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-14T12:00:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066113513307677110"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1729409067213578240",
+          "start": 3,
+          "username": "ocypraeao"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/rIhKvvBSTA",
+          "end": 50,
+          "expanded_url": "https://x.com/ocypraeao/status/2066086785512624442/photo/1",
+          "media_key": "3_2066086774775152640",
+          "start": 27,
+          "url": "https://t.co/rIhKvvBSTA"
+        },
+        {
+          "display_url": "pic.x.com/rIhKvvBSTA",
+          "end": 50,
+          "expanded_url": "https://x.com/ocypraeao/status/2066086785512624442/photo/1",
+          "media_key": "3_2066086774779367424",
+          "start": 27,
+          "url": "https://t.co/rIhKvvBSTA"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066113513307677110",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066086785512624442",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ocypraeao: 到底誰能看懂我在說什麼 https://t.co/rIhKvvBSTA"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 328,
+        "media_key": "3_2066086774775152640",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKw2-Z2bAAASbmm.jpg",
+        "width": 1206
+      },
+      {
+        "height": 738,
+        "media_key": "3_2066086774779367424",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKw2-Z3bUAAggjZ.jpg",
+        "width": 1205
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2066086774775152640",
+            "3_2066086774779367424"
+          ],
+          "media_source_tweet_id": [
+            "2066086785512624442",
+            "2066086785512624442"
+          ]
+        },
+        "author_id": "2055822314969665536",
+        "conversation_id": "2066113513307677110",
+        "created_at": "2026-06-14T11:00:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T12:00:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066113513307677110"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1729409067213578240",
+              "start": 3,
+              "username": "ocypraeao"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/rIhKvvBSTA",
+              "end": 50,
+              "expanded_url": "https://x.com/ocypraeao/status/2066086785512624442/photo/1",
+              "media_key": "3_2066086774775152640",
+              "start": 27,
+              "url": "https://t.co/rIhKvvBSTA"
+            },
+            {
+              "display_url": "pic.x.com/rIhKvvBSTA",
+              "end": 50,
+              "expanded_url": "https://x.com/ocypraeao/status/2066086785512624442/photo/1",
+              "media_key": "3_2066086774779367424",
+              "start": 27,
+              "url": "https://t.co/rIhKvvBSTA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066113513307677110",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066086785512624442",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ocypraeao: 到底誰能看懂我在說什麼 https://t.co/rIhKvvBSTA"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2066086774775152640",
+            "3_2066086774779367424"
+          ]
+        },
+        "author_id": "1729409067213578240",
+        "conversation_id": "2066086785512624442",
+        "created_at": "2026-06-14T09:14:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T10:14:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066086785512624442"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/rIhKvvBSTA",
+              "end": 35,
+              "expanded_url": "https://x.com/ocypraeao/status/2066086785512624442/photo/1",
+              "media_key": "3_2066086774775152640",
+              "start": 12,
+              "url": "https://t.co/rIhKvvBSTA"
+            },
+            {
+              "display_url": "pic.x.com/rIhKvvBSTA",
+              "end": 35,
+              "expanded_url": "https://x.com/ocypraeao/status/2066086785512624442/photo/1",
+              "media_key": "3_2066086774779367424",
+              "start": 12,
+              "url": "https://t.co/rIhKvvBSTA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066086785512624442",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 46,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "到底誰能看懂我在說什麼 https://t.co/rIhKvvBSTA"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-17T01:27:33.000Z",
+        "description": "同类回fo，至于是什么同类x不让我说/点赞狂魔/备用@aeglepotato /🦋@aeglepotato /https://t.co/C8vIKrLtCN",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 38,
+                "start": 26,
+                "username": "aeglepotato"
+              },
+              {
+                "end": 53,
+                "start": 41,
+                "username": "aeglepotato"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/aeglepotato",
+                "end": 78,
+                "expanded_url": "https://ngl.link/aeglepotato",
+                "start": 55,
+                "url": "https://t.co/C8vIKrLtCN"
+              }
+            ]
+          }
+        },
+        "id": "2055822314969665536",
+        "name": "🌈ALLice☃️赛博幽灵",
+        "pinned_tweet_id": "2064878659698102753",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055823521440301056/FmjUDDvC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 73,
+          "following_count": 128,
+          "like_count": 3707,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 240
+        },
+        "username": "GrievousPotato1",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-28T07:57:15.000Z",
+        "description": "只是想要成為鼠",
+        "id": "1729409067213578240",
+        "name": "Oo",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058569845499957248/88qPMVL4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25,
+          "following_count": 158,
+          "like_count": 335,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 90
+        },
+        "username": "ocypraeao",
+        "verified": false
+      }
+    ]
+  }
+}

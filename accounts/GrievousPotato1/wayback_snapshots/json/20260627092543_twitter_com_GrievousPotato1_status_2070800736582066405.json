@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2055822314969665536",
+    "conversation_id": "2070800736582066405",
+    "created_at": "2026-06-27T09:25:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-27T10:25:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070800736582066405"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1287313244693000193",
+          "start": 3,
+          "username": "dsknzb"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070800736582066405",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070792209268449380",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @dsknzb: 不理解看不起自己努力赚钱的人，服务业也好工厂也好销售文员什么的都好，靠自己合法赚来的虽然苦哈哈的但也不能因为世俗规定的没面子而被嘲笑，嘲笑努力的人的人本来就是更应该被嘲笑的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2055822314969665536",
+        "conversation_id": "2070800736582066405",
+        "created_at": "2026-06-27T09:25:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-27T10:25:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070800736582066405"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1287313244693000193",
+              "start": 3,
+              "username": "dsknzb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070800736582066405",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070792209268449380",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @dsknzb: 不理解看不起自己努力赚钱的人，服务业也好工厂也好销售文员什么的都好，靠自己合法赚来的虽然苦哈哈的但也不能因为世俗规定的没面子而被嘲笑，嘲笑努力的人的人本来就是更应该被嘲笑的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1287313244693000193",
+        "conversation_id": "2070792209268449380",
+        "created_at": "2026-06-27T08:51:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-27T09:51:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2070792209268449380"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2070792209268449380",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 18,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "不理解看不起自己努力赚钱的人，服务业也好工厂也好销售文员什么的都好，靠自己合法赚来的虽然苦哈哈的但也不能因为世俗规定的没面子而被嘲笑，嘲笑努力的人的人本来就是更应该被嘲笑的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-17T01:27:33.000Z",
+        "description": "同类互fo，成分请查看@aeglepotato/点赞狂魔/备用@aeglepotato /🦋@aeglepotato /匿名提问箱https://t.co/C8vIKrKVNf",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 11,
+                "username": "aeglepotato"
+              },
+              {
+                "end": 43,
+                "start": 31,
+                "username": "aeglepotato"
+              },
+              {
+                "end": 58,
+                "start": 46,
+                "username": "aeglepotato"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/aeglepotato",
+                "end": 88,
+                "expanded_url": "https://ngl.link/aeglepotato",
+                "start": 65,
+                "url": "https://t.co/C8vIKrKVNf"
+              }
+            ]
+          }
+        },
+        "id": "2055822314969665536",
+        "name": "⛄ALLice🌈赛博幽灵",
+        "pinned_tweet_id": "2064878659698102753",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067517312576421888/aGH7Myxd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 147,
+          "following_count": 222,
+          "like_count": 6909,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 432
+        },
+        "url": "",
+        "username": "GrievousPotato1",
+        "verified": false
+      },
+      {
+        "created_at": "2020-07-26T09:06:18.000Z",
+        "description": "病み裏垢🚫  \nhttps://t.co/UQQWQB3ylm",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ting67955",
+                "end": 31,
+                "expanded_url": "https://ngl.link/ting67955",
+                "start": 8,
+                "url": "https://t.co/UQQWQB3ylm"
+              }
+            ]
+          }
+        },
+        "id": "1287313244693000193",
+        "location": "宇宙空間🚪520",
+        "name": "南极磷虾",
+        "pinned_tweet_id": "2025259813027090925",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1760030336019468289/-6yrVg5q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 192,
+          "following_count": 2273,
+          "like_count": 18384,
+          "listed_count": 2,
+          "media_count": 448,
+          "tweet_count": 13655
+        },
+        "url": "",
+        "username": "dsknzb",
+        "verified": false
+      }
+    ]
+  }
+}

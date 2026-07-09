@@ -1,0 +1,251 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2055822314969665536",
+    "conversation_id": "2071908358173663636",
+    "created_at": "2026-07-01T00:29:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-01T01:29:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2072115316188987686"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1809233055196073984",
+          "start": 0,
+          "username": "Jy666992"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072115316188987686",
+    "in_reply_to_user_id": "1809233055196073984",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071908358173663636",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Jy666992 着装要求这么严格，可怕😨"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1985,
+        "media_key": "3_2071908346853011456",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMDlqf1XMAAWoz3.jpg",
+        "width": 885
+      },
+      {
+        "height": 2008,
+        "media_key": "3_2071908346819379200",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMDlqftWAAA1crv.jpg",
+        "width": 883
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2055822314969665536",
+        "conversation_id": "2071908358173663636",
+        "created_at": "2026-07-01T00:29:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-01T01:29:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072115316188987686"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1809233055196073984",
+              "start": 0,
+              "username": "Jy666992"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072115316188987686",
+        "in_reply_to_user_id": "1809233055196073984",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071908358173663636",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Jy666992 着装要求这么严格，可怕😨"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2071908346853011456",
+            "3_2071908346819379200"
+          ]
+        },
+        "author_id": "1809233055196073984",
+        "conversation_id": "2071908358173663636",
+        "created_at": "2026-06-30T10:47:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-30T11:47:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2071908358173663636"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/etaBiusySC",
+              "end": 30,
+              "expanded_url": "https://x.com/Jy666992/status/2071908358173663636/photo/1",
+              "media_key": "3_2071908346853011456",
+              "start": 7,
+              "url": "https://t.co/etaBiusySC"
+            },
+            {
+              "display_url": "pic.x.com/etaBiusySC",
+              "end": 30,
+              "expanded_url": "https://x.com/Jy666992/status/2071908358173663636/photo/1",
+              "media_key": "3_2071908346819379200",
+              "start": 7,
+              "url": "https://t.co/etaBiusySC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071908358173663636",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 351,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "学校事真多操 https://t.co/etaBiusySC"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-17T01:27:33.000Z",
+        "description": "同类互fo，成分请查看@aeglepotato/点赞狂魔/平时喜欢说怪话和发癫/备用@aeglepotato /🦋@aeglepotato /匿名提问箱https://t.co/C8vIKrLtCN",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 11,
+                "username": "aeglepotato"
+              },
+              {
+                "end": 54,
+                "start": 42,
+                "username": "aeglepotato"
+              },
+              {
+                "end": 69,
+                "start": 57,
+                "username": "aeglepotato"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/aeglepotato",
+                "end": 99,
+                "expanded_url": "https://ngl.link/aeglepotato",
+                "start": 76,
+                "url": "https://t.co/C8vIKrLtCN"
+              }
+            ]
+          }
+        },
+        "id": "2055822314969665536",
+        "name": "⛄ALLice🌈赛博幽灵",
+        "pinned_tweet_id": "2064878659698102753",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067517312576421888/aGH7Myxd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 184,
+          "following_count": 257,
+          "like_count": 8121,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 505
+        },
+        "url": "",
+        "username": "GrievousPotato1",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-05T14:29:19.000Z",
+        "description": "光与水相遇 莲花自然生长\n时而像人时而像恶魔，暂时没找到解决方法\n我其实一直在寻找我到底怎么活着（真实的）\n在泰上学（脑子不好总惹事感觉哪天就要被开除）",
+        "id": "1809233055196073984",
+        "name": "烨篮子",
+        "pinned_tweet_id": "2069854465931497694",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065770842873905152/ira4UqJF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 211,
+          "following_count": 262,
+          "like_count": 1012,
+          "listed_count": 1,
+          "media_count": 166,
+          "tweet_count": 780
+        },
+        "url": "",
+        "username": "Jy666992",
+        "verified": false
+      }
+    ]
+  }
+}

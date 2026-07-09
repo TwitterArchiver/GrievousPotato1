@@ -1,0 +1,201 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2055822314969665536",
+    "conversation_id": "2063776825986158822",
+    "created_at": "2026-06-08T00:15:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-08T01:15:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063776825986158822"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2579143447",
+          "start": 3,
+          "username": "RibSte"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063776825986158822",
+    "lang": "pt",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 4783
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063397606206689329",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @RibSte: Eu sou a favor do aborto em qualquer situação, e também da eutanásia. Acho que deveríamos poder escolher. \n\nFim."
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2055822314969665536",
+        "conversation_id": "2063776825986158822",
+        "created_at": "2026-06-08T00:15:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T01:15:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063776825986158822"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2579143447",
+              "start": 3,
+              "username": "RibSte"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063776825986158822",
+        "lang": "pt",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 4783
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063397606206689329",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @RibSte: Eu sou a favor do aborto em qualquer situação, e também da eutanásia. Acho que deveríamos poder escolher. \n\nFim."
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2579143447",
+        "conversation_id": "2063397606206689329",
+        "created_at": "2026-06-06T23:08:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T00:08:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063397606206689329"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2063397606206689329",
+        "lang": "pt",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 197,
+          "impression_count": 189460,
+          "like_count": 22913,
+          "quote_count": 101,
+          "reply_count": 74,
+          "retweet_count": 4783
+        },
+        "reply_settings": "everyone",
+        "text": "Eu sou a favor do aborto em qualquer situação, e também da eutanásia. Acho que deveríamos poder escolher. \n\nFim."
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-17T01:27:33.000Z",
+        "description": "同类回fo，至于是什么同类x不让我说/点赞狂魔，只互动不发推/查成分请翻回复or 去🦋 @aeglepotato",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 56,
+                "start": 44,
+                "username": "aeglepotato"
+              }
+            ]
+          }
+        },
+        "id": "2055822314969665536",
+        "name": "🌈ALLice☃️赛博幽灵",
+        "pinned_tweet_id": "2056519884301877431",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055823521440301056/FmjUDDvC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 44,
+          "following_count": 78,
+          "like_count": 2114,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 118
+        },
+        "username": "GrievousPotato1",
+        "verified": false
+      },
+      {
+        "created_at": "2014-06-20T19:08:49.000Z",
+        "description": "I don't need your opinion. I'm not waiting for your ok. I'll never be perfect, but at least now I'm brave",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "stephanieribeiro.com.br",
+                "end": 23,
+                "expanded_url": "https://stephanieribeiro.com.br/",
+                "start": 0,
+                "url": "https://t.co/5nXrFkMcsN"
+              }
+            ]
+          }
+        },
+        "id": "2579143447",
+        "location": "São Paulo, Brasil",
+        "name": "Stephanie Ribeiro",
+        "pinned_tweet_id": "1980786078362779937",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1981434436408295424/ARYXfKpi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 44128,
+          "following_count": 856,
+          "like_count": 176280,
+          "listed_count": 3,
+          "media_count": 6226,
+          "tweet_count": 101237
+        },
+        "url": "https://t.co/5nXrFkMcsN",
+        "username": "RibSte",
+        "verified": false
+      }
+    ]
+  }
+}

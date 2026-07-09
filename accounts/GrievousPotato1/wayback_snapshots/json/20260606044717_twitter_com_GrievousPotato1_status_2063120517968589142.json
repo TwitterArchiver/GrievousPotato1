@@ -1,0 +1,104 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2055822314969665536",
+    "conversation_id": "2063120517968589142",
+    "created_at": "2026-06-06T04:47:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-06T05:47:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2063120517968589142"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2063120517968589142",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我想离开世界这个泥沼，向着自由和平静奔去，但泥沼中总是会伸出无数双黑色的手将我拽回泥沼，跟我说“泥沼才是你的家”，但我很清楚泥沼不是我的家，我的家在另一边"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2055822314969665536",
+        "conversation_id": "2063120517968589142",
+        "created_at": "2026-06-06T04:47:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-06T05:47:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063120517968589142"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2063120517968589142",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我想离开世界这个泥沼，向着自由和平静奔去，但泥沼中总是会伸出无数双黑色的手将我拽回泥沼，跟我说“泥沼才是你的家”，但我很清楚泥沼不是我的家，我的家在另一边"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-17T01:27:33.000Z",
+        "description": "同类回fo，至于是什么同类x不让我说/点赞狂魔，只互动不发推/查成分请翻回复or 去bluesky🦋 @aeglepotato",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 63,
+                "start": 51,
+                "username": "aeglepotato"
+              }
+            ]
+          }
+        },
+        "id": "2055822314969665536",
+        "name": "🌈ALLice☃️赛博幽灵",
+        "pinned_tweet_id": "2056519884301877431",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055823521440301056/FmjUDDvC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 29,
+          "following_count": 62,
+          "like_count": 1564,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 86
+        },
+        "username": "GrievousPotato1",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2055822314969665536",
+    "conversation_id": "2067023033563226124",
+    "created_at": "2026-06-16T23:17:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-17T00:17:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067023742228730315"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2067023742228730315",
+    "in_reply_to_user_id": "2055822314969665536",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067023033563226124",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "嘎嘎嘎📢嘎嘎嘎嘎📢嘎嘎嘎嘎嘎嘎嘎📢（伸长脖子）嘎嘎嘎嘎？（低头）（张开翅膀）嘎嘎嘎！嘎嘎嘎嘎！（随机追着一位推友啄）"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 370,
+        "media_key": "3_2067023031139016704",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HK-KfsmXoAAgg6L.jpg",
+        "width": 370
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2055822314969665536",
+        "conversation_id": "2067023033563226124",
+        "created_at": "2026-06-16T23:17:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T00:17:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067023742228730315"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2067023742228730315",
+        "in_reply_to_user_id": "2055822314969665536",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067023033563226124",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "嘎嘎嘎📢嘎嘎嘎嘎📢嘎嘎嘎嘎嘎嘎嘎📢（伸长脖子）嘎嘎嘎嘎？（低头）（张开翅膀）嘎嘎嘎！嘎嘎嘎嘎！（随机追着一位推友啄）"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2067023031139016704"
+          ]
+        },
+        "author_id": "2055822314969665536",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2067023033563226124",
+        "created_at": "2026-06-16T23:14:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T00:14:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067023033563226124"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/YTZ40gfMWY",
+              "end": 85,
+              "expanded_url": "https://x.com/GrievousPotato1/status/2067023033563226124/photo/1",
+              "media_key": "3_2067023031139016704",
+              "start": 62,
+              "url": "https://t.co/YTZ40gfMWY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067023033563226124",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "其实鹅也是一种地雷，鹅对领地的占有欲极强，经常动不动就冲过来拧人，并且总是下狠手，不发狠的时候看起来很可爱，所以我是一只鹅 https://t.co/YTZ40gfMWY"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-17T01:27:33.000Z",
+        "description": "同类互fo，成分请查看@aeglepotato/点赞狂魔/备用@aeglepotato /🦋@aeglepotato /https://t.co/C8vIKrLtCN",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 11,
+                "username": "aeglepotato"
+              },
+              {
+                "end": 43,
+                "start": 31,
+                "username": "aeglepotato"
+              },
+              {
+                "end": 58,
+                "start": 46,
+                "username": "aeglepotato"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/aeglepotato",
+                "end": 83,
+                "expanded_url": "https://ngl.link/aeglepotato",
+                "start": 60,
+                "url": "https://t.co/C8vIKrLtCN"
+              }
+            ]
+          }
+        },
+        "id": "2055822314969665536",
+        "name": "🌈ALLice☃️赛博幽灵",
+        "pinned_tweet_id": "2064878659698102753",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055823521440301056/FmjUDDvC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 101,
+          "following_count": 163,
+          "like_count": 4302,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 278
+        },
+        "username": "GrievousPotato1",
+        "verified": false
+      }
+    ]
+  }
+}

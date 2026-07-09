@@ -1,0 +1,186 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2055822314969665536",
+    "conversation_id": "2063223012548133303",
+    "created_at": "2026-06-06T11:34:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-06T12:34:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063223012548133303"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1596489618429562882",
+          "start": 3,
+          "username": "plzjustluvmeqwq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063223012548133303",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062953114152656963",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @plzjustluvmeqwq: 我讨厌这里，我知道即使我来到了推特我发的东西也依然是被监视着的，但是我还是讨厌这里，我讨厌这片土地，我觉得很恶心，越长大越发现所有道貌岸然的人都在装，这个社会从上到下所有的都很虚伪"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2055822314969665536",
+        "conversation_id": "2063223012548133303",
+        "created_at": "2026-06-06T11:34:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-06T12:34:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063223012548133303"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1596489618429562882",
+              "start": 3,
+              "username": "plzjustluvmeqwq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063223012548133303",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062953114152656963",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @plzjustluvmeqwq: 我讨厌这里，我知道即使我来到了推特我发的东西也依然是被监视着的，但是我还是讨厌这里，我讨厌这片土地，我觉得很恶心，越长大越发现所有道貌岸然的人都在装，这个社会从上到下所有的都很虚伪"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1596489618429562882",
+        "conversation_id": "2062953114152656963",
+        "created_at": "2026-06-05T17:42:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-05T18:42:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062953114152656963"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2062953114152656963",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 125,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "我讨厌这里，我知道即使我来到了推特我发的东西也依然是被监视着的，但是我还是讨厌这里，我讨厌这片土地，我觉得很恶心，越长大越发现所有道貌岸然的人都在装，这个社会从上到下所有的都很虚伪"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-17T01:27:33.000Z",
+        "description": "同类回fo，至于是什么同类x不让我说/点赞狂魔，只互动不发推/查成分请翻回复or 去bluesky🦋 @aeglepotato",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 63,
+                "start": 51,
+                "username": "aeglepotato"
+              }
+            ]
+          }
+        },
+        "id": "2055822314969665536",
+        "name": "🌈ALLice☃️赛博幽灵",
+        "pinned_tweet_id": "2056519884301877431",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055823521440301056/FmjUDDvC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 30,
+          "following_count": 66,
+          "like_count": 1723,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 96
+        },
+        "username": "GrievousPotato1",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-26T13:03:22.000Z",
+        "description": "不更新就是死了没有在享福",
+        "id": "1596489618429562882",
+        "name": "cryingsilence",
+        "pinned_tweet_id": "2036019723662746103",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045789715463655425/z9iNuXkk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2867,
+          "following_count": 241,
+          "like_count": 8373,
+          "listed_count": 6,
+          "media_count": 524,
+          "tweet_count": 4080
+        },
+        "username": "plzjustluvmeqwq",
+        "verified": false
+      }
+    ]
+  }
+}

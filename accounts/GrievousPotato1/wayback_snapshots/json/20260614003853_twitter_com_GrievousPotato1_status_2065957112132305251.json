@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2055822314969665536",
+    "conversation_id": "2065957112132305251",
+    "created_at": "2026-06-14T00:38:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-14T01:38:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065957112132305251"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2055263152238198784",
+          "start": 3,
+          "username": "Reiau9e"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065957112132305251",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065714949637517578",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Reiau9e: 商品化逻辑还挺常见的，相亲就是，你爱的这个人被视为一堆符号的总成，就像是“我希望对象有个大胸”，“我希望她是个萝莉”，与之类似，按照预期的目的在超市里挑挑拣拣，两个人恋爱就像挑薯片一样"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2055822314969665536",
+        "conversation_id": "2065957112132305251",
+        "created_at": "2026-06-14T00:38:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T01:38:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065957112132305251"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2055263152238198784",
+              "start": 3,
+              "username": "Reiau9e"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065957112132305251",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065714949637517578",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Reiau9e: 商品化逻辑还挺常见的，相亲就是，你爱的这个人被视为一堆符号的总成，就像是“我希望对象有个大胸”，“我希望她是个萝莉”，与之类似，按照预期的目的在超市里挑挑拣拣，两个人恋爱就像挑薯片一样"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2055263152238198784",
+        "conversation_id": "2065714949637517578",
+        "created_at": "2026-06-13T08:36:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-13T09:36:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2065714949637517578"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2065714949637517578",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 609,
+          "like_count": 16,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "商品化逻辑还挺常见的，相亲就是，你爱的这个人被视为一堆符号的总成，就像是“我希望对象有个大胸”，“我希望她是个萝莉”，与之类似，按照预期的目的在超市里挑挑拣拣，两个人恋爱就像挑薯片一样"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-17T01:27:33.000Z",
+        "description": "同类回fo，至于是什么同类x不让我说/点赞狂魔/查成分请翻回复or 去🦋 @aeglepotato / https://t.co/C8vIKrLtCN",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 49,
+                "start": 37,
+                "username": "aeglepotato"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/aeglepotato",
+                "end": 75,
+                "expanded_url": "https://ngl.link/aeglepotato",
+                "start": 52,
+                "url": "https://t.co/C8vIKrLtCN"
+              }
+            ]
+          }
+        },
+        "id": "2055822314969665536",
+        "name": "🌈ALLice☃️赛博幽灵",
+        "pinned_tweet_id": "2064878659698102753",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055823521440301056/FmjUDDvC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 71,
+          "following_count": 123,
+          "like_count": 3530,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 217
+        },
+        "username": "GrievousPotato1",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-15T12:25:25.000Z",
+        "description": "保卫胡言乱语",
+        "id": "2055263152238198784",
+        "name": "rei",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061638515864346625/3yEXkh-c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 294,
+          "following_count": 472,
+          "like_count": 4750,
+          "listed_count": 0,
+          "media_count": 47,
+          "tweet_count": 830
+        },
+        "username": "Reiau9e",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2055822314969665536",
+    "conversation_id": "2070436013223063932",
+    "created_at": "2026-06-26T09:16:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-26T10:16:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2070436013223063932"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/duanhjlt/statu…",
+          "end": 52,
+          "expanded_url": "https://twitter.com/duanhjlt/status/2070377314303508990",
+          "start": 29,
+          "url": "https://t.co/HqbClqAzPA"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070436013223063932",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070377314303508990",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "为什么你们吃sns能吃出幻觉我吃sns会直接昏倒睡大觉（ https://t.co/HqbClqAzPA"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1965,
+        "media_key": "3_2070377301930631168",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLt1L9CbYAAemZZ.jpg",
+        "width": 1179
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2055822314969665536",
+        "conversation_id": "2070436013223063932",
+        "created_at": "2026-06-26T09:16:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-26T10:16:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2070436013223063932"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/duanhjlt/statu…",
+              "end": 52,
+              "expanded_url": "https://twitter.com/duanhjlt/status/2070377314303508990",
+              "start": 29,
+              "url": "https://t.co/HqbClqAzPA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070436013223063932",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070377314303508990",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "为什么你们吃sns能吃出幻觉我吃sns会直接昏倒睡大觉（ https://t.co/HqbClqAzPA"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2070377301930631168"
+          ]
+        },
+        "author_id": "340107534",
+        "conversation_id": "2070377314303508990",
+        "created_at": "2026-06-26T05:23:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-26T06:23:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2070377314303508990"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/14quRouKxI",
+              "end": 40,
+              "expanded_url": "https://x.com/duanhjlt/status/2070377314303508990/photo/1",
+              "media_key": "3_2070377301930631168",
+              "start": 17,
+              "url": "https://t.co/14quRouKxI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070377314303508990",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 46,
+          "impression_count": 45944,
+          "like_count": 160,
+          "quote_count": 5,
+          "reply_count": 49,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "你见过药物最吓人的副作用是什么？ https://t.co/14quRouKxI"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-17T01:27:33.000Z",
+        "description": "同类互fo，成分请查看@aeglepotato/点赞狂魔/备用@aeglepotato /🦋@aeglepotato /匿名提问箱https://t.co/C8vIKrKVNf",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 11,
+                "username": "aeglepotato"
+              },
+              {
+                "end": 43,
+                "start": 31,
+                "username": "aeglepotato"
+              },
+              {
+                "end": 58,
+                "start": 46,
+                "username": "aeglepotato"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/aeglepotato",
+                "end": 88,
+                "expanded_url": "https://ngl.link/aeglepotato",
+                "start": 65,
+                "url": "https://t.co/C8vIKrKVNf"
+              }
+            ]
+          }
+        },
+        "id": "2055822314969665536",
+        "name": "⛄ALLice🌈赛博幽灵",
+        "pinned_tweet_id": "2064878659698102753",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067517312576421888/aGH7Myxd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 141,
+          "following_count": 211,
+          "like_count": 6491,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 417
+        },
+        "url": "",
+        "username": "GrievousPotato1",
+        "verified": false
+      },
+      {
+        "created_at": "2011-07-22T04:31:23.000Z",
+        "description": "搞钱、打工、阶层下滑、中年焦虑。\n记录普通人怎么在这个时代硬撑着活。",
+        "id": "340107534",
+        "name": "赴野",
+        "pinned_tweet_id": "2068988168658137170",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972814827749011456/IuCjwNAm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 24662,
+          "following_count": 858,
+          "like_count": 815,
+          "listed_count": 104,
+          "media_count": 7866,
+          "tweet_count": 13534
+        },
+        "url": "",
+        "username": "duanhjlt",
+        "verified": true
+      }
+    ]
+  }
+}

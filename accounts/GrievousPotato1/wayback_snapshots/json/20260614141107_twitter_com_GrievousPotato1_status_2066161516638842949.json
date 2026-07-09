@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2055822314969665536",
+    "conversation_id": "2066161516638842949",
+    "created_at": "2026-06-14T14:11:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-14T15:11:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066161516638842949"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1795072631169044480",
+          "start": 3,
+          "username": "FoxGod__"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066161516638842949",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065937844128919859",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @FoxGod__: 所有生命就都应该消失啊 我不明白这些丑陋的生命和这个肮脏的世界是为了什么"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2055822314969665536",
+        "conversation_id": "2066161516638842949",
+        "created_at": "2026-06-14T14:11:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T15:11:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066161516638842949"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1795072631169044480",
+              "start": 3,
+              "username": "FoxGod__"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066161516638842949",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065937844128919859",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @FoxGod__: 所有生命就都应该消失啊 我不明白这些丑陋的生命和这个肮脏的世界是为了什么"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1795072631169044480",
+        "conversation_id": "2065937844128919859",
+        "created_at": "2026-06-13T23:22:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T00:22:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2065937844128919859"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2065937844128919859",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 324,
+          "like_count": 11,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "所有生命就都应该消失啊 我不明白这些丑陋的生命和这个肮脏的世界是为了什么"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-17T01:27:33.000Z",
+        "description": "同类互fo，成分请查看@aeglepotato/点赞狂魔/备用@aeglepotato /🦋@aeglepotato /https://t.co/C8vIKrLtCN",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 11,
+                "username": "aeglepotato"
+              },
+              {
+                "end": 43,
+                "start": 31,
+                "username": "aeglepotato"
+              },
+              {
+                "end": 58,
+                "start": 46,
+                "username": "aeglepotato"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/aeglepotato",
+                "end": 83,
+                "expanded_url": "https://ngl.link/aeglepotato",
+                "start": 60,
+                "url": "https://t.co/C8vIKrLtCN"
+              }
+            ]
+          }
+        },
+        "id": "2055822314969665536",
+        "name": "🌈ALLice☃️赛博幽灵",
+        "pinned_tweet_id": "2064878659698102753",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055823521440301056/FmjUDDvC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 79,
+          "following_count": 138,
+          "like_count": 3811,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 249
+        },
+        "username": "GrievousPotato1",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-27T12:40:58.000Z",
+        "description": "把那群討厭的成年人都暴揍一頓吧！",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/duoduofuo",
+                "end": 23,
+                "expanded_url": "https://ngl.link/duoduofuo",
+                "start": 0,
+                "url": "https://t.co/ZLduecy3bV"
+              }
+            ]
+          }
+        },
+        "id": "1795072631169044480",
+        "location": "失傳媒體",
+        "name": "時行?",
+        "pinned_tweet_id": "1841674811069825079",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065745725120745472/Kt4WfX4F_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7192,
+          "following_count": 229,
+          "like_count": 32736,
+          "listed_count": 19,
+          "media_count": 210,
+          "tweet_count": 1197
+        },
+        "url": "https://t.co/ZLduecy3bV",
+        "username": "FoxGod__",
+        "verified": false
+      }
+    ]
+  }
+}

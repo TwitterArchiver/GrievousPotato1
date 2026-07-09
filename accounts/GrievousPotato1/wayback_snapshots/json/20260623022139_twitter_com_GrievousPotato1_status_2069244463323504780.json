@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2055822314969665536",
+    "conversation_id": "2069244463323504780",
+    "created_at": "2026-06-23T02:21:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-23T03:21:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2069244463323504780"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/HiiroGekkaFlan…",
+          "end": 61,
+          "expanded_url": "https://twitter.com/HiiroGekkaFlan/status/2069129431042662597",
+          "start": 38,
+          "url": "https://t.co/RqLVxC0Qxl"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069244463323504780",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069129431042662597",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我天天就这样……我的大脑自动产生怪话攻击我的理智，搞得我在现生天天在绷…… https://t.co/RqLVxC0Qxl"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 534,
+        "media_key": "3_2069129428278628352",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLcGQJba0AAe9JE.jpg",
+        "width": 571
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2055822314969665536",
+        "conversation_id": "2069244463323504780",
+        "created_at": "2026-06-23T02:21:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-23T03:21:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2069244463323504780"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/HiiroGekkaFlan…",
+              "end": 61,
+              "expanded_url": "https://twitter.com/HiiroGekkaFlan/status/2069129431042662597",
+              "start": 38,
+              "url": "https://t.co/RqLVxC0Qxl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069244463323504780",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069129431042662597",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我天天就这样……我的大脑自动产生怪话攻击我的理智，搞得我在现生天天在绷…… https://t.co/RqLVxC0Qxl"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2069129428278628352"
+          ]
+        },
+        "author_id": "2042276998668525573",
+        "conversation_id": "2069129431042662597",
+        "created_at": "2026-06-22T18:44:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-22T19:44:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2069129431042662597"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/qen9oAHqlx",
+              "end": 41,
+              "expanded_url": "https://x.com/HiiroGekkaFlan/status/2069129431042662597/photo/1",
+              "media_key": "3_2069129428278628352",
+              "start": 18,
+              "url": "https://t.co/qen9oAHqlx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069129431042662597",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 274,
+          "like_count": 15,
+          "quote_count": 1,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "哦不……\n原来我一直在被大脑奴役着 https://t.co/qen9oAHqlx"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-17T01:27:33.000Z",
+        "description": "同类互fo，成分请查看@aeglepotato/点赞狂魔/备用@aeglepotato /🦋@aeglepotato /匿名提问箱https://t.co/C8vIKrLtCN",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 11,
+                "username": "aeglepotato"
+              },
+              {
+                "end": 43,
+                "start": 31,
+                "username": "aeglepotato"
+              },
+              {
+                "end": 58,
+                "start": 46,
+                "username": "aeglepotato"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/aeglepotato",
+                "end": 88,
+                "expanded_url": "https://ngl.link/aeglepotato",
+                "start": 65,
+                "url": "https://t.co/C8vIKrLtCN"
+              }
+            ]
+          }
+        },
+        "id": "2055822314969665536",
+        "name": "🌈ALLice☃️赛博幽灵",
+        "pinned_tweet_id": "2064878659698102753",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067517312576421888/aGH7Myxd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 128,
+          "following_count": 192,
+          "like_count": 5625,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 375
+        },
+        "url": "",
+        "username": "GrievousPotato1",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-09T16:22:54.000Z",
+        "description": "梗图转发/音游(Arcaea+maimai+Chunithm)/友🏳️‍🌈🏳️‍⚧️/偶尔发病⚠️/fumo爱好者/東方project好き/亚文化爱好者 CN/EN/JP OK",
+        "id": "2042276998668525573",
+        "location": "幻想卿",
+        "name": "緋月",
+        "pinned_tweet_id": "2063643511128522806",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069104792442638336/GxUHtIdh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 733,
+          "following_count": 868,
+          "like_count": 10597,
+          "listed_count": 1,
+          "media_count": 357,
+          "tweet_count": 3277
+        },
+        "url": "",
+        "username": "HiiroGekkaFlan",
+        "verified": false
+      }
+    ]
+  }
+}

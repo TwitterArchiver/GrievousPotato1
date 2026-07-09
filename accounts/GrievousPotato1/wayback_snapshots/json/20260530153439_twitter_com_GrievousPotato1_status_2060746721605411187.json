@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2055822314969665536",
+    "conversation_id": "2060746721605411187",
+    "created_at": "2026-05-30T15:34:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-30T16:34:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060746721605411187"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1809754445162639361",
+          "start": 3,
+          "username": "sakuraiharunana"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060746721605411187",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 5
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060672745286054032",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @sakuraiharunana: 群友离家出走被警了。\n对面派出所打电话给我妈：\n“你对着你妈和我念一下聊天记录”…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2055822314969665536",
+        "conversation_id": "2060746721605411187",
+        "created_at": "2026-05-30T15:34:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T16:34:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060746721605411187"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1809754445162639361",
+              "start": 3,
+              "username": "sakuraiharunana"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060746721605411187",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060672745286054032",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @sakuraiharunana: 群友离家出走被警了。\n对面派出所打电话给我妈：\n“你对着你妈和我念一下聊天记录”…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1809754445162639361",
+        "conversation_id": "2060672745286054032",
+        "created_at": "2026-05-30T10:40:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T11:39:06.000Z",
+          "edits_remaining": 3,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060672340632228188",
+          "2060672513257185681",
+          "2060672745286054032"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2060672745286054032",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "群友离家出走被警了。\n对面派出所打电话给我妈：\n“你对着你妈和我念一下聊天记录”\nkizumi：“根据宪法规定，我享有通信自由和通信秘密权，且本人作为一名成年人，我有权利让我的母亲离开不听，向您汇报我的聊天记录默认是源于您作为公安机关工作人员调查需要，且我只会汇报依据个人判断认为对贵单位有价值的聊天记录，请你知悉”\n🚓：好\nkizumi：“我打开了录音，请你说一下你的来由”\n🚓：“你念一下聊天记录”\nkizumi：“你是哪个单位的？我到现在不知道你的来由，请告知你的单位、警号、姓名”\n🚓：“好的我是，xxxxx，几位数字”\n“你的诉求就是我给念聊天记录吗”\n＊叽里咕噜车轱辘话＊\n警：不要再和他有联系。\n以上。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 35,
+          "impression_count": 13410,
+          "like_count": 129,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "群友离家出走被警了。\n对面派出所打电话给我妈：\n“你对着你妈和我念一下聊天记录”"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-17T01:27:33.000Z",
+        "description": "同类回fo，至于是什么同类x不让我说/点赞狂魔，只互动不发推/查成分请翻回复or 去bluesky🦋 @aeglepotato",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 63,
+                "start": 51,
+                "username": "aeglepotato"
+              }
+            ]
+          }
+        },
+        "id": "2055822314969665536",
+        "name": "🌈ALLice☃️剧烈复活",
+        "pinned_tweet_id": "2056519884301877431",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055823521440301056/FmjUDDvC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21,
+          "following_count": 51,
+          "like_count": 992,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 55
+        },
+        "username": "GrievousPotato1",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-07T01:01:15.000Z",
+        "description": "世界以痛吻我，要我报之以歌。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "kizumi.site",
+                "end": 23,
+                "expanded_url": "http://kizumi.site",
+                "start": 0,
+                "url": "https://t.co/gbSTeAWfnO"
+              }
+            ]
+          }
+        },
+        "id": "1809754445162639361",
+        "location": "127.0.0.1🍥🏳️‍⚧️",
+        "name": "希澈希澈希澈澈澈澈澈",
+        "pinned_tweet_id": "2055463762287853814",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056977423519096832/rYoo8nrQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 495,
+          "following_count": 712,
+          "like_count": 525,
+          "listed_count": 1,
+          "media_count": 76,
+          "tweet_count": 686
+        },
+        "url": "https://t.co/gbSTeAWfnO",
+        "username": "sakuraiharunana",
+        "verified": true
+      }
+    ]
+  }
+}

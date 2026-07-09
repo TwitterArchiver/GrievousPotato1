@@ -1,0 +1,265 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2071969091020095488"
+      ],
+      "media_source_tweet_id": [
+        "2071969528335192470"
+      ]
+    },
+    "author_id": "2055822314969665536",
+    "conversation_id": "2072233806971498528",
+    "created_at": "2026-07-01T08:20:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-01T09:20:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2072233806971498528"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1693450364341948416",
+          "start": 3,
+          "username": "igeekbb"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/0trRQI9Qaz",
+          "end": 46,
+          "expanded_url": "https://x.com/igeekbb/status/2071969528335192470/photo/1",
+          "media_key": "3_2071969091020095488",
+          "start": 23,
+          "url": "https://t.co/0trRQI9Qaz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072233806971498528",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 43
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071969528335192470",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @igeekbb: 这句话要把它裱起来 https://t.co/0trRQI9Qaz"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 440,
+        "media_key": "3_2071969091020095488",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMEc6RfXgAADEEg.png",
+        "width": 810
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2071969091020095488"
+          ],
+          "media_source_tweet_id": [
+            "2071969528335192470"
+          ]
+        },
+        "author_id": "2055822314969665536",
+        "conversation_id": "2072233806971498528",
+        "created_at": "2026-07-01T08:20:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-01T09:20:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072233806971498528"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1693450364341948416",
+              "start": 3,
+              "username": "igeekbb"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/0trRQI9Qaz",
+              "end": 46,
+              "expanded_url": "https://x.com/igeekbb/status/2071969528335192470/photo/1",
+              "media_key": "3_2071969091020095488",
+              "start": 23,
+              "url": "https://t.co/0trRQI9Qaz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072233806971498528",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 43
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071969528335192470",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @igeekbb: 这句话要把它裱起来 https://t.co/0trRQI9Qaz"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2071969091020095488"
+          ]
+        },
+        "author_id": "1693450364341948416",
+        "conversation_id": "2071969528335192470",
+        "created_at": "2026-06-30T14:50:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-30T15:50:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2071969528335192470"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/0trRQI9Qaz",
+              "end": 33,
+              "expanded_url": "https://x.com/igeekbb/status/2071969528335192470/photo/1",
+              "media_key": "3_2071969091020095488",
+              "start": 10,
+              "url": "https://t.co/0trRQI9Qaz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071969528335192470",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 75,
+          "impression_count": 19922,
+          "like_count": 451,
+          "quote_count": 0,
+          "reply_count": 23,
+          "retweet_count": 43
+        },
+        "reply_settings": "everyone",
+        "text": "这句话要把它裱起来 https://t.co/0trRQI9Qaz"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-17T01:27:33.000Z",
+        "description": "同类互fo，成分请查看@aeglepotato/点赞狂魔/平时喜欢说怪话和发癫/备用@aeglepotato /🦋@aeglepotato /匿名提问箱https://t.co/C8vIKrLtCN",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 11,
+                "username": "aeglepotato"
+              },
+              {
+                "end": 54,
+                "start": 42,
+                "username": "aeglepotato"
+              },
+              {
+                "end": 69,
+                "start": 57,
+                "username": "aeglepotato"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/aeglepotato",
+                "end": 99,
+                "expanded_url": "https://ngl.link/aeglepotato",
+                "start": 76,
+                "url": "https://t.co/C8vIKrLtCN"
+              }
+            ]
+          }
+        },
+        "id": "2055822314969665536",
+        "name": "⛄ALLice🌈赛博幽灵",
+        "pinned_tweet_id": "2064878659698102753",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067517312576421888/aGH7Myxd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 188,
+          "following_count": 261,
+          "like_count": 8310,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 512
+        },
+        "url": "",
+        "username": "GrievousPotato1",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-21T02:30:22.000Z",
+        "description": "🕹️发一些碎碎念和有趣的东东，主打一个快分享。-私信开放欢迎投稿-",
+        "id": "1693450364341948416",
+        "name": "iGeekbb",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1799328738871750657/9Shu8NrP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 83440,
+          "following_count": 1,
+          "like_count": 16654,
+          "listed_count": 335,
+          "media_count": 8615,
+          "tweet_count": 13366
+        },
+        "url": "",
+        "username": "igeekbb",
+        "verified": true
+      }
+    ]
+  }
+}

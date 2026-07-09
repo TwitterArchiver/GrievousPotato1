@@ -1,0 +1,196 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2055822314969665536",
+    "conversation_id": "2065593162203078760",
+    "created_at": "2026-06-13T00:32:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-13T01:32:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065593162203078760"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1714179188746600448",
+          "start": 3,
+          "username": "Rinn_3x3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065593162203078760",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1488
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065363460310139382",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Rinn_3x3: I'm happy\n*cuts self*\nI'm sad\n*cuts self*\nI'm angry\n*cuts self*\nI'm excited\n*cuts self*\nI'm embarrassed\n*cuts self*\nI'm jealo…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2055822314969665536",
+        "conversation_id": "2065593162203078760",
+        "created_at": "2026-06-13T00:32:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-13T01:32:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065593162203078760"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1714179188746600448",
+              "start": 3,
+              "username": "Rinn_3x3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065593162203078760",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1488
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065363460310139382",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Rinn_3x3: I'm happy\n*cuts self*\nI'm sad\n*cuts self*\nI'm angry\n*cuts self*\nI'm excited\n*cuts self*\nI'm embarrassed\n*cuts self*\nI'm jealo…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1714179188746600448",
+        "conversation_id": "2065363460310139382",
+        "created_at": "2026-06-12T09:19:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-12T10:19:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2065363460310139382"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2065363460310139382",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 104,
+          "impression_count": 22507,
+          "like_count": 3778,
+          "quote_count": 7,
+          "reply_count": 4,
+          "retweet_count": 1488
+        },
+        "reply_settings": "everyone",
+        "text": "I'm happy\n*cuts self*\nI'm sad\n*cuts self*\nI'm angry\n*cuts self*\nI'm excited\n*cuts self*\nI'm embarrassed\n*cuts self*\nI'm jealous\n*cuts self*"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-17T01:27:33.000Z",
+        "description": "同类回fo，至于是什么同类x不让我说/点赞狂魔/查成分请翻回复or 去🦋 @aeglepotato / https://t.co/C8vIKrLtCN",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 49,
+                "start": 37,
+                "username": "aeglepotato"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/aeglepotato",
+                "end": 75,
+                "expanded_url": "https://ngl.link/aeglepotato",
+                "start": 52,
+                "url": "https://t.co/C8vIKrLtCN"
+              }
+            ]
+          }
+        },
+        "id": "2055822314969665536",
+        "name": "🌈ALLice☃️赛博幽灵",
+        "pinned_tweet_id": "2064878659698102753",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055823521440301056/FmjUDDvC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 63,
+          "following_count": 114,
+          "like_count": 3319,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 196
+        },
+        "username": "GrievousPotato1",
+        "verified": false
+      },
+      {
+        "created_at": "2023-10-17T07:19:24.000Z",
+        "description": "╰┈➤ ℎ𝑒 / ℎ𝑖𝑚 || 𝑑𝑒𝑝𝑟𝑒𝑠𝑠𝑖𝑜𝑛 + 𝑠𝑜𝑐𝑖𝑎𝑙 𝑎𝑛𝑥𝑖𝑒𝑡𝑦 𝑠𝑢𝑠𝑝𝑒𝑐𝑡 𓆩♡𓆪\n       °❀⋆.ೃ࿔*:･ 𝑛𝑑𝑛𝑖\n        ꒰ঌᰔᩚ໒꒱ 𝑖𝑓𝑏 ♡",
+        "id": "1714179188746600448",
+        "location": "bmi:16s gbmi:14s໒꒰ྀིっ˕ -｡꒱ྀི১",
+        "name": "𝐫𝐢𝐧𝐧🍥𝐬𝐡𝐞𝐝𝐭𝐰𝐭 ⋆. ୨୧˚⋆",
+        "pinned_tweet_id": "2063792038743855482",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059192702156349440/hCfzj63f_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 698,
+          "following_count": 688,
+          "like_count": 24382,
+          "listed_count": 2,
+          "media_count": 220,
+          "tweet_count": 1432
+        },
+        "username": "Rinn_3x3",
+        "verified": false
+      }
+    ]
+  }
+}

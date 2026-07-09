@@ -1,0 +1,302 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2069757867238842368"
+      ],
+      "media_source_tweet_id": [
+        "2069757921668333882"
+      ]
+    },
+    "author_id": "2055822314969665536",
+    "conversation_id": "2070039043077808414",
+    "created_at": "2026-06-25T06:59:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-25T07:59:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070039043077808414"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "4843547656",
+          "start": 3,
+          "username": "albagarciis"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/dzPOru5XDA",
+          "end": 73,
+          "expanded_url": "https://x.com/albagarciis/status/2069757921668333882/video/1",
+          "media_key": "13_2069757867238842368",
+          "start": 50,
+          "url": "https://t.co/dzPOru5XDA"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070039043077808414",
+    "lang": "es",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 5756
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069757921668333882",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @albagarciis: asi se siente confiar en alguien https://t.co/dzPOru5XDA"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 11950,
+        "height": 1024,
+        "media_key": "13_2069757867238842368",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2069757867238842368/img/4pwTxVLCDeT4q1GE.jpg",
+        "public_metrics": {
+          "view_count": 479685
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2069757867238842368/vid/avc1/320x568/dkiaVTxsmZkTCK-A.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2069757867238842368/vid/avc1/480x852/DFFc3mMK_M5G4NsT.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2069757867238842368/vid/avc1/576x1024/fzy5yeK6hfUtucLn.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2069757867238842368/pl/IPO3siemm84VRiF_.m3u8?v=cd7"
+          }
+        ],
+        "width": 576
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2069757867238842368"
+          ],
+          "media_source_tweet_id": [
+            "2069757921668333882"
+          ]
+        },
+        "author_id": "2055822314969665536",
+        "conversation_id": "2070039043077808414",
+        "created_at": "2026-06-25T06:59:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-25T07:59:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070039043077808414"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "4843547656",
+              "start": 3,
+              "username": "albagarciis"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/dzPOru5XDA",
+              "end": 73,
+              "expanded_url": "https://x.com/albagarciis/status/2069757921668333882/video/1",
+              "media_key": "13_2069757867238842368",
+              "start": 50,
+              "url": "https://t.co/dzPOru5XDA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070039043077808414",
+        "lang": "es",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5756
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069757921668333882",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @albagarciis: asi se siente confiar en alguien https://t.co/dzPOru5XDA"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2069757867238842368"
+          ]
+        },
+        "author_id": "4843547656",
+        "conversation_id": "2069757921668333882",
+        "created_at": "2026-06-24T12:21:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-24T13:21:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2069757921668333882"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/dzPOru5XDA",
+              "end": 56,
+              "expanded_url": "https://x.com/albagarciis/status/2069757921668333882/video/1",
+              "media_key": "13_2069757867238842368",
+              "start": 33,
+              "url": "https://t.co/dzPOru5XDA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069757921668333882",
+        "lang": "es",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2456,
+          "impression_count": 1156936,
+          "like_count": 41023,
+          "quote_count": 282,
+          "reply_count": 129,
+          "retweet_count": 5756
+        },
+        "reply_settings": "everyone",
+        "text": "asi se siente confiar en alguien https://t.co/dzPOru5XDA"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-17T01:27:33.000Z",
+        "description": "同类互fo，成分请查看@aeglepotato/点赞狂魔/备用@aeglepotato /🦋@aeglepotato /匿名提问箱https://t.co/C8vIKrLtCN",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 11,
+                "username": "aeglepotato"
+              },
+              {
+                "end": 43,
+                "start": 31,
+                "username": "aeglepotato"
+              },
+              {
+                "end": 58,
+                "start": 46,
+                "username": "aeglepotato"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/aeglepotato",
+                "end": 88,
+                "expanded_url": "https://ngl.link/aeglepotato",
+                "start": 65,
+                "url": "https://t.co/C8vIKrLtCN"
+              }
+            ]
+          }
+        },
+        "id": "2055822314969665536",
+        "name": "🌈ALLice☃️赛博幽灵",
+        "pinned_tweet_id": "2064878659698102753",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067517312576421888/aGH7Myxd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 140,
+          "following_count": 208,
+          "like_count": 6198,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 408
+        },
+        "url": "",
+        "username": "GrievousPotato1",
+        "verified": false
+      },
+      {
+        "created_at": "2016-01-24T22:05:32.000Z",
+        "description": "",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/alba__garciis",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/alba__garciis",
+                "start": 0,
+                "url": "https://t.co/xttpEZNtGv"
+              }
+            ]
+          }
+        },
+        "id": "4843547656",
+        "name": ".",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068685093023952896/ci4pcM-x_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 24477,
+          "following_count": 54,
+          "like_count": 13676,
+          "listed_count": 26,
+          "media_count": 2730,
+          "tweet_count": 16113
+        },
+        "url": "https://t.co/xttpEZNtGv",
+        "username": "albagarciis",
+        "verified": false
+      }
+    ]
+  }
+}

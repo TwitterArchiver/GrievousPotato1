@@ -1,0 +1,455 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2066942248948826112",
+        "3_2066942248856457217",
+        "3_2066942248873328640",
+        "3_2066942248906891264"
+      ],
+      "media_source_tweet_id": [
+        "2066942260856369597",
+        "2066942260856369597",
+        "2066942260856369597",
+        "2066942260856369597"
+      ]
+    },
+    "author_id": "2055822314969665536",
+    "conversation_id": "2067157232983150742",
+    "created_at": "2026-06-17T08:07:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-17T09:07:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067157232983150742"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 70,
+          "start": 60,
+          "tag": "sfxartist"
+        },
+        {
+          "end": 80,
+          "start": 72,
+          "tag": "slittwt"
+        },
+        {
+          "end": 87,
+          "start": 81,
+          "tag": "shtwt"
+        },
+        {
+          "end": 98,
+          "start": 88,
+          "tag": "styrostwt"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1915137065823395840",
+          "start": 3,
+          "username": "vsalombo"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/AmYxz3igFW",
+          "end": 122,
+          "expanded_url": "https://x.com/vsalombo/status/2066942260856369597/photo/1",
+          "media_key": "3_2066942248948826112",
+          "start": 99,
+          "url": "https://t.co/AmYxz3igFW"
+        },
+        {
+          "display_url": "pic.x.com/AmYxz3igFW",
+          "end": 122,
+          "expanded_url": "https://x.com/vsalombo/status/2066942260856369597/photo/1",
+          "media_key": "3_2066942248856457217",
+          "start": 99,
+          "url": "https://t.co/AmYxz3igFW"
+        },
+        {
+          "display_url": "pic.x.com/AmYxz3igFW",
+          "end": 122,
+          "expanded_url": "https://x.com/vsalombo/status/2066942260856369597/photo/1",
+          "media_key": "3_2066942248873328640",
+          "start": 99,
+          "url": "https://t.co/AmYxz3igFW"
+        },
+        {
+          "display_url": "pic.x.com/AmYxz3igFW",
+          "end": 122,
+          "expanded_url": "https://x.com/vsalombo/status/2066942260856369597/photo/1",
+          "media_key": "3_2066942248906891264",
+          "start": 99,
+          "url": "https://t.co/AmYxz3igFW"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067157232983150742",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 137
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066942260856369597",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @vsalombo: repost cuz tiktok deleted it\nall fake all sfx #sfxartist \n#slittwt #shtwt #styrostwt https://t.co/AmYxz3igFW"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2004,
+        "media_key": "3_2066942248948826112",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HK9BBjfXgAAdeC6.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2004,
+        "media_key": "3_2066942248856457217",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HK9BBjJWEAETejO.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2004,
+        "media_key": "3_2066942248873328640",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HK9BBjNXgAAFd4n.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2004,
+        "media_key": "3_2066942248906891264",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HK9BBjVXoAA-PnM.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2066942248948826112",
+            "3_2066942248856457217",
+            "3_2066942248873328640",
+            "3_2066942248906891264"
+          ],
+          "media_source_tweet_id": [
+            "2066942260856369597",
+            "2066942260856369597",
+            "2066942260856369597",
+            "2066942260856369597"
+          ]
+        },
+        "author_id": "2055822314969665536",
+        "conversation_id": "2067157232983150742",
+        "created_at": "2026-06-17T08:07:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T09:07:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067157232983150742"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 70,
+              "start": 60,
+              "tag": "sfxartist"
+            },
+            {
+              "end": 80,
+              "start": 72,
+              "tag": "slittwt"
+            },
+            {
+              "end": 87,
+              "start": 81,
+              "tag": "shtwt"
+            },
+            {
+              "end": 98,
+              "start": 88,
+              "tag": "styrostwt"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1915137065823395840",
+              "start": 3,
+              "username": "vsalombo"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/AmYxz3igFW",
+              "end": 122,
+              "expanded_url": "https://x.com/vsalombo/status/2066942260856369597/photo/1",
+              "media_key": "3_2066942248948826112",
+              "start": 99,
+              "url": "https://t.co/AmYxz3igFW"
+            },
+            {
+              "display_url": "pic.x.com/AmYxz3igFW",
+              "end": 122,
+              "expanded_url": "https://x.com/vsalombo/status/2066942260856369597/photo/1",
+              "media_key": "3_2066942248856457217",
+              "start": 99,
+              "url": "https://t.co/AmYxz3igFW"
+            },
+            {
+              "display_url": "pic.x.com/AmYxz3igFW",
+              "end": 122,
+              "expanded_url": "https://x.com/vsalombo/status/2066942260856369597/photo/1",
+              "media_key": "3_2066942248873328640",
+              "start": 99,
+              "url": "https://t.co/AmYxz3igFW"
+            },
+            {
+              "display_url": "pic.x.com/AmYxz3igFW",
+              "end": 122,
+              "expanded_url": "https://x.com/vsalombo/status/2066942260856369597/photo/1",
+              "media_key": "3_2066942248906891264",
+              "start": 99,
+              "url": "https://t.co/AmYxz3igFW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067157232983150742",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 137
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066942260856369597",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @vsalombo: repost cuz tiktok deleted it\nall fake all sfx #sfxartist \n#slittwt #shtwt #styrostwt https://t.co/AmYxz3igFW"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2066942248948826112",
+            "3_2066942248856457217",
+            "3_2066942248873328640",
+            "3_2066942248906891264"
+          ]
+        },
+        "author_id": "1915137065823395840",
+        "conversation_id": "2066942260856369597",
+        "created_at": "2026-06-16T17:53:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-16T18:53:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066942260856369597"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 56,
+              "start": 46,
+              "tag": "sfxartist"
+            },
+            {
+              "end": 66,
+              "start": 58,
+              "tag": "slittwt"
+            },
+            {
+              "end": 73,
+              "start": 67,
+              "tag": "shtwt"
+            },
+            {
+              "end": 84,
+              "start": 74,
+              "tag": "styrostwt"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/AmYxz3igFW",
+              "end": 108,
+              "expanded_url": "https://x.com/vsalombo/status/2066942260856369597/photo/1",
+              "media_key": "3_2066942248948826112",
+              "start": 85,
+              "url": "https://t.co/AmYxz3igFW"
+            },
+            {
+              "display_url": "pic.x.com/AmYxz3igFW",
+              "end": 108,
+              "expanded_url": "https://x.com/vsalombo/status/2066942260856369597/photo/1",
+              "media_key": "3_2066942248856457217",
+              "start": 85,
+              "url": "https://t.co/AmYxz3igFW"
+            },
+            {
+              "display_url": "pic.x.com/AmYxz3igFW",
+              "end": 108,
+              "expanded_url": "https://x.com/vsalombo/status/2066942260856369597/photo/1",
+              "media_key": "3_2066942248873328640",
+              "start": 85,
+              "url": "https://t.co/AmYxz3igFW"
+            },
+            {
+              "display_url": "pic.x.com/AmYxz3igFW",
+              "end": 108,
+              "expanded_url": "https://x.com/vsalombo/status/2066942260856369597/photo/1",
+              "media_key": "3_2066942248906891264",
+              "start": 85,
+              "url": "https://t.co/AmYxz3igFW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066942260856369597",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 47,
+          "impression_count": 3096,
+          "like_count": 985,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 137
+        },
+        "reply_settings": "everyone",
+        "text": "repost cuz tiktok deleted it\nall fake all sfx #sfxartist \n#slittwt #shtwt #styrostwt https://t.co/AmYxz3igFW"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-17T01:27:33.000Z",
+        "description": "同类互fo，成分请查看@aeglepotato/点赞狂魔/备用@aeglepotato /🦋@aeglepotato /https://t.co/C8vIKrLtCN",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 11,
+                "username": "aeglepotato"
+              },
+              {
+                "end": 43,
+                "start": 31,
+                "username": "aeglepotato"
+              },
+              {
+                "end": 58,
+                "start": 46,
+                "username": "aeglepotato"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/aeglepotato",
+                "end": 83,
+                "expanded_url": "https://ngl.link/aeglepotato",
+                "start": 60,
+                "url": "https://t.co/C8vIKrLtCN"
+              }
+            ]
+          }
+        },
+        "id": "2055822314969665536",
+        "name": "🌈ALLice☃️赛博幽灵",
+        "pinned_tweet_id": "2064878659698102753",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055823521440301056/FmjUDDvC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 104,
+          "following_count": 173,
+          "like_count": 4484,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 299
+        },
+        "username": "GrievousPotato1",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-23T20:14:27.000Z",
+        "description": "bmi: 16.4 . gbmi: 14 🍥 2009 . any pronouns . no dni . pro recov . ifb!!!!! . dc; 3lectrastar 🪱 ic; faiirycat",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "vsalombo.straw.page",
+                "end": 23,
+                "expanded_url": "https://vsalombo.straw.page",
+                "start": 0,
+                "url": "https://t.co/CPkBSt3TqV"
+              }
+            ]
+          }
+        },
+        "id": "1915137065823395840",
+        "name": "vani 🧁🐛 shedtwt",
+        "pinned_tweet_id": "2030805773962424554",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020440773456490496/K3O3iEta_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1042,
+          "following_count": 1076,
+          "like_count": 17779,
+          "listed_count": 5,
+          "media_count": 176,
+          "tweet_count": 2738
+        },
+        "url": "https://t.co/CPkBSt3TqV",
+        "username": "vsalombo",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2055822314969665536",
+    "conversation_id": "2066609519875248314",
+    "created_at": "2026-06-16T02:09:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-16T03:09:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066704713253269615"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2037381870204198912",
+          "start": 0,
+          "username": "980thVGRegiment"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066704713253269615",
+    "in_reply_to_user_id": "2037381870204198912",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066613105237594375",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@980thVGRegiment 剧烈支持👍"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2055822314969665536",
+        "conversation_id": "2066609519875248314",
+        "created_at": "2026-06-16T02:09:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-16T03:09:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066704713253269615"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2037381870204198912",
+              "start": 0,
+              "username": "980thVGRegiment"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066704713253269615",
+        "in_reply_to_user_id": "2037381870204198912",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066613105237594375",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@980thVGRegiment 剧烈支持👍"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2037381870204198912",
+        "conversation_id": "2066609519875248314",
+        "created_at": "2026-06-15T20:05:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-15T21:05:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066613105237594375"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2066613105237594375",
+        "in_reply_to_user_id": "2037381870204198912",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 143,
+          "like_count": 10,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066609519875248314",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "诶我，突然我想到，我们完全可以把身为父母不爱孩子定义为某种情感障碍，列入严重精神障碍的行列中，做上几十次mect，无论你是什么爱恨情仇，都忘精光，这也相当于洗脑了诶"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-17T01:27:33.000Z",
+        "description": "同类互fo，成分请查看@aeglepotato/点赞狂魔/备用@aeglepotato /🦋@aeglepotato /https://t.co/C8vIKrLtCN",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 11,
+                "username": "aeglepotato"
+              },
+              {
+                "end": 43,
+                "start": 31,
+                "username": "aeglepotato"
+              },
+              {
+                "end": 58,
+                "start": 46,
+                "username": "aeglepotato"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/aeglepotato",
+                "end": 83,
+                "expanded_url": "https://ngl.link/aeglepotato",
+                "start": 60,
+                "url": "https://t.co/C8vIKrLtCN"
+              }
+            ]
+          }
+        },
+        "id": "2055822314969665536",
+        "name": "🌈ALLice☃️赛博幽灵",
+        "pinned_tweet_id": "2064878659698102753",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055823521440301056/FmjUDDvC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 92,
+          "following_count": 149,
+          "like_count": 4105,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 265
+        },
+        "username": "GrievousPotato1",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-27T04:11:13.000Z",
+        "description": "Nichts ist schwierig auf der Welt\n东方白@432Ifantrygroup小号，https://t.co/JmbqtJGYqD匿名提问",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 53,
+                "start": 37,
+                "username": "432Ifantrygroup"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/fightforspirit",
+                "end": 79,
+                "expanded_url": "https://ngl.link/fightforspirit",
+                "start": 56,
+                "url": "https://t.co/JmbqtJGYqD"
+              }
+            ]
+          }
+        },
+        "id": "2037381870204198912",
+        "name": "980th VG Regiment",
+        "pinned_tweet_id": "2066600159363191054",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037382208261079040/7f2pwRnw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 196,
+          "following_count": 303,
+          "like_count": 2793,
+          "listed_count": 1,
+          "media_count": 25,
+          "tweet_count": 674
+        },
+        "username": "980thVGRegiment",
+        "verified": false
+      }
+    ]
+  }
+}

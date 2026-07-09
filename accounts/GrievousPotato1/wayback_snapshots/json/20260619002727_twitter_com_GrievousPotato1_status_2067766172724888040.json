@@ -1,0 +1,272 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2055822314969665536",
+    "conversation_id": "2067587754293354526",
+    "created_at": "2026-06-19T00:27:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-19T01:27:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067766172724888040"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1829867271592026112",
+          "start": 0,
+          "username": "Shivam3228"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067766172724888040",
+    "in_reply_to_user_id": "1829867271592026112",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067587754293354526",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Shivam3228 我不行了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 607,
+        "media_key": "3_2067587743232970752",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLGMGRFaUAAA3zz.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2055822314969665536",
+        "conversation_id": "2067587754293354526",
+        "created_at": "2026-06-19T00:27:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T01:27:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067766172724888040"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1829867271592026112",
+              "start": 0,
+              "username": "Shivam3228"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067766172724888040",
+        "in_reply_to_user_id": "1829867271592026112",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067587754293354526",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Shivam3228 我不行了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2067587743232970752"
+          ]
+        },
+        "author_id": "1829867271592026112",
+        "conversation_id": "2067587754293354526",
+        "created_at": "2026-06-18T12:38:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T13:38:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067587754293354526"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/UYR9KvHIXM",
+              "end": 27,
+              "expanded_url": "https://x.com/Shivam3228/status/2067587754293354526/photo/1",
+              "media_key": "3_2067587743232970752",
+              "start": 4,
+              "url": "https://t.co/UYR9KvHIXM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067587754293354526",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 780,
+          "like_count": 52,
+          "quote_count": 0,
+          "reply_count": 9,
+          "retweet_count": 11
+        },
+        "reply_settings": "everyone",
+        "text": "你们好 https://t.co/UYR9KvHIXM"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-17T01:27:33.000Z",
+        "description": "同类互fo，成分请查看@aeglepotato/点赞狂魔/备用@aeglepotato /🦋@aeglepotato /https://t.co/C8vIKrLtCN",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 11,
+                "username": "aeglepotato"
+              },
+              {
+                "end": 43,
+                "start": 31,
+                "username": "aeglepotato"
+              },
+              {
+                "end": 58,
+                "start": 46,
+                "username": "aeglepotato"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/aeglepotato",
+                "end": 83,
+                "expanded_url": "https://ngl.link/aeglepotato",
+                "start": 60,
+                "url": "https://t.co/C8vIKrLtCN"
+              }
+            ]
+          }
+        },
+        "id": "2055822314969665536",
+        "name": "🌈ALLice☃️赛博幽灵",
+        "pinned_tweet_id": "2064878659698102753",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067517312576421888/aGH7Myxd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 114,
+          "following_count": 178,
+          "like_count": 5015,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 327
+        },
+        "url": "",
+        "username": "GrievousPotato1",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-31T13:02:22.000Z",
+        "description": "【寻回互fo】\n📍广州/🇯🇵/12-09-17/IB牛马国际生。\n精神病碎碎念清水推 电子宠物\n已上岸躺尸中zz🥰（剧烈啃英语。）\n热爱互动但被带口球……🚬\n小号@Paramjitt\n牛马💊@idris21000\n负能碎碎念@yumumu_msknb\n欧金金@niconekkod",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 91,
+                "start": 81,
+                "username": "Paramjitt"
+              },
+              {
+                "end": 106,
+                "start": 95,
+                "username": "idris21000"
+              },
+              {
+                "end": 125,
+                "start": 112,
+                "username": "yumumu_msknb"
+              },
+              {
+                "end": 140,
+                "start": 129,
+                "username": "niconekkod"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+A7UqL85q-kpkO…",
+                "end": 23,
+                "expanded_url": "https://t.me/+A7UqL85q-kpkOTEx",
+                "start": 0,
+                "url": "https://t.co/VZKn4nRWhn"
+              }
+            ]
+          }
+        },
+        "id": "1829867271592026112",
+        "location": "你看看你身后",
+        "name": "七号雨木木",
+        "pinned_tweet_id": "2067588292372299787",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058860881585594368/GxGn2fBp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 667,
+          "following_count": 446,
+          "like_count": 1432,
+          "listed_count": 1,
+          "media_count": 80,
+          "tweet_count": 749
+        },
+        "url": "https://t.co/VZKn4nRWhn",
+        "username": "Shivam3228",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,158 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2055822314969665536",
+    "conversation_id": "2063609426926358932",
+    "created_at": "2026-06-07T13:15:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-07T14:15:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063610774132531618"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2063610774132531618",
+    "in_reply_to_user_id": "2055822314969665536",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063609435323326785",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "再加上我除了语文其他成绩都很好，在成绩上是个好学生，但是我品行很差经常逃学逃课，校规当任务单做，被抓到就积极认错下次还犯，所以当时我在学校也算是一个传奇了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2055822314969665536",
+        "conversation_id": "2063609426926358932",
+        "created_at": "2026-06-07T13:15:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T14:15:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063610774132531618"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2063610774132531618",
+        "in_reply_to_user_id": "2055822314969665536",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063609435323326785",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "再加上我除了语文其他成绩都很好，在成绩上是个好学生，但是我品行很差经常逃学逃课，校规当任务单做，被抓到就积极认错下次还犯，所以当时我在学校也算是一个传奇了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2055822314969665536",
+        "conversation_id": "2063609426926358932",
+        "created_at": "2026-06-07T13:10:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T14:10:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063609435323326785"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2063609435323326785",
+        "in_reply_to_user_id": "2055822314969665536",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063609426926358932",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "所以当年我是全校最有名的那个数学年级前10但语文年级倒数的人，看到我成绩单的人纷纷惊讶我是怎么做到的，甚至语文老师一度怀疑我是故意的，结果给我辅导几次外加盯着我做题之后语文老师就放弃我了……我思维就是很怪啊这能怪我吗🥲"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-17T01:27:33.000Z",
+        "description": "同类回fo，至于是什么同类x不让我说/点赞狂魔，只互动不发推/查成分请翻回复or 去🦋 @aeglepotato",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 56,
+                "start": 44,
+                "username": "aeglepotato"
+              }
+            ]
+          }
+        },
+        "id": "2055822314969665536",
+        "name": "🌈ALLice☃️赛博幽灵",
+        "pinned_tweet_id": "2056519884301877431",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055823521440301056/FmjUDDvC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 42,
+          "following_count": 77,
+          "like_count": 2049,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 118
+        },
+        "username": "GrievousPotato1",
+        "verified": false
+      }
+    ]
+  }
+}

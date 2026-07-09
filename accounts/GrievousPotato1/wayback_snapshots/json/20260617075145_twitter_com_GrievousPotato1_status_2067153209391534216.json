@@ -1,0 +1,337 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2066927582176514050",
+        "3_2066927582101082113"
+      ],
+      "media_source_tweet_id": [
+        "2066927597246620065",
+        "2066927597246620065"
+      ]
+    },
+    "author_id": "2055822314969665536",
+    "conversation_id": "2067153209391534216",
+    "created_at": "2026-06-17T07:51:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-17T08:51:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067153209391534216"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 39,
+          "start": 33,
+          "tag": "shtwt"
+        },
+        {
+          "end": 45,
+          "start": 40,
+          "tag": "fake"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2047852151087439872",
+          "start": 3,
+          "username": "itellhim_idk"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/xF9nDGwKCb",
+          "end": 69,
+          "expanded_url": "https://x.com/itellhim_idk/status/2066927597246620065/photo/1",
+          "media_key": "3_2066927582176514050",
+          "start": 46,
+          "url": "https://t.co/xF9nDGwKCb"
+        },
+        {
+          "display_url": "pic.x.com/xF9nDGwKCb",
+          "end": 69,
+          "expanded_url": "https://x.com/itellhim_idk/status/2066927597246620065/photo/1",
+          "media_key": "3_2066927582101082113",
+          "start": 46,
+          "url": "https://t.co/xF9nDGwKCb"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067153209391534216",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 242
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066927597246620065",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @itellhim_idk: new makeup sfx #shtwt #fake https://t.co/xF9nDGwKCb"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2066927582176514050",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HK8zr1gWkAIIYp1.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2066927582101082113",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HK8zr1OXkAEIKZI.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2066927582176514050",
+            "3_2066927582101082113"
+          ],
+          "media_source_tweet_id": [
+            "2066927597246620065",
+            "2066927597246620065"
+          ]
+        },
+        "author_id": "2055822314969665536",
+        "conversation_id": "2067153209391534216",
+        "created_at": "2026-06-17T07:51:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T08:51:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067153209391534216"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 39,
+              "start": 33,
+              "tag": "shtwt"
+            },
+            {
+              "end": 45,
+              "start": 40,
+              "tag": "fake"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2047852151087439872",
+              "start": 3,
+              "username": "itellhim_idk"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/xF9nDGwKCb",
+              "end": 69,
+              "expanded_url": "https://x.com/itellhim_idk/status/2066927597246620065/photo/1",
+              "media_key": "3_2066927582176514050",
+              "start": 46,
+              "url": "https://t.co/xF9nDGwKCb"
+            },
+            {
+              "display_url": "pic.x.com/xF9nDGwKCb",
+              "end": 69,
+              "expanded_url": "https://x.com/itellhim_idk/status/2066927597246620065/photo/1",
+              "media_key": "3_2066927582101082113",
+              "start": 46,
+              "url": "https://t.co/xF9nDGwKCb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067153209391534216",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 242
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066927597246620065",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @itellhim_idk: new makeup sfx #shtwt #fake https://t.co/xF9nDGwKCb"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2066927582176514050",
+            "3_2066927582101082113"
+          ]
+        },
+        "author_id": "2047852151087439872",
+        "conversation_id": "2066927597246620065",
+        "created_at": "2026-06-16T16:55:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-16T17:55:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066927597246620065"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 21,
+              "start": 15,
+              "tag": "shtwt"
+            },
+            {
+              "end": 27,
+              "start": 22,
+              "tag": "fake"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/xF9nDGwKCb",
+              "end": 51,
+              "expanded_url": "https://x.com/itellhim_idk/status/2066927597246620065/photo/1",
+              "media_key": "3_2066927582176514050",
+              "start": 28,
+              "url": "https://t.co/xF9nDGwKCb"
+            },
+            {
+              "display_url": "pic.x.com/xF9nDGwKCb",
+              "end": 51,
+              "expanded_url": "https://x.com/itellhim_idk/status/2066927597246620065/photo/1",
+              "media_key": "3_2066927582101082113",
+              "start": 28,
+              "url": "https://t.co/xF9nDGwKCb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066927597246620065",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 181,
+          "impression_count": 11170,
+          "like_count": 2452,
+          "quote_count": 2,
+          "reply_count": 10,
+          "retweet_count": 242
+        },
+        "reply_settings": "everyone",
+        "text": "new makeup sfx #shtwt #fake https://t.co/xF9nDGwKCb"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-17T01:27:33.000Z",
+        "description": "同类互fo，成分请查看@aeglepotato/点赞狂魔/备用@aeglepotato /🦋@aeglepotato /https://t.co/C8vIKrLtCN",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 11,
+                "username": "aeglepotato"
+              },
+              {
+                "end": 43,
+                "start": 31,
+                "username": "aeglepotato"
+              },
+              {
+                "end": 58,
+                "start": 46,
+                "username": "aeglepotato"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/aeglepotato",
+                "end": 83,
+                "expanded_url": "https://ngl.link/aeglepotato",
+                "start": 60,
+                "url": "https://t.co/C8vIKrLtCN"
+              }
+            ]
+          }
+        },
+        "id": "2055822314969665536",
+        "name": "🌈ALLice☃️赛博幽灵",
+        "pinned_tweet_id": "2064878659698102753",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055823521440301056/FmjUDDvC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 104,
+          "following_count": 172,
+          "like_count": 4456,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 297
+        },
+        "username": "GrievousPotato1",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-25T01:36:33.000Z",
+        "description": "i’m kieth! 15ftm(single) dms are open, i post shtwt/shedtwt, kleptotwt, edtwt, im not new to X this is js a new account",
+        "id": "2047852151087439872",
+        "name": "zombie boy🪽",
+        "pinned_tweet_id": "2048142529846038598",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047901564342538240/AUKzqyol_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 123,
+          "following_count": 40,
+          "like_count": 378,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 56
+        },
+        "username": "itellhim_idk",
+        "verified": false
+      }
+    ]
+  }
+}

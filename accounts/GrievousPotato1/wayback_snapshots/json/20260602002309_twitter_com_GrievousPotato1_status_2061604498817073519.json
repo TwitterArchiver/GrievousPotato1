@@ -1,0 +1,186 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2055822314969665536",
+    "conversation_id": "2061604498817073519",
+    "created_at": "2026-06-02T00:23:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-02T01:23:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2061604498817073519"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1226126253893341184",
+          "start": 3,
+          "username": "konosuz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061604498817073519",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 4
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061386826838094164",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @konosuz: 20岁怎么会是这么惨的年纪我操了，家境不好还有精神病所以我从大学入学起就一直在领补助和半工半读，又没钱又没时间成绩又差保不上研又没实习，又失去了未成年人这个无敌buff，一旦磕药被逮了不是处分就是退学，但因为已经是成年人了有0个人会心疼我，这个年纪连自…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2055822314969665536",
+        "conversation_id": "2061604498817073519",
+        "created_at": "2026-06-02T00:23:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-02T01:23:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061604498817073519"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1226126253893341184",
+              "start": 3,
+              "username": "konosuz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061604498817073519",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 4
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061386826838094164",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @konosuz: 20岁怎么会是这么惨的年纪我操了，家境不好还有精神病所以我从大学入学起就一直在领补助和半工半读，又没钱又没时间成绩又差保不上研又没实习，又失去了未成年人这个无敌buff，一旦磕药被逮了不是处分就是退学，但因为已经是成年人了有0个人会心疼我，这个年纪连自…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1226126253893341184",
+        "conversation_id": "2061386826838094164",
+        "created_at": "2026-06-01T09:58:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-01T10:58:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061386826838094164"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2061386826838094164",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 3194,
+          "like_count": 47,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 4
+        },
+        "reply_settings": "everyone",
+        "text": "20岁怎么会是这么惨的年纪我操了，家境不好还有精神病所以我从大学入学起就一直在领补助和半工半读，又没钱又没时间成绩又差保不上研又没实习，又失去了未成年人这个无敌buff，一旦磕药被逮了不是处分就是退学，但因为已经是成年人了有0个人会心疼我，这个年纪连自杀都显得特别搞笑"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-17T01:27:33.000Z",
+        "description": "同类回fo，至于是什么同类x不让我说/点赞狂魔，只互动不发推/查成分请翻回复or 去bluesky🦋 @aeglepotato",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 63,
+                "start": 51,
+                "username": "aeglepotato"
+              }
+            ]
+          }
+        },
+        "id": "2055822314969665536",
+        "name": "🌈ALLice☃️剧烈复活",
+        "pinned_tweet_id": "2056519884301877431",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055823521440301056/FmjUDDvC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22,
+          "following_count": 55,
+          "like_count": 1214,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 65
+        },
+        "username": "GrievousPotato1",
+        "verified": false
+      },
+      {
+        "created_at": "2020-02-08T12:51:19.000Z",
+        "description": "中国人冷静一下💦💦",
+        "id": "1226126253893341184",
+        "name": "小米粥",
+        "pinned_tweet_id": "1773027026632376702",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061345437010018304/eh-bxtMD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 85,
+          "following_count": 293,
+          "like_count": 3053,
+          "listed_count": 0,
+          "media_count": 30,
+          "tweet_count": 1358
+        },
+        "username": "konosuz",
+        "verified": false
+      }
+    ]
+  }
+}

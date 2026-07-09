@@ -1,0 +1,294 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2070005792535900160"
+      ],
+      "media_source_tweet_id": [
+        "2070005815327752701"
+      ]
+    },
+    "author_id": "2055822314969665536",
+    "conversation_id": "2070182040931013102",
+    "created_at": "2026-06-25T16:27:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-25T17:27:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070182040931013102"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1622066090074607616",
+          "start": 3,
+          "username": "hoshinofujivy"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/wkOUxgKTsn",
+          "end": 79,
+          "expanded_url": "https://x.com/hoshinofujivy/status/2070005815327752701/photo/1",
+          "media_key": "3_2070005792535900160",
+          "start": 56,
+          "url": "https://t.co/wkOUxgKTsn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070182040931013102",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 13
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070005815327752701",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @hoshinofujivy: 女生男孩子性格很正常\n男生女孩子性格也正常\n\n刻板印象者，当鞭数十而驱之 https://t.co/wkOUxgKTsn"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 796,
+        "media_key": "3_2070005792535900160",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLojTQsacAA4BqW.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2070005792535900160"
+          ],
+          "media_source_tweet_id": [
+            "2070005815327752701"
+          ]
+        },
+        "author_id": "2055822314969665536",
+        "conversation_id": "2070182040931013102",
+        "created_at": "2026-06-25T16:27:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-25T17:27:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070182040931013102"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1622066090074607616",
+              "start": 3,
+              "username": "hoshinofujivy"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/wkOUxgKTsn",
+              "end": 79,
+              "expanded_url": "https://x.com/hoshinofujivy/status/2070005815327752701/photo/1",
+              "media_key": "3_2070005792535900160",
+              "start": 56,
+              "url": "https://t.co/wkOUxgKTsn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070182040931013102",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 13
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070005815327752701",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @hoshinofujivy: 女生男孩子性格很正常\n男生女孩子性格也正常\n\n刻板印象者，当鞭数十而驱之 https://t.co/wkOUxgKTsn"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2070005792535900160"
+          ]
+        },
+        "author_id": "1622066090074607616",
+        "conversation_id": "2070005815327752701",
+        "created_at": "2026-06-25T04:46:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-25T05:46:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2070005815327752701"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/wkOUxgKTsn",
+              "end": 60,
+              "expanded_url": "https://x.com/hoshinofujivy/status/2070005815327752701/photo/1",
+              "media_key": "3_2070005792535900160",
+              "start": 37,
+              "url": "https://t.co/wkOUxgKTsn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070005815327752701",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 15,
+          "impression_count": 4996,
+          "like_count": 177,
+          "quote_count": 3,
+          "reply_count": 15,
+          "retweet_count": 13
+        },
+        "reply_settings": "everyone",
+        "text": "女生男孩子性格很正常\n男生女孩子性格也正常\n\n刻板印象者，当鞭数十而驱之 https://t.co/wkOUxgKTsn"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-17T01:27:33.000Z",
+        "description": "同类互fo，成分请查看@aeglepotato/点赞狂魔/备用@aeglepotato /🦋@aeglepotato /匿名提问箱https://t.co/C8vIKrKVNf",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 11,
+                "username": "aeglepotato"
+              },
+              {
+                "end": 43,
+                "start": 31,
+                "username": "aeglepotato"
+              },
+              {
+                "end": 58,
+                "start": 46,
+                "username": "aeglepotato"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/aeglepotato",
+                "end": 88,
+                "expanded_url": "https://ngl.link/aeglepotato",
+                "start": 65,
+                "url": "https://t.co/C8vIKrKVNf"
+              }
+            ]
+          }
+        },
+        "id": "2055822314969665536",
+        "name": "⛄ALLice🌈赛博幽灵",
+        "pinned_tweet_id": "2064878659698102753",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067517312576421888/aGH7Myxd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 141,
+          "following_count": 211,
+          "like_count": 6381,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 419
+        },
+        "url": "",
+        "username": "GrievousPotato1",
+        "verified": false
+      },
+      {
+        "created_at": "2023-02-05T02:54:57.000Z",
+        "description": "「星穹闌珊，草野風動，斯人舞螢，其名為藤」｜My beloved @nationalpurevf4｜Love NASA｜AIart｜Pixiv Illustrator｜love the whole world🇺🇳｜Partner @KokonaKokoro｜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 49,
+                "start": 33,
+                "username": "nationalpurevf4"
+              },
+              {
+                "end": 128,
+                "start": 115,
+                "username": "KokonaKokoro"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/97080106",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/97080106",
+                "start": 0,
+                "url": "https://t.co/ATdhqXSswL"
+              }
+            ]
+          }
+        },
+        "id": "1622066090074607616",
+        "location": "台灣 真理子怀里",
+        "name": "星野ふじ",
+        "pinned_tweet_id": "2070114577128489315",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037206581524480000/7zwAevat_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12160,
+          "following_count": 4370,
+          "like_count": 49509,
+          "listed_count": 37,
+          "media_count": 2966,
+          "tweet_count": 16553
+        },
+        "url": "https://t.co/ATdhqXSswL",
+        "username": "hoshinofujivy",
+        "verified": true
+      }
+    ]
+  }
+}

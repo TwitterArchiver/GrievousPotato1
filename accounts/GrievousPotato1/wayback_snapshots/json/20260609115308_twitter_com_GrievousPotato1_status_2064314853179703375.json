@@ -1,0 +1,223 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2055822314969665536",
+    "conversation_id": "2064314853179703375",
+    "created_at": "2026-06-09T11:53:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-09T12:53:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064314853179703375"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1915124824126427137",
+          "start": 3,
+          "username": "Grtr_nk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064314853179703375",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064012368523526153",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Grtr_nk: 😥我真的不想恭喜那些重開失敗的說恭喜你活下來了，人家已經很痛苦了，他一個痛苦號退遊退不了還得強行續個大月卡，然後你說挺好啊堅持刷一刷你這號還沒完全毀啊總有一天能掉好裝備的，你說賤不賤啊"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2055822314969665536",
+        "conversation_id": "2064314853179703375",
+        "created_at": "2026-06-09T11:53:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T12:53:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064314853179703375"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1915124824126427137",
+              "start": 3,
+              "username": "Grtr_nk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064314853179703375",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064012368523526153",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Grtr_nk: 😥我真的不想恭喜那些重開失敗的說恭喜你活下來了，人家已經很痛苦了，他一個痛苦號退遊退不了還得強行續個大月卡，然後你說挺好啊堅持刷一刷你這號還沒完全毀啊總有一天能掉好裝備的，你說賤不賤啊"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1915124824126427137",
+        "conversation_id": "2064012368523526153",
+        "created_at": "2026-06-08T15:51:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T16:51:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064012368523526153"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2064012368523526153",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 549,
+          "like_count": 6,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "😥我真的不想恭喜那些重開失敗的說恭喜你活下來了，人家已經很痛苦了，他一個痛苦號退遊退不了還得強行續個大月卡，然後你說挺好啊堅持刷一刷你這號還沒完全毀啊總有一天能掉好裝備的，你說賤不賤啊"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-17T01:27:33.000Z",
+        "description": "同类回fo，至于是什么同类x不让我说/点赞狂魔，只互动不发推/查成分请翻回复or 去🦋 @aeglepotato / https://t.co/C8vIKrKVNf",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 56,
+                "start": 44,
+                "username": "aeglepotato"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/aeglepotato",
+                "end": 82,
+                "expanded_url": "https://ngl.link/aeglepotato",
+                "start": 59,
+                "url": "https://t.co/C8vIKrKVNf"
+              }
+            ]
+          }
+        },
+        "id": "2055822314969665536",
+        "name": "🌈ALLice☃️赛博幽灵",
+        "pinned_tweet_id": "2056519884301877431",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055823521440301056/FmjUDDvC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 49,
+          "following_count": 94,
+          "like_count": 2569,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 143
+        },
+        "username": "GrievousPotato1",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-23T19:25:21.000Z",
+        "description": "暴论bot\n翻车顺女HRT23.05.29/多意识体OSDD+cptsd/od💊ed BMI14.2😇/ pfp @LeonRui_ / 里帐 @Luminme_Vas 互关请私信",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 66,
+                "start": 57,
+                "username": "LeonRui_"
+              },
+              {
+                "end": 84,
+                "start": 72,
+                "username": "Luminme_Vas"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "confess.ngl.link/nekotonbo1",
+                "end": 23,
+                "expanded_url": "http://confess.ngl.link/nekotonbo1",
+                "start": 0,
+                "url": "https://t.co/C5qsiDuDPc"
+              }
+            ]
+          }
+        },
+        "id": "1915124824126427137",
+        "location": "🚪68/128",
+        "name": "🐱🍥灰尾猫🍥🐱",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998235803676463104/qPOn02np_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1442,
+          "following_count": 678,
+          "like_count": 373,
+          "listed_count": 3,
+          "media_count": 87,
+          "tweet_count": 717
+        },
+        "url": "https://t.co/C5qsiDuDPc",
+        "username": "Grtr_nk",
+        "verified": false
+      }
+    ]
+  }
+}

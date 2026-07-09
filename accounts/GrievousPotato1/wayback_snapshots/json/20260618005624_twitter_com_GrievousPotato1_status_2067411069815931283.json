@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2055822314969665536",
+    "conversation_id": "2067411069815931283",
+    "created_at": "2026-06-18T00:56:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-18T01:56:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067411069815931283"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1680503658314702852",
+          "start": 3,
+          "username": "KkumNikki"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067411069815931283",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 4
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067238676489494648",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @KkumNikki: 按福柯的观点，禁闭并非出于治疗或纠正疯人的需要,而是出于一种将一切无序状态从社会中清除的冲动\n\n因此只要正常这个概念仍然在生产它的偏离者，那收容所就有它存在的理由\n\n而在一个视正常为绝对标准，偏离正常需要矫正的社会是不可能消失的\n\n所以只要人们还在…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2055822314969665536",
+        "conversation_id": "2067411069815931283",
+        "created_at": "2026-06-18T00:56:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T01:56:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067411069815931283"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1680503658314702852",
+              "start": 3,
+              "username": "KkumNikki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067411069815931283",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 4
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067238676489494648",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @KkumNikki: 按福柯的观点，禁闭并非出于治疗或纠正疯人的需要,而是出于一种将一切无序状态从社会中清除的冲动\n\n因此只要正常这个概念仍然在生产它的偏离者，那收容所就有它存在的理由\n\n而在一个视正常为绝对标准，偏离正常需要矫正的社会是不可能消失的\n\n所以只要人们还在…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1680503658314702852",
+        "conversation_id": "2067238676489494648",
+        "created_at": "2026-06-17T13:31:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T14:31:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067238676489494648"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/KkumNikki/stat…",
+              "end": 167,
+              "expanded_url": "https://twitter.com/KkumNikki/status/2066996573784129872",
+              "start": 144,
+              "url": "https://t.co/KHJVp8Bob0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067238676489494648",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 400,
+          "like_count": 9,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 4
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066996573784129872",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "按福柯的观点，禁闭并非出于治疗或纠正疯人的需要,而是出于一种将一切无序状态从社会中清除的冲动\n\n因此只要正常这个概念仍然在生产它的偏离者，那收容所就有它存在的理由\n\n而在一个视正常为绝对标准，偏离正常需要矫正的社会是不可能消失的\n\n所以只要人们还在用正常审视他人，收容所的围墙就不会倒塌 https://t.co/KHJVp8Bob0"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-17T01:27:33.000Z",
+        "description": "同类互fo，成分请查看@aeglepotato/点赞狂魔/备用@aeglepotato /🦋@aeglepotato /https://t.co/C8vIKrLtCN",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 11,
+                "username": "aeglepotato"
+              },
+              {
+                "end": 43,
+                "start": 31,
+                "username": "aeglepotato"
+              },
+              {
+                "end": 58,
+                "start": 46,
+                "username": "aeglepotato"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/aeglepotato",
+                "end": 83,
+                "expanded_url": "https://ngl.link/aeglepotato",
+                "start": 60,
+                "url": "https://t.co/C8vIKrLtCN"
+              }
+            ]
+          }
+        },
+        "id": "2055822314969665536",
+        "name": "🌈ALLice☃️赛博幽灵",
+        "pinned_tweet_id": "2064878659698102753",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055823521440301056/FmjUDDvC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 111,
+          "following_count": 174,
+          "like_count": 4651,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 304
+        },
+        "username": "GrievousPotato1",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-16T09:04:41.000Z",
+        "description": "努力减少使用X，因为不想再把自己的时间和精力过多消耗在这里。｜esteeming courage to be freedom and freedom to be happiness",
+        "id": "1680503658314702852",
+        "location": "Haiti",
+        "name": "新奥尔良烤翅鸡主义",
+        "pinned_tweet_id": "2067238676489494648",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011593801178234886/OKPsH_sx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 276,
+          "following_count": 1050,
+          "like_count": 14714,
+          "listed_count": 0,
+          "media_count": 385,
+          "tweet_count": 21530
+        },
+        "username": "KkumNikki",
+        "verified": false
+      }
+    ]
+  }
+}

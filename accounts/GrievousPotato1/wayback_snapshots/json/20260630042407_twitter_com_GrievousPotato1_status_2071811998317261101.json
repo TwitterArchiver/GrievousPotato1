@@ -1,0 +1,309 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1936386891353337856"
+      ],
+      "media_source_tweet_id": [
+        "1936387264377958584"
+      ]
+    },
+    "author_id": "2055822314969665536",
+    "conversation_id": "2071811998317261101",
+    "created_at": "2026-06-30T04:24:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-30T05:24:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2071811998317261101"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1659962043460354050",
+          "start": 3,
+          "username": "SalviaSWC"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/dY73MZcjr4",
+          "end": 95,
+          "expanded_url": "https://x.com/SalviaSWC/status/1936387264377958584/photo/1",
+          "media_key": "3_1936386891353337856",
+          "start": 72,
+          "url": "https://t.co/dY73MZcjr4"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071811998317261101",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 52
+    },
+    "referenced_tweets": [
+      {
+        "id": "1936387264377958584",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @SalviaSWC: 愈美片手搓DXO教程V1出了🥺\n有问题可以在评论区问,窝都会回的喵🥰\n已经搓出来DXO的推u可以评价一下药效嘛😋 https://t.co/dY73MZcjr4"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1080,
+        "media_key": "3_1936386891353337856",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gt9tnkbWsAATDYs.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1936386891353337856"
+          ],
+          "media_source_tweet_id": [
+            "1936387264377958584"
+          ]
+        },
+        "author_id": "2055822314969665536",
+        "conversation_id": "2071811998317261101",
+        "created_at": "2026-06-30T04:24:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-30T05:24:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071811998317261101"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1659962043460354050",
+              "start": 3,
+              "username": "SalviaSWC"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/dY73MZcjr4",
+              "end": 95,
+              "expanded_url": "https://x.com/SalviaSWC/status/1936387264377958584/photo/1",
+              "media_key": "3_1936386891353337856",
+              "start": 72,
+              "url": "https://t.co/dY73MZcjr4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071811998317261101",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 52
+        },
+        "referenced_tweets": [
+          {
+            "id": "1936387264377958584",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @SalviaSWC: 愈美片手搓DXO教程V1出了🥺\n有问题可以在评论区问,窝都会回的喵🥰\n已经搓出来DXO的推u可以评价一下药效嘛😋 https://t.co/dY73MZcjr4"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1936386891353337856"
+          ]
+        },
+        "author_id": "1659962043460354050",
+        "conversation_id": "1936387264377958584",
+        "created_at": "2025-06-21T11:34:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-21T12:34:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1936387264377958584"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/dY73MZcjr4",
+              "end": 80,
+              "expanded_url": "https://x.com/SalviaSWC/status/1936387264377958584/photo/1",
+              "media_key": "3_1936386891353337856",
+              "start": 57,
+              "url": "https://t.co/dY73MZcjr4"
+            },
+            {
+              "display_url": "x.com/SalviaSWC/stat…",
+              "end": 104,
+              "expanded_url": "https://twitter.com/SalviaSWC/status/1933910576582779275",
+              "start": 81,
+              "url": "https://t.co/pPwqrhpkSl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1936387264377958584",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 229,
+          "impression_count": 73364,
+          "like_count": 408,
+          "quote_count": 15,
+          "reply_count": 39,
+          "retweet_count": 52
+        },
+        "referenced_tweets": [
+          {
+            "id": "1933910576582779275",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "愈美片手搓DXO教程V1出了🥺\n有问题可以在评论区问,窝都会回的喵🥰\n已经搓出来DXO的推u可以评价一下药效嘛😋 https://t.co/dY73MZcjr4 https://t.co/pPwqrhpkSl"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-17T01:27:33.000Z",
+        "description": "同类互fo，成分请查看@aeglepotato/点赞狂魔/平时喜欢说怪话和发癫/备用@aeglepotato /🦋@aeglepotato /匿名提问箱https://t.co/C8vIKrLtCN",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 11,
+                "username": "aeglepotato"
+              },
+              {
+                "end": 54,
+                "start": 42,
+                "username": "aeglepotato"
+              },
+              {
+                "end": 69,
+                "start": 57,
+                "username": "aeglepotato"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/aeglepotato",
+                "end": 99,
+                "expanded_url": "https://ngl.link/aeglepotato",
+                "start": 76,
+                "url": "https://t.co/C8vIKrLtCN"
+              }
+            ]
+          }
+        },
+        "id": "2055822314969665536",
+        "name": "⛄ALLice🌈赛博幽灵",
+        "pinned_tweet_id": "2064878659698102753",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067517312576421888/aGH7Myxd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 175,
+          "following_count": 246,
+          "like_count": 7702,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 476
+        },
+        "url": "",
+        "username": "GrievousPotato1",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-20T16:39:35.000Z",
+        "description": "非必要不键政🏳️|不卖药🚫|欢迎任何人🌈|包容各种做法☮|互fo🉑🥰|没回fo的话，请私信我哦📬|\n\n脑婆:@DXM8964LXM\n\n丨药物知识开源化💊|来FreeODwiki看看吧！https://t.co/ki2TerCl7C |Say Know to Drugs 😼",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 65,
+                "start": 54,
+                "username": "DXM8964LXM"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "github.com/SalviaSWC/Free…",
+                "end": 115,
+                "expanded_url": "https://github.com/SalviaSWC/FreeODwiki",
+                "start": 92,
+                "url": "https://t.co/ki2TerCl7C"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "freeodwiki.org",
+                "end": 23,
+                "expanded_url": "https://freeodwiki.org",
+                "start": 0,
+                "url": "https://t.co/20q0OtAeQd"
+              }
+            ]
+          }
+        },
+        "id": "1659962043460354050",
+        "name": "鼠尾草～🌿",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2034583473692852224/nE4xPVUJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4982,
+          "following_count": 1030,
+          "like_count": 24823,
+          "listed_count": 11,
+          "media_count": 567,
+          "tweet_count": 7992
+        },
+        "url": "https://t.co/20q0OtAeQd",
+        "username": "SalviaSWC",
+        "verified": false
+      }
+    ]
+  }
+}

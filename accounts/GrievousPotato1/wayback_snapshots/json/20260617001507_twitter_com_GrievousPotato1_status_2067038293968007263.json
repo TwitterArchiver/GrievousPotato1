@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2055822314969665536",
+    "conversation_id": "2067038293968007263",
+    "created_at": "2026-06-17T00:15:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-17T01:15:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2067038293968007263"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/jianlvya/statu…",
+          "end": 62,
+          "expanded_url": "https://twitter.com/jianlvya/status/2066671306859573755",
+          "start": 39,
+          "url": "https://t.co/uSQNXgORkO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067038293968007263",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066671306859573755",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我要选第二个，这样我就可以超近距离贴着某个随机路人让ta觉得被鬼附身👁️👁️ https://t.co/uSQNXgORkO"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1136,
+        "media_key": "3_2066671303902572544",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HK5KmeibMAAv3Vn.jpg",
+        "width": 912
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2055822314969665536",
+        "conversation_id": "2067038293968007263",
+        "created_at": "2026-06-17T00:15:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T01:15:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067038293968007263"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/jianlvya/statu…",
+              "end": 62,
+              "expanded_url": "https://twitter.com/jianlvya/status/2066671306859573755",
+              "start": 39,
+              "url": "https://t.co/uSQNXgORkO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067038293968007263",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066671306859573755",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我要选第二个，这样我就可以超近距离贴着某个随机路人让ta觉得被鬼附身👁️👁️ https://t.co/uSQNXgORkO"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2066671303902572544"
+          ]
+        },
+        "author_id": "1828632343680294916",
+        "conversation_id": "2066671306859573755",
+        "created_at": "2026-06-15T23:56:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-16T00:56:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066671306859573755"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Bfzoy66Na7",
+              "end": 31,
+              "expanded_url": "https://x.com/jianlvya/status/2066671306859573755/photo/1",
+              "media_key": "3_2066671303902572544",
+              "start": 8,
+              "url": "https://t.co/Bfzoy66Na7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066671306859573755",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 5231,
+          "like_count": 41,
+          "quote_count": 7,
+          "reply_count": 38,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "你会选哪个呢？ https://t.co/Bfzoy66Na7"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-17T01:27:33.000Z",
+        "description": "同类互fo，成分请查看@aeglepotato/点赞狂魔/备用@aeglepotato /🦋@aeglepotato /https://t.co/C8vIKrLtCN",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 11,
+                "username": "aeglepotato"
+              },
+              {
+                "end": 43,
+                "start": 31,
+                "username": "aeglepotato"
+              },
+              {
+                "end": 58,
+                "start": 46,
+                "username": "aeglepotato"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/aeglepotato",
+                "end": 83,
+                "expanded_url": "https://ngl.link/aeglepotato",
+                "start": 60,
+                "url": "https://t.co/C8vIKrLtCN"
+              }
+            ]
+          }
+        },
+        "id": "2055822314969665536",
+        "name": "🌈ALLice☃️赛博幽灵",
+        "pinned_tweet_id": "2064878659698102753",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055823521440301056/FmjUDDvC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 101,
+          "following_count": 168,
+          "like_count": 4392,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 288
+        },
+        "username": "GrievousPotato1",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-28T03:15:12.000Z",
+        "description": "会点赞 INTJ 欢迎交流 \n伙伴：@KawawaDiana8964\n逃生舱：@fanlvup",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 34,
+                "start": 18,
+                "username": "KawawaDiana8964"
+              },
+              {
+                "end": 47,
+                "start": 39,
+                "username": "fanlvup"
+              }
+            ]
+          }
+        },
+        "id": "1828632343680294916",
+        "location": "Hi，你好，繁律！",
+        "name": "繁律（私信互关）",
+        "pinned_tweet_id": "2066668607313256546",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061037984837959680/milpZMHX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6499,
+          "following_count": 985,
+          "like_count": 28004,
+          "listed_count": 16,
+          "media_count": 1305,
+          "tweet_count": 2348
+        },
+        "username": "jianlvya",
+        "verified": true
+      }
+    ]
+  }
+}

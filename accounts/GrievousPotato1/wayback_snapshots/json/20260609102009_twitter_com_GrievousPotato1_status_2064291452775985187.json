@@ -1,0 +1,239 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2055822314969665536",
+    "conversation_id": "2064291452775985187",
+    "created_at": "2026-06-09T10:20:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-09T11:20:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064291452775985187"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1597605170502062080",
+          "start": 3,
+          "username": "Ayanami_rin0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064291452775985187",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064231685278089257",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Ayanami_rin0: 任何需要通过贬低别人抬高自己的方式获得自己那微薄的人生价值的人，都是可恨又可悲的人\n\n比如很多人会看不起用豆包的人，有时候我也会，但说不定人家就是上年纪了或者是文科生呢，没什么错吧\n\n人生需要不断修行🙏纠正自己的傲慢和偏见"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2055822314969665536",
+        "conversation_id": "2064291452775985187",
+        "created_at": "2026-06-09T10:20:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T11:20:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064291452775985187"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1597605170502062080",
+              "start": 3,
+              "username": "Ayanami_rin0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064291452775985187",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064231685278089257",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Ayanami_rin0: 任何需要通过贬低别人抬高自己的方式获得自己那微薄的人生价值的人，都是可恨又可悲的人\n\n比如很多人会看不起用豆包的人，有时候我也会，但说不定人家就是上年纪了或者是文科生呢，没什么错吧\n\n人生需要不断修行🙏纠正自己的傲慢和偏见"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1597605170502062080",
+        "conversation_id": "2064231685278089257",
+        "created_at": "2026-06-09T06:22:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T07:22:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064231685278089257"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2064231685278089257",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 389,
+          "like_count": 16,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "任何需要通过贬低别人抬高自己的方式获得自己那微薄的人生价值的人，都是可恨又可悲的人\n\n比如很多人会看不起用豆包的人，有时候我也会，但说不定人家就是上年纪了或者是文科生呢，没什么错吧\n\n人生需要不断修行🙏纠正自己的傲慢和偏见"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-17T01:27:33.000Z",
+        "description": "同类回fo，至于是什么同类x不让我说/点赞狂魔，只互动不发推/查成分请翻回复or 去🦋 @aeglepotato / https://t.co/C8vIKrKVNf",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 56,
+                "start": 44,
+                "username": "aeglepotato"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/aeglepotato",
+                "end": 82,
+                "expanded_url": "https://ngl.link/aeglepotato",
+                "start": 59,
+                "url": "https://t.co/C8vIKrKVNf"
+              }
+            ]
+          }
+        },
+        "id": "2055822314969665536",
+        "name": "🌈ALLice☃️赛博幽灵",
+        "pinned_tweet_id": "2056519884301877431",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055823521440301056/FmjUDDvC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 48,
+          "following_count": 91,
+          "like_count": 2480,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 138
+        },
+        "username": "GrievousPotato1",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-29T14:55:41.000Z",
+        "description": "只管开心,无需正常。\n大龄术后MTF，（某二次元）Unity客户端，对什么都感兴趣\n水中寒月如雪，指尖轻点融解， 断桥是否下过雪🫖糊满腻子的垃圾场于美丽的新世界🍨喜欢吃杨梅冰粉雪绵豆沙和马桶盖子 世界上最幸福的人\n#啊呀纳米相册  #小绫的诗歌日记本 #小绫饭店  #aynm吃什么 #aynm旅行日记",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 114,
+                "start": 107,
+                "tag": "啊呀纳米相册"
+              },
+              {
+                "end": 125,
+                "start": 116,
+                "tag": "小绫的诗歌日记本"
+              },
+              {
+                "end": 131,
+                "start": 126,
+                "tag": "小绫饭店"
+              },
+              {
+                "end": 141,
+                "start": 133,
+                "tag": "aynm吃什么"
+              },
+              {
+                "end": 151,
+                "start": 142,
+                "tag": "aynm旅行日记"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/ayanami_rin",
+                "end": 23,
+                "expanded_url": "https://t.me/ayanami_rin",
+                "start": 0,
+                "url": "https://t.co/scHs3L2HGT"
+              }
+            ]
+          }
+        },
+        "id": "1597605170502062080",
+        "location": "美丽而纯洁无瑕的少女总有一些小秘密，不是吗？",
+        "name": "涟漪aynm💨♿️🍼",
+        "pinned_tweet_id": "2061116133726716255",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978177217856487424/_yDj4ynS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4575,
+          "following_count": 855,
+          "like_count": 18077,
+          "listed_count": 13,
+          "media_count": 1662,
+          "tweet_count": 10806
+        },
+        "url": "https://t.co/scHs3L2HGT",
+        "username": "Ayanami_rin0",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2055822314969665536",
+    "conversation_id": "2055247167926001847",
+    "created_at": "2026-05-17T04:54:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-17T05:54:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2055874599686906057"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2054912328978817024",
+          "start": 0,
+          "username": "jiuyouforwhite2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055874599686906057",
+    "in_reply_to_user_id": "2054912328978817024",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055247167926001847",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jiuyouforwhite2 有种荒诞感"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 431,
+        "media_key": "3_2055246982655152128",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIW0PdbakAAKXlm.jpg",
+        "width": 1236
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2055822314969665536",
+        "conversation_id": "2055247167926001847",
+        "created_at": "2026-05-17T04:54:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-17T05:54:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055874599686906057"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2054912328978817024",
+              "start": 0,
+              "username": "jiuyouforwhite2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055874599686906057",
+        "in_reply_to_user_id": "2054912328978817024",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055247167926001847",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jiuyouforwhite2 有种荒诞感"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2055246982655152128"
+          ]
+        },
+        "author_id": "2054912328978817024",
+        "conversation_id": "2055247167926001847",
+        "created_at": "2026-05-15T11:21:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-15T12:21:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055247167926001847"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/OLavqZVe4m",
+              "end": 45,
+              "expanded_url": "https://x.com/jiuyouforwhite2/status/2055247167926001847/photo/1",
+              "media_key": "3_2055246982655152128",
+              "start": 22,
+              "url": "https://t.co/OLavqZVe4m"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055247167926001847",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 242,
+          "like_count": 13,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "记录一下转世后的第一个follows me https://t.co/OLavqZVe4m"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-17T01:27:33.000Z",
+        "description": "",
+        "id": "2055822314969665536",
+        "name": "🌈ALLice☃️剧烈复活",
+        "pinned_tweet_id": "2055824887655121357",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055823521440301056/FmjUDDvC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 3,
+          "like_count": 1,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 7
+        },
+        "username": "GrievousPotato1",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-14T13:11:55.000Z",
+        "description": "And in yours you say,Your teeth are falling out.\n主账号:@jiuyouforwhite/偏爱:@xingstaro/师长:@futi999139732/好友:@Lomyral114514、@h1zh816060",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 68,
+                "start": 53,
+                "username": "jiuyouforwhite"
+              },
+              {
+                "end": 82,
+                "start": 72,
+                "username": "xingstaro"
+              },
+              {
+                "end": 100,
+                "start": 86,
+                "username": "futi999139732"
+              },
+              {
+                "end": 118,
+                "start": 104,
+                "username": "Lomyral114514"
+              },
+              {
+                "end": 130,
+                "start": 119,
+                "username": "h1zh816060"
+              }
+            ]
+          }
+        },
+        "id": "2054912328978817024",
+        "location": "Hopelessly free",
+        "name": "反胃的YozoOba",
+        "pinned_tweet_id": "2055250672657064041",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054913557297610752/3NKcf-Cs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 158,
+          "following_count": 40,
+          "like_count": 24,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 26
+        },
+        "username": "jiuyouforwhite2",
+        "verified": false
+      }
+    ]
+  }
+}

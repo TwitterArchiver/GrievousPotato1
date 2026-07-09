@@ -1,0 +1,210 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2055822314969665536",
+    "conversation_id": "2065457749375304185",
+    "created_at": "2026-06-12T15:34:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-12T16:34:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065457749375304185"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1167640014869553152",
+          "start": 3,
+          "username": "4wheelslab"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065457749375304185",
+    "lang": "ko",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 894
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064973379057394044",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @4wheelslab: 아무도 널 구하러 오지 않는다는 사실을 직시하는 그 순간이 20대 중반 정도에 오면 딱 괜찮은듯.. 이게 너무 빨라도 슬프고 늦으면 좀 힘들어지고. 나이를 아무리 쳐먹어도 저걸 모르는 사람들은 답이 없고.."
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2055822314969665536",
+        "conversation_id": "2065457749375304185",
+        "created_at": "2026-06-12T15:34:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-12T16:34:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065457749375304185"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1167640014869553152",
+              "start": 3,
+              "username": "4wheelslab"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065457749375304185",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 894
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064973379057394044",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @4wheelslab: 아무도 널 구하러 오지 않는다는 사실을 직시하는 그 순간이 20대 중반 정도에 오면 딱 괜찮은듯.. 이게 너무 빨라도 슬프고 늦으면 좀 힘들어지고. 나이를 아무리 쳐먹어도 저걸 모르는 사람들은 답이 없고.."
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1167640014869553152",
+        "conversation_id": "2064973379057394044",
+        "created_at": "2026-06-11T07:29:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-11T08:29:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064973379057394044"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2064973379057394044",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 647,
+          "impression_count": 317628,
+          "like_count": 2610,
+          "quote_count": 218,
+          "reply_count": 2,
+          "retweet_count": 894
+        },
+        "reply_settings": "everyone",
+        "text": "아무도 널 구하러 오지 않는다는 사실을 직시하는 그 순간이 20대 중반 정도에 오면 딱 괜찮은듯.. 이게 너무 빨라도 슬프고 늦으면 좀 힘들어지고. 나이를 아무리 쳐먹어도 저걸 모르는 사람들은 답이 없고.."
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-17T01:27:33.000Z",
+        "description": "同类回fo，至于是什么同类x不让我说/点赞狂魔/查成分请翻回复or 去🦋 @aeglepotato / https://t.co/C8vIKrLtCN",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 49,
+                "start": 37,
+                "username": "aeglepotato"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/aeglepotato",
+                "end": 75,
+                "expanded_url": "https://ngl.link/aeglepotato",
+                "start": 52,
+                "url": "https://t.co/C8vIKrLtCN"
+              }
+            ]
+          }
+        },
+        "id": "2055822314969665536",
+        "name": "🌈ALLice☃️赛博幽灵",
+        "pinned_tweet_id": "2064878659698102753",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055823521440301056/FmjUDDvC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 61,
+          "following_count": 114,
+          "like_count": 3274,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 193
+        },
+        "username": "GrievousPotato1",
+        "verified": false
+      },
+      {
+        "created_at": "2019-08-31T03:27:45.000Z",
+        "description": "📈🏘️₿ 워너비 본업짱짱맨 & 본업주도성장 👩‍🦰 주식 부동산 크립토는 거들뿐 / 시간과 의사결정 이 두가지를 인생에서 소중히 여기고자 합니다",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "blog.naver.com/gopricing",
+                "end": 23,
+                "expanded_url": "https://blog.naver.com/gopricing",
+                "start": 0,
+                "url": "https://t.co/qLf8b5vqWK"
+              }
+            ]
+          }
+        },
+        "id": "1167640014869553152",
+        "location": "South Korea ",
+        "name": "포휠즈📈",
+        "pinned_tweet_id": "2036320509135348037",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1913812247476084736/NYO6zL6B_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3918,
+          "following_count": 794,
+          "like_count": 36567,
+          "listed_count": 18,
+          "media_count": 1369,
+          "tweet_count": 28916
+        },
+        "url": "https://t.co/qLf8b5vqWK",
+        "username": "4wheelslab",
+        "verified": true
+      }
+    ]
+  }
+}

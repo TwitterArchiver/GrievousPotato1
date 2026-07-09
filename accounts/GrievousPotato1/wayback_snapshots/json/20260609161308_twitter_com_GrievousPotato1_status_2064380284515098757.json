@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2055822314969665536",
+    "conversation_id": "2064355539782598951",
+    "created_at": "2026-06-09T16:13:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-09T17:13:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064380284515098757"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1287313244693000193",
+          "start": 0,
+          "username": "dsknzb"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064380284515098757",
+    "in_reply_to_user_id": "1287313244693000193",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064355539782598951",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@dsknzb 对啊我一直以为性同意是18岁，因为我从小到大玩的游戏只要是有色情内容都是标的18+，虚拟的色情内容要18岁以上，但现实的性却只需要14岁，怎么想都觉得奇怪吧……"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2055822314969665536",
+        "conversation_id": "2064355539782598951",
+        "created_at": "2026-06-09T16:13:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T17:13:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064380284515098757"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1287313244693000193",
+              "start": 0,
+              "username": "dsknzb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064380284515098757",
+        "in_reply_to_user_id": "1287313244693000193",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064355539782598951",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@dsknzb 对啊我一直以为性同意是18岁，因为我从小到大玩的游戏只要是有色情内容都是标的18+，虚拟的色情内容要18岁以上，但现实的性却只需要14岁，怎么想都觉得奇怪吧……"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1287313244693000193",
+        "conversation_id": "2064355539782598951",
+        "created_at": "2026-06-09T14:34:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T15:34:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064355539782598951"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/dsknzb/status/…",
+              "end": 100,
+              "expanded_url": "https://twitter.com/dsknzb/status/2064350020917494169",
+              "start": 77,
+              "url": "https://t.co/v7M9sMl83B"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064355539782598951",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 74,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064350020917494169",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "不拿游戏比，16岁才能骑共享电动车，这就更那什么了吧！所有无所谓的事情都有稍高的年龄限制，唯独在性行为上的规定那么小，性行为是14女孩一个人就能做的吗？ https://t.co/v7M9sMl83B"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-17T01:27:33.000Z",
+        "description": "同类回fo，至于是什么同类x不让我说/点赞狂魔，只互动不发推/查成分请翻回复or 去🦋 @aeglepotato / https://t.co/C8vIKrKVNf",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 56,
+                "start": 44,
+                "username": "aeglepotato"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/aeglepotato",
+                "end": 82,
+                "expanded_url": "https://ngl.link/aeglepotato",
+                "start": 59,
+                "url": "https://t.co/C8vIKrKVNf"
+              }
+            ]
+          }
+        },
+        "id": "2055822314969665536",
+        "name": "🌈ALLice☃️赛博幽灵",
+        "pinned_tweet_id": "2056519884301877431",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055823521440301056/FmjUDDvC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 50,
+          "following_count": 95,
+          "like_count": 2648,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 153
+        },
+        "username": "GrievousPotato1",
+        "verified": false
+      },
+      {
+        "created_at": "2020-07-26T09:06:18.000Z",
+        "description": "病み裏垢🚫  \nhttps://t.co/UQQWQB3ylm",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ting67955",
+                "end": 31,
+                "expanded_url": "https://ngl.link/ting67955",
+                "start": 8,
+                "url": "https://t.co/UQQWQB3ylm"
+              }
+            ]
+          }
+        },
+        "id": "1287313244693000193",
+        "location": "宇宙空間🚪520",
+        "name": "南极磷虾",
+        "pinned_tweet_id": "2025259813027090925",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1760030336019468289/-6yrVg5q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 175,
+          "following_count": 2247,
+          "like_count": 16251,
+          "listed_count": 2,
+          "media_count": 377,
+          "tweet_count": 12726
+        },
+        "username": "dsknzb",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,255 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1863219086764695552"
+      ],
+      "media_source_tweet_id": [
+        "1863219089306497370"
+      ]
+    },
+    "author_id": "2055822314969665536",
+    "conversation_id": "2065592714276569115",
+    "created_at": "2026-06-13T00:30:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-13T01:30:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065592714276569115"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1771946266517184512",
+          "start": 3,
+          "username": "zawamekish"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/z01y6Ybhyi",
+          "end": 43,
+          "expanded_url": "https://x.com/dumbsillyslutt/status/1863219089306497370/photo/1",
+          "media_key": "3_1863219086764695552",
+          "start": 20,
+          "url": "https://t.co/z01y6Ybhyi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065592714276569115",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 45
+    },
+    "referenced_tweets": [
+      {
+        "id": "1863219089306497370",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @zawamekish: ;-; https://t.co/z01y6Ybhyi"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 625,
+        "media_key": "3_1863219086764695552",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gdt74z1WYAAr2q6.jpg",
+        "width": 1158
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1863219086764695552"
+          ],
+          "media_source_tweet_id": [
+            "1863219089306497370"
+          ]
+        },
+        "author_id": "2055822314969665536",
+        "conversation_id": "2065592714276569115",
+        "created_at": "2026-06-13T00:30:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-13T01:30:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065592714276569115"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1771946266517184512",
+              "start": 3,
+              "username": "zawamekish"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/z01y6Ybhyi",
+              "end": 43,
+              "expanded_url": "https://x.com/dumbsillyslutt/status/1863219089306497370/photo/1",
+              "media_key": "3_1863219086764695552",
+              "start": 20,
+              "url": "https://t.co/z01y6Ybhyi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065592714276569115",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 45
+        },
+        "referenced_tweets": [
+          {
+            "id": "1863219089306497370",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @zawamekish: ;-; https://t.co/z01y6Ybhyi"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1863219086764695552"
+          ]
+        },
+        "author_id": "1771946266517184512",
+        "conversation_id": "1863219089306497370",
+        "created_at": "2024-12-01T13:50:22.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-01T14:50:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1863219089306497370"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/z01y6Ybhyi",
+              "end": 27,
+              "expanded_url": "https://x.com/dumbsillyslutt/status/1863219089306497370/photo/1",
+              "media_key": "3_1863219086764695552",
+              "start": 4,
+              "url": "https://t.co/z01y6Ybhyi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1863219089306497370",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 22,
+          "impression_count": 14775,
+          "like_count": 171,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 45
+        },
+        "reply_settings": "everyone",
+        "text": ";-; https://t.co/z01y6Ybhyi"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-17T01:27:33.000Z",
+        "description": "同类回fo，至于是什么同类x不让我说/点赞狂魔/查成分请翻回复or 去🦋 @aeglepotato / https://t.co/C8vIKrLtCN",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 49,
+                "start": 37,
+                "username": "aeglepotato"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/aeglepotato",
+                "end": 75,
+                "expanded_url": "https://ngl.link/aeglepotato",
+                "start": 52,
+                "url": "https://t.co/C8vIKrLtCN"
+              }
+            ]
+          }
+        },
+        "id": "2055822314969665536",
+        "name": "🌈ALLice☃️赛博幽灵",
+        "pinned_tweet_id": "2064878659698102753",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055823521440301056/FmjUDDvC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 63,
+          "following_count": 114,
+          "like_count": 3314,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 195
+        },
+        "username": "GrievousPotato1",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-24T17:05:25.000Z",
+        "description": "edtwt 𖤐 he/him ᶻ 𝗓 𐰁 .ᐟ\n ㅤㅤㅤㅤㅤ",
+        "id": "1771946266517184512",
+        "location": "ᝰ🚬",
+        "name": "kael ´ཀ` (-3,4/10kg)",
+        "pinned_tweet_id": "2056852816958746791",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056850732301553664/oc45ephX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 794,
+          "following_count": 702,
+          "like_count": 1797,
+          "listed_count": 3,
+          "media_count": 597,
+          "tweet_count": 4001
+        },
+        "username": "zawamekish",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2055822314969665536",
+    "conversation_id": "2069728943033237980",
+    "created_at": "2026-06-25T00:19:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-25T01:19:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2069938455329558557"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2043952988557803520",
+          "start": 0,
+          "username": "tngxngxng13171"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069938455329558557",
+    "in_reply_to_user_id": "2043952988557803520",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069925088821149748",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@tngxngxng13171 这也太恐怖🥲"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2055822314969665536",
+        "conversation_id": "2069728943033237980",
+        "created_at": "2026-06-25T00:19:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-25T01:19:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069938455329558557"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2043952988557803520",
+              "start": 0,
+              "username": "tngxngxng13171"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069938455329558557",
+        "in_reply_to_user_id": "2043952988557803520",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069925088821149748",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tngxngxng13171 这也太恐怖🥲"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2043952988557803520",
+        "conversation_id": "2069728943033237980",
+        "created_at": "2026-06-24T23:26:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-25T00:26:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069925088821149748"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2055822314969665536",
+              "start": 0,
+              "username": "GrievousPotato1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069925088821149748",
+        "in_reply_to_user_id": "2055822314969665536",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 16,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069728943033237980",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@GrievousPotato1 國內精神衛生中心基本上是為了維穩，而不是治病，感覺你對社會有危害性（包括嚴重的紫餐自殺傾向）沒辦法通過藥物與家屬監管的情況下會哄騙監護人簽署非自願入院知情同意書（我家屬已經被哄騙簽署了）然後只要家裡人管不住打個報警電話要求送精神衛生中心就可以直接給你強制入院"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-17T01:27:33.000Z",
+        "description": "同类互fo，成分请查看@aeglepotato/点赞狂魔/备用@aeglepotato /🦋@aeglepotato /匿名提问箱https://t.co/C8vIKrLtCN",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 11,
+                "username": "aeglepotato"
+              },
+              {
+                "end": 43,
+                "start": 31,
+                "username": "aeglepotato"
+              },
+              {
+                "end": 58,
+                "start": 46,
+                "username": "aeglepotato"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/aeglepotato",
+                "end": 88,
+                "expanded_url": "https://ngl.link/aeglepotato",
+                "start": 65,
+                "url": "https://t.co/C8vIKrLtCN"
+              }
+            ]
+          }
+        },
+        "id": "2055822314969665536",
+        "name": "🌈ALLice☃️赛博幽灵",
+        "pinned_tweet_id": "2064878659698102753",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067517312576421888/aGH7Myxd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 138,
+          "following_count": 207,
+          "like_count": 6029,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 405
+        },
+        "url": "",
+        "username": "GrievousPotato1",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-14T07:22:50.000Z",
+        "description": "ご指定のページはございません。\n\n主要遊玩prsk/推し💗宵崎奏、曉山瑞希、望月穗波、日野森志步/團體 推しLeoneed&25時/會進行一些相關角色的cosplay",
+        "id": "2043952988557803520",
+        "location": "Hong Kong",
+        "name": "ご指定のページはございません。",
+        "pinned_tweet_id": "2069928793444340078",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048446214245691392/lQgtgY8z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 274,
+          "following_count": 219,
+          "like_count": 8670,
+          "listed_count": 0,
+          "media_count": 29,
+          "tweet_count": 560
+        },
+        "url": "",
+        "username": "tngxngxng13171",
+        "verified": false
+      }
+    ]
+  }
+}

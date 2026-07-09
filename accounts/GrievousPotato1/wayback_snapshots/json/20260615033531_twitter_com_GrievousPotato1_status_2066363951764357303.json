@@ -1,0 +1,223 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2055822314969665536",
+    "conversation_id": "2066094614256226602",
+    "created_at": "2026-06-15T03:35:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-15T04:35:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066363951764357303"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1233076645235310592",
+          "start": 0,
+          "username": "youryuu_yangliu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066363951764357303",
+    "in_reply_to_user_id": "1233076645235310592",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066341116987969672",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@youryuu_yangliu 人每天要喝很多水，不喝水就会极度渴望喝水，不喝水就会发疯，所以水也是非列管成瘾物质👆🤓"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2055822314969665536",
+        "conversation_id": "2066094614256226602",
+        "created_at": "2026-06-15T03:35:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-15T04:35:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066363951764357303"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1233076645235310592",
+              "start": 0,
+              "username": "youryuu_yangliu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066363951764357303",
+        "in_reply_to_user_id": "1233076645235310592",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066341116987969672",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@youryuu_yangliu 人每天要喝很多水，不喝水就会极度渴望喝水，不喝水就会发疯，所以水也是非列管成瘾物质👆🤓"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1233076645235310592",
+        "conversation_id": "2066094614256226602",
+        "created_at": "2026-06-15T02:04:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-15T03:04:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066341116987969672"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2055822314969665536",
+              "start": 0,
+              "username": "GrievousPotato1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066341116987969672",
+        "in_reply_to_user_id": "2055822314969665536",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 18,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066094614256226602",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@GrievousPotato1 大米是不是也是非列管成瘾物质"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-17T01:27:33.000Z",
+        "description": "同类互fo，成分请查看@aeglepotato/点赞狂魔/备用@aeglepotato /🦋@aeglepotato /https://t.co/C8vIKrLtCN",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 11,
+                "username": "aeglepotato"
+              },
+              {
+                "end": 43,
+                "start": 31,
+                "username": "aeglepotato"
+              },
+              {
+                "end": 58,
+                "start": 46,
+                "username": "aeglepotato"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/aeglepotato",
+                "end": 83,
+                "expanded_url": "https://ngl.link/aeglepotato",
+                "start": 60,
+                "url": "https://t.co/C8vIKrLtCN"
+              }
+            ]
+          }
+        },
+        "id": "2055822314969665536",
+        "name": "🌈ALLice☃️赛博幽灵",
+        "pinned_tweet_id": "2064878659698102753",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055823521440301056/FmjUDDvC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 83,
+          "following_count": 142,
+          "like_count": 3913,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 253
+        },
+        "username": "GrievousPotato1",
+        "verified": false
+      },
+      {
+        "created_at": "2020-02-27T17:09:29.000Z",
+        "description": "故事外的观察者\n失去言语的非人之物 脱离现实的存在\n能交流的样子是人类的拟态\n偽物\n不稳定态 不定形物\n精神障碍者\n\n不卖药",
+        "id": "1233076645235310592",
+        "name": "楊柳",
+        "pinned_tweet_id": "1950432998702063876",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1931029557244776448/MV_H1Z0d_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 102,
+          "following_count": 3586,
+          "like_count": 4871,
+          "listed_count": 0,
+          "media_count": 105,
+          "tweet_count": 363
+        },
+        "username": "youryuu_yangliu",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,300 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2066379998928531456"
+      ],
+      "media_source_tweet_id": [
+        "2066380005857452443"
+      ]
+    },
+    "author_id": "2055822314969665536",
+    "conversation_id": "2066525779039543340",
+    "created_at": "2026-06-15T14:18:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-15T15:18:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066525779039543340"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 20,
+          "start": 14,
+          "tag": "shtwt"
+        },
+        {
+          "end": 25,
+          "start": 22,
+          "tag": "sh"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1985970732954968064",
+          "start": 3,
+          "username": "sNn_nano"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/GAIM9ueYyO",
+          "end": 49,
+          "expanded_url": "https://x.com/sNn_nano/status/2066380005857452443/photo/1",
+          "media_key": "3_2066379998928531456",
+          "start": 26,
+          "url": "https://t.co/GAIM9ueYyO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066525779039543340",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 25
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066380005857452443",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @sNn_nano: #shtwt  #sh https://t.co/GAIM9ueYyO"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2066379998928531456",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HK1BqS8bcAAAJEj.jpg",
+        "width": 1152
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2066379998928531456"
+          ],
+          "media_source_tweet_id": [
+            "2066380005857452443"
+          ]
+        },
+        "author_id": "2055822314969665536",
+        "conversation_id": "2066525779039543340",
+        "created_at": "2026-06-15T14:18:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-15T15:18:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066525779039543340"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 20,
+              "start": 14,
+              "tag": "shtwt"
+            },
+            {
+              "end": 25,
+              "start": 22,
+              "tag": "sh"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1985970732954968064",
+              "start": 3,
+              "username": "sNn_nano"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/GAIM9ueYyO",
+              "end": 49,
+              "expanded_url": "https://x.com/sNn_nano/status/2066380005857452443/photo/1",
+              "media_key": "3_2066379998928531456",
+              "start": 26,
+              "url": "https://t.co/GAIM9ueYyO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066525779039543340",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 25
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066380005857452443",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @sNn_nano: #shtwt  #sh https://t.co/GAIM9ueYyO"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2066379998928531456"
+          ]
+        },
+        "author_id": "1985970732954968064",
+        "conversation_id": "2066380005857452443",
+        "created_at": "2026-06-15T04:39:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-15T05:39:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066380005857452443"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 6,
+              "start": 0,
+              "tag": "shtwt"
+            },
+            {
+              "end": 11,
+              "start": 8,
+              "tag": "sh"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/GAIM9ueYyO",
+              "end": 35,
+              "expanded_url": "https://x.com/sNn_nano/status/2066380005857452443/photo/1",
+              "media_key": "3_2066379998928531456",
+              "start": 12,
+              "url": "https://t.co/GAIM9ueYyO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066380005857452443",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 11,
+          "impression_count": 662,
+          "like_count": 200,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 25
+        },
+        "reply_settings": "everyone",
+        "text": "#shtwt  #sh https://t.co/GAIM9ueYyO"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-17T01:27:33.000Z",
+        "description": "同类互fo，成分请查看@aeglepotato/点赞狂魔/备用@aeglepotato /🦋@aeglepotato /https://t.co/C8vIKrLtCN",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 11,
+                "username": "aeglepotato"
+              },
+              {
+                "end": 43,
+                "start": 31,
+                "username": "aeglepotato"
+              },
+              {
+                "end": 58,
+                "start": 46,
+                "username": "aeglepotato"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/aeglepotato",
+                "end": 83,
+                "expanded_url": "https://ngl.link/aeglepotato",
+                "start": 60,
+                "url": "https://t.co/C8vIKrLtCN"
+              }
+            ]
+          }
+        },
+        "id": "2055822314969665536",
+        "name": "🌈ALLice☃️赛博幽灵",
+        "pinned_tweet_id": "2064878659698102753",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055823521440301056/FmjUDDvC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 90,
+          "following_count": 149,
+          "like_count": 4031,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 260
+        },
+        "username": "GrievousPotato1",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-05T07:21:53.000Z",
+        "description": "໒꒱· ﾟ°*:.。.",
+        "id": "1985970732954968064",
+        "name": "ｼ㌨",
+        "pinned_tweet_id": "2050566099885043979",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037132218884296704/XZQUGDqx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 154,
+          "following_count": 19,
+          "like_count": 1065,
+          "listed_count": 1,
+          "media_count": 49,
+          "tweet_count": 245
+        },
+        "username": "sNn_nano",
+        "verified": false
+      }
+    ]
+  }
+}

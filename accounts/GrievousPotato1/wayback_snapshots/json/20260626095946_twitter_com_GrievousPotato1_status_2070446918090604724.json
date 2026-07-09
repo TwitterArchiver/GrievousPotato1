@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2055822314969665536",
+    "conversation_id": "2070341423040233801",
+    "created_at": "2026-06-26T09:59:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-26T10:59:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070446918090604724"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "2062164542541479936",
+          "start": 0,
+          "username": "pai6676"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070446918090604724",
+    "in_reply_to_user_id": "2062164542541479936",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070341423040233801",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@pai6676 菜单来了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2055822314969665536",
+        "conversation_id": "2070341423040233801",
+        "created_at": "2026-06-26T09:59:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-26T10:59:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070446918090604724"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2062164542541479936",
+              "start": 0,
+              "username": "pai6676"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070446918090604724",
+        "in_reply_to_user_id": "2062164542541479936",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070341423040233801",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@pai6676 菜单来了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2062164542541479936",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974596740190208",
+              "name": "CPG"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10027048428",
+              "name": "Delsym"
+            }
+          }
+        ],
+        "conversation_id": "2070341423040233801",
+        "created_at": "2026-06-26T03:00:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-26T04:00:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2070341423040233801"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2070341423040233801",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 28,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "今天是國際禁毒日 我宣佈我今天將不濫用lsdlsodpt加巴喷丁 克利加巴林 美洛加巴林 美金刚 巴氯芬 右美沙芬普瑞巴林噻那普汀 delsym 白兔bron 噻吩丙胺 2-苯乙胺 菲尼布特 2M2B 4-ho-met N2o  IC-26  escaline DPT 3-meo-pce 3-Me-Pcpy MK801 5-meo-amt DMT 5-HO-DMT 加波沙朵 加兰他敏"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-17T01:27:33.000Z",
+        "description": "同类互fo，成分请查看@aeglepotato/点赞狂魔/备用@aeglepotato /🦋@aeglepotato /匿名提问箱https://t.co/C8vIKrKVNf",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 11,
+                "username": "aeglepotato"
+              },
+              {
+                "end": 43,
+                "start": 31,
+                "username": "aeglepotato"
+              },
+              {
+                "end": 58,
+                "start": 46,
+                "username": "aeglepotato"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/aeglepotato",
+                "end": 88,
+                "expanded_url": "https://ngl.link/aeglepotato",
+                "start": 65,
+                "url": "https://t.co/C8vIKrKVNf"
+              }
+            ]
+          }
+        },
+        "id": "2055822314969665536",
+        "name": "⛄ALLice🌈赛博幽灵",
+        "pinned_tweet_id": "2064878659698102753",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067517312576421888/aGH7Myxd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 141,
+          "following_count": 211,
+          "like_count": 6580,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 421
+        },
+        "url": "",
+        "username": "GrievousPotato1",
+        "verified": false
+      },
+      {
+        "created_at": "2026-06-03T13:30:04.000Z",
+        "description": "我想要让所有oder获得爱\n患有边缘性人格 （BPD）\n歡迎互fo\n（讨厌转性别者）",
+        "id": "2062164542541479936",
+        "name": "愈美戰士",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062180259752017920/-RDuVZe4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14,
+          "following_count": 20,
+          "like_count": 57,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 281
+        },
+        "url": "",
+        "username": "pai6676",
+        "verified": false
+      }
+    ]
+  }
+}

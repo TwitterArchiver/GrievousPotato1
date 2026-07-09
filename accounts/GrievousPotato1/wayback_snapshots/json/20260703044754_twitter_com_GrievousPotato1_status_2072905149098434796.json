@@ -1,0 +1,164 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2072905146359513088"
+      ]
+    },
+    "author_id": "2055822314969665536",
+    "conversation_id": "2072905149098434796",
+    "created_at": "2026-07-03T04:47:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-03T05:47:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2072905149098434796"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/EofyWFBtxn",
+          "end": 43,
+          "expanded_url": "https://x.com/GrievousPotato1/status/2072905149098434796/photo/1",
+          "media_key": "3_2072905146359513088",
+          "start": 20,
+          "url": "https://t.co/EofyWFBtxn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072905149098434796",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "看书的时候看到这段，深有感触，于是摘抄 https://t.co/EofyWFBtxn"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2072905146359513088",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMRwP3XWgAA3uNF.jpg",
+        "width": 534
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2072905146359513088"
+          ]
+        },
+        "author_id": "2055822314969665536",
+        "conversation_id": "2072905149098434796",
+        "created_at": "2026-07-03T04:47:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-03T05:47:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2072905149098434796"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/EofyWFBtxn",
+              "end": 43,
+              "expanded_url": "https://x.com/GrievousPotato1/status/2072905149098434796/photo/1",
+              "media_key": "3_2072905146359513088",
+              "start": 20,
+              "url": "https://t.co/EofyWFBtxn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072905149098434796",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "看书的时候看到这段，深有感触，于是摘抄 https://t.co/EofyWFBtxn"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-17T01:27:33.000Z",
+        "description": "同类互fo，成分请查看@aeglepotato/点赞狂魔/平时喜欢说怪话和发癫/备用@aeglepotato /🦋@aeglepotato /匿名提问箱https://t.co/C8vIKrLtCN",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 11,
+                "username": "aeglepotato"
+              },
+              {
+                "end": 54,
+                "start": 42,
+                "username": "aeglepotato"
+              },
+              {
+                "end": 69,
+                "start": 57,
+                "username": "aeglepotato"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/aeglepotato",
+                "end": 99,
+                "expanded_url": "https://ngl.link/aeglepotato",
+                "start": 76,
+                "url": "https://t.co/C8vIKrLtCN"
+              }
+            ]
+          }
+        },
+        "id": "2055822314969665536",
+        "name": "⛄ALLice🌈赛博幽灵",
+        "pinned_tweet_id": "2064878659698102753",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067517312576421888/aGH7Myxd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 205,
+          "following_count": 272,
+          "like_count": 8789,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 557
+        },
+        "url": "",
+        "username": "GrievousPotato1",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,200 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2055822314969665536",
+    "conversation_id": "2066072767473066488",
+    "created_at": "2026-06-14T08:18:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-14T09:18:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066072767473066488"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1972894231326072832",
+          "start": 3,
+          "username": "qptmvj"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066072767473066488",
+    "lang": "ko",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 356
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065821803558351089",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @qptmvj: 멘탈이 약하고 결핍이 심하며 내면이 ㅄ인 사람들은 사소한 거에 트리거 잡혀서 성질을 버럭버럭 내는데, 자기 성질 받아 줄 특정 대상(만만한 상대 예시: 가족)에게만 그러는 특징이 있음. 내로남불은 덤. 중요하게 생각해야 할 것들…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2055822314969665536",
+        "conversation_id": "2066072767473066488",
+        "created_at": "2026-06-14T08:18:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T09:18:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066072767473066488"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1972894231326072832",
+              "start": 3,
+              "username": "qptmvj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066072767473066488",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 356
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065821803558351089",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @qptmvj: 멘탈이 약하고 결핍이 심하며 내면이 ㅄ인 사람들은 사소한 거에 트리거 잡혀서 성질을 버럭버럭 내는데, 자기 성질 받아 줄 특정 대상(만만한 상대 예시: 가족)에게만 그러는 특징이 있음. 내로남불은 덤. 중요하게 생각해야 할 것들…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1972894231326072832",
+        "conversation_id": "2065821803558351089",
+        "created_at": "2026-06-13T15:41:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-13T16:41:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065821803558351089"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2065821803558351089",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 638,
+          "impression_count": 93160,
+          "like_count": 1247,
+          "quote_count": 159,
+          "reply_count": 14,
+          "retweet_count": 356
+        },
+        "reply_settings": "everyone",
+        "text": "멘탈이 약하고 결핍이 심하며 내면이 ㅄ인 사람들은 사소한 거에 트리거 잡혀서 성질을 버럭버럭 내는데, 자기 성질 받아 줄 특정 대상(만만한 상대 예시: 가족)에게만 그러는 특징이 있음. 내로남불은 덤. 중요하게 생각해야 할 것들은 뒤로 미루고 별 시덥잖은 일들을 중요시 여기는 경향도 있음."
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-17T01:27:33.000Z",
+        "description": "同类回fo，至于是什么同类x不让我说/点赞狂魔/备用@aeglepotato /🦋@aeglepotato /https://t.co/C8vIKrLtCN",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 38,
+                "start": 26,
+                "username": "aeglepotato"
+              },
+              {
+                "end": 53,
+                "start": 41,
+                "username": "aeglepotato"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/aeglepotato",
+                "end": 78,
+                "expanded_url": "https://ngl.link/aeglepotato",
+                "start": 55,
+                "url": "https://t.co/C8vIKrLtCN"
+              }
+            ]
+          }
+        },
+        "id": "2055822314969665536",
+        "name": "🌈ALLice☃️赛博幽灵",
+        "pinned_tweet_id": "2064878659698102753",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055823521440301056/FmjUDDvC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 72,
+          "following_count": 127,
+          "like_count": 3618,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 227
+        },
+        "username": "GrievousPotato1",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-30T05:20:29.000Z",
+        "description": "오타쿠 투자가 베스퍼 いいね.",
+        "id": "1972894231326072832",
+        "name": "Vesper",
+        "pinned_tweet_id": "2047643631755079725",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061591462165594112/v07C2pqW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1551,
+          "following_count": 310,
+          "like_count": 38298,
+          "listed_count": 5,
+          "media_count": 601,
+          "tweet_count": 11793
+        },
+        "username": "qptmvj",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,211 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2055822314969665536",
+    "conversation_id": "2064374606106886411",
+    "created_at": "2026-06-09T15:50:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-09T16:50:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064374606106886411"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1654332441010774019",
+          "start": 3,
+          "username": "btcbqr"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064374606106886411",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 42
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064268007069602085",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @btcbqr: 在中国如果在农村参加过白事，就会发现，\n任何人的死，除了子女，不会影响任何人的心情。参加丧事的人会热闹的打牌，玩闹，拼酒。\n甚至若是死者八九十岁，或者卧床已久。连你的子女都不会太多的悲痛，反而有种如释重负的轻松。…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2055822314969665536",
+        "conversation_id": "2064374606106886411",
+        "created_at": "2026-06-09T15:50:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T16:50:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064374606106886411"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1654332441010774019",
+              "start": 3,
+              "username": "btcbqr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064374606106886411",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 42
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064268007069602085",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @btcbqr: 在中国如果在农村参加过白事，就会发现，\n任何人的死，除了子女，不会影响任何人的心情。参加丧事的人会热闹的打牌，玩闹，拼酒。\n甚至若是死者八九十岁，或者卧床已久。连你的子女都不会太多的悲痛，反而有种如释重负的轻松。…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1654332441010774019",
+        "conversation_id": "2064268007069602085",
+        "created_at": "2026-06-09T08:46:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T09:46:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064268007069602085"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2064268007069602085",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "在中国如果在农村参加过白事，就会发现，\n任何人的死，除了子女，不会影响任何人的心情。参加丧事的人会热闹的打牌，玩闹，拼酒。\n甚至若是死者八九十岁，或者卧床已久。连你的子女都不会太多的悲痛，反而有种如释重负的轻松。\n所以说，你活在世上，并没有太多的人关注你，你去世也不会引起太多人的关心。\n如果活得畏首畏尾，怕伤了这个，惹了那个，一直为别人考虑，很少顾及自己。\n想到有一天自己死了，亲戚，朋友，同事嬉笑玩闹的场景，就明白，照顾好自己的情绪，自己的利益太重要了。\n来人世一趟，是为自己活的，只要不伤害人，不欠人情。\n活的自私点，没毛病。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 103,
+          "impression_count": 34019,
+          "like_count": 324,
+          "quote_count": 4,
+          "reply_count": 36,
+          "retweet_count": 42
+        },
+        "reply_settings": "everyone",
+        "text": "在中国如果在农村参加过白事，就会发现，\n任何人的死，除了子女，不会影响任何人的心情。参加丧事的人会热闹的打牌，玩闹，拼酒。\n甚至若是死者八九十岁，或者卧床已久。连你的子女都不会太多的悲痛，反而有种如释重负的轻松。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-17T01:27:33.000Z",
+        "description": "同类回fo，至于是什么同类x不让我说/点赞狂魔，只互动不发推/查成分请翻回复or 去🦋 @aeglepotato / https://t.co/C8vIKrKVNf",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 56,
+                "start": 44,
+                "username": "aeglepotato"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/aeglepotato",
+                "end": 82,
+                "expanded_url": "https://ngl.link/aeglepotato",
+                "start": 59,
+                "url": "https://t.co/C8vIKrKVNf"
+              }
+            ]
+          }
+        },
+        "id": "2055822314969665536",
+        "name": "🌈ALLice☃️赛博幽灵",
+        "pinned_tweet_id": "2056519884301877431",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055823521440301056/FmjUDDvC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 50,
+          "following_count": 95,
+          "like_count": 2629,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 151
+        },
+        "username": "GrievousPotato1",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-05T03:49:35.000Z",
+        "description": "全职炒币9年，20年牛市2万本金打到A7，没有套路，主打免费课程免费进群，每天分享交易知识带你穿越牛熊！",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/btcbqr",
+                "end": 23,
+                "expanded_url": "https://t.me/btcbqr",
+                "start": 0,
+                "url": "https://t.co/XKZOD4pFaA"
+              }
+            ]
+          }
+        },
+        "id": "1654332441010774019",
+        "location": "唯一TG：btcbqr👉",
+        "name": "Bitcoin.不求人",
+        "pinned_tweet_id": "2042836852311494799",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1755778120819564544/VN-W-jMH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 72575,
+          "following_count": 1025,
+          "like_count": 30083,
+          "listed_count": 319,
+          "media_count": 1494,
+          "tweet_count": 17837
+        },
+        "url": "https://t.co/XKZOD4pFaA",
+        "username": "btcbqr",
+        "verified": true
+      }
+    ]
+  }
+}

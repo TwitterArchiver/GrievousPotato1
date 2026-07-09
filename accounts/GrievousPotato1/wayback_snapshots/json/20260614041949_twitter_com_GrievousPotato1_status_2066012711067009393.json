@@ -1,0 +1,118 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2055822314969665536",
+    "conversation_id": "2066012711067009393",
+    "created_at": "2026-06-14T04:19:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-14T05:19:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2066012711067009393"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2066012711067009393",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "跟健全人说话很麻烦，解释来解释去只能换来不理解和傲慢的评头论足，能遇到一个不理解但尊重的健全人算是烧高香了……"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2055822314969665536",
+        "conversation_id": "2066012711067009393",
+        "created_at": "2026-06-14T04:19:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T05:19:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066012711067009393"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2066012711067009393",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "跟健全人说话很麻烦，解释来解释去只能换来不理解和傲慢的评头论足，能遇到一个不理解但尊重的健全人算是烧高香了……"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-17T01:27:33.000Z",
+        "description": "同类回fo，至于是什么同类x不让我说/点赞狂魔/备用@aeglepotato /🦋@aeglepotato /https://t.co/C8vIKrLtCN",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 38,
+                "start": 26,
+                "username": "aeglepotato"
+              },
+              {
+                "end": 53,
+                "start": 41,
+                "username": "aeglepotato"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/aeglepotato",
+                "end": 78,
+                "expanded_url": "https://ngl.link/aeglepotato",
+                "start": 55,
+                "url": "https://t.co/C8vIKrLtCN"
+              }
+            ]
+          }
+        },
+        "id": "2055822314969665536",
+        "name": "🌈ALLice☃️赛博幽灵",
+        "pinned_tweet_id": "2064878659698102753",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055823521440301056/FmjUDDvC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 71,
+          "following_count": 126,
+          "like_count": 3601,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 224
+        },
+        "username": "GrievousPotato1",
+        "verified": false
+      }
+    ]
+  }
+}

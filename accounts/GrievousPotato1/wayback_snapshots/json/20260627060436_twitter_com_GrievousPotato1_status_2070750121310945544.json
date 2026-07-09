@@ -1,0 +1,278 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2070712153368297472"
+      ],
+      "media_source_tweet_id": [
+        "2070712161811460409"
+      ]
+    },
+    "author_id": "2055822314969665536",
+    "conversation_id": "2070750121310945544",
+    "created_at": "2026-06-27T06:04:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-27T07:04:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070750121310945544"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1476198137589268480",
+          "start": 3,
+          "username": "N3kuv"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/bvvdONh8pM",
+          "end": 48,
+          "expanded_url": "https://x.com/N3kuv/status/2070712161811460409/photo/1",
+          "media_key": "3_2070712153368297472",
+          "start": 25,
+          "url": "https://t.co/bvvdONh8pM"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070750121310945544",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070712161811460409",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @N3kuv: 我把我能想到的药全打进去了 https://t.co/bvvdONh8pM"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1180,
+        "media_key": "3_2070712153368297472",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLylu32aAAADHbR.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2070712153368297472"
+          ],
+          "media_source_tweet_id": [
+            "2070712161811460409"
+          ]
+        },
+        "author_id": "2055822314969665536",
+        "conversation_id": "2070750121310945544",
+        "created_at": "2026-06-27T06:04:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-27T07:04:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070750121310945544"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1476198137589268480",
+              "start": 3,
+              "username": "N3kuv"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/bvvdONh8pM",
+              "end": 48,
+              "expanded_url": "https://x.com/N3kuv/status/2070712161811460409/photo/1",
+              "media_key": "3_2070712153368297472",
+              "start": 25,
+              "url": "https://t.co/bvvdONh8pM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070750121310945544",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070712161811460409",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @N3kuv: 我把我能想到的药全打进去了 https://t.co/bvvdONh8pM"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2070712153368297472"
+          ]
+        },
+        "author_id": "1476198137589268480",
+        "conversation_id": "2070712161811460409",
+        "created_at": "2026-06-27T03:33:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-27T04:33:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070712161811460409"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/bvvdONh8pM",
+              "end": 37,
+              "expanded_url": "https://x.com/N3kuv/status/2070712161811460409/photo/1",
+              "media_key": "3_2070712153368297472",
+              "start": 14,
+              "url": "https://t.co/bvvdONh8pM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070712161811460409",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 490,
+          "like_count": 16,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "我把我能想到的药全打进去了 https://t.co/bvvdONh8pM"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-17T01:27:33.000Z",
+        "description": "同类互fo，成分请查看@aeglepotato/点赞狂魔/备用@aeglepotato /🦋@aeglepotato /匿名提问箱https://t.co/C8vIKrKVNf",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 11,
+                "username": "aeglepotato"
+              },
+              {
+                "end": 43,
+                "start": 31,
+                "username": "aeglepotato"
+              },
+              {
+                "end": 58,
+                "start": 46,
+                "username": "aeglepotato"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/aeglepotato",
+                "end": 88,
+                "expanded_url": "https://ngl.link/aeglepotato",
+                "start": 65,
+                "url": "https://t.co/C8vIKrKVNf"
+              }
+            ]
+          }
+        },
+        "id": "2055822314969665536",
+        "name": "⛄ALLice🌈赛博幽灵",
+        "pinned_tweet_id": "2064878659698102753",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067517312576421888/aGH7Myxd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 146,
+          "following_count": 216,
+          "like_count": 6779,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 427
+        },
+        "url": "",
+        "username": "GrievousPotato1",
+        "verified": false
+      },
+      {
+        "created_at": "2021-12-29T14:29:24.000Z",
+        "description": "既往不咎/伴有精神病性症状的重度抑郁发作",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/nekocaline",
+                "end": 23,
+                "expanded_url": "https://t.me/nekocaline",
+                "start": 0,
+                "url": "https://t.co/y3ZllgnZVb"
+              }
+            ]
+          }
+        },
+        "id": "1476198137589268480",
+        "name": "分享4-keto-PCP不好体验",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068637245763174400/reRLmemx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 360,
+          "following_count": 500,
+          "like_count": 5443,
+          "listed_count": 0,
+          "media_count": 29,
+          "tweet_count": 420
+        },
+        "url": "https://t.co/y3ZllgnZVb",
+        "username": "N3kuv",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,271 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2055822314969665536",
+    "conversation_id": "2066707419384733769",
+    "created_at": "2026-06-16T02:20:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-16T03:20:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066707419384733769"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2063610122404827136",
+          "start": 3,
+          "username": "drulpup"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066707419384733769",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 234
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066365232910565535",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @drulpup: beans. first time doing my upper arms lol. \n\nsfx makeup enhanced with AI || not real || fake || anatomy guide for educational…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1499,
+        "media_key": "3_2066365229752266752",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HK00OneaMAA424e.jpg",
+        "width": 1434
+      },
+      {
+        "height": 1664,
+        "media_key": "3_2066365229752356864",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HK00OnebkAAGnr7.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2055822314969665536",
+        "conversation_id": "2066707419384733769",
+        "created_at": "2026-06-16T02:20:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-16T03:20:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066707419384733769"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2063610122404827136",
+              "start": 3,
+              "username": "drulpup"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066707419384733769",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 234
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066365232910565535",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @drulpup: beans. first time doing my upper arms lol. \n\nsfx makeup enhanced with AI || not real || fake || anatomy guide for educational…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2066365229752266752",
+            "3_2066365229752356864"
+          ]
+        },
+        "author_id": "2063610122404827136",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2066365232910565535",
+        "created_at": "2026-06-15T03:40:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-15T04:40:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066365232910565535"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/UDb7A9Vtll",
+              "end": 158,
+              "expanded_url": "https://x.com/drulpup/status/2066365232910565535/photo/1",
+              "media_key": "3_2066365229752266752",
+              "start": 135,
+              "url": "https://t.co/UDb7A9Vtll"
+            },
+            {
+              "display_url": "pic.x.com/UDb7A9Vtll",
+              "end": 158,
+              "expanded_url": "https://x.com/drulpup/status/2066365232910565535/photo/1",
+              "media_key": "3_2066365229752356864",
+              "start": 135,
+              "url": "https://t.co/UDb7A9Vtll"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066365232910565535",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 137,
+          "impression_count": 9712,
+          "like_count": 2503,
+          "quote_count": 1,
+          "reply_count": 4,
+          "retweet_count": 234
+        },
+        "reply_settings": "everyone",
+        "text": "beans. first time doing my upper arms lol. \n\nsfx makeup enhanced with AI || not real || fake || anatomy guide for educational purposes https://t.co/UDb7A9Vtll"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-17T01:27:33.000Z",
+        "description": "同类互fo，成分请查看@aeglepotato/点赞狂魔/备用@aeglepotato /🦋@aeglepotato /https://t.co/C8vIKrLtCN",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 11,
+                "username": "aeglepotato"
+              },
+              {
+                "end": 43,
+                "start": 31,
+                "username": "aeglepotato"
+              },
+              {
+                "end": 58,
+                "start": 46,
+                "username": "aeglepotato"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/aeglepotato",
+                "end": 83,
+                "expanded_url": "https://ngl.link/aeglepotato",
+                "start": 60,
+                "url": "https://t.co/C8vIKrLtCN"
+              }
+            ]
+          }
+        },
+        "id": "2055822314969665536",
+        "name": "🌈ALLice☃️赛博幽灵",
+        "pinned_tweet_id": "2064878659698102753",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055823521440301056/FmjUDDvC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 92,
+          "following_count": 149,
+          "like_count": 4129,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 268
+        },
+        "username": "GrievousPotato1",
+        "verified": false
+      },
+      {
+        "created_at": "2026-06-07T13:14:39.000Z",
+        "description": "main - @drulsus27pup\nno dni \nifb blindly",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 7,
+                "username": "drulsus27pup"
+              }
+            ]
+          }
+        },
+        "id": "2063610122404827136",
+        "name": "yisha",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063610735091908608/YLyIgJwd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 86,
+          "following_count": 63,
+          "like_count": 72,
+          "listed_count": 1,
+          "media_count": 3,
+          "tweet_count": 28
+        },
+        "username": "drulpup",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2055822314969665536",
+    "conversation_id": "2065456986091552784",
+    "created_at": "2026-06-12T15:31:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-12T16:31:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065456986091552784"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1778719380639014913",
+          "start": 3,
+          "username": "Ancde_1118"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065456986091552784",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065309918400479255",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Ancde_1118: 人类最大的一个败笔就是看透一个人之后 还选择对他好 原谅他 思念他 爱他"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2055822314969665536",
+        "conversation_id": "2065456986091552784",
+        "created_at": "2026-06-12T15:31:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-12T16:31:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065456986091552784"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1778719380639014913",
+              "start": 3,
+              "username": "Ancde_1118"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065456986091552784",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065309918400479255",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Ancde_1118: 人类最大的一个败笔就是看透一个人之后 还选择对他好 原谅他 思念他 爱他"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1778719380639014913",
+        "conversation_id": "2065309918400479255",
+        "created_at": "2026-06-12T05:47:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-12T06:47:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2065309918400479255"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2065309918400479255",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 66,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "人类最大的一个败笔就是看透一个人之后 还选择对他好 原谅他 思念他 爱他"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-17T01:27:33.000Z",
+        "description": "同类回fo，至于是什么同类x不让我说/点赞狂魔/查成分请翻回复or 去🦋 @aeglepotato / https://t.co/C8vIKrLtCN",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 49,
+                "start": 37,
+                "username": "aeglepotato"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/aeglepotato",
+                "end": 75,
+                "expanded_url": "https://ngl.link/aeglepotato",
+                "start": 52,
+                "url": "https://t.co/C8vIKrLtCN"
+              }
+            ]
+          }
+        },
+        "id": "2055822314969665536",
+        "name": "🌈ALLice☃️赛博幽灵",
+        "pinned_tweet_id": "2064878659698102753",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055823521440301056/FmjUDDvC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 61,
+          "following_count": 112,
+          "like_count": 3269,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 192
+        },
+        "username": "GrievousPotato1",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-12T09:38:51.000Z",
+        "description": "双相 精分 od 割手/我是穿孔师/可以在tg@Sakura_sakura01118找到我/可以找我买电子烟（不卖加料的 只是普通电子烟 请不要私信我）我想交朋友 可以找我互fo ¯꒳¯",
+        "id": "1778719380639014913",
+        "name": "Sakura",
+        "pinned_tweet_id": "2062956340960706641",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1898374011295522816/t9_3UaIW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 472,
+          "following_count": 611,
+          "like_count": 137,
+          "listed_count": 0,
+          "media_count": 185,
+          "tweet_count": 1204
+        },
+        "username": "Ancde_1118",
+        "verified": false
+      }
+    ]
+  }
+}

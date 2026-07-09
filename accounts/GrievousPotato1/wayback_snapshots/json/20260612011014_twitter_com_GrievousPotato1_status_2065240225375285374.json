@@ -1,0 +1,301 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2055822314969665536",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "1129090662622588930",
+          "name": "Psychology"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1129090662622588930",
+          "name": "Psychology"
+        }
+      },
+      {
+        "domain": {
+          "description": "for all fields of study, e.g., futurology, microbiology ",
+          "id": "164",
+          "name": "Fields of study"
+        },
+        "entity": {
+          "id": "1129090662622588930",
+          "name": "Psychology"
+        }
+      }
+    ],
+    "conversation_id": "2065240225375285374",
+    "created_at": "2026-06-12T01:10:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-12T02:10:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065240225375285374"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1438420916518539267",
+          "start": 3,
+          "username": "200x0x1x"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065240225375285374",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065138248805236979",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @200x0x1x: 我喜欢那种细腻晦暗的心理小说，比如说三岛的爱之饥渴，关于日本有钱人家的寡妇如何因为恋的狂热最终谋杀了一个乡下穷小子的故事。这样的作品都有一种“心理学的优雅”（elegantiae…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2055822314969665536",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "1129090662622588930",
+              "name": "Psychology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1129090662622588930",
+              "name": "Psychology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for all fields of study, e.g., futurology, microbiology ",
+              "id": "164",
+              "name": "Fields of study"
+            },
+            "entity": {
+              "id": "1129090662622588930",
+              "name": "Psychology"
+            }
+          }
+        ],
+        "conversation_id": "2065240225375285374",
+        "created_at": "2026-06-12T01:10:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-12T02:10:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065240225375285374"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1438420916518539267",
+              "start": 3,
+              "username": "200x0x1x"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065240225375285374",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065138248805236979",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @200x0x1x: 我喜欢那种细腻晦暗的心理小说，比如说三岛的爱之饥渴，关于日本有钱人家的寡妇如何因为恋的狂热最终谋杀了一个乡下穷小子的故事。这样的作品都有一种“心理学的优雅”（elegantiae…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1438420916518539267",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "1129090662622588930",
+              "name": "Psychology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1129090662622588930",
+              "name": "Psychology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for all fields of study, e.g., futurology, microbiology ",
+              "id": "164",
+              "name": "Fields of study"
+            },
+            "entity": {
+              "id": "1129090662622588930",
+              "name": "Psychology"
+            }
+          }
+        ],
+        "conversation_id": "2065138248805236979",
+        "created_at": "2026-06-11T18:25:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-11T19:25:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2065138248805236979"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2065138248805236979",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "我喜欢那种细腻晦暗的心理小说，比如说三岛的爱之饥渴，关于日本有钱人家的寡妇如何因为恋的狂热最终谋杀了一个乡下穷小子的故事。这样的作品都有一种“心理学的优雅”（elegantiae psychologicae）。可能是因为这样的作品可以让我看见人类灵魂的活生生的可能性吧，各式各样有趣的神经病都让我觉得很好玩。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 208,
+          "like_count": 12,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "我喜欢那种细腻晦暗的心理小说，比如说三岛的爱之饥渴，关于日本有钱人家的寡妇如何因为恋的狂热最终谋杀了一个乡下穷小子的故事。这样的作品都有一种“心理学的优雅”（elegantiae"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-17T01:27:33.000Z",
+        "description": "同类回fo，至于是什么同类x不让我说/点赞狂魔/查成分请翻回复or 去🦋 @aeglepotato / https://t.co/C8vIKrLtCN",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 49,
+                "start": 37,
+                "username": "aeglepotato"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/aeglepotato",
+                "end": 75,
+                "expanded_url": "https://ngl.link/aeglepotato",
+                "start": 52,
+                "url": "https://t.co/C8vIKrLtCN"
+              }
+            ]
+          }
+        },
+        "id": "2055822314969665536",
+        "name": "🌈ALLice☃️赛博幽灵",
+        "pinned_tweet_id": "2064878659698102753",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055823521440301056/FmjUDDvC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 59,
+          "following_count": 108,
+          "like_count": 3158,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 185
+        },
+        "username": "GrievousPotato1",
+        "verified": false
+      },
+      {
+        "created_at": "2021-09-16T08:34:28.000Z",
+        "description": "神啊救救这婊子吧",
+        "id": "1438420916518539267",
+        "location": "UChicago",
+        "name": "你们毁了一个萌系的女孩",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065160223313068032/hZhibMJg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1458,
+          "following_count": 766,
+          "like_count": 27816,
+          "listed_count": 6,
+          "media_count": 2443,
+          "tweet_count": 26698
+        },
+        "username": "200x0x1x",
+        "verified": true
+      }
+    ]
+  }
+}

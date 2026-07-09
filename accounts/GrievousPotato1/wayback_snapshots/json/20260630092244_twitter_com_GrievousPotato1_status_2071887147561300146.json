@@ -1,0 +1,224 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2055822314969665536",
+    "conversation_id": "2071784544924045710",
+    "created_at": "2026-06-30T09:22:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-30T10:22:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2071887147561300146"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1863619831657832448",
+          "start": 0,
+          "username": "daiquiriicechip"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071887147561300146",
+    "in_reply_to_user_id": "1863619831657832448",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071885615474655392",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@daiquiriicechip 收到🤤👍"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2055822314969665536",
+        "conversation_id": "2071784544924045710",
+        "created_at": "2026-06-30T09:22:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-30T10:22:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071887147561300146"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1863619831657832448",
+              "start": 0,
+              "username": "daiquiriicechip"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071887147561300146",
+        "in_reply_to_user_id": "1863619831657832448",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071885615474655392",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@daiquiriicechip 收到🤤👍"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1863619831657832448",
+        "conversation_id": "2071784544924045710",
+        "created_at": "2026-06-30T09:16:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-30T10:16:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071885615474655392"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2055822314969665536",
+              "start": 0,
+              "username": "GrievousPotato1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071885615474655392",
+        "in_reply_to_user_id": "2055822314969665536",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071784544924045710",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@GrievousPotato1 可以看佐杜洛夫斯基和杨史云梅耶"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-17T01:27:33.000Z",
+        "description": "同类互fo，成分请查看@aeglepotato/点赞狂魔/平时喜欢说怪话和发癫/备用@aeglepotato /🦋@aeglepotato /匿名提问箱https://t.co/C8vIKrLtCN",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 11,
+                "username": "aeglepotato"
+              },
+              {
+                "end": 54,
+                "start": 42,
+                "username": "aeglepotato"
+              },
+              {
+                "end": 69,
+                "start": 57,
+                "username": "aeglepotato"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/aeglepotato",
+                "end": 99,
+                "expanded_url": "https://ngl.link/aeglepotato",
+                "start": 76,
+                "url": "https://t.co/C8vIKrLtCN"
+              }
+            ]
+          }
+        },
+        "id": "2055822314969665536",
+        "name": "⛄ALLice🌈赛博幽灵",
+        "pinned_tweet_id": "2064878659698102753",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067517312576421888/aGH7Myxd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 175,
+          "following_count": 250,
+          "like_count": 7837,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 489
+        },
+        "url": "",
+        "username": "GrievousPotato1",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-02T16:23:06.000Z",
+        "description": "she/they 无浪漫倾向泛性恋/双相/努力活成健全人/影迷/raver",
+        "id": "1863619831657832448",
+        "name": "三羊",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057067608403505152/azWe_boD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 32,
+          "following_count": 313,
+          "like_count": 134,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 60
+        },
+        "url": "",
+        "username": "daiquiriicechip",
+        "verified": false
+      }
+    ]
+  }
+}

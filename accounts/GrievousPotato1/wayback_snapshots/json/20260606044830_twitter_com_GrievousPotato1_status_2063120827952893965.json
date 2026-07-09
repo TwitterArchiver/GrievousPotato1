@@ -1,0 +1,187 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2055822314969665536",
+    "conversation_id": "2063120827952893965",
+    "created_at": "2026-06-06T04:48:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-06T05:48:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063120827952893965"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2052592592244858880",
+          "start": 3,
+          "username": "honoka_520"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063120827952893965",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 6
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062906812496748549",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @honoka_520: 自杀干预，是被迫紫砂呢还是干预之后被迫紫砂呢，你们倒是干预下来了，那后续呢?后续谁来处理?还不是让当事人一个人承受，你们倒是当好人拍拍屁股走人了，后续的一切都要当事人承担，这算你麻痹的自杀干预"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2055822314969665536",
+        "conversation_id": "2063120827952893965",
+        "created_at": "2026-06-06T04:48:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-06T05:48:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063120827952893965"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2052592592244858880",
+              "start": 3,
+              "username": "honoka_520"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063120827952893965",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 6
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062906812496748549",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @honoka_520: 自杀干预，是被迫紫砂呢还是干预之后被迫紫砂呢，你们倒是干预下来了，那后续呢?后续谁来处理?还不是让当事人一个人承受，你们倒是当好人拍拍屁股走人了，后续的一切都要当事人承担，这算你麻痹的自杀干预"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2052592592244858880",
+        "conversation_id": "2062906812496748549",
+        "created_at": "2026-06-05T14:38:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-05T15:38:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062906812496748549"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2062906812496748549",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 1416,
+          "like_count": 69,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "自杀干预，是被迫紫砂呢还是干预之后被迫紫砂呢，你们倒是干预下来了，那后续呢?后续谁来处理?还不是让当事人一个人承受，你们倒是当好人拍拍屁股走人了，后续的一切都要当事人承担，这算你麻痹的自杀干预"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-17T01:27:33.000Z",
+        "description": "同类回fo，至于是什么同类x不让我说/点赞狂魔，只互动不发推/查成分请翻回复or 去bluesky🦋 @aeglepotato",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 63,
+                "start": 51,
+                "username": "aeglepotato"
+              }
+            ]
+          }
+        },
+        "id": "2055822314969665536",
+        "name": "🌈ALLice☃️赛博幽灵",
+        "pinned_tweet_id": "2056519884301877431",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055823521440301056/FmjUDDvC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 29,
+          "following_count": 62,
+          "like_count": 1568,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 89
+        },
+        "username": "GrievousPotato1",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-08T03:33:20.000Z",
+        "description": "Enby（They/Them/It）/我期待着…",
+        "id": "2052592592244858880",
+        "location": "你心里",
+        "name": "穗果🌾",
+        "pinned_tweet_id": "2061678192042324339",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052594559608315904/olu6etuK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 384,
+          "following_count": 272,
+          "like_count": 188,
+          "listed_count": 0,
+          "media_count": 37,
+          "tweet_count": 483
+        },
+        "username": "honoka_520",
+        "verified": false
+      }
+    ]
+  }
+}

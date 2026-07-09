@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2055822314969665536",
+    "conversation_id": "2071029185355620419",
+    "created_at": "2026-06-28T00:33:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-28T01:33:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2071029185355620419"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1513932902089703426",
+          "start": 3,
+          "username": "lllazkiss7"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071029185355620419",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 30
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070636358260187602",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @lllazkiss7: 最烦的就是这种话“之前挺喜欢你的，你现在怎么这样啊”妈的你的喜欢值多少钱，你的喜欢真的特别廉价你知道吗。用这种恶心话来道德绑架别人，这种感觉就是即否定了现在还显得你这人特别高贵😂"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2055822314969665536",
+        "conversation_id": "2071029185355620419",
+        "created_at": "2026-06-28T00:33:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-28T01:33:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071029185355620419"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1513932902089703426",
+              "start": 3,
+              "username": "lllazkiss7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071029185355620419",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 30
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070636358260187602",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @lllazkiss7: 最烦的就是这种话“之前挺喜欢你的，你现在怎么这样啊”妈的你的喜欢值多少钱，你的喜欢真的特别廉价你知道吗。用这种恶心话来道德绑架别人，这种感觉就是即否定了现在还显得你这人特别高贵😂"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1513932902089703426",
+        "conversation_id": "2070636358260187602",
+        "created_at": "2026-06-26T22:32:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-26T23:32:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2070636358260187602"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2070636358260187602",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 9,
+          "impression_count": 10191,
+          "like_count": 327,
+          "quote_count": 1,
+          "reply_count": 16,
+          "retweet_count": 30
+        },
+        "reply_settings": "everyone",
+        "text": "最烦的就是这种话“之前挺喜欢你的，你现在怎么这样啊”妈的你的喜欢值多少钱，你的喜欢真的特别廉价你知道吗。用这种恶心话来道德绑架别人，这种感觉就是即否定了现在还显得你这人特别高贵😂"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-17T01:27:33.000Z",
+        "description": "同类互fo，成分请查看@aeglepotato/点赞狂魔/备用@aeglepotato /🦋@aeglepotato /匿名提问箱https://t.co/C8vIKrKVNf",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 11,
+                "username": "aeglepotato"
+              },
+              {
+                "end": 43,
+                "start": 31,
+                "username": "aeglepotato"
+              },
+              {
+                "end": 58,
+                "start": 46,
+                "username": "aeglepotato"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/aeglepotato",
+                "end": 88,
+                "expanded_url": "https://ngl.link/aeglepotato",
+                "start": 65,
+                "url": "https://t.co/C8vIKrKVNf"
+              }
+            ]
+          }
+        },
+        "id": "2055822314969665536",
+        "name": "⛄ALLice🌈赛博幽灵",
+        "pinned_tweet_id": "2064878659698102753",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067517312576421888/aGH7Myxd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 152,
+          "following_count": 223,
+          "like_count": 7025,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 449
+        },
+        "url": "",
+        "username": "GrievousPotato1",
+        "verified": false
+      },
+      {
+        "created_at": "2022-04-12T17:31:54.000Z",
+        "description": "得之我幸，失之我命/好运常在/ 提供整容建议/你点进我的主页找我的痕迹的那一刻你的能量已经被我窃取偷走了",
+        "id": "1513932902089703426",
+        "location": "离你0.1km",
+        "name": "县城女",
+        "pinned_tweet_id": "2064317031705661564",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056938531801698304/lF79byOI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1017,
+          "following_count": 523,
+          "like_count": 4167,
+          "listed_count": 2,
+          "media_count": 67,
+          "tweet_count": 5975
+        },
+        "url": "",
+        "username": "lllazkiss7",
+        "verified": false
+      }
+    ]
+  }
+}

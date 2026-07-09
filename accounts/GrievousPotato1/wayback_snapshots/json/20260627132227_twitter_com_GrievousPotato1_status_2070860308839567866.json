@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2055822314969665536",
+    "conversation_id": "2070860308839567866",
+    "created_at": "2026-06-27T13:22:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-27T14:22:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070860308839567866"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1287313244693000193",
+          "start": 3,
+          "username": "dsknzb"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070860308839567866",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070809656767750394",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @dsknzb: 成为一个内心空荡荡的人可以避免生活中99%的伤害也会失去那1%感受情感细腻的瞬间"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2055822314969665536",
+        "conversation_id": "2070860308839567866",
+        "created_at": "2026-06-27T13:22:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-27T14:22:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070860308839567866"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1287313244693000193",
+              "start": 3,
+              "username": "dsknzb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070860308839567866",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070809656767750394",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @dsknzb: 成为一个内心空荡荡的人可以避免生活中99%的伤害也会失去那1%感受情感细腻的瞬间"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1287313244693000193",
+        "conversation_id": "2070809656767750394",
+        "created_at": "2026-06-27T10:01:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-27T11:01:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2070809656767750394"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2070809656767750394",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 35,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "成为一个内心空荡荡的人可以避免生活中99%的伤害也会失去那1%感受情感细腻的瞬间"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-17T01:27:33.000Z",
+        "description": "同类互fo，成分请查看@aeglepotato/点赞狂魔/备用@aeglepotato /🦋@aeglepotato /匿名提问箱https://t.co/C8vIKrKVNf",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 11,
+                "username": "aeglepotato"
+              },
+              {
+                "end": 43,
+                "start": 31,
+                "username": "aeglepotato"
+              },
+              {
+                "end": 58,
+                "start": 46,
+                "username": "aeglepotato"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/aeglepotato",
+                "end": 88,
+                "expanded_url": "https://ngl.link/aeglepotato",
+                "start": 65,
+                "url": "https://t.co/C8vIKrKVNf"
+              }
+            ]
+          }
+        },
+        "id": "2055822314969665536",
+        "name": "⛄ALLice🌈赛博幽灵",
+        "pinned_tweet_id": "2064878659698102753",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067517312576421888/aGH7Myxd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 150,
+          "following_count": 222,
+          "like_count": 6977,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 440
+        },
+        "url": "",
+        "username": "GrievousPotato1",
+        "verified": false
+      },
+      {
+        "created_at": "2020-07-26T09:06:18.000Z",
+        "description": "病み裏垢🚫  \nhttps://t.co/UQQWQB3ylm",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ting67955",
+                "end": 31,
+                "expanded_url": "https://ngl.link/ting67955",
+                "start": 8,
+                "url": "https://t.co/UQQWQB3ylm"
+              }
+            ]
+          }
+        },
+        "id": "1287313244693000193",
+        "location": "宇宙空間🚪520",
+        "name": "南极磷虾",
+        "pinned_tweet_id": "2025259813027090925",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1760030336019468289/-6yrVg5q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 193,
+          "following_count": 2274,
+          "like_count": 18396,
+          "listed_count": 2,
+          "media_count": 449,
+          "tweet_count": 13665
+        },
+        "url": "",
+        "username": "dsknzb",
+        "verified": false
+      }
+    ]
+  }
+}

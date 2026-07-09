@@ -1,0 +1,311 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2063420472612782080"
+      ],
+      "media_source_tweet_id": [
+        "2063420577185206770"
+      ]
+    },
+    "author_id": "2055822314969665536",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2063532460596506959",
+    "created_at": "2026-06-07T08:04:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-07T09:04:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063532460596506959"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1978301716186722304",
+          "start": 3,
+          "username": "witheringfrenzy"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/40V8KuLZ66",
+          "end": 127,
+          "expanded_url": "https://x.com/witheringfrenzy/status/2063420577185206770/video/1",
+          "media_key": "13_2063420472612782080",
+          "start": 104,
+          "url": "https://t.co/40V8KuLZ66"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063532460596506959",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1027
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063420577185206770",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @witheringfrenzy: .ᐟ.ᐟ.ᐟ ALL FAKE / SPECIAL EFFECTS MAKEUP\n\n↓↓↓↓\n\n↓↓↓↓\n\n↓↓↓↓\n\n↓↓↓↓\n\n↓↓↓↓\n\n↓↓↓↓\n\n↓↓↓↓ https://t.co/40V8KuLZ66"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 23466,
+        "height": 1280,
+        "media_key": "13_2063420472612782080",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2063420472612782080/img/SHiK9qNzYJ9W5_Iu.jpg",
+        "public_metrics": {
+          "view_count": 18919
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2063420472612782080/vid/avc1/320x568/nNlvvPpd9AFoiGSv.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2063420472612782080/vid/avc1/480x852/lx-WXmZ6mAQqnAdT.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2063420472612782080/vid/avc1/720x1280/Clx1LFJnS7l0tj7B.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2063420472612782080/pl/Dv3WS7uNQ0kk-AZw.m3u8?v=cfc"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2063420472612782080"
+          ],
+          "media_source_tweet_id": [
+            "2063420577185206770"
+          ]
+        },
+        "author_id": "2055822314969665536",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2063532460596506959",
+        "created_at": "2026-06-07T08:04:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T09:04:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063532460596506959"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1978301716186722304",
+              "start": 3,
+              "username": "witheringfrenzy"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/40V8KuLZ66",
+              "end": 127,
+              "expanded_url": "https://x.com/witheringfrenzy/status/2063420577185206770/video/1",
+              "media_key": "13_2063420472612782080",
+              "start": 104,
+              "url": "https://t.co/40V8KuLZ66"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063532460596506959",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1027
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063420577185206770",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @witheringfrenzy: .ᐟ.ᐟ.ᐟ ALL FAKE / SPECIAL EFFECTS MAKEUP\n\n↓↓↓↓\n\n↓↓↓↓\n\n↓↓↓↓\n\n↓↓↓↓\n\n↓↓↓↓\n\n↓↓↓↓\n\n↓↓↓↓ https://t.co/40V8KuLZ66"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2063420472612782080"
+          ]
+        },
+        "author_id": "1978301716186722304",
+        "conversation_id": "2063420577185206770",
+        "created_at": "2026-06-07T00:39:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T01:39:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063420577185206770"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/40V8KuLZ66",
+              "end": 106,
+              "expanded_url": "https://x.com/witheringfrenzy/status/2063420577185206770/video/1",
+              "media_key": "13_2063420472612782080",
+              "start": 83,
+              "url": "https://t.co/40V8KuLZ66"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063420577185206770",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 979,
+          "impression_count": 34910,
+          "like_count": 7794,
+          "quote_count": 16,
+          "reply_count": 43,
+          "retweet_count": 1027
+        },
+        "reply_settings": "everyone",
+        "text": ".ᐟ.ᐟ.ᐟ ALL FAKE / SPECIAL EFFECTS MAKEUP\n\n↓↓↓↓\n\n↓↓↓↓\n\n↓↓↓↓\n\n↓↓↓↓\n\n↓↓↓↓\n\n↓↓↓↓\n\n↓↓↓↓ https://t.co/40V8KuLZ66"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-17T01:27:33.000Z",
+        "description": "同类回fo，至于是什么同类x不让我说/点赞狂魔，只互动不发推/查成分请翻回复or 去bluesky🦋 @aeglepotato",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 63,
+                "start": 51,
+                "username": "aeglepotato"
+              }
+            ]
+          }
+        },
+        "id": "2055822314969665536",
+        "name": "🌈ALLice☃️赛博幽灵",
+        "pinned_tweet_id": "2056519884301877431",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055823521440301056/FmjUDDvC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 36,
+          "following_count": 73,
+          "like_count": 1893,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 106
+        },
+        "username": "GrievousPotato1",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-15T03:29:03.000Z",
+        "description": "“fall’s all about food? well, i guess i don’t mind watching kanade and the others eat…”",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "sh.ed.bpd.tw",
+                "end": 23,
+                "expanded_url": "http://sh.ed.bpd.tw",
+                "start": 0,
+                "url": "https://t.co/4JxdxXVxQo"
+              }
+            ]
+          }
+        },
+        "id": "1978301716186722304",
+        "location": "bmi 17",
+        "name": "nori / miku ⸝⸝ ⸝⸝ pjskedtwt ceo",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056442657782800384/uT3BxJi8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 611,
+          "following_count": 478,
+          "like_count": 1089,
+          "listed_count": 6,
+          "media_count": 372,
+          "tweet_count": 1747
+        },
+        "url": "https://t.co/4JxdxXVxQo",
+        "username": "witheringfrenzy",
+        "verified": false
+      }
+    ]
+  }
+}

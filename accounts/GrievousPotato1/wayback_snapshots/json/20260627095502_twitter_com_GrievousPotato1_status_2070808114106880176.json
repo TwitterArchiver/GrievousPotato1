@@ -1,0 +1,352 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2055822314969665536",
+    "conversation_id": "2070808114106880176",
+    "created_at": "2026-06-27T09:55:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-27T10:55:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2070808114106880176"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/IKEASpain/stat…",
+          "end": 36,
+          "expanded_url": "https://twitter.com/IKEASpain/status/2070428607252512951",
+          "start": 13,
+          "url": "https://t.co/NPfBA0E7E3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070808114106880176",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070428607252512951",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "aww so cute🥰 https://t.co/NPfBA0E7E3"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2055822314969665536",
+        "conversation_id": "2070808114106880176",
+        "created_at": "2026-06-27T09:55:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-27T10:55:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2070808114106880176"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/IKEASpain/stat…",
+              "end": 36,
+              "expanded_url": "https://twitter.com/IKEASpain/status/2070428607252512951",
+              "start": 13,
+              "url": "https://t.co/NPfBA0E7E3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070808114106880176",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070428607252512951",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "aww so cute🥰 https://t.co/NPfBA0E7E3"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "104842204",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974596706635776",
+              "name": "Retail industry"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "783350882985385984",
+              "name": "Home - Retail"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026951194",
+              "name": "IKEA"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Home and garden",
+              "id": "864911475436957696",
+              "name": "Home and garden"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026951194",
+              "name": "IKEA"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "781974596706635776",
+              "name": "Retail industry"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1407811550987972617",
+              "name": "Industries"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1416062557706588160",
+              "name": "Superstores"
+            }
+          }
+        ],
+        "conversation_id": "2070428607252512951",
+        "created_at": "2026-06-26T08:47:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-26T09:47:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2070428607252512951"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "Creemos en una cultura de diversidad e inclusión, clientes y las comunidades en las que operamos, da igual su orientación sexual o identidad de género.",
+              "display_url": "ikea.com/es/es/this-is-…",
+              "end": 150,
+              "expanded_url": "https://www.ikea.com/es/es/this-is-ikea/community-engagement/haz-que-la-comunidad-lgbt-se-sienta-en-casa-pub9eaedea0/",
+              "images": [
+                {
+                  "height": 1599,
+                  "url": "https://pbs.twimg.com/news_img/2070428613137018880/JxsAZ76k?format=png&name=orig",
+                  "width": 900
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2070428613137018880/JxsAZ76k?format=png&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 127,
+              "status": 200,
+              "title": "Inclusión LGTBI+ | Aliados, igualdad y diversidad",
+              "unwound_url": "https://www.ikea.com/es/es/this-is-ikea/community-engagement/haz-que-la-comunidad-lgbt-se-sienta-en-casa-pub9eaedea0/",
+              "url": "https://t.co/LvUOiiYe9p"
+            },
+            {
+              "display_url": "x.com/__BumbleBea/st…",
+              "end": 174,
+              "expanded_url": "https://twitter.com/__BumbleBea/status/2070235480960934173",
+              "start": 151,
+              "url": "https://t.co/X3BC5WR7KS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070428607252512951",
+        "lang": "es",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 818,
+          "impression_count": 112536,
+          "like_count": 4972,
+          "quote_count": 14,
+          "reply_count": 16,
+          "retweet_count": 806
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070235480960934173",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "BLÅHAJ se cuela por aquí para daros las gracias por todo el cariño que está recibiendo y para compartir el Manual de empatía 🦈\nhttps://t.co/LvUOiiYe9p https://t.co/X3BC5WR7KS"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-17T01:27:33.000Z",
+        "description": "同类互fo，成分请查看@aeglepotato/点赞狂魔/备用@aeglepotato /🦋@aeglepotato /匿名提问箱https://t.co/C8vIKrKVNf",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 11,
+                "username": "aeglepotato"
+              },
+              {
+                "end": 43,
+                "start": 31,
+                "username": "aeglepotato"
+              },
+              {
+                "end": 58,
+                "start": 46,
+                "username": "aeglepotato"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/aeglepotato",
+                "end": 88,
+                "expanded_url": "https://ngl.link/aeglepotato",
+                "start": 65,
+                "url": "https://t.co/C8vIKrKVNf"
+              }
+            ]
+          }
+        },
+        "id": "2055822314969665536",
+        "name": "⛄ALLice🌈赛博幽灵",
+        "pinned_tweet_id": "2064878659698102753",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067517312576421888/aGH7Myxd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 147,
+          "following_count": 222,
+          "like_count": 6912,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 433
+        },
+        "url": "",
+        "username": "GrievousPotato1",
+        "verified": false
+      },
+      {
+        "created_at": "2010-01-14T15:31:03.000Z",
+        "description": "Inspiración para tu hogar a precios asequibles.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ikea.com/es/es/",
+                "end": 23,
+                "expanded_url": "https://www.ikea.com/es/es/",
+                "start": 0,
+                "url": "https://t.co/kMatTGwy1k"
+              }
+            ]
+          }
+        },
+        "id": "104842204",
+        "location": "Spain",
+        "name": "IKEA España",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1106241189735473153/3rgMnSKT_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 144300,
+          "following_count": 1136,
+          "like_count": 5419,
+          "listed_count": 865,
+          "media_count": 3693,
+          "tweet_count": 47425
+        },
+        "url": "https://t.co/kMatTGwy1k",
+        "username": "IKEASpain",
+        "verified": false
+      }
+    ]
+  }
+}

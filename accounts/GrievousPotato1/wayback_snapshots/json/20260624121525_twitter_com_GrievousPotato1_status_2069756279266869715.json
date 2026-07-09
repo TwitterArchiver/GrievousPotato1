@@ -1,0 +1,247 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2055822314969665536",
+    "conversation_id": "2069679782409945135",
+    "created_at": "2026-06-24T12:15:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-24T13:15:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2069756279266869715"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1777129646867542016",
+          "start": 0,
+          "username": "Sunset__3000"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069756279266869715",
+    "in_reply_to_user_id": "1777129646867542016",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069679782409945135",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Sunset__3000 戒鸽是不可能戒的，这辈子都不会戒的🤓"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1120,
+        "media_key": "3_2069679780124106752",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLj6y10bIAAfzDd.jpg",
+        "width": 1036
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2055822314969665536",
+        "conversation_id": "2069679782409945135",
+        "created_at": "2026-06-24T12:15:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-24T13:15:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069756279266869715"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1777129646867542016",
+              "start": 0,
+              "username": "Sunset__3000"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069756279266869715",
+        "in_reply_to_user_id": "1777129646867542016",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069679782409945135",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Sunset__3000 戒鸽是不可能戒的，这辈子都不会戒的🤓"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2069679780124106752"
+          ]
+        },
+        "author_id": "1777129646867542016",
+        "conversation_id": "2069679782409945135",
+        "created_at": "2026-06-24T07:11:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-24T08:11:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2069679782409945135"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/wv9gxzmr7v",
+              "end": 34,
+              "expanded_url": "https://x.com/Sunset__3000/status/2069679782409945135/photo/1",
+              "media_key": "3_2069679780124106752",
+              "start": 11,
+              "url": "https://t.co/wv9gxzmr7v"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069679782409945135",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 1199,
+          "like_count": 28,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "细节没有考虑过戒鸽🤓 https://t.co/wv9gxzmr7v"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-17T01:27:33.000Z",
+        "description": "同类互fo，成分请查看@aeglepotato/点赞狂魔/备用@aeglepotato /🦋@aeglepotato /匿名提问箱https://t.co/C8vIKrLtCN",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 11,
+                "username": "aeglepotato"
+              },
+              {
+                "end": 43,
+                "start": 31,
+                "username": "aeglepotato"
+              },
+              {
+                "end": 58,
+                "start": 46,
+                "username": "aeglepotato"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/aeglepotato",
+                "end": 88,
+                "expanded_url": "https://ngl.link/aeglepotato",
+                "start": 65,
+                "url": "https://t.co/C8vIKrLtCN"
+              }
+            ]
+          }
+        },
+        "id": "2055822314969665536",
+        "name": "🌈ALLice☃️赛博幽灵",
+        "pinned_tweet_id": "2064878659698102753",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067517312576421888/aGH7Myxd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 136,
+          "following_count": 203,
+          "like_count": 5963,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 402
+        },
+        "url": "",
+        "username": "GrievousPotato1",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-08T00:21:51.000Z",
+        "description": "o割餐券女 | 精神病 | 家里蹲备考 | 极端悲观主义 | 爱好生化药理板绘 | 同类互fo漏回提醒下🥹",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "freeodwiki.org",
+                "end": 23,
+                "expanded_url": "https://freeodwiki.org/",
+                "start": 0,
+                "url": "https://t.co/swMyC2Mdbe"
+              }
+            ]
+          }
+        },
+        "id": "1777129646867542016",
+        "location": "神秘600号",
+        "name": "日落三千次💊",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040999312478621696/QZAhsYwI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 832,
+          "following_count": 604,
+          "like_count": 4005,
+          "listed_count": 1,
+          "media_count": 56,
+          "tweet_count": 734
+        },
+        "url": "https://t.co/swMyC2Mdbe",
+        "username": "Sunset__3000",
+        "verified": false
+      }
+    ]
+  }
+}

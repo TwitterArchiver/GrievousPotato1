@@ -1,0 +1,201 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2055822314969665536",
+    "conversation_id": "2063414782284157124",
+    "created_at": "2026-06-07T00:16:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-07T01:16:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063414782284157124"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1529654419213541376",
+          "start": 3,
+          "username": "3LifeStrongWine"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063414782284157124",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063260532191490109",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @3LifeStrongWine: 其实世界上绝大部分人并不懂得珍惜是怎么一回事，他们只是保留着一种婴儿的本能，想要的东西就不管不顾伸手去握，握不住就哭。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2055822314969665536",
+        "conversation_id": "2063414782284157124",
+        "created_at": "2026-06-07T00:16:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T01:16:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063414782284157124"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1529654419213541376",
+              "start": 3,
+              "username": "3LifeStrongWine"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063414782284157124",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063260532191490109",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @3LifeStrongWine: 其实世界上绝大部分人并不懂得珍惜是怎么一回事，他们只是保留着一种婴儿的本能，想要的东西就不管不顾伸手去握，握不住就哭。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1529654419213541376",
+        "conversation_id": "2063260532191490109",
+        "created_at": "2026-06-06T14:03:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-06T15:03:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063260532191490109"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2063260532191490109",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 194,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "其实世界上绝大部分人并不懂得珍惜是怎么一回事，他们只是保留着一种婴儿的本能，想要的东西就不管不顾伸手去握，握不住就哭。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-17T01:27:33.000Z",
+        "description": "同类回fo，至于是什么同类x不让我说/点赞狂魔，只互动不发推/查成分请翻回复or 去bluesky🦋 @aeglepotato",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 63,
+                "start": 51,
+                "username": "aeglepotato"
+              }
+            ]
+          }
+        },
+        "id": "2055822314969665536",
+        "name": "🌈ALLice☃️赛博幽灵",
+        "pinned_tweet_id": "2056519884301877431",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055823521440301056/FmjUDDvC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 35,
+          "following_count": 70,
+          "like_count": 1818,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 102
+        },
+        "username": "GrievousPotato1",
+        "verified": false
+      },
+      {
+        "created_at": "2022-05-26T02:43:47.000Z",
+        "description": "桃花潭水深千尺  不及汪伦送我情",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/cherryluo5289?…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/cherryluo5289?igsh=NTkxYXo5bDgxNWpl&utm_source=qr",
+                "start": 0,
+                "url": "https://t.co/3g5y5VovBM"
+              }
+            ]
+          }
+        },
+        "id": "1529654419213541376",
+        "location": "我想带你看我走到过的每一个地方",
+        "name": "三生醇醪",
+        "pinned_tweet_id": "2044103176128000050",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041201989183586304/h5o7dZlh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2871,
+          "following_count": 102,
+          "like_count": 6813,
+          "listed_count": 14,
+          "media_count": 3693,
+          "tweet_count": 14420
+        },
+        "url": "https://t.co/3g5y5VovBM",
+        "username": "3LifeStrongWine",
+        "verified": false
+      }
+    ]
+  }
+}

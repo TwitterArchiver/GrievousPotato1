@@ -1,0 +1,303 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2055822314969665536",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to makeup, perfumes and skin care",
+          "id": "1557696505548394496",
+          "name": "Beauty, Cosmetic & Personal Care Business"
+        }
+      }
+    ],
+    "conversation_id": "2069348587041919329",
+    "created_at": "2026-06-23T09:15:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-23T10:15:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2069348587041919329"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1997176343528935424",
+          "start": 3,
+          "username": "Brllghtney"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069348587041919329",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 558
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068950759467590003",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Brllghtney: ‼️ ALL FAKE / MAKEUP SFX\n\nSmall \"makeup\" sesh vid\nDeep styro / baby bean king 🤤\n\nEverything is professional makeup sfx sfx…"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 44300,
+        "height": 410,
+        "media_key": "7_2068950731990999040",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2068950731990999040/pu/img/FOnvYLaSznqj6RRL.jpg",
+        "public_metrics": {
+          "view_count": 27851
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2068950731990999040/pu/vid/avc1/312x410/ECFR_qRB4zcwhLjL.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2068950731990999040/pu/pl/d2tYXHoBE-fsEQJE.m3u8?tag=12&v=149"
+          }
+        ],
+        "width": 312
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2055822314969665536",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to makeup, perfumes and skin care",
+              "id": "1557696505548394496",
+              "name": "Beauty, Cosmetic & Personal Care Business"
+            }
+          }
+        ],
+        "conversation_id": "2069348587041919329",
+        "created_at": "2026-06-23T09:15:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-23T10:15:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069348587041919329"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1997176343528935424",
+              "start": 3,
+              "username": "Brllghtney"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069348587041919329",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 558
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068950759467590003",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Brllghtney: ‼️ ALL FAKE / MAKEUP SFX\n\nSmall \"makeup\" sesh vid\nDeep styro / baby bean king 🤤\n\nEverything is professional makeup sfx sfx…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2068950731990999040"
+          ]
+        },
+        "author_id": "1997176343528935424",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to makeup, perfumes and skin care",
+              "id": "1557696505548394496",
+              "name": "Beauty, Cosmetic & Personal Care Business"
+            }
+          }
+        ],
+        "conversation_id": "2068950759467590003",
+        "created_at": "2026-06-22T06:54:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-22T07:54:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068950759467590003"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/6uxjtRFJvp",
+              "end": 158,
+              "expanded_url": "https://x.com/Brllghtney/status/2068950759467590003/video/1",
+              "media_key": "7_2068950731990999040",
+              "start": 135,
+              "url": "https://t.co/6uxjtRFJvp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068950759467590003",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 491,
+          "impression_count": 36970,
+          "like_count": 4055,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 558
+        },
+        "reply_settings": "everyone",
+        "text": "‼️ ALL FAKE / MAKEUP SFX\n\nSmall \"makeup\" sesh vid\nDeep styro / baby bean king 🤤\n\nEverything is professional makeup sfx sfx sfx sfx sfx https://t.co/6uxjtRFJvp"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-17T01:27:33.000Z",
+        "description": "同类互fo，成分请查看@aeglepotato/点赞狂魔/备用@aeglepotato /🦋@aeglepotato /匿名提问箱https://t.co/C8vIKrLtCN",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 11,
+                "username": "aeglepotato"
+              },
+              {
+                "end": 43,
+                "start": 31,
+                "username": "aeglepotato"
+              },
+              {
+                "end": 58,
+                "start": 46,
+                "username": "aeglepotato"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/aeglepotato",
+                "end": 88,
+                "expanded_url": "https://ngl.link/aeglepotato",
+                "start": 65,
+                "url": "https://t.co/C8vIKrLtCN"
+              }
+            ]
+          }
+        },
+        "id": "2055822314969665536",
+        "name": "🌈ALLice☃️赛博幽灵",
+        "pinned_tweet_id": "2064878659698102753",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067517312576421888/aGH7Myxd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 130,
+          "following_count": 192,
+          "like_count": 5766,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 383
+        },
+        "url": "",
+        "username": "GrievousPotato1",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-06T05:28:51.000Z",
+        "description": "✦ ~ Hello !!!◝(ᵔᗜᵔ) ♡ ~ Looking for mooties! :-)\n✦ . 　⁺ 　 . ✦⁺ 15 𓏻 🏳️‍⚧️Male 𓏻 Ambivert 𓏻 Dni T.R.A.S.H 𓏻 ifb ! ⁺ ✦ . 　⁺ 　 . ✦ #DandysWorld #shedrtwt",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 140,
+                "start": 128,
+                "tag": "DandysWorld"
+              },
+              {
+                "end": 150,
+                "start": 141,
+                "tag": "shedrtwt"
+              }
+            ]
+          }
+        },
+        "id": "1997176343528935424",
+        "name": "‹ ︎ ✦ 𓏻 brightney ’ ◟ 📜 of 🏚twt",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068902340715778048/Nt-ZpyFl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 263,
+          "following_count": 254,
+          "like_count": 8474,
+          "listed_count": 1,
+          "media_count": 45,
+          "tweet_count": 776
+        },
+        "url": "",
+        "username": "Brllghtney",
+        "verified": false
+      }
+    ]
+  }
+}

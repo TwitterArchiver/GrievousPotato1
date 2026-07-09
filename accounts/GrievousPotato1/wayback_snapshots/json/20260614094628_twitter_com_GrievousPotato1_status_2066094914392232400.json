@@ -1,0 +1,279 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2055822314969665536",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "description": "Wellness & Health",
+          "id": "903303816698671104",
+          "name": "Wellness and health"
+        }
+      }
+    ],
+    "conversation_id": "2066094914392232400",
+    "created_at": "2026-06-14T09:46:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-14T10:46:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066094914392232400"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "4752010152",
+          "start": 3,
+          "username": "garrulous_abyss"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066094914392232400",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 10
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063205373998243932",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @garrulous_abyss: 非常有趣的一点是，我这些年，观察到了非常多的父母和孩子的例子。\n\n基本上越是这种，喜欢给孩子写小作文，作文里越是喜欢表演自己对孩子的爱。\n\n类似这里这种“爸妈也不要求你特别优秀和卓越，只是希望你健康快乐……”。这种是大大的red fla…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2055822314969665536",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Wellness & Health",
+              "id": "903303816698671104",
+              "name": "Wellness and health"
+            }
+          }
+        ],
+        "conversation_id": "2066094914392232400",
+        "created_at": "2026-06-14T09:46:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T10:46:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066094914392232400"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "4752010152",
+              "start": 3,
+              "username": "garrulous_abyss"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066094914392232400",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 10
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063205373998243932",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @garrulous_abyss: 非常有趣的一点是，我这些年，观察到了非常多的父母和孩子的例子。\n\n基本上越是这种，喜欢给孩子写小作文，作文里越是喜欢表演自己对孩子的爱。\n\n类似这里这种“爸妈也不要求你特别优秀和卓越，只是希望你健康快乐……”。这种是大大的red fla…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "4752010152",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Wellness & Health",
+              "id": "903303816698671104",
+              "name": "Wellness and health"
+            }
+          }
+        ],
+        "conversation_id": "2063205373998243932",
+        "created_at": "2026-06-06T10:24:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-06T11:24:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063205373998243932"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/gdioiui/status…",
+              "end": 171,
+              "expanded_url": "https://twitter.com/gdioiui/status/2063134497579712919",
+              "start": 148,
+              "url": "https://t.co/rY2bVPIjsY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063205373998243932",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 20,
+          "impression_count": 9216,
+          "like_count": 136,
+          "quote_count": 4,
+          "reply_count": 19,
+          "retweet_count": 10
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063134497579712919",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "非常有趣的一点是，我这些年，观察到了非常多的父母和孩子的例子。\n\n基本上越是这种，喜欢给孩子写小作文，作文里越是喜欢表演自己对孩子的爱。\n\n类似这里这种“爸妈也不要求你特别优秀和卓越，只是希望你健康快乐……”。这种是大大的red flag\n\n在父母眼里，你是实现他们愿望的工具。不能满足则是废品 https://t.co/rY2bVPIjsY"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-17T01:27:33.000Z",
+        "description": "同类回fo，至于是什么同类x不让我说/点赞狂魔/备用@aeglepotato /🦋@aeglepotato /https://t.co/C8vIKrLtCN",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 38,
+                "start": 26,
+                "username": "aeglepotato"
+              },
+              {
+                "end": 53,
+                "start": 41,
+                "username": "aeglepotato"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/aeglepotato",
+                "end": 78,
+                "expanded_url": "https://ngl.link/aeglepotato",
+                "start": 55,
+                "url": "https://t.co/C8vIKrLtCN"
+              }
+            ]
+          }
+        },
+        "id": "2055822314969665536",
+        "name": "🌈ALLice☃️赛博幽灵",
+        "pinned_tweet_id": "2064878659698102753",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055823521440301056/FmjUDDvC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 73,
+          "following_count": 127,
+          "like_count": 3651,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 233
+        },
+        "username": "GrievousPotato1",
+        "verified": false
+      },
+      {
+        "created_at": "2016-01-13T07:43:45.000Z",
+        "description": "LGBTQIA一生推//女朋友是@Yaoyao38324// 程序员//科研人员//PhD//真·法语学习博主//ADHD确诊//见到Incel、terf、小粉红、魔怔人立刻拉黑//\n\n欢迎预约占卜测事 https://t.co/KZBQuEa4Up",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 16,
+                "username": "Yaoyao38324"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/garrulous_abyss",
+                "end": 125,
+                "expanded_url": "https://buymeacoffee.com/garrulous_abyss",
+                "start": 102,
+                "url": "https://t.co/KZBQuEa4Up"
+              }
+            ]
+          }
+        },
+        "id": "4752010152",
+        "location": "Paris, France",
+        "name": "garrulous abyss🌈",
+        "pinned_tweet_id": "1573706756357750786",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1765120357042622464/Mkgehayb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 31992,
+          "following_count": 3681,
+          "like_count": 190418,
+          "listed_count": 107,
+          "media_count": 3981,
+          "tweet_count": 69651
+        },
+        "username": "garrulous_abyss",
+        "verified": false
+      }
+    ]
+  }
+}

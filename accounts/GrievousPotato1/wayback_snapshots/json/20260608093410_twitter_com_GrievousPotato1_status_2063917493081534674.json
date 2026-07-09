@@ -1,0 +1,186 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2055822314969665536",
+    "conversation_id": "2063917493081534674",
+    "created_at": "2026-06-08T09:34:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-08T10:34:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063917493081534674"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1788083166856749056",
+          "start": 3,
+          "username": "LanLan93083241"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063917493081534674",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063911101851734388",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @LanLan93083241: 未被表达的情绪永远不会消失，它们只是被活埋了，有朝一日会以更丑陋的方式爆发出来。被一再忽略的感受和那些咽下的情绪只会像雪球一样越滚越大，所谓旧事重提，只因为它从未被妥善解决"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2055822314969665536",
+        "conversation_id": "2063917493081534674",
+        "created_at": "2026-06-08T09:34:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T10:34:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063917493081534674"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1788083166856749056",
+              "start": 3,
+              "username": "LanLan93083241"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063917493081534674",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063911101851734388",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @LanLan93083241: 未被表达的情绪永远不会消失，它们只是被活埋了，有朝一日会以更丑陋的方式爆发出来。被一再忽略的感受和那些咽下的情绪只会像雪球一样越滚越大，所谓旧事重提，只因为它从未被妥善解决"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1788083166856749056",
+        "conversation_id": "2063911101851734388",
+        "created_at": "2026-06-08T09:08:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T10:08:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063911101851734388"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2063911101851734388",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 191,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "未被表达的情绪永远不会消失，它们只是被活埋了，有朝一日会以更丑陋的方式爆发出来。被一再忽略的感受和那些咽下的情绪只会像雪球一样越滚越大，所谓旧事重提，只因为它从未被妥善解决"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-17T01:27:33.000Z",
+        "description": "同类回fo，至于是什么同类x不让我说/点赞狂魔，只互动不发推/查成分请翻回复or 去🦋 @aeglepotato",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 56,
+                "start": 44,
+                "username": "aeglepotato"
+              }
+            ]
+          }
+        },
+        "id": "2055822314969665536",
+        "name": "🌈ALLice☃️赛博幽灵",
+        "pinned_tweet_id": "2056519884301877431",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055823521440301056/FmjUDDvC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 46,
+          "following_count": 82,
+          "like_count": 2227,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 126
+        },
+        "username": "GrievousPotato1",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-08T05:47:25.000Z",
+        "description": "一个在互联网上贩卖快乐的普通小女生\n(希望你每一天都能快乐  谢谢关注😉)",
+        "id": "1788083166856749056",
+        "name": "LanLan",
+        "pinned_tweet_id": "2063522149865033967",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978758355318611968/KQBoDyuP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 41994,
+          "following_count": 2909,
+          "like_count": 40872,
+          "listed_count": 131,
+          "media_count": 1674,
+          "tweet_count": 2711
+        },
+        "username": "LanLan93083241",
+        "verified": false
+      }
+    ]
+  }
+}

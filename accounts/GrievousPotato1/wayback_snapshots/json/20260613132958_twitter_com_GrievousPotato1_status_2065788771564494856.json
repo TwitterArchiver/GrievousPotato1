@@ -1,0 +1,113 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2055822314969665536",
+    "conversation_id": "2065788771564494856",
+    "created_at": "2026-06-13T13:29:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-13T14:29:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2065788771564494856"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2065788771564494856",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我没有镜头焦虑但我不会主动拍照，我跟别人拍照的感觉是自己拖着一具人型的肉块跟其他人类的人型肉块一起拍照，拍完那个人类就会很开心\n\n我不装了，其实我是一只会拟态成人的触手肉块，我从人类的悲伤和痛苦中诞生，我过来是为了学习人类文明，你们好啊各位人类，请多多教我人类知识🐙"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2055822314969665536",
+        "conversation_id": "2065788771564494856",
+        "created_at": "2026-06-13T13:29:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-13T14:29:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2065788771564494856"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2065788771564494856",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我没有镜头焦虑但我不会主动拍照，我跟别人拍照的感觉是自己拖着一具人型的肉块跟其他人类的人型肉块一起拍照，拍完那个人类就会很开心\n\n我不装了，其实我是一只会拟态成人的触手肉块，我从人类的悲伤和痛苦中诞生，我过来是为了学习人类文明，你们好啊各位人类，请多多教我人类知识🐙"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-17T01:27:33.000Z",
+        "description": "同类回fo，至于是什么同类x不让我说/点赞狂魔/查成分请翻回复or 去🦋 @aeglepotato / https://t.co/C8vIKrLtCN",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 49,
+                "start": 37,
+                "username": "aeglepotato"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/aeglepotato",
+                "end": 75,
+                "expanded_url": "https://ngl.link/aeglepotato",
+                "start": 52,
+                "url": "https://t.co/C8vIKrLtCN"
+              }
+            ]
+          }
+        },
+        "id": "2055822314969665536",
+        "name": "🌈ALLice☃️赛博幽灵",
+        "pinned_tweet_id": "2064878659698102753",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055823521440301056/FmjUDDvC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 68,
+          "following_count": 120,
+          "like_count": 3412,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 208
+        },
+        "username": "GrievousPotato1",
+        "verified": false
+      }
+    ]
+  }
+}

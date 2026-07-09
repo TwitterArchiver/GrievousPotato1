@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2060738059881086976",
+        "3_2060738071918772228"
+      ]
+    },
+    "author_id": "2055822314969665536",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2060738075337138602",
+    "created_at": "2026-05-30T15:00:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-30T16:00:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2060738075337138602"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "description": "深层恐惧探测器旨在通过10个核心存在维度，精准定位你灵魂深处的阴影点位，帮你识别那些潜伏在潜意识中影响你决策、性格与安全感的底层恐惧。",
+          "display_url": "arealme.com/phobia-test/cn…",
+          "end": 25,
+          "expanded_url": "https://www.arealme.com/phobia-test/cn/?_wv=1",
+          "start": 2,
+          "status": 200,
+          "title": "深层恐惧探测器 - 你的人生最怕什么？直面你灵魂最深处的阴影",
+          "unwound_url": "https://www.arealme.com/phobia-test/cn/?_wv=1",
+          "url": "https://t.co/u9QdG1Bs4I"
+        },
+        {
+          "display_url": "pic.x.com/mSHLENONIW",
+          "end": 49,
+          "expanded_url": "https://x.com/GrievousPotato1/status/2060738075337138602/photo/1",
+          "media_key": "3_2060738059881086976",
+          "start": 26,
+          "url": "https://t.co/mSHLENONIW"
+        },
+        {
+          "display_url": "pic.x.com/mSHLENONIW",
+          "end": 49,
+          "expanded_url": "https://x.com/GrievousPotato1/status/2060738075337138602/photo/1",
+          "media_key": "3_2060738071918772228",
+          "start": 26,
+          "url": "https://t.co/mSHLENONIW"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060738075337138602",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "好玩https://t.co/u9QdG1Bs4I https://t.co/mSHLENONIW"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1292,
+        "media_key": "3_2060738059881086976",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJk2WOJXAAAj14T.jpg",
+        "width": 1220
+      },
+      {
+        "height": 1850,
+        "media_key": "3_2060738071918772228",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJk2W6_XgAQK8qN.jpg",
+        "width": 1220
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2060738059881086976",
+            "3_2060738071918772228"
+          ]
+        },
+        "author_id": "2055822314969665536",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2060738075337138602",
+        "created_at": "2026-05-30T15:00:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T16:00:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060738075337138602"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "深层恐惧探测器旨在通过10个核心存在维度，精准定位你灵魂深处的阴影点位，帮你识别那些潜伏在潜意识中影响你决策、性格与安全感的底层恐惧。",
+              "display_url": "arealme.com/phobia-test/cn…",
+              "end": 25,
+              "expanded_url": "https://www.arealme.com/phobia-test/cn/?_wv=1",
+              "start": 2,
+              "status": 200,
+              "title": "深层恐惧探测器 - 你的人生最怕什么？直面你灵魂最深处的阴影",
+              "unwound_url": "https://www.arealme.com/phobia-test/cn/?_wv=1",
+              "url": "https://t.co/u9QdG1Bs4I"
+            },
+            {
+              "display_url": "pic.x.com/mSHLENONIW",
+              "end": 49,
+              "expanded_url": "https://x.com/GrievousPotato1/status/2060738075337138602/photo/1",
+              "media_key": "3_2060738059881086976",
+              "start": 26,
+              "url": "https://t.co/mSHLENONIW"
+            },
+            {
+              "display_url": "pic.x.com/mSHLENONIW",
+              "end": 49,
+              "expanded_url": "https://x.com/GrievousPotato1/status/2060738075337138602/photo/1",
+              "media_key": "3_2060738071918772228",
+              "start": 26,
+              "url": "https://t.co/mSHLENONIW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060738075337138602",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "好玩https://t.co/u9QdG1Bs4I https://t.co/mSHLENONIW"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-17T01:27:33.000Z",
+        "description": "同类回fo，至于是什么同类x不让我说/点赞狂魔，只互动不发推/查成分请翻回复",
+        "id": "2055822314969665536",
+        "name": "🌈ALLice☃️剧烈复活",
+        "pinned_tweet_id": "2056519884301877431",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055823521440301056/FmjUDDvC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21,
+          "following_count": 51,
+          "like_count": 975,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 54
+        },
+        "username": "GrievousPotato1",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,124 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2055822314969665536",
+    "conversation_id": "2068648710716739674",
+    "created_at": "2026-06-21T10:54:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-21T11:54:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068648710716739674"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2068648710716739674",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 1,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "比如说我会有对着一个无人驾驶的智能汽车开心的大喊“芜湖，没工作咯，我们都要饿死咯”的冲动\n但我并不是针对什么人，我也不会真的去做，但就是有这个冲动，我想到的一瞬间也觉得这样做不妥\n但我的大脑告诉我它想这样做，我就经常就这样跟我的大脑打架"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2055822314969665536",
+        "conversation_id": "2068648710716739674",
+        "created_at": "2026-06-21T10:54:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-21T11:54:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068648710716739674"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2068648710716739674",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "比如说我会有对着一个无人驾驶的智能汽车开心的大喊“芜湖，没工作咯，我们都要饿死咯”的冲动\n但我并不是针对什么人，我也不会真的去做，但就是有这个冲动，我想到的一瞬间也觉得这样做不妥\n但我的大脑告诉我它想这样做，我就经常就这样跟我的大脑打架"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-17T01:27:33.000Z",
+        "description": "同类互fo，成分请查看@aeglepotato/点赞狂魔/备用@aeglepotato /🦋@aeglepotato /匿名提问箱https://t.co/C8vIKrLtCN",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 11,
+                "username": "aeglepotato"
+              },
+              {
+                "end": 43,
+                "start": 31,
+                "username": "aeglepotato"
+              },
+              {
+                "end": 58,
+                "start": 46,
+                "username": "aeglepotato"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/aeglepotato",
+                "end": 88,
+                "expanded_url": "https://ngl.link/aeglepotato",
+                "start": 65,
+                "url": "https://t.co/C8vIKrLtCN"
+              }
+            ]
+          }
+        },
+        "id": "2055822314969665536",
+        "name": "🌈ALLice☃️赛博幽灵",
+        "pinned_tweet_id": "2064878659698102753",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067517312576421888/aGH7Myxd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 120,
+          "following_count": 183,
+          "like_count": 5386,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 352
+        },
+        "url": "",
+        "username": "GrievousPotato1",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2055822314969665536",
+    "conversation_id": "2072569886597914991",
+    "created_at": "2026-07-02T06:35:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-02T07:35:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2072569886597914991"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1896904934995656704",
+          "start": 3,
+          "username": "penpunx"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072569886597914991",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2072564264762745071",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @penpunx: 我以前是不喜欢看剪辑的，因为我不理解那有什么关联，我感觉仅仅是想用炫酷效果把人唬住\n但是现在也有喜欢的剪辑视频了，为什么呢？实际上是因为受到dxm幻觉的启示，画面之间不需要有浅显的关联，关联在潜意识里。我还明白所见所闻所说都不是思维的边界"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2055822314969665536",
+        "conversation_id": "2072569886597914991",
+        "created_at": "2026-07-02T06:35:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-02T07:35:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072569886597914991"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1896904934995656704",
+              "start": 3,
+              "username": "penpunx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072569886597914991",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072564264762745071",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @penpunx: 我以前是不喜欢看剪辑的，因为我不理解那有什么关联，我感觉仅仅是想用炫酷效果把人唬住\n但是现在也有喜欢的剪辑视频了，为什么呢？实际上是因为受到dxm幻觉的启示，画面之间不需要有浅显的关联，关联在潜意识里。我还明白所见所闻所说都不是思维的边界"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1896904934995656704",
+        "conversation_id": "2072564264762745071",
+        "created_at": "2026-07-02T06:13:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-02T07:13:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2072564264762745071"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2072564264762745071",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 46,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "我以前是不喜欢看剪辑的，因为我不理解那有什么关联，我感觉仅仅是想用炫酷效果把人唬住\n但是现在也有喜欢的剪辑视频了，为什么呢？实际上是因为受到dxm幻觉的启示，画面之间不需要有浅显的关联，关联在潜意识里。我还明白所见所闻所说都不是思维的边界"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-17T01:27:33.000Z",
+        "description": "同类互fo，成分请查看@aeglepotato/点赞狂魔/平时喜欢说怪话和发癫/备用@aeglepotato /🦋@aeglepotato /匿名提问箱https://t.co/C8vIKrLtCN",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 11,
+                "username": "aeglepotato"
+              },
+              {
+                "end": 54,
+                "start": 42,
+                "username": "aeglepotato"
+              },
+              {
+                "end": 69,
+                "start": 57,
+                "username": "aeglepotato"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/aeglepotato",
+                "end": 99,
+                "expanded_url": "https://ngl.link/aeglepotato",
+                "start": 76,
+                "url": "https://t.co/C8vIKrLtCN"
+              }
+            ]
+          }
+        },
+        "id": "2055822314969665536",
+        "name": "⛄ALLice🌈赛博幽灵",
+        "pinned_tweet_id": "2064878659698102753",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067517312576421888/aGH7Myxd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 195,
+          "following_count": 267,
+          "like_count": 8551,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 539
+        },
+        "url": "",
+        "username": "GrievousPotato1",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-04T12:46:03.000Z",
+        "description": "",
+        "id": "1896904934995656704",
+        "location": "形",
+        "name": "天",
+        "pinned_tweet_id": "2067881540420620775",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064601020559396864/7ktj6vNY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 445,
+          "following_count": 615,
+          "like_count": 14563,
+          "listed_count": 2,
+          "media_count": 749,
+          "tweet_count": 5994
+        },
+        "url": "",
+        "username": "penpunx",
+        "verified": false
+      }
+    ]
+  }
+}

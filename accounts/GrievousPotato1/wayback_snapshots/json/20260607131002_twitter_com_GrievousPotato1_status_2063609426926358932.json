@@ -1,0 +1,104 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2055822314969665536",
+    "conversation_id": "2063609426926358932",
+    "created_at": "2026-06-07T13:10:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-07T14:10:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063609426926358932"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2063609426926358932",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 1,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "虽然我很喜欢看书，但我小时候的语文成绩意外的差。我从小就觉得自己感受到的东西跟其他人不一样，所以阅读理解写出来的东西总是跟正确答案不一样，作文也写的一塌糊涂，最后我只能纯套公式答题才能勉强及格\n\n但是我真的很喜欢看书"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2055822314969665536",
+        "conversation_id": "2063609426926358932",
+        "created_at": "2026-06-07T13:10:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T14:10:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063609426926358932"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2063609426926358932",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "虽然我很喜欢看书，但我小时候的语文成绩意外的差。我从小就觉得自己感受到的东西跟其他人不一样，所以阅读理解写出来的东西总是跟正确答案不一样，作文也写的一塌糊涂，最后我只能纯套公式答题才能勉强及格\n\n但是我真的很喜欢看书"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-17T01:27:33.000Z",
+        "description": "同类回fo，至于是什么同类x不让我说/点赞狂魔，只互动不发推/查成分请翻回复or 去🦋 @aeglepotato",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 56,
+                "start": 44,
+                "username": "aeglepotato"
+              }
+            ]
+          }
+        },
+        "id": "2055822314969665536",
+        "name": "🌈ALLice☃️赛博幽灵",
+        "pinned_tweet_id": "2056519884301877431",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055823521440301056/FmjUDDvC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 42,
+          "following_count": 77,
+          "like_count": 2049,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 117
+        },
+        "username": "GrievousPotato1",
+        "verified": false
+      }
+    ]
+  }
+}

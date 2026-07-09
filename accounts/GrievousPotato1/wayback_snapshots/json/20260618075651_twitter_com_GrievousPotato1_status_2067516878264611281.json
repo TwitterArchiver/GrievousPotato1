@@ -1,0 +1,433 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2067476661310795776",
+        "3_2067476902932086784",
+        "3_2067476939896418304"
+      ],
+      "media_source_tweet_id": [
+        "2067476980199518376",
+        "2067476980199518376",
+        "2067476980199518376"
+      ]
+    },
+    "author_id": "2055822314969665536",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2067516878264611281",
+    "created_at": "2026-06-18T07:56:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-18T08:56:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067516878264611281"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 38,
+          "start": 30,
+          "tag": "slittwt"
+        },
+        {
+          "end": 46,
+          "start": 39,
+          "tag": "988twt"
+        },
+        {
+          "end": 57,
+          "start": 47,
+          "tag": "ouchietwt"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1517000218960699392",
+          "start": 3,
+          "username": "Lov1ng_M4chine"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/KAA605j8UD",
+          "end": 104,
+          "expanded_url": "https://x.com/Lov1ng_M4chine/status/2067476980199518376/photo/1",
+          "media_key": "3_2067476661310795776",
+          "start": 81,
+          "url": "https://t.co/KAA605j8UD"
+        },
+        {
+          "display_url": "pic.x.com/KAA605j8UD",
+          "end": 104,
+          "expanded_url": "https://x.com/Lov1ng_M4chine/status/2067476980199518376/photo/1",
+          "media_key": "3_2067476902932086784",
+          "start": 81,
+          "url": "https://t.co/KAA605j8UD"
+        },
+        {
+          "display_url": "pic.x.com/KAA605j8UD",
+          "end": 104,
+          "expanded_url": "https://x.com/Lov1ng_M4chine/status/2067476980199518376/photo/1",
+          "media_key": "3_2067476939896418304",
+          "start": 81,
+          "url": "https://t.co/KAA605j8UD"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067516878264611281",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 17
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067476980199518376",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Lov1ng_M4chine: More cuts #slittwt #988twt #ouchietwt (SFX makeup, all fake) https://t.co/KAA605j8UD"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2067476661310795776",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLEnEcrXMAAxzcG.jpg",
+        "width": 1535
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2067476902932086784",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLEnSgyXgAAnACD.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2067476939896418304",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLEnUqfWcAA7fQm.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2067476661310795776",
+            "3_2067476902932086784",
+            "3_2067476939896418304"
+          ],
+          "media_source_tweet_id": [
+            "2067476980199518376",
+            "2067476980199518376",
+            "2067476980199518376"
+          ]
+        },
+        "author_id": "2055822314969665536",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2067516878264611281",
+        "created_at": "2026-06-18T07:56:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T08:56:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067516878264611281"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 38,
+              "start": 30,
+              "tag": "slittwt"
+            },
+            {
+              "end": 46,
+              "start": 39,
+              "tag": "988twt"
+            },
+            {
+              "end": 57,
+              "start": 47,
+              "tag": "ouchietwt"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1517000218960699392",
+              "start": 3,
+              "username": "Lov1ng_M4chine"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/KAA605j8UD",
+              "end": 104,
+              "expanded_url": "https://x.com/Lov1ng_M4chine/status/2067476980199518376/photo/1",
+              "media_key": "3_2067476661310795776",
+              "start": 81,
+              "url": "https://t.co/KAA605j8UD"
+            },
+            {
+              "display_url": "pic.x.com/KAA605j8UD",
+              "end": 104,
+              "expanded_url": "https://x.com/Lov1ng_M4chine/status/2067476980199518376/photo/1",
+              "media_key": "3_2067476902932086784",
+              "start": 81,
+              "url": "https://t.co/KAA605j8UD"
+            },
+            {
+              "display_url": "pic.x.com/KAA605j8UD",
+              "end": 104,
+              "expanded_url": "https://x.com/Lov1ng_M4chine/status/2067476980199518376/photo/1",
+              "media_key": "3_2067476939896418304",
+              "start": 81,
+              "url": "https://t.co/KAA605j8UD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067516878264611281",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 17
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067476980199518376",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Lov1ng_M4chine: More cuts #slittwt #988twt #ouchietwt (SFX makeup, all fake) https://t.co/KAA605j8UD"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2067476661310795776",
+            "3_2067476902932086784",
+            "3_2067476939896418304"
+          ]
+        },
+        "author_id": "1517000218960699392",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2067476980199518376",
+        "created_at": "2026-06-18T05:18:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T06:18:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067476980199518376"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 18,
+              "start": 10,
+              "tag": "slittwt"
+            },
+            {
+              "end": 26,
+              "start": 19,
+              "tag": "988twt"
+            },
+            {
+              "end": 37,
+              "start": 27,
+              "tag": "ouchietwt"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/KAA605j8UD",
+              "end": 84,
+              "expanded_url": "https://x.com/Lov1ng_M4chine/status/2067476980199518376/photo/1",
+              "media_key": "3_2067476661310795776",
+              "start": 61,
+              "url": "https://t.co/KAA605j8UD"
+            },
+            {
+              "display_url": "pic.x.com/KAA605j8UD",
+              "end": 84,
+              "expanded_url": "https://x.com/Lov1ng_M4chine/status/2067476980199518376/photo/1",
+              "media_key": "3_2067476902932086784",
+              "start": 61,
+              "url": "https://t.co/KAA605j8UD"
+            },
+            {
+              "display_url": "pic.x.com/KAA605j8UD",
+              "end": 84,
+              "expanded_url": "https://x.com/Lov1ng_M4chine/status/2067476980199518376/photo/1",
+              "media_key": "3_2067476939896418304",
+              "start": 61,
+              "url": "https://t.co/KAA605j8UD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067476980199518376",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7,
+          "impression_count": 432,
+          "like_count": 132,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 17
+        },
+        "reply_settings": "everyone",
+        "text": "More cuts #slittwt #988twt #ouchietwt (SFX makeup, all fake) https://t.co/KAA605j8UD"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-17T01:27:33.000Z",
+        "description": "同类互fo，成分请查看@aeglepotato/点赞狂魔/备用@aeglepotato /🦋@aeglepotato /https://t.co/C8vIKrLtCN",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 11,
+                "username": "aeglepotato"
+              },
+              {
+                "end": 43,
+                "start": 31,
+                "username": "aeglepotato"
+              },
+              {
+                "end": 58,
+                "start": 46,
+                "username": "aeglepotato"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/aeglepotato",
+                "end": 83,
+                "expanded_url": "https://ngl.link/aeglepotato",
+                "start": 60,
+                "url": "https://t.co/C8vIKrLtCN"
+              }
+            ]
+          }
+        },
+        "id": "2055822314969665536",
+        "name": "🌈ALLice☃️赛博幽灵",
+        "pinned_tweet_id": "2064878659698102753",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067516492149559296/cflAmrno_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 112,
+          "following_count": 175,
+          "like_count": 4757,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 309
+        },
+        "url": "",
+        "username": "GrievousPotato1",
+        "verified": false
+      },
+      {
+        "created_at": "2022-04-21T04:40:38.000Z",
+        "description": "",
+        "id": "1517000218960699392",
+        "location": "shtwt ",
+        "name": "danny ⟡",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067480472645472256/08nefda9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5,
+          "following_count": 98,
+          "like_count": 4822,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 611
+        },
+        "url": "",
+        "username": "Lov1ng_M4chine",
+        "verified": false
+      }
+    ]
+  }
+}

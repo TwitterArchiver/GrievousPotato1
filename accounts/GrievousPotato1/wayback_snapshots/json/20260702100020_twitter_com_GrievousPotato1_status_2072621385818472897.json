@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2055822314969665536",
+    "conversation_id": "2072621385818472897",
+    "created_at": "2026-07-02T10:00:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-02T11:00:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2072621385818472897"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "2989618511",
+          "start": 3,
+          "username": "Kristall_Wang_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072621385818472897",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 10
+    },
+    "referenced_tweets": [
+      {
+        "id": "1894679776297689404",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Kristall_Wang_: 我再说一遍，亚硝酸钠可以拿来做炸药。\n\n如果我没记错的话，兑盐酸磷酸之后得到二氧化氮，通入水中得到硝酸，然后你们爱怎么搞怎么搞。\n\n如果有不会或者不知道后续操作方法的，请咨询圈内化竞退役的朋友。大家以前或多或少都接触过这类玩意儿怎么搞。…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2055822314969665536",
+        "conversation_id": "2072621385818472897",
+        "created_at": "2026-07-02T10:00:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-02T11:00:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072621385818472897"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "2989618511",
+              "start": 3,
+              "username": "Kristall_Wang_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072621385818472897",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 10
+        },
+        "referenced_tweets": [
+          {
+            "id": "1894679776297689404",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Kristall_Wang_: 我再说一遍，亚硝酸钠可以拿来做炸药。\n\n如果我没记错的话，兑盐酸磷酸之后得到二氧化氮，通入水中得到硝酸，然后你们爱怎么搞怎么搞。\n\n如果有不会或者不知道后续操作方法的，请咨询圈内化竞退役的朋友。大家以前或多或少都接触过这类玩意儿怎么搞。…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2989618511",
+        "conversation_id": "1894679776297689404",
+        "created_at": "2025-02-26T09:23:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-26T10:23:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1894679776297689404"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1894679776297689404",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 24,
+          "impression_count": 13349,
+          "like_count": 146,
+          "quote_count": 2,
+          "reply_count": 21,
+          "retweet_count": 10
+        },
+        "reply_settings": "everyone",
+        "text": "我再说一遍，亚硝酸钠可以拿来做炸药。\n\n如果我没记错的话，兑盐酸磷酸之后得到二氧化氮，通入水中得到硝酸，然后你们爱怎么搞怎么搞。\n\n如果有不会或者不知道后续操作方法的，请咨询圈内化竞退役的朋友。大家以前或多或少都接触过这类玩意儿怎么搞。\n\n想死没问题，但是请拉上网戒工作人员的一起死。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-17T01:27:33.000Z",
+        "description": "同类互fo，成分请查看@aeglepotato/点赞狂魔/平时喜欢说怪话和发癫/备用@aeglepotato /🦋@aeglepotato /匿名提问箱https://t.co/C8vIKrLtCN",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 11,
+                "username": "aeglepotato"
+              },
+              {
+                "end": 54,
+                "start": 42,
+                "username": "aeglepotato"
+              },
+              {
+                "end": 69,
+                "start": 57,
+                "username": "aeglepotato"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/aeglepotato",
+                "end": 99,
+                "expanded_url": "https://ngl.link/aeglepotato",
+                "start": 76,
+                "url": "https://t.co/C8vIKrLtCN"
+              }
+            ]
+          }
+        },
+        "id": "2055822314969665536",
+        "name": "⛄ALLice🌈赛博幽灵",
+        "pinned_tweet_id": "2064878659698102753",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067517312576421888/aGH7Myxd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 196,
+          "following_count": 267,
+          "like_count": 8577,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 540
+        },
+        "url": "",
+        "username": "GrievousPotato1",
+        "verified": false
+      },
+      {
+        "created_at": "2015-01-21T11:33:34.000Z",
+        "description": "Astrophysics&Biochemistry/MtF/IEEE+ACS+APS studentmember/English talking okay/无产阶级万岁！/Lolita/168/87/66/88/70D/锁推的fo前请私信/闷声大发财，我什么也不说，这是坠吼的",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "kristall-wang.lgbt",
+                "end": 23,
+                "expanded_url": "http://kristall-wang.lgbt",
+                "start": 0,
+                "url": "https://t.co/xB7XCAbKWH"
+              }
+            ]
+          }
+        },
+        "id": "2989618511",
+        "name": "Kristall Wang（接受所有回fo）#StopWar（反射弧很长）",
+        "pinned_tweet_id": "1610098333770547201",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1567704879350648834/eExiJ1sW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5313,
+          "following_count": 5293,
+          "like_count": 107001,
+          "listed_count": 22,
+          "media_count": 978,
+          "tweet_count": 27574
+        },
+        "url": "https://t.co/xB7XCAbKWH",
+        "username": "Kristall_Wang_",
+        "verified": false
+      }
+    ]
+  }
+}

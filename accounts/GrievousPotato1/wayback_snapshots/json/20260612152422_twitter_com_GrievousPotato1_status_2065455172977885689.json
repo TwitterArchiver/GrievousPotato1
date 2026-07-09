@@ -1,0 +1,293 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2055822314969665536",
+    "conversation_id": "2062015955417346344",
+    "created_at": "2026-06-12T15:24:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-12T16:24:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065455172977885689"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1659962043460354050",
+          "start": 0,
+          "username": "SalviaSWC"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065455172977885689",
+    "in_reply_to_user_id": "1659962043460354050",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062015955417346344",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@SalviaSWC 太恶心了🥲"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1054,
+        "media_key": "3_2062015728165818368",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJ3AYTaXkAA30xq.jpg",
+        "width": 1260
+      },
+      {
+        "height": 1233,
+        "media_key": "3_2062015728165736448",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJ3AYTaWUAAoU3n.jpg",
+        "width": 1260
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2055822314969665536",
+        "conversation_id": "2062015955417346344",
+        "created_at": "2026-06-12T15:24:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-12T16:24:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065455172977885689"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1659962043460354050",
+              "start": 0,
+              "username": "SalviaSWC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065455172977885689",
+        "in_reply_to_user_id": "1659962043460354050",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062015955417346344",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SalviaSWC 太恶心了🥲"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2062015728165818368",
+            "3_2062015728165736448"
+          ]
+        },
+        "author_id": "1659962043460354050",
+        "conversation_id": "2062015955417346344",
+        "created_at": "2026-06-03T03:38:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-03T04:38:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062015955417346344"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "电子烟加兽药，青少年新型药物滥用调查",
+              "display_url": "i.ifeng.com/c/8tcXaMUg530",
+              "end": 67,
+              "expanded_url": "https://i.ifeng.com/c/8tcXaMUg530",
+              "images": [
+                {
+                  "height": 549,
+                  "url": "https://pbs.twimg.com/news_img/2065425273772814336/oadtqfoY?format=jpg&name=orig",
+                  "width": 975
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2065425273772814336/oadtqfoY?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 44,
+              "status": 200,
+              "title": "电子烟加兽药，青少年新型药物滥用调查",
+              "unwound_url": "https://i.ifeng.com/c/8tcXaMUg530",
+              "url": "https://t.co/eaRyKlifY1"
+            },
+            {
+              "display_url": "pic.x.com/lxtk1WmM0Z",
+              "end": 91,
+              "expanded_url": "https://x.com/SalviaSWC/status/2062015955417346344/photo/1",
+              "media_key": "3_2062015728165818368",
+              "start": 68,
+              "url": "https://t.co/lxtk1WmM0Z"
+            },
+            {
+              "display_url": "pic.x.com/lxtk1WmM0Z",
+              "end": 91,
+              "expanded_url": "https://x.com/SalviaSWC/status/2062015955417346344/photo/1",
+              "media_key": "3_2062015728165736448",
+              "start": 68,
+              "url": "https://t.co/lxtk1WmM0Z"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062015955417346344",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 20,
+          "impression_count": 23010,
+          "like_count": 165,
+          "quote_count": 16,
+          "reply_count": 49,
+          "retweet_count": 19
+        },
+        "reply_settings": "everyone",
+        "text": "凤凰新闻已经知道加巴喷丁、美金刚、噻奈普汀的事情了，这些记者吃人血馒头已经无底线了😅\n\nhttps://t.co/eaRyKlifY1 https://t.co/lxtk1WmM0Z"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-17T01:27:33.000Z",
+        "description": "同类回fo，至于是什么同类x不让我说/点赞狂魔/查成分请翻回复or 去🦋 @aeglepotato / https://t.co/C8vIKrLtCN",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 49,
+                "start": 37,
+                "username": "aeglepotato"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/aeglepotato",
+                "end": 75,
+                "expanded_url": "https://ngl.link/aeglepotato",
+                "start": 52,
+                "url": "https://t.co/C8vIKrLtCN"
+              }
+            ]
+          }
+        },
+        "id": "2055822314969665536",
+        "name": "🌈ALLice☃️赛博幽灵",
+        "pinned_tweet_id": "2064878659698102753",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055823521440301056/FmjUDDvC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 61,
+          "following_count": 112,
+          "like_count": 3259,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 190
+        },
+        "username": "GrievousPotato1",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-20T16:39:35.000Z",
+        "description": "非必要不键政🏳️|不卖药🚫|欢迎任何人🌈|包容各种做法☮|互fo🉑🥰|没回fo的话，请私信我哦📬|\n\n脑婆:@DXM8964LXM\n\n丨药物知识开源化💊|来FreeODwiki看看吧！https://t.co/ki2TerCl7C |Say Know to Drugs 😼",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 65,
+                "start": 54,
+                "username": "DXM8964LXM"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "github.com/SalviaSWC/Free…",
+                "end": 115,
+                "expanded_url": "https://github.com/SalviaSWC/FreeODwiki",
+                "start": 92,
+                "url": "https://t.co/ki2TerCl7C"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "freeodwiki.org",
+                "end": 23,
+                "expanded_url": "https://freeodwiki.org",
+                "start": 0,
+                "url": "https://t.co/20q0OtAeQd"
+              }
+            ]
+          }
+        },
+        "id": "1659962043460354050",
+        "name": "鼠尾草～🌿",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2034583473692852224/nE4xPVUJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4825,
+          "following_count": 1012,
+          "like_count": 24437,
+          "listed_count": 12,
+          "media_count": 552,
+          "tweet_count": 7894
+        },
+        "url": "https://t.co/20q0OtAeQd",
+        "username": "SalviaSWC",
+        "verified": false
+      }
+    ]
+  }
+}

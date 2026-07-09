@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2055822314969665536",
+    "conversation_id": "2067532287802237013",
+    "created_at": "2026-06-18T09:25:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-18T10:25:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067539259964149825"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2059149411007991808",
+          "start": 0,
+          "username": "wndsfefoumxlw6"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067539259964149825",
+    "in_reply_to_user_id": "2059149411007991808",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067532287802237013",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wndsfefoumxlw6 只能看到外文推的雪兔了😭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2055822314969665536",
+        "conversation_id": "2067532287802237013",
+        "created_at": "2026-06-18T09:25:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T10:25:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067539259964149825"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2059149411007991808",
+              "start": 0,
+              "username": "wndsfefoumxlw6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067539259964149825",
+        "in_reply_to_user_id": "2059149411007991808",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067532287802237013",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wndsfefoumxlw6 只能看到外文推的雪兔了😭"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2059149411007991808",
+        "conversation_id": "2067532287802237013",
+        "created_at": "2026-06-18T08:58:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T09:58:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067532287802237013"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2067532287802237013",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 27,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "谁还敢在推上发血图"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-17T01:27:33.000Z",
+        "description": "同类互fo，成分请查看@aeglepotato/点赞狂魔/备用@aeglepotato /🦋@aeglepotato /https://t.co/C8vIKrLtCN",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 11,
+                "username": "aeglepotato"
+              },
+              {
+                "end": 43,
+                "start": 31,
+                "username": "aeglepotato"
+              },
+              {
+                "end": 58,
+                "start": 46,
+                "username": "aeglepotato"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/aeglepotato",
+                "end": 83,
+                "expanded_url": "https://ngl.link/aeglepotato",
+                "start": 60,
+                "url": "https://t.co/C8vIKrLtCN"
+              }
+            ]
+          }
+        },
+        "id": "2055822314969665536",
+        "name": "🌈ALLice☃️赛博幽灵",
+        "pinned_tweet_id": "2064878659698102753",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067517312576421888/aGH7Myxd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 112,
+          "following_count": 175,
+          "like_count": 4783,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 309
+        },
+        "username": "GrievousPotato1",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-26T05:48:02.000Z",
+        "description": "mtx/重生归来，三代目，前世@RfbxaUauj41685 @rednightmare962欢迎互fo🐱电子烟代➕vx：c313s852j0976或私信（无上头）",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 15,
+                "username": "RfbxaUauj41685"
+              },
+              {
+                "end": 47,
+                "start": 31,
+                "username": "rednightmare962"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/abbxjss",
+                "end": 23,
+                "expanded_url": "https://t.me/abbxjss",
+                "start": 0,
+                "url": "https://t.co/nSeU2CutUo"
+              }
+            ]
+          }
+        },
+        "id": "2059149411007991808",
+        "name": "洛洛（烟代版）",
+        "pinned_tweet_id": "2065465722890014753",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061008596381704192/DvtOhDvm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 295,
+          "following_count": 65,
+          "like_count": 909,
+          "listed_count": 2,
+          "media_count": 129,
+          "tweet_count": 594
+        },
+        "url": "https://t.co/nSeU2CutUo",
+        "username": "wndsfefoumxlw6",
+        "verified": true
+      }
+    ]
+  }
+}

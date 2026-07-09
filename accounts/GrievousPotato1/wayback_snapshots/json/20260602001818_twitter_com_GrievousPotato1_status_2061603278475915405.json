@@ -1,0 +1,187 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2055822314969665536",
+    "conversation_id": "2061603278475915405",
+    "created_at": "2026-06-02T00:18:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-02T01:18:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2061603278475915405"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1904082328932270081",
+          "start": 3,
+          "username": "haruamexx"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061603278475915405",
+    "lang": "ko",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 116
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061316719210275182",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "mentionedUsers",
+    "text": "RT @haruamexx: 자살률 1위 타이틀 부끄러워하지도 않는 이 나라에서\n정신병환자의 안락사는 왜 막는거냐\n안락사 좀 허용해줘라 싯팔새끼들아"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2055822314969665536",
+        "conversation_id": "2061603278475915405",
+        "created_at": "2026-06-02T00:18:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-02T01:18:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061603278475915405"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1904082328932270081",
+              "start": 3,
+              "username": "haruamexx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061603278475915405",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 116
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061316719210275182",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "mentionedUsers",
+        "text": "RT @haruamexx: 자살률 1위 타이틀 부끄러워하지도 않는 이 나라에서\n정신병환자의 안락사는 왜 막는거냐\n안락사 좀 허용해줘라 싯팔새끼들아"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1904082328932270081",
+        "conversation_id": "2061316719210275182",
+        "created_at": "2026-06-01T05:19:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-01T06:19:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2061316719210275182"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2061316719210275182",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 13,
+          "impression_count": 9317,
+          "like_count": 530,
+          "quote_count": 5,
+          "reply_count": 1,
+          "retweet_count": 116
+        },
+        "reply_settings": "mentionedUsers",
+        "text": "자살률 1위 타이틀 부끄러워하지도 않는 이 나라에서\n정신병환자의 안락사는 왜 막는거냐\n안락사 좀 허용해줘라 싯팔새끼들아"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-17T01:27:33.000Z",
+        "description": "同类回fo，至于是什么同类x不让我说/点赞狂魔，只互动不发推/查成分请翻回复or 去bluesky🦋 @aeglepotato",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 63,
+                "start": 51,
+                "username": "aeglepotato"
+              }
+            ]
+          }
+        },
+        "id": "2055822314969665536",
+        "name": "🌈ALLice☃️剧烈复活",
+        "pinned_tweet_id": "2056519884301877431",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055823521440301056/FmjUDDvC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22,
+          "following_count": 54,
+          "like_count": 1200,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 64
+        },
+        "username": "GrievousPotato1",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-24T08:06:29.000Z",
+        "description": "퀴어(트랜스)혐오자 블락합니다. / 구독팔로안받음",
+        "id": "1904082328932270081",
+        "location": "일상 퀴어 극복 케이팝",
+        "name": "🏳️‍🌈마찌",
+        "pinned_tweet_id": "2028850817831416316",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055963048716976128/_mBuosi6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 101,
+          "following_count": 303,
+          "like_count": 4414,
+          "listed_count": 2,
+          "media_count": 439,
+          "tweet_count": 7248
+        },
+        "username": "haruamexx",
+        "verified": false
+      }
+    ]
+  }
+}

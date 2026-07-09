@@ -1,0 +1,197 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2055822314969665536",
+    "conversation_id": "2063215581931696450",
+    "created_at": "2026-06-06T11:05:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-06T12:05:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063215581931696450"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1946204672748085248",
+          "start": 3,
+          "username": "46f___"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063215581931696450",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063042828310352202",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @46f___: 谈恋爱不就是需要互相包容缺点吗，不就是要恋人愿意包容我性格恶劣的地方和我的不成熟与幼稚吗。我甚至不认为我需要去改正，不认为我需要努力变完美。我就是需要他的包容就是需要他溺爱啊。如果不是这样的话我也没有什么理由要和他在一起了吧。如果一直风平浪静不需要忍让和…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2055822314969665536",
+        "conversation_id": "2063215581931696450",
+        "created_at": "2026-06-06T11:05:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-06T12:05:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063215581931696450"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1946204672748085248",
+              "start": 3,
+              "username": "46f___"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063215581931696450",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063042828310352202",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @46f___: 谈恋爱不就是需要互相包容缺点吗，不就是要恋人愿意包容我性格恶劣的地方和我的不成熟与幼稚吗。我甚至不认为我需要去改正，不认为我需要努力变完美。我就是需要他的包容就是需要他溺爱啊。如果不是这样的话我也没有什么理由要和他在一起了吧。如果一直风平浪静不需要忍让和…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1946204672748085248",
+        "conversation_id": "2063042828310352202",
+        "created_at": "2026-06-05T23:38:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-06T00:38:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063042828310352202"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2063042828310352202",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 107,
+          "like_count": 4,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "谈恋爱不就是需要互相包容缺点吗，不就是要恋人愿意包容我性格恶劣的地方和我的不成熟与幼稚吗。我甚至不认为我需要去改正，不认为我需要努力变完美。我就是需要他的包容就是需要他溺爱啊。如果不是这样的话我也没有什么理由要和他在一起了吧。如果一直风平浪静不需要忍让和包容的话，我和谁都能在一起"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-17T01:27:33.000Z",
+        "description": "同类回fo，至于是什么同类x不让我说/点赞狂魔，只互动不发推/查成分请翻回复or 去bluesky🦋 @aeglepotato",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 63,
+                "start": 51,
+                "username": "aeglepotato"
+              }
+            ]
+          }
+        },
+        "id": "2055822314969665536",
+        "name": "🌈ALLice☃️赛博幽灵",
+        "pinned_tweet_id": "2056519884301877431",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055823521440301056/FmjUDDvC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 30,
+          "following_count": 66,
+          "like_count": 1715,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 95
+        },
+        "username": "GrievousPotato1",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-18T13:46:02.000Z",
+        "description": "谢谢你喜欢我的画。我的精神状态一直不太好，所以这个账号大多时候是用来发泄情绪的。请务必谨慎关注。我不想影响你的心情或者伤害到你。对不起。杂：@_imiganai",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 80,
+                "start": 70,
+                "username": "_imiganai"
+              }
+            ]
+          }
+        },
+        "id": "1946204672748085248",
+        "name": "……",
+        "pinned_tweet_id": "1983947431583879604",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062534159927832576/bczl7i5b_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1308,
+          "following_count": 248,
+          "like_count": 6927,
+          "listed_count": 4,
+          "media_count": 548,
+          "tweet_count": 4605
+        },
+        "username": "46f___",
+        "verified": false
+      }
+    ]
+  }
+}
