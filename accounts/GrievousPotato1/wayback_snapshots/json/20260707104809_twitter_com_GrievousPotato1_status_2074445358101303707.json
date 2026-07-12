@@ -1,0 +1,239 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2055822314969665536",
+    "conversation_id": "2074329609202536629",
+    "created_at": "2026-07-07T10:48:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-07T11:48:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074445358101303707"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1169796366869991425",
+          "start": 0,
+          "username": "15O1473"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074445358101303707",
+    "in_reply_to_user_id": "1169796366869991425",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074444305259999313",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@15O1473 “这是一个人吃人的社会”，所以社会在od人类🤓👆"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2055822314969665536",
+        "conversation_id": "2074329609202536629",
+        "created_at": "2026-07-07T10:48:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-07T11:48:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074445358101303707"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1169796366869991425",
+              "start": 0,
+              "username": "15O1473"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074445358101303707",
+        "in_reply_to_user_id": "1169796366869991425",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074444305259999313",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@15O1473 “这是一个人吃人的社会”，所以社会在od人类🤓👆"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1169796366869991425",
+        "conversation_id": "2074329609202536629",
+        "created_at": "2026-07-07T10:43:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-07T11:43:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074444305259999313"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2055822314969665536",
+              "start": 0,
+              "username": "GrievousPotato1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074444305259999313",
+        "in_reply_to_user_id": "2055822314969665536",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074329609202536629",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@GrievousPotato1 ed也是一种od \n→上新闻后超计量摄入称赞和辱骂也是一种od\n→赚太多钱了当然是o大了\n→有滥用价值的第三世界产业转移\n→NEEDDY BOYS OVERLOAD.feat you know who\n→地球在od温室气体吗？\n大脑升级.meme"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-17T01:27:33.000Z",
+        "description": "同类互fo，成分请查看@aeglepotato/点赞狂魔/平时喜欢说怪话和发癫/备用@aeglepotato /🦋@aeglepotato /匿名提问箱https://t.co/C8vIKrLtCN",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 11,
+                "username": "aeglepotato"
+              },
+              {
+                "end": 54,
+                "start": 42,
+                "username": "aeglepotato"
+              },
+              {
+                "end": 69,
+                "start": 57,
+                "username": "aeglepotato"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/aeglepotato",
+                "end": 99,
+                "expanded_url": "https://ngl.link/aeglepotato",
+                "start": 76,
+                "url": "https://t.co/C8vIKrLtCN"
+              }
+            ]
+          }
+        },
+        "id": "2055822314969665536",
+        "name": "⛄ALLice🌈赛博幽灵",
+        "pinned_tweet_id": "2064878659698102753",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067517312576421888/aGH7Myxd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 229,
+          "following_count": 294,
+          "like_count": 9452,
+          "listed_count": 0,
+          "media_count": 20,
+          "tweet_count": 604
+        },
+        "url": "",
+        "username": "GrievousPotato1",
+        "verified": false
+      },
+      {
+        "created_at": "2019-09-06T02:16:44.000Z",
+        "description": "She/they丨Generative Pro-TRANS Transformer丨GNHT 2023.3.13丨ADHD丨Feminism丨Anarchism丨中文・日本語・English (poor) 丨",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "fuyutuki.org",
+                "end": 23,
+                "expanded_url": "https://fuyutuki.org/",
+                "start": 0,
+                "url": "https://t.co/svuPnDSqd3"
+              }
+            ]
+          }
+        },
+        "id": "1169796366869991425",
+        "location": "MyDeadBody",
+        "name": "冬月 チヤ",
+        "pinned_tweet_id": "2060661328336113954",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878750404177166336/ein0t76C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 455,
+          "following_count": 1158,
+          "like_count": 72341,
+          "listed_count": 3,
+          "media_count": 591,
+          "tweet_count": 8762
+        },
+        "url": "https://t.co/svuPnDSqd3",
+        "username": "15O1473",
+        "verified": false
+      }
+    ]
+  }
+}

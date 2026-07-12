@@ -1,0 +1,283 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2055822314969665536",
+    "conversation_id": "2074739997677060452",
+    "created_at": "2026-07-08T06:18:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-08T07:18:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074739997677060452"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "896721344544595969",
+          "start": 3,
+          "username": "StatsGoulding"
+        },
+        {
+          "end": 32,
+          "id": "753424463560052736",
+          "start": 19,
+          "username": "AcervoCharts"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074739997677060452",
+    "lang": "pt",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 74
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074560248669434365",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @StatsGoulding: @AcervoCharts E tá errado? NÃO \n\nNós viemos a esse mundo contra a nossa vontade, as pessoas tem filhos sem considerar se…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2055822314969665536",
+        "conversation_id": "2074739997677060452",
+        "created_at": "2026-07-08T06:18:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T07:18:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074739997677060452"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "896721344544595969",
+              "start": 3,
+              "username": "StatsGoulding"
+            },
+            {
+              "end": 32,
+              "id": "753424463560052736",
+              "start": 19,
+              "username": "AcervoCharts"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074739997677060452",
+        "lang": "pt",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 74
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074560248669434365",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @StatsGoulding: @AcervoCharts E tá errado? NÃO \n\nNós viemos a esse mundo contra a nossa vontade, as pessoas tem filhos sem considerar se…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "896721344544595969",
+        "conversation_id": "2074549003170025890",
+        "created_at": "2026-07-07T18:24:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-07T19:24:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074560248669434365"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "753424463560052736",
+              "start": 0,
+              "username": "AcervoCharts"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074560248669434365",
+        "in_reply_to_user_id": "753424463560052736",
+        "lang": "pt",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 105,
+          "impression_count": 120445,
+          "like_count": 1939,
+          "quote_count": 59,
+          "reply_count": 143,
+          "retweet_count": 74
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074549003170025890",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AcervoCharts E tá errado? NÃO \n\nNós viemos a esse mundo contra a nossa vontade, as pessoas tem filhos sem considerar se essa pessoa vai ou não querer estar aqui!\n\nSe reproduzir é uma nojeira!! Equiparado a nazismo"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-17T01:27:33.000Z",
+        "description": "同类互fo，成分请查看@aeglepotato/点赞狂魔/平时喜欢说怪话和发癫/备用@aeglepotato /🦋@aeglepotato /匿名提问箱https://t.co/C8vIKrLtCN",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 11,
+                "username": "aeglepotato"
+              },
+              {
+                "end": 54,
+                "start": 42,
+                "username": "aeglepotato"
+              },
+              {
+                "end": 69,
+                "start": 57,
+                "username": "aeglepotato"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/aeglepotato",
+                "end": 99,
+                "expanded_url": "https://ngl.link/aeglepotato",
+                "start": 76,
+                "url": "https://t.co/C8vIKrLtCN"
+              }
+            ]
+          }
+        },
+        "id": "2055822314969665536",
+        "name": "⛄ALLice🌈赛博幽灵",
+        "pinned_tweet_id": "2064878659698102753",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067517312576421888/aGH7Myxd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 230,
+          "following_count": 297,
+          "like_count": 9754,
+          "listed_count": 0,
+          "media_count": 21,
+          "tweet_count": 625
+        },
+        "url": "",
+        "username": "GrievousPotato1",
+        "verified": false
+      },
+      {
+        "created_at": "2017-08-13T13:13:23.000Z",
+        "description": "Buy ourselves a caravan, make it down for spain(You & me)🔮",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "elliegoulding.com",
+                "end": 23,
+                "expanded_url": "http://elliegoulding.com",
+                "start": 0,
+                "url": "https://t.co/f9kwb972uc"
+              }
+            ]
+          }
+        },
+        "id": "896721344544595969",
+        "location": "Brasil",
+        "name": "AETHER:Iknowtoomuch",
+        "pinned_tweet_id": "1644174006432440320",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069316801109069824/HKwo2UU-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 427,
+          "following_count": 291,
+          "like_count": 43895,
+          "listed_count": 0,
+          "media_count": 717,
+          "tweet_count": 8241
+        },
+        "url": "https://t.co/f9kwb972uc",
+        "username": "StatsGoulding",
+        "verified": false
+      },
+      {
+        "created_at": "2016-07-14T03:02:45.000Z",
+        "description": "Curiosidades, entretenimento e cultura pop.\n✉️ publi@portalacervo.com.br",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "portalacervo.com.br",
+                "end": 23,
+                "expanded_url": "http://portalacervo.com.br",
+                "start": 0,
+                "url": "https://t.co/BICfVvadSo"
+              }
+            ]
+          }
+        },
+        "id": "753424463560052736",
+        "location": "Brasil",
+        "name": "ACERVO",
+        "pinned_tweet_id": "2074609400992420250",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1897105347287908352/g-209otg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 216625,
+          "following_count": 7580,
+          "like_count": 26526,
+          "listed_count": 332,
+          "media_count": 13884,
+          "tweet_count": 14828
+        },
+        "url": "https://t.co/BICfVvadSo",
+        "username": "AcervoCharts",
+        "verified": true
+      }
+    ]
+  }
+}

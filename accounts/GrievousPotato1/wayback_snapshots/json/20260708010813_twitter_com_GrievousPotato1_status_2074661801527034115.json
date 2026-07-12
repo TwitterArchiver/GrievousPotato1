@@ -1,0 +1,223 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2055822314969665536",
+    "conversation_id": "2074661801527034115",
+    "created_at": "2026-07-08T01:08:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-08T02:08:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074661801527034115"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1994724283176947712",
+          "start": 3,
+          "username": "lvovl3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074661801527034115",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074647862479368286",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "following",
+    "text": "RT @lvovl3: 我喜欢风评不好的女人\n杀人犯  疯子  精神病  暴力倾向 精明算计 私生活混乱等等等等\n这些不符合社会定义女人该有的样子\n她们太迷人了\n哪怕做了我也唾弃的事情\n但是太锐利了，我没办法移开目光"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2055822314969665536",
+        "conversation_id": "2074661801527034115",
+        "created_at": "2026-07-08T01:08:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T02:08:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074661801527034115"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1994724283176947712",
+              "start": 3,
+              "username": "lvovl3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074661801527034115",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074647862479368286",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "RT @lvovl3: 我喜欢风评不好的女人\n杀人犯  疯子  精神病  暴力倾向 精明算计 私生活混乱等等等等\n这些不符合社会定义女人该有的样子\n她们太迷人了\n哪怕做了我也唾弃的事情\n但是太锐利了，我没办法移开目光"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1994724283176947712",
+        "conversation_id": "2074647862479368286",
+        "created_at": "2026-07-08T00:12:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T01:12:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074647862479368286"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/l0okme3/status…",
+              "end": 120,
+              "expanded_url": "https://twitter.com/l0okme3/status/2074440276177813612",
+              "start": 97,
+              "url": "https://t.co/v0HSJgh30I"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074647862479368286",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 29,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074440276177813612",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "我喜欢风评不好的女人\n杀人犯  疯子  精神病  暴力倾向 精明算计 私生活混乱等等等等\n这些不符合社会定义女人该有的样子\n她们太迷人了\n哪怕做了我也唾弃的事情\n但是太锐利了，我没办法移开目光 https://t.co/v0HSJgh30I"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-17T01:27:33.000Z",
+        "description": "同类互fo，成分请查看@aeglepotato/点赞狂魔/平时喜欢说怪话和发癫/备用@aeglepotato /🦋@aeglepotato /匿名提问箱https://t.co/C8vIKrLtCN",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 11,
+                "username": "aeglepotato"
+              },
+              {
+                "end": 54,
+                "start": 42,
+                "username": "aeglepotato"
+              },
+              {
+                "end": 69,
+                "start": 57,
+                "username": "aeglepotato"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/aeglepotato",
+                "end": 99,
+                "expanded_url": "https://ngl.link/aeglepotato",
+                "start": 76,
+                "url": "https://t.co/C8vIKrLtCN"
+              }
+            ]
+          }
+        },
+        "id": "2055822314969665536",
+        "name": "⛄ALLice🌈赛博幽灵",
+        "pinned_tweet_id": "2064878659698102753",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067517312576421888/aGH7Myxd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 230,
+          "following_count": 296,
+          "like_count": 9596,
+          "listed_count": 0,
+          "media_count": 20,
+          "tweet_count": 612
+        },
+        "url": "",
+        "username": "GrievousPotato1",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-29T11:05:37.000Z",
+        "description": "22岁AUDHD 双相 精神分裂 ed 剧烈嗑药中！同类回fo\n模仿人类失败者/全世界最恨homework之人\n人生是被恐惧追赶着逃跑\n梦想是像普通人一样的身体",
+        "id": "1994724283176947712",
+        "name": "只是想不存在",
+        "pinned_tweet_id": "2074645061342826708",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072863807450529793/WGetqfPx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 162,
+          "following_count": 446,
+          "like_count": 3571,
+          "listed_count": 0,
+          "media_count": 286,
+          "tweet_count": 3943
+        },
+        "url": "",
+        "username": "lvovl3",
+        "verified": false
+      }
+    ]
+  }
+}

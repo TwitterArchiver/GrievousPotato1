@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2055822314969665536",
+    "conversation_id": "2074717335466737896",
+    "created_at": "2026-07-08T04:48:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-08T05:48:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074717335466737896"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1742169465385811968",
+          "start": 3,
+          "username": "quchi189609"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074717335466737896",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 22
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074402636057760230",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @quchi189609: 我真的极度讨厌“暖男排狗后边”这句话，用一句玩笑话不仅否定了男性的温柔体贴，还把为爱付出这个行为变得功利性，把女性局限于二元性别里一个男性趋之若鹜的物品。喜欢love shaming的人是最丑陋的胆小鬼"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2055822314969665536",
+        "conversation_id": "2074717335466737896",
+        "created_at": "2026-07-08T04:48:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T05:48:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074717335466737896"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1742169465385811968",
+              "start": 3,
+              "username": "quchi189609"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074717335466737896",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 22
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074402636057760230",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @quchi189609: 我真的极度讨厌“暖男排狗后边”这句话，用一句玩笑话不仅否定了男性的温柔体贴，还把为爱付出这个行为变得功利性，把女性局限于二元性别里一个男性趋之若鹜的物品。喜欢love shaming的人是最丑陋的胆小鬼"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1742169465385811968",
+        "conversation_id": "2074402636057760230",
+        "created_at": "2026-07-07T07:58:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-07T08:58:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074402636057760230"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2074402636057760230",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 16,
+          "impression_count": 13607,
+          "like_count": 417,
+          "quote_count": 3,
+          "reply_count": 73,
+          "retweet_count": 22
+        },
+        "reply_settings": "everyone",
+        "text": "我真的极度讨厌“暖男排狗后边”这句话，用一句玩笑话不仅否定了男性的温柔体贴，还把为爱付出这个行为变得功利性，把女性局限于二元性别里一个男性趋之若鹜的物品。喜欢love shaming的人是最丑陋的胆小鬼"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-17T01:27:33.000Z",
+        "description": "同类互fo，成分请查看@aeglepotato/点赞狂魔/平时喜欢说怪话和发癫/备用@aeglepotato /🦋@aeglepotato /匿名提问箱https://t.co/C8vIKrLtCN",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 11,
+                "username": "aeglepotato"
+              },
+              {
+                "end": 54,
+                "start": 42,
+                "username": "aeglepotato"
+              },
+              {
+                "end": 69,
+                "start": 57,
+                "username": "aeglepotato"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/aeglepotato",
+                "end": 99,
+                "expanded_url": "https://ngl.link/aeglepotato",
+                "start": 76,
+                "url": "https://t.co/C8vIKrLtCN"
+              }
+            ]
+          }
+        },
+        "id": "2055822314969665536",
+        "name": "⛄ALLice🌈赛博幽灵",
+        "pinned_tweet_id": "2064878659698102753",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067517312576421888/aGH7Myxd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 230,
+          "following_count": 296,
+          "like_count": 9659,
+          "listed_count": 0,
+          "media_count": 21,
+          "tweet_count": 618
+        },
+        "url": "",
+        "username": "GrievousPotato1",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-02T13:02:32.000Z",
+        "description": "02/♈/ENFP/switch。不加v、纯爱发、不约炮。🚪150纯绿（如果我觉得投缘可能不会收）📪 https://t.co/e7bDDi6kP0。只有一个账号，盗图的烂屁股死全家给我挡灾。破防incel骂我的全部反弹到你老母身上，她此生最大的罪过就是生养了你这头猪🐷",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/quchi189609",
+                "end": 74,
+                "expanded_url": "https://ngl.link/quchi189609",
+                "start": 51,
+                "url": "https://t.co/e7bDDi6kP0"
+              }
+            ]
+          }
+        },
+        "id": "1742169465385811968",
+        "location": "北京",
+        "name": "quchi",
+        "pinned_tweet_id": "2070866301820764562",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060207320957956096/KxKPPgPG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2257,
+          "following_count": 43,
+          "like_count": 1141,
+          "listed_count": 6,
+          "media_count": 96,
+          "tweet_count": 1575
+        },
+        "url": "",
+        "username": "quchi189609",
+        "verified": false
+      }
+    ]
+  }
+}
