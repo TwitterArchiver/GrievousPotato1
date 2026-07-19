@@ -1,7 +1,7 @@
 {
   "name": "⛄ALLice🌈赛博幽灵",
   "username": "@GrievousPotato1",
-  "bio": "同类互fo，成分请查看@aeglepotato/点赞狂魔/平时喜欢说怪话和发癫/备用@aeglepotato /🦋@aeglepotato /匿名提问箱ngl.link/aeglepotato",
+  "bio": "同类互fo，成分请查看@aeglepotato/点赞狂魔/平时喜欢说怪话和发癫/备用@aeglepotato /🦋@aeglepotato /匿名提问箱https://ngl.link/aeglepotato",
   "location": "",
   "link": "",
   "avatar": "avatar/avatar.jpg",
@@ -10,10 +10,30 @@
   "bio_entities": {
     "mentions": [
       {
-        "end": 63,
-        "start": 51,
+        "end": 23,
+        "start": 11,
+        "username": "aeglepotato"
+      },
+      {
+        "end": 54,
+        "start": 42,
+        "username": "aeglepotato"
+      },
+      {
+        "end": 69,
+        "start": 57,
         "username": "aeglepotato"
       }
+    ],
+    "urls": [
+      {
+        "display_url": "ngl.link/aeglepotato",
+        "end": 99,
+        "expanded_url": "https://ngl.link/aeglepotato",
+        "start": 76,
+        "url": "https://t.co/C8vIKrLtCN"
+      }
     ]
-  }
+  },
+  "_avatar_source": "https://pbs.twimg.com/profile_images/2067517312576421888/aGH7Myxd_normal.jpg"
 }
