@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2055822314969665536",
+    "conversation_id": "2076501790057529844",
+    "created_at": "2026-07-13T02:59:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-13T03:59:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2076501790057529844"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1866150103423361024",
+          "start": 3,
+          "username": "Carrotyayaya"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076501790057529844",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 49
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076259357092933812",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Carrotyayaya: 一直很讨厌别人张口就叫我小狗，叫我小狗的前提是，从此刻起，我可以完全依赖你并得到你全部的爱，而不是想把我当玩具一样随意玩弄…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2055822314969665536",
+        "conversation_id": "2076501790057529844",
+        "created_at": "2026-07-13T02:59:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-13T03:59:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076501790057529844"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1866150103423361024",
+              "start": 3,
+              "username": "Carrotyayaya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076501790057529844",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 49
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076259357092933812",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Carrotyayaya: 一直很讨厌别人张口就叫我小狗，叫我小狗的前提是，从此刻起，我可以完全依赖你并得到你全部的爱，而不是想把我当玩具一样随意玩弄…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1866150103423361024",
+        "conversation_id": "2076259357092933812",
+        "created_at": "2026-07-12T10:56:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-12T11:56:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2076259357092933812"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2076259357092933812",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 19,
+          "impression_count": 38589,
+          "like_count": 535,
+          "quote_count": 10,
+          "reply_count": 144,
+          "retweet_count": 48
+        },
+        "reply_settings": "everyone",
+        "text": "一直很讨厌别人张口就叫我小狗，叫我小狗的前提是，从此刻起，我可以完全依赖你并得到你全部的爱，而不是想把我当玩具一样随意玩弄…"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-17T01:27:33.000Z",
+        "description": "同类互fo，成分请查看@aeglepotato/点赞狂魔/平时喜欢说怪话和发癫/备用@aeglepotato /🦋@aeglepotato /匿名提问箱https://t.co/C8vIKrLtCN",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 11,
+                "username": "aeglepotato"
+              },
+              {
+                "end": 54,
+                "start": 42,
+                "username": "aeglepotato"
+              },
+              {
+                "end": 69,
+                "start": 57,
+                "username": "aeglepotato"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/aeglepotato",
+                "end": 99,
+                "expanded_url": "https://ngl.link/aeglepotato",
+                "start": 76,
+                "url": "https://t.co/C8vIKrLtCN"
+              }
+            ]
+          }
+        },
+        "id": "2055822314969665536",
+        "name": "⛄ALLice🌈赛博幽灵",
+        "pinned_tweet_id": "2064878659698102753",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067517312576421888/aGH7Myxd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 252,
+          "following_count": 320,
+          "like_count": 10713,
+          "listed_count": 0,
+          "media_count": 26,
+          "tweet_count": 693
+        },
+        "url": "",
+        "username": "GrievousPotato1",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-09T15:57:48.000Z",
+        "description": "只回我想回的，喜欢我鼓励我可以直接投喂\n接测评/寄拍",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/carrot28465",
+                "end": 23,
+                "expanded_url": "https://ngl.link/carrot28465",
+                "start": 0,
+                "url": "https://t.co/vBZLPdgQhd"
+              }
+            ]
+          }
+        },
+        "id": "1866150103423361024",
+        "location": "海底/匿名信箱👉🏻",
+        "name": "Carrot🥕",
+        "pinned_tweet_id": "2066896855301009497",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1874784820515176448/BzRjHujY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10378,
+          "following_count": 298,
+          "like_count": 993,
+          "listed_count": 41,
+          "media_count": 56,
+          "tweet_count": 240
+        },
+        "url": "https://t.co/vBZLPdgQhd",
+        "username": "Carrotyayaya",
+        "verified": false
+      }
+    ]
+  }
+}

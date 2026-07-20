@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2055822314969665536",
+    "conversation_id": "2076818770929099051",
+    "created_at": "2026-07-13T23:59:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-14T00:59:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2076818770929099051"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "2011793328988438531",
+          "start": 3,
+          "username": "angelkawaii011"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076818770929099051",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076740336001679769",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @angelkawaii011: 健全逼习惯把痛苦和脆弱当成值得羞耻的事情 健全逼把人当作只与自己有互动时才存在的npc 想象不到一个立体的人"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2055822314969665536",
+        "conversation_id": "2076818770929099051",
+        "created_at": "2026-07-13T23:59:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-14T00:59:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076818770929099051"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "2011793328988438531",
+              "start": 3,
+              "username": "angelkawaii011"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076818770929099051",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076740336001679769",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @angelkawaii011: 健全逼习惯把痛苦和脆弱当成值得羞耻的事情 健全逼把人当作只与自己有互动时才存在的npc 想象不到一个立体的人"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2011793328988438531",
+        "conversation_id": "2076740336001679769",
+        "created_at": "2026-07-13T18:47:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-13T19:47:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2076740336001679769"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2076740336001679769",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "健全逼习惯把痛苦和脆弱当成值得羞耻的事情 健全逼把人当作只与自己有互动时才存在的npc 想象不到一个立体的人"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-17T01:27:33.000Z",
+        "description": "同类互fo，成分请查看@aeglepotato/点赞狂魔/平时喜欢说怪话和发癫/备用@aeglepotato /🦋@aeglepotato /匿名提问箱https://t.co/C8vIKrLtCN",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 11,
+                "username": "aeglepotato"
+              },
+              {
+                "end": 54,
+                "start": 42,
+                "username": "aeglepotato"
+              },
+              {
+                "end": 69,
+                "start": 57,
+                "username": "aeglepotato"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/aeglepotato",
+                "end": 99,
+                "expanded_url": "https://ngl.link/aeglepotato",
+                "start": 76,
+                "url": "https://t.co/C8vIKrLtCN"
+              }
+            ]
+          }
+        },
+        "id": "2055822314969665536",
+        "name": "⛄ALLice🌈赛博幽灵",
+        "pinned_tweet_id": "2064878659698102753",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067517312576421888/aGH7Myxd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 254,
+          "following_count": 323,
+          "like_count": 11000,
+          "listed_count": 0,
+          "media_count": 28,
+          "tweet_count": 739
+        },
+        "url": "",
+        "username": "GrievousPotato1",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-15T13:31:28.000Z",
+        "description": "健健康康地爱人 健健康康地被爱",
+        "id": "2011793328988438531",
+        "name": "01全否定bot",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2071500253220487168/1EMgAIdM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 39,
+          "following_count": 141,
+          "like_count": 202,
+          "listed_count": 0,
+          "media_count": 22,
+          "tweet_count": 321
+        },
+        "url": "",
+        "username": "angelkawaii011",
+        "verified": false
+      }
+    ]
+  }
+}

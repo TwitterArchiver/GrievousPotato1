@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2055822314969665536",
+    "conversation_id": "2076613018977284214",
+    "created_at": "2026-07-13T10:21:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-13T11:21:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2076613018977284214"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1580214076189290496",
+          "start": 3,
+          "username": "sssssn919"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076613018977284214",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 52
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076336798406729843",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @sssssn919: 我们都坦然地去表达爱不好吗，喜欢就说喜欢，生气了就告诉对方为什么生气，做错事就诚恳的道歉，不要阴阳怪气的让人去猜你到底有多爱。试过坦诚后，就不会再愿意去伪装。相爱的时间太宝贵了，可不能在奇奇怪怪的问题上消磨爱意。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2055822314969665536",
+        "conversation_id": "2076613018977284214",
+        "created_at": "2026-07-13T10:21:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-13T11:21:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076613018977284214"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1580214076189290496",
+              "start": 3,
+              "username": "sssssn919"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076613018977284214",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 52
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076336798406729843",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @sssssn919: 我们都坦然地去表达爱不好吗，喜欢就说喜欢，生气了就告诉对方为什么生气，做错事就诚恳的道歉，不要阴阳怪气的让人去猜你到底有多爱。试过坦诚后，就不会再愿意去伪装。相爱的时间太宝贵了，可不能在奇奇怪怪的问题上消磨爱意。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1580214076189290496",
+        "conversation_id": "2076336798406729843",
+        "created_at": "2026-07-12T16:04:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-12T17:04:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2076336798406729843"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2076336798406729843",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 17,
+          "impression_count": 7856,
+          "like_count": 368,
+          "quote_count": 3,
+          "reply_count": 13,
+          "retweet_count": 52
+        },
+        "reply_settings": "everyone",
+        "text": "我们都坦然地去表达爱不好吗，喜欢就说喜欢，生气了就告诉对方为什么生气，做错事就诚恳的道歉，不要阴阳怪气的让人去猜你到底有多爱。试过坦诚后，就不会再愿意去伪装。相爱的时间太宝贵了，可不能在奇奇怪怪的问题上消磨爱意。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-17T01:27:33.000Z",
+        "description": "同类互fo，成分请查看@aeglepotato/点赞狂魔/平时喜欢说怪话和发癫/备用@aeglepotato /🦋@aeglepotato /匿名提问箱https://t.co/C8vIKrLtCN",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 11,
+                "username": "aeglepotato"
+              },
+              {
+                "end": 54,
+                "start": 42,
+                "username": "aeglepotato"
+              },
+              {
+                "end": 69,
+                "start": 57,
+                "username": "aeglepotato"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/aeglepotato",
+                "end": 99,
+                "expanded_url": "https://ngl.link/aeglepotato",
+                "start": 76,
+                "url": "https://t.co/C8vIKrLtCN"
+              }
+            ]
+          }
+        },
+        "id": "2055822314969665536",
+        "name": "⛄ALLice🌈赛博幽灵",
+        "pinned_tweet_id": "2064878659698102753",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067517312576421888/aGH7Myxd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 252,
+          "following_count": 322,
+          "like_count": 10833,
+          "listed_count": 0,
+          "media_count": 26,
+          "tweet_count": 699
+        },
+        "url": "",
+        "username": "GrievousPotato1",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-12T15:09:35.000Z",
+        "description": "随缘更新 不爱社交 偶有小擦。 \n你有礼貌 我就有礼貌。发私密照片一律拉黑\n祝大家天天开心 大家都发财",
+        "id": "1580214076189290496",
+        "name": "susuli",
+        "pinned_tweet_id": "2061871078037921802",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1850886530514173952/15yPH6O__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4365,
+          "following_count": 73,
+          "like_count": 1074,
+          "listed_count": 4,
+          "media_count": 240,
+          "tweet_count": 2540
+        },
+        "url": "",
+        "username": "sssssn919",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2055822314969665536",
+    "conversation_id": "2076833030509838683",
+    "created_at": "2026-07-14T00:55:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-14T01:55:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2076833042379784274"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2076833042379784274",
+    "in_reply_to_user_id": "2055822314969665536",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 1,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076833038361588210",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "刚开始吃药的时候，墙壁变回了墙壁，石头变回了石头，线条不再扭曲，光线不再跳舞，我就这样平静的生活了几年\n但是这样的世界太无聊了！我从记事起就一直活在幻觉中，我无法想象要如何在墙壁不变形的世界中活下去，幻觉没有在物理上伤害过我，即使是坏的幻觉也比不会变形的现实世界有趣一百倍！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2055822314969665536",
+        "conversation_id": "2076833030509838683",
+        "created_at": "2026-07-14T00:55:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-14T01:55:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076833042379784274"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2076833042379784274",
+        "in_reply_to_user_id": "2055822314969665536",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076833038361588210",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "刚开始吃药的时候，墙壁变回了墙壁，石头变回了石头，线条不再扭曲，光线不再跳舞，我就这样平静的生活了几年\n但是这样的世界太无聊了！我从记事起就一直活在幻觉中，我无法想象要如何在墙壁不变形的世界中活下去，幻觉没有在物理上伤害过我，即使是坏的幻觉也比不会变形的现实世界有趣一百倍！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2055822314969665536",
+        "conversation_id": "2076833030509838683",
+        "created_at": "2026-07-14T00:55:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-14T01:55:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076833038361588210"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2076833038361588210",
+        "in_reply_to_user_id": "2055822314969665536",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076833034326667448",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "再然后的幻觉是尸体和肉块，下的雨会变成红色，太阳变成了血红色，操场上有一座很高的尸山，但所有人都淡然自若的在做早操，有些还穿过了尸山在尸山里面做早操，我也只能强装镇定无视掉这个幻觉\n再然后就是在剧烈变形的世界生活了一段时间终于绷不住发病然后被抓起来治疗了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-17T01:27:33.000Z",
+        "description": "同类互fo，成分请查看@aeglepotato/点赞狂魔/平时喜欢说怪话和发癫/备用@aeglepotato /🦋@aeglepotato /匿名提问箱https://t.co/C8vIKrLtCN",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 11,
+                "username": "aeglepotato"
+              },
+              {
+                "end": 54,
+                "start": 42,
+                "username": "aeglepotato"
+              },
+              {
+                "end": 69,
+                "start": 57,
+                "username": "aeglepotato"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/aeglepotato",
+                "end": 99,
+                "expanded_url": "https://ngl.link/aeglepotato",
+                "start": 76,
+                "url": "https://t.co/C8vIKrLtCN"
+              }
+            ]
+          }
+        },
+        "id": "2055822314969665536",
+        "name": "⛄ALLice🌈赛博幽灵",
+        "pinned_tweet_id": "2064878659698102753",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067517312576421888/aGH7Myxd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 254,
+          "following_count": 323,
+          "like_count": 11059,
+          "listed_count": 0,
+          "media_count": 28,
+          "tweet_count": 745
+        },
+        "url": "",
+        "username": "GrievousPotato1",
+        "verified": false
+      }
+    ]
+  }
+}

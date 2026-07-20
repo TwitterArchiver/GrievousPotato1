@@ -1,0 +1,171 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2055822314969665536",
+    "conversation_id": "2076833030509838683",
+    "created_at": "2026-07-14T00:55:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-14T01:55:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2076833034326667448"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2076833034326667448",
+    "in_reply_to_user_id": "2055822314969665536",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 1,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076833030509838683",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "再到后面多意识体出现了，但我不知道这是不是也是我幻觉的一部分，但他们吵吵闹闹的能让我没那么寂寞\n之后的幻觉是睡醒睁开眼突然看见一个黑溜溜的东西贴着我的脸在看我，我伸手挥发现是幻觉。\n走着走着突然觉得后面有人贴着我走（道路很空旷），我大气不敢出，后来试探了一下发现是幻觉"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2055822314969665536",
+        "conversation_id": "2076833030509838683",
+        "created_at": "2026-07-14T00:55:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-14T01:55:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076833034326667448"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2076833034326667448",
+        "in_reply_to_user_id": "2055822314969665536",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076833030509838683",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "再到后面多意识体出现了，但我不知道这是不是也是我幻觉的一部分，但他们吵吵闹闹的能让我没那么寂寞\n之后的幻觉是睡醒睁开眼突然看见一个黑溜溜的东西贴着我的脸在看我，我伸手挥发现是幻觉。\n走着走着突然觉得后面有人贴着我走（道路很空旷），我大气不敢出，后来试探了一下发现是幻觉"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2055822314969665536",
+        "conversation_id": "2076833030509838683",
+        "created_at": "2026-07-14T00:55:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-14T01:55:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076833030509838683"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2076833030509838683",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "小时候喜欢盯着墙壁看，因为盯着盯着墙壁会动，我就喜欢盯着墙壁一直看\n之后我会时不时突然感到光线变化，字体扭曲，身体下坠，就像造物主在调明暗度和色差一样\n有时我会觉得自己突然飞了起来，突然出不了声音，突然感觉自己进行了时间线跳跃，突然觉得自己看到了未来\n一开始我只觉得是小孩子想象力好"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-17T01:27:33.000Z",
+        "description": "同类互fo，成分请查看@aeglepotato/点赞狂魔/平时喜欢说怪话和发癫/备用@aeglepotato /🦋@aeglepotato /匿名提问箱https://t.co/C8vIKrLtCN",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 11,
+                "username": "aeglepotato"
+              },
+              {
+                "end": 54,
+                "start": 42,
+                "username": "aeglepotato"
+              },
+              {
+                "end": 69,
+                "start": 57,
+                "username": "aeglepotato"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/aeglepotato",
+                "end": 99,
+                "expanded_url": "https://ngl.link/aeglepotato",
+                "start": 76,
+                "url": "https://t.co/C8vIKrLtCN"
+              }
+            ]
+          }
+        },
+        "id": "2055822314969665536",
+        "name": "⛄ALLice🌈赛博幽灵",
+        "pinned_tweet_id": "2064878659698102753",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067517312576421888/aGH7Myxd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 254,
+          "following_count": 323,
+          "like_count": 11059,
+          "listed_count": 0,
+          "media_count": 28,
+          "tweet_count": 745
+        },
+        "url": "",
+        "username": "GrievousPotato1",
+        "verified": false
+      }
+    ]
+  }
+}

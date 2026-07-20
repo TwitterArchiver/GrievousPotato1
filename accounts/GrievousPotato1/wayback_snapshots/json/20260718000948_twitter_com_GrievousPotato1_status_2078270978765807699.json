@@ -1,0 +1,267 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2078144795755552768"
+      ],
+      "media_source_tweet_id": [
+        "2078144810670542937"
+      ]
+    },
+    "author_id": "2055822314969665536",
+    "conversation_id": "2078270978765807699",
+    "created_at": "2026-07-18T00:09:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-18T01:09:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2078270978765807699"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2008420775204896768",
+          "start": 3,
+          "username": "Yuki312813"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Dum9PKlLW6",
+          "end": 83,
+          "expanded_url": "https://x.com/Yuki312813/status/2078144810670542937/photo/1",
+          "media_key": "3_2078144795755552768",
+          "start": 60,
+          "url": "https://t.co/Dum9PKlLW6"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078270978765807699",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 8
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078144810670542937",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Yuki312813: 这是我的自介条，不嫌麻烦的好宝宝可以转一转欢迎互fo，看完后如果雷我我很真诚的对不起你 https://t.co/Dum9PKlLW6"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1195,
+        "media_key": "3_2078144795755552768",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNcNrmbWIAA4qdc.jpg",
+        "width": 1924
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2078144795755552768"
+          ]
+        },
+        "author_id": "2008420775204896768",
+        "conversation_id": "2078144810670542937",
+        "created_at": "2026-07-17T15:48:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-17T16:48:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2078144810670542937"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Dum9PKlLW6",
+              "end": 67,
+              "expanded_url": "https://x.com/Yuki312813/status/2078144810670542937/photo/1",
+              "media_key": "3_2078144795755552768",
+              "start": 44,
+              "url": "https://t.co/Dum9PKlLW6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078144810670542937",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 538,
+          "like_count": 16,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 8
+        },
+        "reply_settings": "everyone",
+        "text": "这是我的自介条，不嫌麻烦的好宝宝可以转一转欢迎互fo，看完后如果雷我我很真诚的对不起你 https://t.co/Dum9PKlLW6"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2078144795755552768"
+          ],
+          "media_source_tweet_id": [
+            "2078144810670542937"
+          ]
+        },
+        "author_id": "2055822314969665536",
+        "conversation_id": "2078270978765807699",
+        "created_at": "2026-07-18T00:09:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-18T01:09:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078270978765807699"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2008420775204896768",
+              "start": 3,
+              "username": "Yuki312813"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Dum9PKlLW6",
+              "end": 83,
+              "expanded_url": "https://x.com/Yuki312813/status/2078144810670542937/photo/1",
+              "media_key": "3_2078144795755552768",
+              "start": 60,
+              "url": "https://t.co/Dum9PKlLW6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078270978765807699",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 8
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078144810670542937",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Yuki312813: 这是我的自介条，不嫌麻烦的好宝宝可以转一转欢迎互fo，看完后如果雷我我很真诚的对不起你 https://t.co/Dum9PKlLW6"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-17T01:27:33.000Z",
+        "description": "同类互fo，成分请查看@aeglepotato/点赞狂魔/平时喜欢说怪话和发癫/备用@aeglepotato /🦋@aeglepotato /匿名提问箱https://t.co/C8vIKrLtCN",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 11,
+                "username": "aeglepotato"
+              },
+              {
+                "end": 54,
+                "start": 42,
+                "username": "aeglepotato"
+              },
+              {
+                "end": 69,
+                "start": 57,
+                "username": "aeglepotato"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/aeglepotato",
+                "end": 99,
+                "expanded_url": "https://ngl.link/aeglepotato",
+                "start": 76,
+                "url": "https://t.co/C8vIKrLtCN"
+              }
+            ]
+          }
+        },
+        "id": "2055822314969665536",
+        "name": "⛄ALLice🌈赛博幽灵",
+        "pinned_tweet_id": "2064878659698102753",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067517312576421888/aGH7Myxd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 270,
+          "following_count": 340,
+          "like_count": 11967,
+          "listed_count": 0,
+          "media_count": 33,
+          "tweet_count": 820
+        },
+        "url": "",
+        "username": "GrievousPotato1",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-06T06:10:50.000Z",
+        "description": "",
+        "id": "2008420775204896768",
+        "location": "C栋天台",
+        "name": "岐哥，梦想跳了。",
+        "pinned_tweet_id": "2078144810670542937",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069472168459522048/7mjvUfxt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 111,
+          "following_count": 144,
+          "like_count": 3332,
+          "listed_count": 0,
+          "media_count": 337,
+          "tweet_count": 2839
+        },
+        "url": "",
+        "username": "Yuki312813",
+        "verified": true
+      }
+    ]
+  }
+}

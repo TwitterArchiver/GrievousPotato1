@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2055822314969665536",
+    "conversation_id": "2076235229597982764",
+    "created_at": "2026-07-12T09:20:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-12T10:20:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2076235229597982764"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2023258926880636928",
+          "start": 3,
+          "username": "plane294"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076235229597982764",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076123690509701271",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @plane294: 其实我真的讨厌有些健全人去指责或者强制不让oder去od，他们一般od是事出有因的，遇到了难以言说的苦衷，所以除非他们遇到了生命危险，不是很建议去强制他们不服用药物。\n有时候od可以逃避一切危机，还有痛苦的情绪，轻飘飘，浮在云朵上的感觉真舒服啊～"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2055822314969665536",
+        "conversation_id": "2076235229597982764",
+        "created_at": "2026-07-12T09:20:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-12T10:20:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076235229597982764"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2023258926880636928",
+              "start": 3,
+              "username": "plane294"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076235229597982764",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076123690509701271",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @plane294: 其实我真的讨厌有些健全人去指责或者强制不让oder去od，他们一般od是事出有因的，遇到了难以言说的苦衷，所以除非他们遇到了生命危险，不是很建议去强制他们不服用药物。\n有时候od可以逃避一切危机，还有痛苦的情绪，轻飘飘，浮在云朵上的感觉真舒服啊～"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2023258926880636928",
+        "conversation_id": "2076123690509701271",
+        "created_at": "2026-07-12T01:57:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-12T02:57:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2076123690509701271"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2076123690509701271",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 71,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "其实我真的讨厌有些健全人去指责或者强制不让oder去od，他们一般od是事出有因的，遇到了难以言说的苦衷，所以除非他们遇到了生命危险，不是很建议去强制他们不服用药物。\n有时候od可以逃避一切危机，还有痛苦的情绪，轻飘飘，浮在云朵上的感觉真舒服啊～"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-17T01:27:33.000Z",
+        "description": "同类互fo，成分请查看@aeglepotato/点赞狂魔/平时喜欢说怪话和发癫/备用@aeglepotato /🦋@aeglepotato /匿名提问箱https://t.co/C8vIKrLtCN",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 11,
+                "username": "aeglepotato"
+              },
+              {
+                "end": 54,
+                "start": 42,
+                "username": "aeglepotato"
+              },
+              {
+                "end": 69,
+                "start": 57,
+                "username": "aeglepotato"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/aeglepotato",
+                "end": 99,
+                "expanded_url": "https://ngl.link/aeglepotato",
+                "start": 76,
+                "url": "https://t.co/C8vIKrLtCN"
+              }
+            ]
+          }
+        },
+        "id": "2055822314969665536",
+        "name": "⛄ALLice🌈赛博幽灵",
+        "pinned_tweet_id": "2064878659698102753",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067517312576421888/aGH7Myxd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 248,
+          "following_count": 316,
+          "like_count": 10539,
+          "listed_count": 0,
+          "media_count": 25,
+          "tweet_count": 682
+        },
+        "url": "",
+        "username": "GrievousPotato1",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-16T04:51:43.000Z",
+        "description": "🚪114514 辞落的不健康账号 讲一下以前抽风的细节吧",
+        "id": "2023258926880636928",
+        "location": "China",
+        "name": "Chi",
+        "pinned_tweet_id": "2075603938972442975",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075603114967924736/EgEEk8zf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6,
+          "following_count": 6,
+          "like_count": 2,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 19
+        },
+        "url": "",
+        "username": "plane294",
+        "verified": false
+      }
+    ]
+  }
+}

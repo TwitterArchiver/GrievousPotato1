@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2055822314969665536",
+    "conversation_id": "2076566533711487452",
+    "created_at": "2026-07-13T07:16:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-13T08:16:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2076566533711487452"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1914166367705530368",
+          "start": 3,
+          "username": "xiaomao_444"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076566533711487452",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076526980770435123",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @xiaomao_444: 一旦你了解了世界的运作方式以及大多数人如何应对这种运作方式，你就几乎不可能感到快乐\n\n你身边的人，未必是你真正想要的那个人\n在特定的生活条件下，事情永远不会按照我们想要的方式发展"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2055822314969665536",
+        "conversation_id": "2076566533711487452",
+        "created_at": "2026-07-13T07:16:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-13T08:16:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076566533711487452"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1914166367705530368",
+              "start": 3,
+              "username": "xiaomao_444"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076566533711487452",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076526980770435123",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @xiaomao_444: 一旦你了解了世界的运作方式以及大多数人如何应对这种运作方式，你就几乎不可能感到快乐\n\n你身边的人，未必是你真正想要的那个人\n在特定的生活条件下，事情永远不会按照我们想要的方式发展"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1914166367705530368",
+        "conversation_id": "2076526980770435123",
+        "created_at": "2026-07-13T04:39:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-13T05:39:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2076526980770435123"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2076526980770435123",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 22,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "一旦你了解了世界的运作方式以及大多数人如何应对这种运作方式，你就几乎不可能感到快乐\n\n你身边的人，未必是你真正想要的那个人\n在特定的生活条件下，事情永远不会按照我们想要的方式发展"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-17T01:27:33.000Z",
+        "description": "同类互fo，成分请查看@aeglepotato/点赞狂魔/平时喜欢说怪话和发癫/备用@aeglepotato /🦋@aeglepotato /匿名提问箱https://t.co/C8vIKrLtCN",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 11,
+                "username": "aeglepotato"
+              },
+              {
+                "end": 54,
+                "start": 42,
+                "username": "aeglepotato"
+              },
+              {
+                "end": 69,
+                "start": 57,
+                "username": "aeglepotato"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/aeglepotato",
+                "end": 99,
+                "expanded_url": "https://ngl.link/aeglepotato",
+                "start": 76,
+                "url": "https://t.co/C8vIKrLtCN"
+              }
+            ]
+          }
+        },
+        "id": "2055822314969665536",
+        "name": "⛄ALLice🌈赛博幽灵",
+        "pinned_tweet_id": "2064878659698102753",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067517312576421888/aGH7Myxd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 252,
+          "following_count": 322,
+          "like_count": 10760,
+          "listed_count": 0,
+          "media_count": 26,
+          "tweet_count": 695
+        },
+        "url": "",
+        "username": "GrievousPotato1",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-21T03:57:01.000Z",
+        "description": "Xiao Māo 𝚂𝚎𝚒𝚜𝚑𝚒𝚗-𝚝𝚎𝚔𝚒 𝚔𝚘𝚗𝚛𝚊𝚗🔩  SCCP  有时我想让自己消失 | 非二元性别 nb 💢 ISFP 21y | 精神不稳定 💢 我喜欢用毒品逃避现实🍁",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "discord.gg/KaUrHyRsP",
+                "end": 23,
+                "expanded_url": "https://discord.gg/KaUrHyRsP",
+                "start": 0,
+                "url": "https://t.co/bB5OZCr2dw"
+              }
+            ]
+          }
+        },
+        "id": "1914166367705530368",
+        "location": "我想死",
+        "name": "Xiao Māo 小猫★ 🐼420",
+        "pinned_tweet_id": "2011089613293588707",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2074971349060087808/aeg90eTl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 138,
+          "following_count": 160,
+          "like_count": 3174,
+          "listed_count": 1,
+          "media_count": 78,
+          "tweet_count": 800
+        },
+        "url": "https://t.co/bB5OZCr2dw",
+        "username": "xiaomao_444",
+        "verified": false
+      }
+    ]
+  }
+}

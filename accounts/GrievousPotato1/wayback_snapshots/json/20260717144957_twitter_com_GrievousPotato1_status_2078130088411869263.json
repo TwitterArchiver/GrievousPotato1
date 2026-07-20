@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2055822314969665536",
+    "conversation_id": "2078130088411869263",
+    "created_at": "2026-07-17T14:49:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-17T15:49:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2078130088411869263"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2072699786336075776",
+          "start": 3,
+          "username": "zhiyeranxi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078130088411869263",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078111205999214840",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @zhiyeranxi: 我会为了适应而融入某些环境，努力表现的不那么异类，但是我会深刻的厌恶我说扮演的角色，这个角色是遭到我唾弃的，是伤害我的角色。我看的确实会清晰不少，但这也带来的是巨大的自我厌恶，这是我难以接受的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2055822314969665536",
+        "conversation_id": "2078130088411869263",
+        "created_at": "2026-07-17T14:49:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-17T15:49:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078130088411869263"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2072699786336075776",
+              "start": 3,
+              "username": "zhiyeranxi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078130088411869263",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078111205999214840",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @zhiyeranxi: 我会为了适应而融入某些环境，努力表现的不那么异类，但是我会深刻的厌恶我说扮演的角色，这个角色是遭到我唾弃的，是伤害我的角色。我看的确实会清晰不少，但这也带来的是巨大的自我厌恶，这是我难以接受的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2072699786336075776",
+        "conversation_id": "2078111205999214840",
+        "created_at": "2026-07-17T13:34:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-17T14:34:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078111205999214840"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2078111205999214840",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 14,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "我会为了适应而融入某些环境，努力表现的不那么异类，但是我会深刻的厌恶我说扮演的角色，这个角色是遭到我唾弃的，是伤害我的角色。我看的确实会清晰不少，但这也带来的是巨大的自我厌恶，这是我难以接受的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-17T01:27:33.000Z",
+        "description": "同类互fo，成分请查看@aeglepotato/点赞狂魔/平时喜欢说怪话和发癫/备用@aeglepotato /🦋@aeglepotato /匿名提问箱https://t.co/C8vIKrLtCN",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 11,
+                "username": "aeglepotato"
+              },
+              {
+                "end": 54,
+                "start": 42,
+                "username": "aeglepotato"
+              },
+              {
+                "end": 69,
+                "start": 57,
+                "username": "aeglepotato"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/aeglepotato",
+                "end": 99,
+                "expanded_url": "https://ngl.link/aeglepotato",
+                "start": 76,
+                "url": "https://t.co/C8vIKrLtCN"
+              }
+            ]
+          }
+        },
+        "id": "2055822314969665536",
+        "name": "⛄ALLice🌈赛博幽灵",
+        "pinned_tweet_id": "2064878659698102753",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067517312576421888/aGH7Myxd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 269,
+          "following_count": 339,
+          "like_count": 11918,
+          "listed_count": 0,
+          "media_count": 33,
+          "tweet_count": 820
+        },
+        "url": "",
+        "username": "GrievousPotato1",
+        "verified": false
+      },
+      {
+        "created_at": "2026-07-02T15:14:29.000Z",
+        "description": "08/男孩子/od自伤/随性/飘忽不定\n性格飘忽不定，坚定的悲剧爱好者\n热爱着物哀 热爱亚文化 最喜欢青叶寄老师的溺于盛夏\n欢迎互fo 我是负能量与正能量的集合体 预感到自己会在某个夏日结束前离开",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E5%A4%9C%E5%8…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E5%A4%9C%E5%87%AA%E6%B1%90%E6%9F%931",
+                "start": 0,
+                "url": "https://t.co/LtxUZ7iP7i"
+              }
+            ]
+          }
+        },
+        "id": "2072699786336075776",
+        "location": "Dream country",
+        "name": "凪夜染汐",
+        "pinned_tweet_id": "2073506511096087005",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072700977178722304/RalLc1Iw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18,
+          "following_count": 30,
+          "like_count": 342,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 67
+        },
+        "url": "https://t.co/LtxUZ7iP7i",
+        "username": "zhiyeranxi",
+        "verified": false
+      }
+    ]
+  }
+}

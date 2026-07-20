@@ -1,0 +1,261 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2055822314969665536",
+    "conversation_id": "2075949158423285808",
+    "created_at": "2026-07-11T14:23:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-11T15:23:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2075949158423285808"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/26suversider/s…",
+          "end": 39,
+          "expanded_url": "https://twitter.com/26suversider/status/2075769314536276456",
+          "start": 16,
+          "url": "https://t.co/lYMDYv06RL"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075949158423285808",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075769314536276456",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "血肉爱好者狂喜🤤\n肉肉，好吃🤤 https://t.co/lYMDYv06RL"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2075769297096380416",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HM6dLYUXkAAl0kz.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2055822314969665536",
+        "conversation_id": "2075949158423285808",
+        "created_at": "2026-07-11T14:23:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-11T15:23:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2075949158423285808"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/26suversider/s…",
+              "end": 39,
+              "expanded_url": "https://twitter.com/26suversider/status/2075769314536276456",
+              "start": 16,
+              "url": "https://t.co/lYMDYv06RL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075949158423285808",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075769314536276456",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "血肉爱好者狂喜🤤\n肉肉，好吃🤤 https://t.co/lYMDYv06RL"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2075769297096380416"
+          ]
+        },
+        "author_id": "1579442033483075584",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2075769314536276456",
+        "created_at": "2026-07-11T02:29:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-11T03:29:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2075769314536276456"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/IJv5Plxeag",
+              "end": 47,
+              "expanded_url": "https://x.com/26suversider/status/2075769314536276456/photo/1",
+              "media_key": "3_2075769297096380416",
+              "start": 24,
+              "url": "https://t.co/IJv5Plxeag"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075769314536276456",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 337,
+          "like_count": 17,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "菜市场剁肉的时候好血腥好喜欢如果剁的是我就好了 https://t.co/IJv5Plxeag"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-17T01:27:33.000Z",
+        "description": "同类互fo，成分请查看@aeglepotato/点赞狂魔/平时喜欢说怪话和发癫/备用@aeglepotato /🦋@aeglepotato /匿名提问箱https://t.co/C8vIKrLtCN",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 11,
+                "username": "aeglepotato"
+              },
+              {
+                "end": 54,
+                "start": 42,
+                "username": "aeglepotato"
+              },
+              {
+                "end": 69,
+                "start": 57,
+                "username": "aeglepotato"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/aeglepotato",
+                "end": 99,
+                "expanded_url": "https://ngl.link/aeglepotato",
+                "start": 76,
+                "url": "https://t.co/C8vIKrLtCN"
+              }
+            ]
+          }
+        },
+        "id": "2055822314969665536",
+        "name": "⛄ALLice🌈赛博幽灵",
+        "pinned_tweet_id": "2064878659698102753",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067517312576421888/aGH7Myxd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 244,
+          "following_count": 312,
+          "like_count": 10296,
+          "listed_count": 0,
+          "media_count": 23,
+          "tweet_count": 665
+        },
+        "url": "",
+        "username": "GrievousPotato1",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-10T12:01:48.000Z",
+        "description": "专注我的嗑药生活\n🚪38纯绿聊天朋友圈\n\nhttps://t.co/bRRAIqGEOS",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sukieu1",
+                "end": 44,
+                "expanded_url": "https://ngl.link/sukieu1",
+                "start": 21,
+                "url": "https://t.co/bRRAIqGEOS"
+              }
+            ]
+          }
+        },
+        "id": "1579442033483075584",
+        "name": "孙笑川籍吧",
+        "pinned_tweet_id": "2065793737977127349",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069652627575414784/Z7qSci36_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 678,
+          "following_count": 128,
+          "like_count": 877,
+          "listed_count": 1,
+          "media_count": 81,
+          "tweet_count": 968
+        },
+        "url": "",
+        "username": "26suversider",
+        "verified": false
+      }
+    ]
+  }
+}
