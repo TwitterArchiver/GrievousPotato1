@@ -1,0 +1,224 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2055822314969665536",
+    "conversation_id": "2079883106295664891",
+    "created_at": "2026-07-22T10:55:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-22T11:55:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079883106295664891"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1900413813197070336",
+          "start": 3,
+          "username": "HuaWu73858"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079883106295664891",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079852731234136099",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @HuaWu73858: 滥用青少年就是药物，尤其吸毒，扔掉你手中的健全全路，从此走上药，不要让你的低谷在爹妈上眼含泪水。这世界上还有很多的天台等着你不要因为一时的美好就放弃自己"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2055822314969665536",
+        "conversation_id": "2079883106295664891",
+        "created_at": "2026-07-22T10:55:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-22T11:55:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079883106295664891"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1900413813197070336",
+              "start": 3,
+              "username": "HuaWu73858"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079883106295664891",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079852731234136099",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @HuaWu73858: 滥用青少年就是药物，尤其吸毒，扔掉你手中的健全全路，从此走上药，不要让你的低谷在爹妈上眼含泪水。这世界上还有很多的天台等着你不要因为一时的美好就放弃自己"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1900413813197070336",
+        "conversation_id": "2079852731234136099",
+        "created_at": "2026-07-22T08:55:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-22T09:55:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2079852731234136099"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/clem0216/statu…",
+              "end": 100,
+              "expanded_url": "https://twitter.com/clem0216/status/2079385021580992678",
+              "start": 77,
+              "url": "https://t.co/KLOxeTs3cE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079852731234136099",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 60,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079385021580992678",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "滥用青少年就是药物，尤其吸毒，扔掉你手中的健全全路，从此走上药，不要让你的低谷在爹妈上眼含泪水。这世界上还有很多的天台等着你不要因为一时的美好就放弃自己 https://t.co/KLOxeTs3cE"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-17T01:27:33.000Z",
+        "description": "同类互fo，成分请查看@aeglepotato/点赞狂魔/平时喜欢说怪话和发癫/备用@aeglepotato /🦋@aeglepotato /匿名提问箱https://t.co/C8vIKrLtCN",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 11,
+                "username": "aeglepotato"
+              },
+              {
+                "end": 54,
+                "start": 42,
+                "username": "aeglepotato"
+              },
+              {
+                "end": 69,
+                "start": 57,
+                "username": "aeglepotato"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/aeglepotato",
+                "end": 99,
+                "expanded_url": "https://ngl.link/aeglepotato",
+                "start": 76,
+                "url": "https://t.co/C8vIKrLtCN"
+              }
+            ]
+          }
+        },
+        "id": "2055822314969665536",
+        "name": "⛄ALLice🌈赛博幽灵",
+        "pinned_tweet_id": "2064878659698102753",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067517312576421888/aGH7Myxd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 284,
+          "following_count": 363,
+          "like_count": 13628,
+          "listed_count": 0,
+          "media_count": 37,
+          "tweet_count": 901
+        },
+        "url": "",
+        "username": "GrievousPotato1",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-14T05:09:05.000Z",
+        "description": "18↑ oder 簡體中文🇨🇳/繁體中文🇹🇼 OK\n双相|精神分裂|已退学|解离鬼|阿片鬼|\n天主教|\n“我观看，见有一匹白马；骑在马上的拿着弓，并有冠冕赐给他。他便出来，胜了又要胜。”",
+        "id": "1900413813197070336",
+        "location": "邁克·華萊士家裡",
+        "name": "世界計畫你放過我吧🇹🇼🏴‍☠️",
+        "pinned_tweet_id": "2073092286603309275",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042811161364873216/4StNBH4r_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 30,
+          "following_count": 42,
+          "like_count": 24,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 115
+        },
+        "url": "",
+        "username": "HuaWu73858",
+        "verified": false
+      }
+    ]
+  }
+}

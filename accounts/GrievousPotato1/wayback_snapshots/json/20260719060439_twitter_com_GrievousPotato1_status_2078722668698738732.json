@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2055822314969665536",
+    "conversation_id": "2078722668698738732",
+    "created_at": "2026-07-19T06:04:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-19T07:04:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2078722668698738732"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1150753335881826305",
+          "start": 3,
+          "username": "acacia038"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078722668698738732",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 7
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078489285305467260",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @acacia038: 虽然希望最好不要有人死去，但以后如果真的要发布讣告的时候，也许可以开启“谁可以回复”选项。\n因为推特的推流机制，以前看过太多的孩子，那么痛苦的离开了，还被突然从四面八方涌来的恶心看客家伙们踩一脚，揪心死了。\n推特已经在日趋变成恐跨集中营，我们要保护…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2055822314969665536",
+        "conversation_id": "2078722668698738732",
+        "created_at": "2026-07-19T06:04:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-19T07:04:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078722668698738732"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1150753335881826305",
+              "start": 3,
+              "username": "acacia038"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078722668698738732",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 7
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078489285305467260",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @acacia038: 虽然希望最好不要有人死去，但以后如果真的要发布讣告的时候，也许可以开启“谁可以回复”选项。\n因为推特的推流机制，以前看过太多的孩子，那么痛苦的离开了，还被突然从四面八方涌来的恶心看客家伙们踩一脚，揪心死了。\n推特已经在日趋变成恐跨集中营，我们要保护…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1150753335881826305",
+        "conversation_id": "2078489285305467260",
+        "created_at": "2026-07-18T14:37:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-18T15:37:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2078489285305467260"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2078489285305467260",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1405,
+          "like_count": 31,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 7
+        },
+        "reply_settings": "everyone",
+        "text": "虽然希望最好不要有人死去，但以后如果真的要发布讣告的时候，也许可以开启“谁可以回复”选项。\n因为推特的推流机制，以前看过太多的孩子，那么痛苦的离开了，还被突然从四面八方涌来的恶心看客家伙们踩一脚，揪心死了。\n推特已经在日趋变成恐跨集中营，我们要保护好我们的跨儿同胞们。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-17T01:27:33.000Z",
+        "description": "同类互fo，成分请查看@aeglepotato/点赞狂魔/平时喜欢说怪话和发癫/备用@aeglepotato /🦋@aeglepotato /匿名提问箱https://t.co/C8vIKrLtCN",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 11,
+                "username": "aeglepotato"
+              },
+              {
+                "end": 54,
+                "start": 42,
+                "username": "aeglepotato"
+              },
+              {
+                "end": 69,
+                "start": 57,
+                "username": "aeglepotato"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/aeglepotato",
+                "end": 99,
+                "expanded_url": "https://ngl.link/aeglepotato",
+                "start": 76,
+                "url": "https://t.co/C8vIKrLtCN"
+              }
+            ]
+          }
+        },
+        "id": "2055822314969665536",
+        "name": "⛄ALLice🌈赛博幽灵",
+        "pinned_tweet_id": "2064878659698102753",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067517312576421888/aGH7Myxd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 273,
+          "following_count": 351,
+          "like_count": 12396,
+          "listed_count": 0,
+          "media_count": 34,
+          "tweet_count": 848
+        },
+        "url": "",
+        "username": "GrievousPotato1",
+        "verified": false
+      },
+      {
+        "created_at": "2019-07-15T13:05:50.000Z",
+        "description": "故事的下文  明天再讲给你听\n实习新梦旅者，Melty land 搜寻ing⋯\n术力口跨女 欢迎同好扩列！",
+        "id": "1150753335881826305",
+        "name": "Charlotte F. aka suzu",
+        "pinned_tweet_id": "2016084177138155670",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077063532315619328/MwXmHmj3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 440,
+          "following_count": 303,
+          "like_count": 4425,
+          "listed_count": 0,
+          "media_count": 31,
+          "tweet_count": 1873
+        },
+        "url": "",
+        "username": "acacia038",
+        "verified": false
+      }
+    ]
+  }
+}

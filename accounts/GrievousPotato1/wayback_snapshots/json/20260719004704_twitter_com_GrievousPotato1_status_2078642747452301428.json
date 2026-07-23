@@ -1,0 +1,171 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2055822314969665536",
+    "conversation_id": "2078639543654453547",
+    "created_at": "2026-07-19T00:47:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-19T01:47:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2078642747452301428"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2078642747452301428",
+    "in_reply_to_user_id": "2055822314969665536",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078639543654453547",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "以前的某一个幻觉是一个墙壁和地板都是白色瓷砖的房间，像一个屠宰间，里面挂的都是被竖着对半切的猪，好多好多，有些还是刚宰的，肉块反射着血红色的光，然后旁边有人拿水管向肉块喷水，好像在洗肉，滴下来的水混杂着毛发灰尘和血液流向地板的排水口\n然后我像是拨开帘子一样拨开肉块向前走"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2055822314969665536",
+        "conversation_id": "2078639543654453547",
+        "created_at": "2026-07-19T00:47:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-19T01:47:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078642747452301428"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2078642747452301428",
+        "in_reply_to_user_id": "2055822314969665536",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078639543654453547",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "以前的某一个幻觉是一个墙壁和地板都是白色瓷砖的房间，像一个屠宰间，里面挂的都是被竖着对半切的猪，好多好多，有些还是刚宰的，肉块反射着血红色的光，然后旁边有人拿水管向肉块喷水，好像在洗肉，滴下来的水混杂着毛发灰尘和血液流向地板的排水口\n然后我像是拨开帘子一样拨开肉块向前走"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2055822314969665536",
+        "conversation_id": "2078639543654453547",
+        "created_at": "2026-07-19T00:34:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-19T01:34:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078639543654453547"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2078639543654453547",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 17,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "酒池肉林的意思是不是在一个满是肉块的房间里喝酒🤤我也想要一个满是肉块的房间🤤但只能在幻觉中看到😭而且现实中真的把肉块贴的满墙都是会很臭😭\n\n幻觉最好了，在幻觉中能实现一切在现实中实现不了的愿望🤤👍"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-17T01:27:33.000Z",
+        "description": "同类互fo，成分请查看@aeglepotato/点赞狂魔/平时喜欢说怪话和发癫/备用@aeglepotato /🦋@aeglepotato /匿名提问箱https://t.co/C8vIKrLtCN",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 11,
+                "username": "aeglepotato"
+              },
+              {
+                "end": 54,
+                "start": 42,
+                "username": "aeglepotato"
+              },
+              {
+                "end": 69,
+                "start": 57,
+                "username": "aeglepotato"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/aeglepotato",
+                "end": 99,
+                "expanded_url": "https://ngl.link/aeglepotato",
+                "start": 76,
+                "url": "https://t.co/C8vIKrLtCN"
+              }
+            ]
+          }
+        },
+        "id": "2055822314969665536",
+        "name": "⛄ALLice🌈赛博幽灵",
+        "pinned_tweet_id": "2064878659698102753",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067517312576421888/aGH7Myxd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 273,
+          "following_count": 351,
+          "like_count": 12305,
+          "listed_count": 0,
+          "media_count": 34,
+          "tweet_count": 841
+        },
+        "url": "",
+        "username": "GrievousPotato1",
+        "verified": false
+      }
+    ]
+  }
+}
