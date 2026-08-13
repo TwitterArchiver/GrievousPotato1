@@ -1,0 +1,359 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2085980168414449664",
+        "3_2085980168376733696"
+      ],
+      "media_source_tweet_id": [
+        "2085980175783891353",
+        "2085980175783891353"
+      ]
+    },
+    "author_id": "2055822314969665536",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2086012067069211101",
+    "created_at": "2026-08-08T08:50:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-08T09:50:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2086012067069211101"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1124790071314587648",
+          "start": 3,
+          "username": "LanwujiDrink"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/6xfQXMDjWW",
+          "end": 96,
+          "expanded_url": "https://x.com/LanwujiDrink/status/2085980175783891353/photo/1",
+          "media_key": "3_2085980168414449664",
+          "start": 73,
+          "url": "https://t.co/6xfQXMDjWW"
+        },
+        {
+          "display_url": "pic.x.com/6xfQXMDjWW",
+          "end": 96,
+          "expanded_url": "https://x.com/LanwujiDrink/status/2085980175783891353/photo/1",
+          "media_key": "3_2085980168376733696",
+          "start": 73,
+          "url": "https://t.co/6xfQXMDjWW"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2086012067069211101",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 7
+    },
+    "referenced_tweets": [
+      {
+        "id": "2085980175783891353",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @LanwujiDrink: 直接使用含有化工杂质化工产品鼻喷\n\n而不是正规药品注射液 直接鼻喷于鼻腔可能对神经系统造成什么不可逆的损害？ https://t.co/6xfQXMDjWW"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1756,
+        "media_key": "3_2085980168414449664",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPLj6ULaUAAUTom.jpg",
+        "width": 1320
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2085980168376733696",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPLj6UCa0AAN6Ep.jpg",
+        "width": 1185
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2085980168414449664",
+            "3_2085980168376733696"
+          ]
+        },
+        "author_id": "1124790071314587648",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2085980175783891353",
+        "created_at": "2026-08-08T06:43:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-08T07:43:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2085980175783891353"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/6xfQXMDjWW",
+              "end": 78,
+              "expanded_url": "https://x.com/LanwujiDrink/status/2085980175783891353/photo/1",
+              "media_key": "3_2085980168414449664",
+              "start": 55,
+              "url": "https://t.co/6xfQXMDjWW"
+            },
+            {
+              "display_url": "pic.x.com/6xfQXMDjWW",
+              "end": 78,
+              "expanded_url": "https://x.com/LanwujiDrink/status/2085980175783891353/photo/1",
+              "media_key": "3_2085980168376733696",
+              "start": 55,
+              "url": "https://t.co/6xfQXMDjWW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085980175783891353",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 1059,
+          "like_count": 13,
+          "quote_count": 1,
+          "reply_count": 6,
+          "retweet_count": 7
+        },
+        "reply_settings": "everyone",
+        "text": "直接使用含有化工杂质化工产品鼻喷\n\n而不是正规药品注射液 直接鼻喷于鼻腔可能对神经系统造成什么不可逆的损害？ https://t.co/6xfQXMDjWW"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2085980168414449664",
+            "3_2085980168376733696"
+          ],
+          "media_source_tweet_id": [
+            "2085980175783891353",
+            "2085980175783891353"
+          ]
+        },
+        "author_id": "2055822314969665536",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2086012067069211101",
+        "created_at": "2026-08-08T08:50:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-08T09:50:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2086012067069211101"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1124790071314587648",
+              "start": 3,
+              "username": "LanwujiDrink"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/6xfQXMDjWW",
+              "end": 96,
+              "expanded_url": "https://x.com/LanwujiDrink/status/2085980175783891353/photo/1",
+              "media_key": "3_2085980168414449664",
+              "start": 73,
+              "url": "https://t.co/6xfQXMDjWW"
+            },
+            {
+              "display_url": "pic.x.com/6xfQXMDjWW",
+              "end": 96,
+              "expanded_url": "https://x.com/LanwujiDrink/status/2085980175783891353/photo/1",
+              "media_key": "3_2085980168376733696",
+              "start": 73,
+              "url": "https://t.co/6xfQXMDjWW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086012067069211101",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 7
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085980175783891353",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @LanwujiDrink: 直接使用含有化工杂质化工产品鼻喷\n\n而不是正规药品注射液 直接鼻喷于鼻腔可能对神经系统造成什么不可逆的损害？ https://t.co/6xfQXMDjWW"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-17T01:27:33.000Z",
+        "description": "同类互fo，成分请查看@aeglepotato/点赞狂魔/平时喜欢说怪话和发癫/一般通过肉块爱好者，大量匂坂郁纪发言注意👁️/备用@aeglepotato /🦋@aeglepotato /匿名提问箱https://t.co/C8vIKrLtCN",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 11,
+                "username": "aeglepotato"
+              },
+              {
+                "end": 77,
+                "start": 65,
+                "username": "aeglepotato"
+              },
+              {
+                "end": 92,
+                "start": 80,
+                "username": "aeglepotato"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/aeglepotato",
+                "end": 122,
+                "expanded_url": "https://ngl.link/aeglepotato",
+                "start": 99,
+                "url": "https://t.co/C8vIKrLtCN"
+              }
+            ]
+          }
+        },
+        "id": "2055822314969665536",
+        "name": "⛄ALLice🌈赛博幽灵",
+        "pinned_tweet_id": "2064878659698102753",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067517312576421888/aGH7Myxd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 347,
+          "following_count": 422,
+          "like_count": 18025,
+          "listed_count": 0,
+          "media_count": 70,
+          "tweet_count": 1257
+        },
+        "url": "",
+        "username": "GrievousPotato1",
+        "verified": false
+      },
+      {
+        "created_at": "2019-05-04T21:37:05.000Z",
+        "description": "大人应该为孩子们的未来负责，即使代价是大人自己\n失去一切",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wujichem",
+                "end": 23,
+                "expanded_url": "https://ngl.link/wujichem",
+                "start": 0,
+                "url": "https://t.co/7eJAqlfzT9"
+              }
+            ]
+          }
+        },
+        "id": "1124790071314587648",
+        "location": "和田地区",
+        "name": "☯️🧬無極生物科技 葉經理",
+        "pinned_tweet_id": "2085980175783891353",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2085965577152274432/XOCrCO3o_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 992,
+          "following_count": 110,
+          "like_count": 3210,
+          "listed_count": 0,
+          "media_count": 65,
+          "tweet_count": 1496
+        },
+        "url": "https://t.co/7eJAqlfzT9",
+        "username": "LanwujiDrink",
+        "verified": false
+      }
+    ]
+  }
+}

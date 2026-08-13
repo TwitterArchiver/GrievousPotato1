@@ -1,0 +1,275 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2055822314969665536",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Vaping",
+          "id": "1047109035600764929",
+          "name": "Vaping"
+        }
+      }
+    ],
+    "conversation_id": "2085011268679733480",
+    "created_at": "2026-08-05T14:33:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-05T15:33:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2085011268679733480"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2077713332812083200",
+          "start": 3,
+          "username": "fries420cn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2085011268679733480",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084989605023973786",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @fries420cn: 这个问题真的被私信问爆了——\n雾化（Vape）和传统手卷，到底怎么选？  别急，今天我直接把两边最真实的优缺点摊开讲「口感、起效速度、对肺伤害、隐蔽性、翻车概率」全覆盖！\n\n选手A：电子烟（Vape）\n「科技改变生活，懒人的心头好」✨\n\n口感……"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 784,
+        "media_key": "3_2084989588775501824",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HO9e-_daAAAbogA.jpg",
+        "width": 1168
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2055822314969665536",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Vaping",
+              "id": "1047109035600764929",
+              "name": "Vaping"
+            }
+          }
+        ],
+        "conversation_id": "2085011268679733480",
+        "created_at": "2026-08-05T14:33:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-05T15:33:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085011268679733480"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2077713332812083200",
+              "start": 3,
+              "username": "fries420cn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085011268679733480",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084989605023973786",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @fries420cn: 这个问题真的被私信问爆了——\n雾化（Vape）和传统手卷，到底怎么选？  别急，今天我直接把两边最真实的优缺点摊开讲「口感、起效速度、对肺伤害、隐蔽性、翻车概率」全覆盖！\n\n选手A：电子烟（Vape）\n「科技改变生活，懒人的心头好」✨\n\n口感……"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2084989588775501824"
+          ]
+        },
+        "author_id": "2077713332812083200",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Vaping",
+              "id": "1047109035600764929",
+              "name": "Vaping"
+            }
+          }
+        ],
+        "conversation_id": "2084989605023973786",
+        "created_at": "2026-08-05T13:07:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-05T14:07:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2084989605023973786"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/5Iv976Qf2C",
+              "end": 145,
+              "expanded_url": "https://x.com/fries420cn/status/2084989605023973786/photo/1",
+              "media_key": "3_2084989588775501824",
+              "start": 122,
+              "url": "https://t.co/5Iv976Qf2C"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084989605023973786",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "这个问题真的被私信问爆了——\n雾化（Vape）和传统手卷，到底怎么选？  别急，今天我直接把两边最真实的优缺点摊开讲「口感、起效速度、对肺伤害、隐蔽性、翻车概率」全覆盖！\n\n选手A：电子烟（Vape）\n「科技改变生活，懒人的心头好」✨\n\n口感\n高度萃取，味道干净纯粹，几乎没有草木燃烧的焦糊感，常带淡淡的花果香或萜烯清甜。追求高级感和清爽感的宝子，体验真的丝滑到飞起～🌿💫\n\n起效速度\n闪电侠本侠！吸进去几秒到几十秒，效果直接冲上天灵盖，几乎零等待。适合“我现在就要”的急性子，秒上分那种～⚡\n\n对肺的负担\n没有燃烧产生的焦油和一氧化碳是真的，但高浓度蒸汽对呼吸道的刺激依然很直接。买到劣质烟油的话，隐形伤害真不能小看！照样会咳，而且咳得挺突然！😷\n\n隐蔽性与便携\n巴掌大一个，没明火、散得快、几乎不留持久异味～🤫💨\n\n翻车概率\n新手重灾区！纯度高，一不小心用力过猛就容易心慌、头晕、想躺平，体验直接坠机。第一次用记得轻轻浅浅试水，别上来就猛吸！⚠️😵‍💫\n\n选手B：传统手卷\n「岁月沉淀的仪式感，永远的经典」🔥\n\n口感\n原汁原味的草本风情！慢火燃烧带来的深沉、浓烈、醇厚复合口感，层次感拉满，是老饕们戒不掉的灵魂味道。那种“慢慢品”的感觉，真的很上头～🌿✨\n\n起效速度\n循序渐进的温和派。随着一整支慢慢抽完，效果一点点渗透上来，身体有非常舒服的适应缓冲期，不会突然被“按头”，很有仪式感～😌\n\n对肺的负担\n老派的代价。明火燃烧必然带着焦油、一氧化碳和各种副产物，对肺部的直接刺激和长期负担是实打实的。咳是肯定会咳的，而且味道还挺冲，老肺子表示：习惯就好……🫁\n\n隐蔽性与便携\n目标巨大。自带极其霸道且持久的草本异味。在外面玩基本等于自曝😂💨\n\n翻车概率\n相对友好。浓度比较均衡，又有燃烧消耗的过程，极少出现像雾化那样一口下去直接“原地飞升”的情况。新手友好度明显更高，不容易翻车～👍"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 125,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "这个问题真的被私信问爆了——\n雾化（Vape）和传统手卷，到底怎么选？  别急，今天我直接把两边最真实的优缺点摊开讲「口感、起效速度、对肺伤害、隐蔽性、翻车概率」全覆盖！\n\n选手A：电子烟（Vape）\n「科技改变生活，懒人的心头好」✨\n\n口感 https://t.co/5Iv976Qf2C"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-17T01:27:33.000Z",
+        "description": "同类互fo，成分请查看@aeglepotato/点赞狂魔/平时喜欢说怪话和发癫/备用@aeglepotato /🦋@aeglepotato /匿名提问箱https://t.co/C8vIKrLtCN",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 11,
+                "username": "aeglepotato"
+              },
+              {
+                "end": 54,
+                "start": 42,
+                "username": "aeglepotato"
+              },
+              {
+                "end": 69,
+                "start": 57,
+                "username": "aeglepotato"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/aeglepotato",
+                "end": 99,
+                "expanded_url": "https://ngl.link/aeglepotato",
+                "start": 76,
+                "url": "https://t.co/C8vIKrLtCN"
+              }
+            ]
+          }
+        },
+        "id": "2055822314969665536",
+        "name": "⛄ALLice🌈赛博幽灵",
+        "pinned_tweet_id": "2064878659698102753",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067517312576421888/aGH7Myxd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 336,
+          "following_count": 400,
+          "like_count": 17574,
+          "listed_count": 0,
+          "media_count": 67,
+          "tweet_count": 1212
+        },
+        "url": "",
+        "username": "GrievousPotato1",
+        "verified": false
+      },
+      {
+        "created_at": "2026-07-16T11:15:51.000Z",
+        "description": "支持亚洲大麻合法化｜大麻除罪化｜正视医疗用途｜大麻/ Vape爱好者  🏳️‍⚧️🏳️‍🌈LGBTQ友好\n私信会回｜\r禁止未成年🚫｜平台网站开发中",
+        "id": "2077713332812083200",
+        "name": "薯条🍟(大麻\\電子煙)",
+        "pinned_tweet_id": "2083175269524017656",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079675187579252736/n1no54_m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 479,
+          "following_count": 443,
+          "like_count": 770,
+          "listed_count": 0,
+          "media_count": 46,
+          "tweet_count": 183
+        },
+        "url": "",
+        "username": "fries420cn",
+        "verified": true
+      }
+    ]
+  }
+}

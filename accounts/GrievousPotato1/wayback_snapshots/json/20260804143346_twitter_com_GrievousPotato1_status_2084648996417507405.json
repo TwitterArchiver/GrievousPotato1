@@ -1,0 +1,240 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2055822314969665536",
+    "conversation_id": "2084648996417507405",
+    "created_at": "2026-08-04T14:33:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-04T15:33:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084648996417507405"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2022208955917979648",
+          "start": 3,
+          "username": "Ak1r4i"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084648996417507405",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 7
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084600195019624642",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Ak1r4i: 拼團帖：\n有沒有寶寶想要一起拼團4-keto-pcp的?報價是500/g 10克起拿。感興趣的話評論一下 或者DM我 有一定人數的話我會開群統計。另外根據現有資料4-keto-pcp的普通劑量應該落在20~40mg 按目前價格的話15塊錢左右就可以玩一次…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2055822314969665536",
+        "conversation_id": "2084648996417507405",
+        "created_at": "2026-08-04T14:33:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-04T15:33:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084648996417507405"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2022208955917979648",
+              "start": 3,
+              "username": "Ak1r4i"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084648996417507405",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 7
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084600195019624642",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Ak1r4i: 拼團帖：\n有沒有寶寶想要一起拼團4-keto-pcp的?報價是500/g 10克起拿。感興趣的話評論一下 或者DM我 有一定人數的話我會開群統計。另外根據現有資料4-keto-pcp的普通劑量應該落在20~40mg 按目前價格的話15塊錢左右就可以玩一次…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2022208955917979648",
+        "conversation_id": "2084600195019624642",
+        "created_at": "2026-08-04T11:19:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-04T12:19:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084600195019624642"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2084600195019624642",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 314,
+          "like_count": 14,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 7
+        },
+        "reply_settings": "everyone",
+        "text": "拼團帖：\n有沒有寶寶想要一起拼團4-keto-pcp的?報價是500/g 10克起拿。感興趣的話評論一下 或者DM我 有一定人數的話我會開群統計。另外根據現有資料4-keto-pcp的普通劑量應該落在20~40mg 按目前價格的話15塊錢左右就可以玩一次 體驗效果應該像小馬和天使的混合(? 我也是第一次做這個請大家多多包容謝謝"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-17T01:27:33.000Z",
+        "description": "同类互fo，成分请查看@aeglepotato/点赞狂魔/平时喜欢说怪话和发癫/备用@aeglepotato /🦋@aeglepotato /匿名提问箱https://t.co/C8vIKrLtCN",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 11,
+                "username": "aeglepotato"
+              },
+              {
+                "end": 54,
+                "start": 42,
+                "username": "aeglepotato"
+              },
+              {
+                "end": 69,
+                "start": 57,
+                "username": "aeglepotato"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/aeglepotato",
+                "end": 99,
+                "expanded_url": "https://ngl.link/aeglepotato",
+                "start": 76,
+                "url": "https://t.co/C8vIKrLtCN"
+              }
+            ]
+          }
+        },
+        "id": "2055822314969665536",
+        "name": "⛄ALLice🌈赛博幽灵",
+        "pinned_tweet_id": "2064878659698102753",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067517312576421888/aGH7Myxd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 335,
+          "following_count": 402,
+          "like_count": 17347,
+          "listed_count": 0,
+          "media_count": 65,
+          "tweet_count": 1191
+        },
+        "url": "",
+        "username": "GrievousPotato1",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-13T07:19:33.000Z",
+        "description": "這麼大的世界卻無我的立錐之地\n💊🔪🩸 Oct.09 社交無能笨蛋 希死念慮 \n發了ooc內容的話就是我嗑大了(不要討厭我🥺\n負能only sub垢@perconut 備用垢@Mi1dori\n憑感覺fo跟回fo❤️ \n愛@tanga7lc\n可以來問我問題呀↓",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 82,
+                "start": 73,
+                "username": "perconut"
+              },
+              {
+                "end": 94,
+                "start": 86,
+                "username": "Mi1dori"
+              },
+              {
+                "end": 118,
+                "start": 109,
+                "username": "tanga7lc"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ak1r4i",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ak1r4i",
+                "start": 0,
+                "url": "https://t.co/d4zjW5aAqe"
+              }
+            ]
+          }
+        },
+        "id": "2022208955917979648",
+        "location": "夢",
+        "name": "惺✨",
+        "pinned_tweet_id": "2084561341197742494",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077712711434280960/C81eaJ93_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 305,
+          "following_count": 332,
+          "like_count": 1006,
+          "listed_count": 1,
+          "media_count": 74,
+          "tweet_count": 450
+        },
+        "url": "https://t.co/d4zjW5aAqe",
+        "username": "Ak1r4i",
+        "verified": true
+      }
+    ]
+  }
+}

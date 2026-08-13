@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2055822314969665536",
+    "conversation_id": "2084562883631837674",
+    "created_at": "2026-08-04T08:51:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-04T09:51:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084562883631837674"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2032247657947947008",
+          "start": 3,
+          "username": "14mxxy37"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084562883631837674",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084395242808303760",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @14mxxy37: 哎 我操你妈 和你们这些健全人拼了 我和你们很熟吗  动不动就问我为什么休学 为什么割手 为什么嗑药 后不后悔 操你妈 老子吃的又不是后悔药 到底是真的情商低 还是带着恶意 自己心里清楚"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2055822314969665536",
+        "conversation_id": "2084562883631837674",
+        "created_at": "2026-08-04T08:51:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-04T09:51:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084562883631837674"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2032247657947947008",
+              "start": 3,
+              "username": "14mxxy37"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084562883631837674",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084395242808303760",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @14mxxy37: 哎 我操你妈 和你们这些健全人拼了 我和你们很熟吗  动不动就问我为什么休学 为什么割手 为什么嗑药 后不后悔 操你妈 老子吃的又不是后悔药 到底是真的情商低 还是带着恶意 自己心里清楚"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2032247657947947008",
+        "conversation_id": "2084395242808303760",
+        "created_at": "2026-08-03T21:45:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-03T22:45:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2084395242808303760"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2084395242808303760",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 590,
+          "like_count": 15,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "哎 我操你妈 和你们这些健全人拼了 我和你们很熟吗  动不动就问我为什么休学 为什么割手 为什么嗑药 后不后悔 操你妈 老子吃的又不是后悔药 到底是真的情商低 还是带着恶意 自己心里清楚"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-17T01:27:33.000Z",
+        "description": "同类互fo，成分请查看@aeglepotato/点赞狂魔/平时喜欢说怪话和发癫/备用@aeglepotato /🦋@aeglepotato /匿名提问箱https://t.co/C8vIKrLtCN",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 11,
+                "username": "aeglepotato"
+              },
+              {
+                "end": 54,
+                "start": 42,
+                "username": "aeglepotato"
+              },
+              {
+                "end": 69,
+                "start": 57,
+                "username": "aeglepotato"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/aeglepotato",
+                "end": 99,
+                "expanded_url": "https://ngl.link/aeglepotato",
+                "start": 76,
+                "url": "https://t.co/C8vIKrLtCN"
+              }
+            ]
+          }
+        },
+        "id": "2055822314969665536",
+        "name": "⛄ALLice🌈赛博幽灵",
+        "pinned_tweet_id": "2064878659698102753",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067517312576421888/aGH7Myxd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 333,
+          "following_count": 401,
+          "like_count": 17306,
+          "listed_count": 0,
+          "media_count": 64,
+          "tweet_count": 1189
+        },
+        "url": "",
+        "username": "GrievousPotato1",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-13T00:09:48.000Z",
+        "description": "无人在意的路边野狗",
+        "id": "2032247657947947008",
+        "name": "没什么用的无能",
+        "pinned_tweet_id": "2084013986300006516",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059504344018595840/PVoZBko__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13,
+          "following_count": 52,
+          "like_count": 199,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 61
+        },
+        "url": "",
+        "username": "14mxxy37",
+        "verified": false
+      }
+    ]
+  }
+}

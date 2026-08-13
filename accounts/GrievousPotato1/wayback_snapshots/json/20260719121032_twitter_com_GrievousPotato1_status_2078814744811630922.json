@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2055822314969665536",
+    "conversation_id": "2078814744811630922",
+    "created_at": "2026-07-19T12:10:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-19T13:10:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2078814744811630922"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1913084413942145024",
+          "start": 3,
+          "username": "Sui_aini"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078814744811630922",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 8
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078742925610201200",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Sui_aini: 一定只要和自己很熟很熟的人开o趴，不要和陌生人开o趴，不然o趴变银趴，自己被法了还不知道。有些b男的吃8t普瑞巴林，就开始装晕装断片，想着法人，一定得要提高警惕意识，有些人就是奔着草逼去的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2055822314969665536",
+        "conversation_id": "2078814744811630922",
+        "created_at": "2026-07-19T12:10:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-19T13:10:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078814744811630922"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1913084413942145024",
+              "start": 3,
+              "username": "Sui_aini"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078814744811630922",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 8
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078742925610201200",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Sui_aini: 一定只要和自己很熟很熟的人开o趴，不要和陌生人开o趴，不然o趴变银趴，自己被法了还不知道。有些b男的吃8t普瑞巴林，就开始装晕装断片，想着法人，一定得要提高警惕意识，有些人就是奔着草逼去的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1913084413942145024",
+        "conversation_id": "2078742925610201200",
+        "created_at": "2026-07-19T07:25:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-19T08:25:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2078742925610201200"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2078742925610201200",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 5803,
+          "like_count": 130,
+          "quote_count": 2,
+          "reply_count": 18,
+          "retweet_count": 8
+        },
+        "reply_settings": "everyone",
+        "text": "一定只要和自己很熟很熟的人开o趴，不要和陌生人开o趴，不然o趴变银趴，自己被法了还不知道。有些b男的吃8t普瑞巴林，就开始装晕装断片，想着法人，一定得要提高警惕意识，有些人就是奔着草逼去的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-17T01:27:33.000Z",
+        "description": "同类互fo，成分请查看@aeglepotato/点赞狂魔/平时喜欢说怪话和发癫/备用@aeglepotato /🦋@aeglepotato /匿名提问箱https://t.co/C8vIKrLtCN",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 11,
+                "username": "aeglepotato"
+              },
+              {
+                "end": 54,
+                "start": 42,
+                "username": "aeglepotato"
+              },
+              {
+                "end": 69,
+                "start": 57,
+                "username": "aeglepotato"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/aeglepotato",
+                "end": 99,
+                "expanded_url": "https://ngl.link/aeglepotato",
+                "start": 76,
+                "url": "https://t.co/C8vIKrLtCN"
+              }
+            ]
+          }
+        },
+        "id": "2055822314969665536",
+        "name": "⛄ALLice🌈赛博幽灵",
+        "pinned_tweet_id": "2064878659698102753",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067517312576421888/aGH7Myxd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 272,
+          "following_count": 351,
+          "like_count": 12465,
+          "listed_count": 0,
+          "media_count": 34,
+          "tweet_count": 850
+        },
+        "url": "",
+        "username": "GrievousPotato1",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-18T04:18:07.000Z",
+        "description": "Enby（They/Them/It）",
+        "id": "1913084413942145024",
+        "location": "你的心",
+        "name": "穗_🌾",
+        "pinned_tweet_id": "2076608935323410586",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055720145851752448/XpqXByMh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2195,
+          "following_count": 822,
+          "like_count": 6067,
+          "listed_count": 4,
+          "media_count": 765,
+          "tweet_count": 6219
+        },
+        "url": "",
+        "username": "Sui_aini",
+        "verified": true
+      }
+    ]
+  }
+}

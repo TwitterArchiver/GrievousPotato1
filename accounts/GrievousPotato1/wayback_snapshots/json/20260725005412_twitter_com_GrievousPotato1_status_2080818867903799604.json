@@ -1,0 +1,266 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2080608271120089088"
+      ],
+      "media_source_tweet_id": [
+        "2080608276325208361"
+      ]
+    },
+    "author_id": "2055822314969665536",
+    "conversation_id": "2080818867903799604",
+    "created_at": "2026-07-25T00:54:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-25T01:54:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2080818867903799604"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2050911955603619840",
+          "start": 3,
+          "username": "velvetruine"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/bd3EeL6p2y",
+          "end": 40,
+          "expanded_url": "https://x.com/velvetruine/status/2080608276325208361/photo/1",
+          "media_key": "3_2080608271120089088",
+          "start": 17,
+          "url": "https://t.co/bd3EeL6p2y"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080818867903799604",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 339
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080608276325208361",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @velvetruine: https://t.co/bd3EeL6p2y"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1550,
+        "media_key": "3_2080608271120089088",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HN_OMvTaQAAp9Ne.jpg",
+        "width": 1200
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2080608271120089088"
+          ]
+        },
+        "author_id": "2050911955603619840",
+        "conversation_id": "2080608276325208361",
+        "created_at": "2026-07-24T10:57:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-24T11:57:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080608276325208361"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/bd3EeL6p2y",
+              "end": 23,
+              "expanded_url": "https://x.com/velvetruine/status/2080608276325208361/photo/1",
+              "media_key": "3_2080608271120089088",
+              "start": 0,
+              "url": "https://t.co/bd3EeL6p2y"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080608276325208361",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 243,
+          "impression_count": 28125,
+          "like_count": 3189,
+          "quote_count": 12,
+          "reply_count": 2,
+          "retweet_count": 339
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/bd3EeL6p2y"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2080608271120089088"
+          ],
+          "media_source_tweet_id": [
+            "2080608276325208361"
+          ]
+        },
+        "author_id": "2055822314969665536",
+        "conversation_id": "2080818867903799604",
+        "created_at": "2026-07-25T00:54:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-25T01:54:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080818867903799604"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2050911955603619840",
+              "start": 3,
+              "username": "velvetruine"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/bd3EeL6p2y",
+              "end": 40,
+              "expanded_url": "https://x.com/velvetruine/status/2080608276325208361/photo/1",
+              "media_key": "3_2080608271120089088",
+              "start": 17,
+              "url": "https://t.co/bd3EeL6p2y"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080818867903799604",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 339
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080608276325208361",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @velvetruine: https://t.co/bd3EeL6p2y"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-17T01:27:33.000Z",
+        "description": "同类互fo，成分请查看@aeglepotato/点赞狂魔/平时喜欢说怪话和发癫/备用@aeglepotato /🦋@aeglepotato /匿名提问箱https://t.co/C8vIKrLtCN",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 11,
+                "username": "aeglepotato"
+              },
+              {
+                "end": 54,
+                "start": 42,
+                "username": "aeglepotato"
+              },
+              {
+                "end": 69,
+                "start": 57,
+                "username": "aeglepotato"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/aeglepotato",
+                "end": 99,
+                "expanded_url": "https://ngl.link/aeglepotato",
+                "start": 76,
+                "url": "https://t.co/C8vIKrLtCN"
+              }
+            ]
+          }
+        },
+        "id": "2055822314969665536",
+        "name": "⛄ALLice🌈赛博幽灵",
+        "pinned_tweet_id": "2064878659698102753",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067517312576421888/aGH7Myxd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 299,
+          "following_count": 376,
+          "like_count": 14645,
+          "listed_count": 0,
+          "media_count": 42,
+          "tweet_count": 967
+        },
+        "url": "",
+        "username": "GrievousPotato1",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-03T12:16:05.000Z",
+        "description": "",
+        "id": "2050911955603619840",
+        "name": "K.",
+        "pinned_tweet_id": "2076175186832077102",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060713195447418880/f1rAK-sI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2419,
+          "following_count": 124,
+          "like_count": 1033,
+          "listed_count": 6,
+          "media_count": 177,
+          "tweet_count": 234
+        },
+        "url": "",
+        "username": "velvetruine",
+        "verified": false
+      }
+    ]
+  }
+}

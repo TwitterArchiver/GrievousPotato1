@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2055822314969665536",
+    "conversation_id": "2081637088114389033",
+    "created_at": "2026-07-27T07:05:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-27T08:05:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2081637088114389033"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "description": "Provided to YouTube by 北河三 Pollux Music嗵嗵 · DOUDOU嗵嗵℗ 北河三（北京）...",
+          "display_url": "youtu.be/oEKWgS1P2GU",
+          "end": 26,
+          "expanded_url": "https://youtu.be/oEKWgS1P2GU",
+          "images": [
+            {
+              "height": 720,
+              "url": "https://pbs.twimg.com/news_img/2080975568179531776/re6aLwF5?format=jpg&name=orig",
+              "width": 1280
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/2080975568179531776/re6aLwF5?format=jpg&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 3,
+          "status": 200,
+          "title": "嗵嗵",
+          "unwound_url": "https://www.youtube.com/watch?v=oEKWgS1P2GU&feature=youtu.be",
+          "url": "https://t.co/6UObBfwsKj"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081637088114389033",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "好听\nhttps://t.co/6UObBfwsKj"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2055822314969665536",
+        "conversation_id": "2081637088114389033",
+        "created_at": "2026-07-27T07:05:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-27T08:05:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081637088114389033"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "Provided to YouTube by 北河三 Pollux Music嗵嗵 · DOUDOU嗵嗵℗ 北河三（北京）...",
+              "display_url": "youtu.be/oEKWgS1P2GU",
+              "end": 26,
+              "expanded_url": "https://youtu.be/oEKWgS1P2GU",
+              "images": [
+                {
+                  "height": 720,
+                  "url": "https://pbs.twimg.com/news_img/2080975568179531776/re6aLwF5?format=jpg&name=orig",
+                  "width": 1280
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2080975568179531776/re6aLwF5?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 3,
+              "status": 200,
+              "title": "嗵嗵",
+              "unwound_url": "https://www.youtube.com/watch?v=oEKWgS1P2GU&feature=youtu.be",
+              "url": "https://t.co/6UObBfwsKj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081637088114389033",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "好听\nhttps://t.co/6UObBfwsKj"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-17T01:27:33.000Z",
+        "description": "同类互fo，成分请查看@aeglepotato/点赞狂魔/平时喜欢说怪话和发癫/备用@aeglepotato /🦋@aeglepotato /匿名提问箱https://t.co/C8vIKrLtCN",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 11,
+                "username": "aeglepotato"
+              },
+              {
+                "end": 54,
+                "start": 42,
+                "username": "aeglepotato"
+              },
+              {
+                "end": 69,
+                "start": 57,
+                "username": "aeglepotato"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/aeglepotato",
+                "end": 99,
+                "expanded_url": "https://ngl.link/aeglepotato",
+                "start": 76,
+                "url": "https://t.co/C8vIKrLtCN"
+              }
+            ]
+          }
+        },
+        "id": "2055822314969665536",
+        "name": "⛄ALLice🌈赛博幽灵",
+        "pinned_tweet_id": "2064878659698102753",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067517312576421888/aGH7Myxd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 306,
+          "following_count": 384,
+          "like_count": 15150,
+          "listed_count": 0,
+          "media_count": 47,
+          "tweet_count": 1013
+        },
+        "url": "",
+        "username": "GrievousPotato1",
+        "verified": false
+      }
+    ]
+  }
+}

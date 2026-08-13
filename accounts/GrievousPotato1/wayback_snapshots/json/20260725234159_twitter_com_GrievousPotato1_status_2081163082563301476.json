@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2055822314969665536",
+    "conversation_id": "2081163082563301476",
+    "created_at": "2026-07-25T23:41:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-26T00:41:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081163082563301476"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1773119589062418432",
+          "start": 3,
+          "username": "Ed5JelrpAd93177"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081163082563301476",
+    "lang": "ko",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2344
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080958682712719542",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Ed5JelrpAd93177: 원래 사랑은 역겹고 추잡하고 졸렬하고\n질척하고 끈적하고 더럽고 구역질나고\n메스껍고 불결하고 음험하고 우울하고\n음침하고 무섭고 상스럽고 껄끄럽고\n불편하고 혐오스럽고 버러지같고 짜증나고\n섬뜩하고 쇠약하고 병적이고 증…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2055822314969665536",
+        "conversation_id": "2081163082563301476",
+        "created_at": "2026-07-25T23:41:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-26T00:41:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081163082563301476"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1773119589062418432",
+              "start": 3,
+              "username": "Ed5JelrpAd93177"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081163082563301476",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2344
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080958682712719542",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Ed5JelrpAd93177: 원래 사랑은 역겹고 추잡하고 졸렬하고\n질척하고 끈적하고 더럽고 구역질나고\n메스껍고 불결하고 음험하고 우울하고\n음침하고 무섭고 상스럽고 껄끄럽고\n불편하고 혐오스럽고 버러지같고 짜증나고\n섬뜩하고 쇠약하고 병적이고 증…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1773119589062418432",
+        "conversation_id": "2080958682712719542",
+        "created_at": "2026-07-25T10:09:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-25T11:09:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080958682712719542"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2080958682712719542",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1088,
+          "impression_count": 190408,
+          "like_count": 5387,
+          "quote_count": 652,
+          "reply_count": 1,
+          "retweet_count": 2344
+        },
+        "reply_settings": "everyone",
+        "text": "원래 사랑은 역겹고 추잡하고 졸렬하고\n질척하고 끈적하고 더럽고 구역질나고\n메스껍고 불결하고 음험하고 우울하고\n음침하고 무섭고 상스럽고 껄끄럽고\n불편하고 혐오스럽고 버러지같고 짜증나고\n섬뜩하고 쇠약하고 병적이고 증오스럽고\n한심해야 아름답다"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-17T01:27:33.000Z",
+        "description": "同类互fo，成分请查看@aeglepotato/点赞狂魔/平时喜欢说怪话和发癫/备用@aeglepotato /🦋@aeglepotato /匿名提问箱https://t.co/C8vIKrLtCN",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 11,
+                "username": "aeglepotato"
+              },
+              {
+                "end": 54,
+                "start": 42,
+                "username": "aeglepotato"
+              },
+              {
+                "end": 69,
+                "start": 57,
+                "username": "aeglepotato"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/aeglepotato",
+                "end": 99,
+                "expanded_url": "https://ngl.link/aeglepotato",
+                "start": 76,
+                "url": "https://t.co/C8vIKrLtCN"
+              }
+            ]
+          }
+        },
+        "id": "2055822314969665536",
+        "name": "⛄ALLice🌈赛博幽灵",
+        "pinned_tweet_id": "2064878659698102753",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067517312576421888/aGH7Myxd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 301,
+          "following_count": 377,
+          "like_count": 14770,
+          "listed_count": 0,
+          "media_count": 43,
+          "tweet_count": 976
+        },
+        "url": "",
+        "username": "GrievousPotato1",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-27T22:47:18.000Z",
+        "description": "부계: @haeju_2",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 12,
+                "start": 4,
+                "username": "haeju_2"
+              }
+            ]
+          }
+        },
+        "id": "1773119589062418432",
+        "location": "폐쇄병동",
+        "name": "해줘",
+        "pinned_tweet_id": "2062533651313914356",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060725368802492416/_qkGu633_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2254,
+          "following_count": 272,
+          "like_count": 13419,
+          "listed_count": 6,
+          "media_count": 54,
+          "tweet_count": 473
+        },
+        "url": "",
+        "username": "Ed5JelrpAd93177",
+        "verified": true
+      }
+    ]
+  }
+}

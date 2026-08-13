@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2055822314969665536",
+    "conversation_id": "2085233089182073093",
+    "created_at": "2026-08-06T05:14:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-06T06:14:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2085233089182073093"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2082275840851845120",
+          "start": 3,
+          "username": "Mercyxvx1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2085233089182073093",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2085214785910845832",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Mercyxvx1: 必须药物不当使用，没有未来的你会享受此刻恍惚的自己。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2055822314969665536",
+        "conversation_id": "2085233089182073093",
+        "created_at": "2026-08-06T05:14:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-06T06:14:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085233089182073093"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2082275840851845120",
+              "start": 3,
+              "username": "Mercyxvx1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085233089182073093",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085214785910845832",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Mercyxvx1: 必须药物不当使用，没有未来的你会享受此刻恍惚的自己。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2082275840851845120",
+        "conversation_id": "2085214785910845832",
+        "created_at": "2026-08-06T04:02:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-06T05:02:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2085214785910845832"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2085214785910845832",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 50,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "必须药物不当使用，没有未来的你会享受此刻恍惚的自己。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-17T01:27:33.000Z",
+        "description": "同类互fo，成分请查看@aeglepotato/点赞狂魔/平时喜欢说怪话和发癫/备用@aeglepotato /🦋@aeglepotato /匿名提问箱https://t.co/C8vIKrLtCN",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 11,
+                "username": "aeglepotato"
+              },
+              {
+                "end": 54,
+                "start": 42,
+                "username": "aeglepotato"
+              },
+              {
+                "end": 69,
+                "start": 57,
+                "username": "aeglepotato"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/aeglepotato",
+                "end": 99,
+                "expanded_url": "https://ngl.link/aeglepotato",
+                "start": 76,
+                "url": "https://t.co/C8vIKrLtCN"
+              }
+            ]
+          }
+        },
+        "id": "2055822314969665536",
+        "name": "⛄ALLice🌈赛博幽灵",
+        "pinned_tweet_id": "2064878659698102753",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067517312576421888/aGH7Myxd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 338,
+          "following_count": 408,
+          "like_count": 17690,
+          "listed_count": 0,
+          "media_count": 67,
+          "tweet_count": 1224
+        },
+        "url": "",
+        "username": "GrievousPotato1",
+        "verified": false
+      },
+      {
+        "created_at": "2026-07-29T01:24:46.000Z",
+        "description": "May Mercy find you.\n\nBD/BPD/DPDR｜💖:@liyfn130024",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 47,
+                "start": 35,
+                "username": "liyfn130024"
+              }
+            ]
+          }
+        },
+        "id": "2082275840851845120",
+        "location": "💊🔪🩸",
+        "name": "Mercy",
+        "pinned_tweet_id": "2084517420405064088",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082276321770745857/Y1ng3Ajy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 335,
+          "following_count": 326,
+          "like_count": 841,
+          "listed_count": 0,
+          "media_count": 29,
+          "tweet_count": 278
+        },
+        "url": "",
+        "username": "Mercyxvx1",
+        "verified": false
+      }
+    ]
+  }
+}

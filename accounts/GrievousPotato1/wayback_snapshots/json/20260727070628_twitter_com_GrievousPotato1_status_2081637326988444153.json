@@ -1,0 +1,299 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2081275604092305408"
+      ],
+      "media_source_tweet_id": [
+        "2081335974047752599"
+      ]
+    },
+    "author_id": "2055822314969665536",
+    "conversation_id": "2081637326988444153",
+    "created_at": "2026-07-27T07:06:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-27T08:06:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081637326988444153"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1390652924481527810",
+          "start": 3,
+          "username": "zqtlovekris99"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/IftxZaCNFF",
+          "end": 50,
+          "expanded_url": "https://x.com/zqtlovekris99/status/2081335974047752599/photo/1",
+          "media_key": "3_2081275604092305408",
+          "start": 27,
+          "url": "https://t.co/IftxZaCNFF"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081637326988444153",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 15
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081335974047752599",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @zqtlovekris99: 无性别是伟大的 https://t.co/IftxZaCNFF"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 743,
+        "media_key": "3_2081275604092305408",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOItIoWbwAAvlSM.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2081275604092305408"
+          ]
+        },
+        "author_id": "1390652924481527810",
+        "conversation_id": "2081335974047752599",
+        "created_at": "2026-07-26T11:09:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-26T12:09:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081335974047752599"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/IftxZaCNFF",
+              "end": 31,
+              "expanded_url": "https://x.com/zqtlovekris99/status/2081335974047752599/photo/1",
+              "media_key": "3_2081275604092305408",
+              "start": 8,
+              "url": "https://t.co/IftxZaCNFF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081335974047752599",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 4665,
+          "like_count": 267,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 15
+        },
+        "reply_settings": "everyone",
+        "text": "无性别是伟大的 https://t.co/IftxZaCNFF"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2081275604092305408"
+          ],
+          "media_source_tweet_id": [
+            "2081335974047752599"
+          ]
+        },
+        "author_id": "2055822314969665536",
+        "conversation_id": "2081637326988444153",
+        "created_at": "2026-07-27T07:06:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-27T08:06:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081637326988444153"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1390652924481527810",
+              "start": 3,
+              "username": "zqtlovekris99"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/IftxZaCNFF",
+              "end": 50,
+              "expanded_url": "https://x.com/zqtlovekris99/status/2081335974047752599/photo/1",
+              "media_key": "3_2081275604092305408",
+              "start": 27,
+              "url": "https://t.co/IftxZaCNFF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081637326988444153",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 15
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081335974047752599",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @zqtlovekris99: 无性别是伟大的 https://t.co/IftxZaCNFF"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-17T01:27:33.000Z",
+        "description": "同类互fo，成分请查看@aeglepotato/点赞狂魔/平时喜欢说怪话和发癫/备用@aeglepotato /🦋@aeglepotato /匿名提问箱https://t.co/C8vIKrLtCN",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 11,
+                "username": "aeglepotato"
+              },
+              {
+                "end": 54,
+                "start": 42,
+                "username": "aeglepotato"
+              },
+              {
+                "end": 69,
+                "start": 57,
+                "username": "aeglepotato"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/aeglepotato",
+                "end": 99,
+                "expanded_url": "https://ngl.link/aeglepotato",
+                "start": 76,
+                "url": "https://t.co/C8vIKrLtCN"
+              }
+            ]
+          }
+        },
+        "id": "2055822314969665536",
+        "name": "⛄ALLice🌈赛博幽灵",
+        "pinned_tweet_id": "2064878659698102753",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067517312576421888/aGH7Myxd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 306,
+          "following_count": 384,
+          "like_count": 15154,
+          "listed_count": 0,
+          "media_count": 47,
+          "tweet_count": 1014
+        },
+        "url": "",
+        "username": "GrievousPotato1",
+        "verified": false
+      },
+      {
+        "created_at": "2021-05-07T13:02:12.000Z",
+        "description": "出卖了灵魂的空壳，日常号 @Grtr_nk\n🍀关注竹蜻蜓喵谢谢喵🍀蓝v互关其他回fo请私信 | 闺蜜 @Misako_25ji 🐱 @Citrus_amara",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 13,
+                "username": "Grtr_nk"
+              },
+              {
+                "end": 63,
+                "start": 51,
+                "username": "Misako_25ji"
+              },
+              {
+                "end": 79,
+                "start": 66,
+                "username": "Citrus_amara"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/nekotonbo1",
+                "end": 23,
+                "expanded_url": "http://ngl.link/nekotonbo1",
+                "start": 0,
+                "url": "https://t.co/WeibacoXza"
+              }
+            ]
+          }
+        },
+        "id": "1390652924481527810",
+        "location": "找我提问箱！",
+        "name": "🍀🍥竹蜻蜓🍥🍀",
+        "pinned_tweet_id": "2059679856359809440",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005202233164709888/10McwBTc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13998,
+          "following_count": 1792,
+          "like_count": 26628,
+          "listed_count": 17,
+          "media_count": 5823,
+          "tweet_count": 29640
+        },
+        "url": "https://t.co/WeibacoXza",
+        "username": "zqtlovekris99",
+        "verified": true
+      }
+    ]
+  }
+}

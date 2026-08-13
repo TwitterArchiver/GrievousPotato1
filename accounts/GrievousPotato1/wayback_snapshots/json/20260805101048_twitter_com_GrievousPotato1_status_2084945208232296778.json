@@ -1,0 +1,223 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2055822314969665536",
+    "conversation_id": "2084945208232296778",
+    "created_at": "2026-08-05T10:10:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-05T11:10:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084945208232296778"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1947765957658873860",
+          "start": 3,
+          "username": "AGZlove8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084945208232296778",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084926782999031895",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @AGZlove8964: 近几年软色情市场扩张，大家对此类内容的识别和敏感度早就下降，但仍然不是什么好事，人是无法做到没有七情六欲的，家人朋友离世放眼整个世界都会有人为此感到悲伤，为何od自残人群不配拥有喜怒哀乐的能力？并且指责他们的人还是一个擦边的，如果分类，他们本质…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2055822314969665536",
+        "conversation_id": "2084945208232296778",
+        "created_at": "2026-08-05T10:10:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-05T11:10:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084945208232296778"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1947765957658873860",
+              "start": 3,
+              "username": "AGZlove8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084945208232296778",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084926782999031895",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @AGZlove8964: 近几年软色情市场扩张，大家对此类内容的识别和敏感度早就下降，但仍然不是什么好事，人是无法做到没有七情六欲的，家人朋友离世放眼整个世界都会有人为此感到悲伤，为何od自残人群不配拥有喜怒哀乐的能力？并且指责他们的人还是一个擦边的，如果分类，他们本质…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1947765957658873860",
+        "conversation_id": "2084926782999031895",
+        "created_at": "2026-08-05T08:57:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-05T09:57:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2084926782999031895"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/agzlove8964/st…",
+              "end": 161,
+              "expanded_url": "https://twitter.com/agzlove8964/status/2084924693941985537",
+              "start": 138,
+              "url": "https://t.co/tAQrgxxikl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084926782999031895",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 255,
+          "like_count": 12,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084924693941985537",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "近几年软色情市场扩张，大家对此类内容的识别和敏感度早就下降，但仍然不是什么好事，人是无法做到没有七情六欲的，家人朋友离世放眼整个世界都会有人为此感到悲伤，为何od自残人群不配拥有喜怒哀乐的能力？并且指责他们的人还是一个擦边的，如果分类，他们本质上还是同类人，这难道不讽刺吗？ https://t.co/tAQrgxxikl"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-17T01:27:33.000Z",
+        "description": "同类互fo，成分请查看@aeglepotato/点赞狂魔/平时喜欢说怪话和发癫/备用@aeglepotato /🦋@aeglepotato /匿名提问箱https://t.co/C8vIKrLtCN",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 11,
+                "username": "aeglepotato"
+              },
+              {
+                "end": 54,
+                "start": 42,
+                "username": "aeglepotato"
+              },
+              {
+                "end": 69,
+                "start": 57,
+                "username": "aeglepotato"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/aeglepotato",
+                "end": 99,
+                "expanded_url": "https://ngl.link/aeglepotato",
+                "start": 76,
+                "url": "https://t.co/C8vIKrLtCN"
+              }
+            ]
+          }
+        },
+        "id": "2055822314969665536",
+        "name": "⛄ALLice🌈赛博幽灵",
+        "pinned_tweet_id": "2064878659698102753",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067517312576421888/aGH7Myxd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 334,
+          "following_count": 399,
+          "like_count": 17527,
+          "listed_count": 0,
+          "media_count": 67,
+          "tweet_count": 1207
+        },
+        "url": "",
+        "username": "GrievousPotato1",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-22T21:09:43.000Z",
+        "description": "右 反共 顺直勿扰 激男激女勿扰 友LGBTQIA 一切少数群体 如果政治立场不同请不要关注我",
+        "id": "1947765957658873860",
+        "name": "爱国者8964",
+        "pinned_tweet_id": "2084356884925178130",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082348386540503040/YBhcS1rX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 107,
+          "following_count": 74,
+          "like_count": 1572,
+          "listed_count": 0,
+          "media_count": 32,
+          "tweet_count": 927
+        },
+        "url": "",
+        "username": "AGZlove8964",
+        "verified": false
+      }
+    ]
+  }
+}

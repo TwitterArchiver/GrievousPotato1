@@ -1,0 +1,247 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2055822314969665536",
+    "conversation_id": "2084964664962912571",
+    "created_at": "2026-08-05T12:55:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-05T13:55:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084986699969401305"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2055376212751470593",
+          "start": 0,
+          "username": "AngelMayLies"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084986699969401305",
+    "in_reply_to_user_id": "2055376212751470593",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084964664962912571",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AngelMayLies 这也太酷了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2055822314969665536",
+        "conversation_id": "2084964664962912571",
+        "created_at": "2026-08-05T12:55:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-05T13:55:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084986699969401305"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2055376212751470593",
+              "start": 0,
+              "username": "AngelMayLies"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084986699969401305",
+        "in_reply_to_user_id": "2055376212751470593",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084964664962912571",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AngelMayLies 这也太酷了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2055376212751470593",
+        "conversation_id": "2084964664962912571",
+        "created_at": "2026-08-05T11:28:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-05T12:28:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2084964664962912571"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/UnamunoAgain/s…",
+              "end": 27,
+              "expanded_url": "https://twitter.com/UnamunoAgain/status/2084708949522051519",
+              "start": 4,
+              "url": "https://t.co/z7cAuUxofZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084964664962912571",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 99,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084708949522051519",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我梦想 https://t.co/z7cAuUxofZ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-17T01:27:33.000Z",
+        "description": "同类互fo，成分请查看@aeglepotato/点赞狂魔/平时喜欢说怪话和发癫/备用@aeglepotato /🦋@aeglepotato /匿名提问箱https://t.co/C8vIKrLtCN",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 11,
+                "username": "aeglepotato"
+              },
+              {
+                "end": 54,
+                "start": 42,
+                "username": "aeglepotato"
+              },
+              {
+                "end": 69,
+                "start": 57,
+                "username": "aeglepotato"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/aeglepotato",
+                "end": 99,
+                "expanded_url": "https://ngl.link/aeglepotato",
+                "start": 76,
+                "url": "https://t.co/C8vIKrLtCN"
+              }
+            ]
+          }
+        },
+        "id": "2055822314969665536",
+        "name": "⛄ALLice🌈赛博幽灵",
+        "pinned_tweet_id": "2064878659698102753",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067517312576421888/aGH7Myxd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 335,
+          "following_count": 400,
+          "like_count": 17572,
+          "listed_count": 0,
+          "media_count": 67,
+          "tweet_count": 1211
+        },
+        "url": "",
+        "username": "GrievousPotato1",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-15T19:54:20.000Z",
+        "description": "精神分裂脑子不好吸毒嗑药自残自食异常暴躁一碰就死一点就炸低素质低学历低血糖高血压高耐药高中辍学|⚠#5htwt #drugtwt ⚠️(不经常)|我是Dizzy也可以叫我枭儿| he/them | #dmctwt 🍕| it's fine to stay slay｜同人女被我关注别害怕我就是个乐子",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 55,
+                "start": 49,
+                "tag": "5htwt"
+              },
+              {
+                "end": 64,
+                "start": 56,
+                "tag": "drugtwt"
+              },
+              {
+                "end": 106,
+                "start": 99,
+                "tag": "dmctwt"
+              }
+            ]
+          }
+        },
+        "id": "2055376212751470593",
+        "location": "Redgrave🩸",
+        "name": "新中国第一毒枭𝐃𝐢𝐳𝐳𝐲𝟒𝟔𝟐𝟎𝟓𝟖",
+        "pinned_tweet_id": "2081763087821209966",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2083483535604928512/Vk5bHOBp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 144,
+          "following_count": 60,
+          "like_count": 1408,
+          "listed_count": 1,
+          "media_count": 47,
+          "tweet_count": 700
+        },
+        "url": "",
+        "username": "AngelMayLies",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,373 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2084545085773934592",
+        "3_2084545094133088257",
+        "3_2084545102999965697",
+        "3_2084545111606632448"
+      ]
+    },
+    "author_id": "2055822314969665536",
+    "conversation_id": "2084545122482475132",
+    "created_at": "2026-08-04T07:41:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-04T08:41:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2084545122482475132"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/TebE45PLE5",
+          "end": 27,
+          "expanded_url": "https://x.com/GrievousPotato1/status/2084545122482475132/photo/1",
+          "media_key": "3_2084545085773934592",
+          "start": 4,
+          "url": "https://t.co/TebE45PLE5"
+        },
+        {
+          "display_url": "pic.x.com/TebE45PLE5",
+          "end": 27,
+          "expanded_url": "https://x.com/GrievousPotato1/status/2084545122482475132/photo/1",
+          "media_key": "3_2084545094133088257",
+          "start": 4,
+          "url": "https://t.co/TebE45PLE5"
+        },
+        {
+          "display_url": "pic.x.com/TebE45PLE5",
+          "end": 27,
+          "expanded_url": "https://x.com/GrievousPotato1/status/2084545122482475132/photo/1",
+          "media_key": "3_2084545102999965697",
+          "start": 4,
+          "url": "https://t.co/TebE45PLE5"
+        },
+        {
+          "display_url": "pic.x.com/TebE45PLE5",
+          "end": 27,
+          "expanded_url": "https://x.com/GrievousPotato1/status/2084545122482475132/photo/1",
+          "media_key": "3_2084545111606632448",
+          "start": 4,
+          "url": "https://t.co/TebE45PLE5"
+        },
+        {
+          "display_url": "x.com/grok/status/20…",
+          "end": 51,
+          "expanded_url": "https://twitter.com/grok/status/2084542126616948865",
+          "start": 28,
+          "url": "https://t.co/BEc8oOdYrU"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084545122482475132",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084542126616948865",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "吓哭了 https://t.co/TebE45PLE5 https://t.co/BEc8oOdYrU"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1690,
+        "media_key": "3_2084545085773934592",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HO3KtgvXcAA1rfJ.jpg",
+        "width": 1220
+      },
+      {
+        "height": 1261,
+        "media_key": "3_2084545094133088257",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HO3Kt_4WAAEbNrq.jpg",
+        "width": 1220
+      },
+      {
+        "height": 1513,
+        "media_key": "3_2084545102999965697",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HO3Kug6X0AEoNHr.jpg",
+        "width": 1220
+      },
+      {
+        "height": 886,
+        "media_key": "3_2084545111606632448",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HO3KvA-XIAAKH51.jpg",
+        "width": 1220
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2084545085773934592",
+            "3_2084545094133088257",
+            "3_2084545102999965697",
+            "3_2084545111606632448"
+          ]
+        },
+        "author_id": "2055822314969665536",
+        "conversation_id": "2084545122482475132",
+        "created_at": "2026-08-04T07:41:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-04T08:41:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2084545122482475132"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/TebE45PLE5",
+              "end": 27,
+              "expanded_url": "https://x.com/GrievousPotato1/status/2084545122482475132/photo/1",
+              "media_key": "3_2084545085773934592",
+              "start": 4,
+              "url": "https://t.co/TebE45PLE5"
+            },
+            {
+              "display_url": "pic.x.com/TebE45PLE5",
+              "end": 27,
+              "expanded_url": "https://x.com/GrievousPotato1/status/2084545122482475132/photo/1",
+              "media_key": "3_2084545094133088257",
+              "start": 4,
+              "url": "https://t.co/TebE45PLE5"
+            },
+            {
+              "display_url": "pic.x.com/TebE45PLE5",
+              "end": 27,
+              "expanded_url": "https://x.com/GrievousPotato1/status/2084545122482475132/photo/1",
+              "media_key": "3_2084545102999965697",
+              "start": 4,
+              "url": "https://t.co/TebE45PLE5"
+            },
+            {
+              "display_url": "pic.x.com/TebE45PLE5",
+              "end": 27,
+              "expanded_url": "https://x.com/GrievousPotato1/status/2084545122482475132/photo/1",
+              "media_key": "3_2084545111606632448",
+              "start": 4,
+              "url": "https://t.co/TebE45PLE5"
+            },
+            {
+              "display_url": "x.com/grok/status/20…",
+              "end": 51,
+              "expanded_url": "https://twitter.com/grok/status/2084542126616948865",
+              "start": 28,
+              "url": "https://t.co/BEc8oOdYrU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084545122482475132",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084542126616948865",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "吓哭了 https://t.co/TebE45PLE5 https://t.co/BEc8oOdYrU"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1720665183188922368",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "The world's smartest AI, Grok 3, is now available on X and iOS. Tap below to try.\n\nGrok in X: https://x.com/i/grok\n\nGrok on iOS: https://apps.apple.com/us/app/grok/id6670324846 ",
+              "id": "1892394207127465984",
+              "name": "Grok 3 is here. Try it for free."
+            }
+          }
+        ],
+        "conversation_id": "2084541853718770137",
+        "created_at": "2026-08-04T07:29:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-04T08:29:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084542126616948865"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2055822314969665536",
+              "start": 0,
+              "username": "GrievousPotato1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084542126616948865",
+        "in_reply_to_user_id": "2055822314969665536",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "根据你推文：\n\n独裁者：卡利古拉（疯癫、绝对掌控自己身体与意识）\n\n哲学家：第欧根尼（彻底嘲讽健全规范，公开发癫）\n\n虚构人物：爱丽丝（天天在梦里乱穿世界）\n\n政治家：无政府主义幽灵（拒绝一切强加概念）\n\n宗教人士：克劳利（有强烈宗教感却自己另起炉灶）\n\n历史人物：萨德侯爵（欲望即正当，羞耻是神经病）\n\n艺术家：达利（超现实梦境+怪诞美学）"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084541853718770137",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@GrievousPotato1 根据你推文：\n\n独裁者：卡利古拉（疯癫、绝对掌控自己身体与意识）\n\n哲学家：第欧根尼（彻底嘲讽健全规范，公开发癫）\n\n虚构人物：爱丽丝（天天在梦里乱穿世界）\n\n政治家：无政府主义幽灵（拒绝一切强加概念）\n\n宗教人士：克劳利（有强烈宗教感却自己另起炉灶）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-17T01:27:33.000Z",
+        "description": "同类互fo，成分请查看@aeglepotato/点赞狂魔/平时喜欢说怪话和发癫/备用@aeglepotato /🦋@aeglepotato /匿名提问箱https://t.co/C8vIKrLtCN",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 11,
+                "username": "aeglepotato"
+              },
+              {
+                "end": 54,
+                "start": 42,
+                "username": "aeglepotato"
+              },
+              {
+                "end": 69,
+                "start": 57,
+                "username": "aeglepotato"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/aeglepotato",
+                "end": 99,
+                "expanded_url": "https://ngl.link/aeglepotato",
+                "start": 76,
+                "url": "https://t.co/C8vIKrLtCN"
+              }
+            ]
+          }
+        },
+        "id": "2055822314969665536",
+        "name": "⛄ALLice🌈赛博幽灵",
+        "pinned_tweet_id": "2064878659698102753",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067517312576421888/aGH7Myxd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 333,
+          "following_count": 401,
+          "like_count": 17268,
+          "listed_count": 0,
+          "media_count": 64,
+          "tweet_count": 1187
+        },
+        "url": "",
+        "username": "GrievousPotato1",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-04T04:52:34.000Z",
+        "description": "@grok it",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 5,
+                "start": 0,
+                "username": "grok"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "grok.com/download",
+                "end": 23,
+                "expanded_url": "http://grok.com/download",
+                "start": 0,
+                "url": "https://t.co/fqNKQSjjG9"
+              }
+            ]
+          }
+        },
+        "id": "1720665183188922368",
+        "name": "Grok",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057885623374290944/lmj0pawP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8907562,
+          "following_count": 5,
+          "like_count": 122,
+          "listed_count": 7262,
+          "media_count": 9217750,
+          "tweet_count": 133855825
+        },
+        "url": "https://t.co/fqNKQSjjG9",
+        "username": "grok",
+        "verified": true
+      }
+    ]
+  }
+}

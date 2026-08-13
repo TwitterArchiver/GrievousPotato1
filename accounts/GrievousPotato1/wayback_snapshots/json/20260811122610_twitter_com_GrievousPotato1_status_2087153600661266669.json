@@ -1,0 +1,319 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2055822314969665536",
+    "conversation_id": "2087153600661266669",
+    "created_at": "2026-08-11T12:26:10.000Z",
+    "display_text_range": [
+      0,
+      111
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-11T13:26:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2087153600661266669"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/kgnsoey5wdo2tw…",
+          "end": 135,
+          "expanded_url": "https://twitter.com/kgnsoey5wdo2twt/status/2086639660646924574",
+          "start": 112,
+          "url": "https://t.co/egKnzMTGVl"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2087153600661266669",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2086639660646924574",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "在日本流行的新型读品114-inmu-514，起效时间1919秒，代谢需要810小时，作用为吸食后出现自己被雷普的幻觉，伴随闭眼大叫症状，多人吸食后表示闭上眼能看见一个慈祥的亚洲男性的脸，同时会闻到一股强烈的粪臭味（迫真） https://t.co/egKnzMTGVl"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 22149,
+        "height": 720,
+        "media_key": "13_2086639632025051136",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2086639632025051136/img/oSoX6AnechZHU_oY.jpg",
+        "public_metrics": {
+          "view_count": 4244266
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2086639632025051136/vid/avc1/480x270/GgzlaypQTkAKY4HR.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2086639632025051136/vid/avc1/640x360/7Ue57kqh53ZiJPSU.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2086639632025051136/vid/avc1/1280x720/BVXPnqf-ZA5BMQYk.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2086639632025051136/pl/sgLGBHza42wz74aE.m3u8?v=cfc"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2055822314969665536",
+        "conversation_id": "2087153600661266669",
+        "created_at": "2026-08-11T12:26:10.000Z",
+        "display_text_range": [
+          0,
+          111
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-11T13:26:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2087153600661266669"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/kgnsoey5wdo2tw…",
+              "end": 135,
+              "expanded_url": "https://twitter.com/kgnsoey5wdo2twt/status/2086639660646924574",
+              "start": 112,
+              "url": "https://t.co/egKnzMTGVl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087153600661266669",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2086639660646924574",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "在日本流行的新型读品114-inmu-514，起效时间1919秒，代谢需要810小时，作用为吸食后出现自己被雷普的幻觉，伴随闭眼大叫症状，多人吸食后表示闭上眼能看见一个慈祥的亚洲男性的脸，同时会闻到一股强烈的粪臭味（迫真） https://t.co/egKnzMTGVl"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2086639632025051136"
+          ]
+        },
+        "author_id": "2055693022302736384",
+        "conversation_id": "2086639660646924574",
+        "created_at": "2026-08-10T02:23:57.000Z",
+        "display_text_range": [
+          0,
+          49
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-10T03:23:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2086639660646924574"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 49,
+              "start": 42,
+              "tag": "藥物乱用防止"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/rsgUeuwq0C",
+              "end": 73,
+              "expanded_url": "https://x.com/kgnsoey5wdo2twt/status/2086639660646924574/video/1",
+              "media_key": "13_2086639632025051136",
+              "start": 50,
+              "url": "https://t.co/rsgUeuwq0C"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086639660646924574",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "13_2086639632025051136"
+          }
+        ],
+        "note_request_suggestions": [
+          {
+            "source_link": "https://x.com/i/status/2086733046674522301",
+            "suggestion": "this is a satire post",
+            "suggestion_id": "2086839128889741338"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 8193,
+          "impression_count": 8506487,
+          "like_count": 49814,
+          "quote_count": 930,
+          "reply_count": 469,
+          "retweet_count": 3621
+        },
+        "reply_settings": "everyone",
+        "suggested_source_links_with_counts": [
+          {
+            "count": "2",
+            "url": "https://x.com/i/status/2086733046674522301"
+          }
+        ],
+        "text": "藥物中毒に苦しむ子どもたち🥲\n強烈な幻覚が見えるせいで、思わず叫んでしまうらしい。\n#藥物乱用防止 https://t.co/rsgUeuwq0C"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-05-17T01:27:33.000Z",
+        "description": "同类互fo，成分请查看@aeglepotato/点赞狂魔/平时喜欢说怪话和发癫/一般通过肉块爱好者，大量匂坂郁纪发言注意👁️/备用@aeglepotato /🦋@aeglepotato /匿名提问箱https://t.co/C8vIKrLtCN",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 11,
+                "username": "aeglepotato"
+              },
+              {
+                "end": 77,
+                "start": 65,
+                "username": "aeglepotato"
+              },
+              {
+                "end": 92,
+                "start": 80,
+                "username": "aeglepotato"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/aeglepotato",
+                "end": 122,
+                "expanded_url": "https://ngl.link/aeglepotato",
+                "start": 99,
+                "url": "https://t.co/C8vIKrLtCN"
+              }
+            ]
+          }
+        },
+        "id": "2055822314969665536",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2087153600661266669",
+        "name": "⛄ALLice🌈赛博幽灵",
+        "pinned_tweet_id": "2064878659698102753",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2055822314969665536/1784767652",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067517312576421888/aGH7Myxd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 345,
+          "following_count": 417,
+          "like_count": 18349,
+          "listed_count": 0,
+          "media_count": 72,
+          "tweet_count": 1285
+        },
+        "url": "",
+        "username": "GrievousPotato1",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-05-16T16:53:36.000Z",
+        "description": "？消えませんよ笑\n\n@lolshowspeedsui 制限用",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 10,
+                "username": "lolshowspeedsui"
+              }
+            ]
+          }
+        },
+        "id": "2055693022302736384",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2087130691096158686",
+        "name": "冷showspeed",
+        "pinned_tweet_id": "2055825283337584688",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2055693022302736384/1778981499",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055823527555788800/_1sPM3us_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 870,
+          "following_count": 726,
+          "like_count": 17008,
+          "listed_count": 0,
+          "media_count": 1225,
+          "tweet_count": 4527
+        },
+        "url": "",
+        "username": "kgnsoey5wdo2twt",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

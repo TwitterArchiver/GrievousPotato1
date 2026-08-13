@@ -1,0 +1,322 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2081789860243738625"
+      ],
+      "media_source_tweet_id": [
+        "2081789867000816007"
+      ]
+    },
+    "author_id": "2055822314969665536",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2082113406257991683",
+    "created_at": "2026-07-28T14:38:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-28T15:38:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082113406257991683"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1714810307443314688",
+          "start": 3,
+          "username": "DigitalD1sgust"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/uWEhV3uckP",
+          "end": 43,
+          "expanded_url": "https://x.com/DigitalD1sgust/status/2081789867000816007/photo/1",
+          "media_key": "3_2081789860243738625",
+          "start": 20,
+          "url": "https://t.co/uWEhV3uckP"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082113406257991683",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 196
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081789867000816007",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @DigitalD1sgust: https://t.co/uWEhV3uckP"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 330,
+        "media_key": "3_2081789860243738625",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOQA2RzWkAEZP12.jpg",
+        "width": 470
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2081789860243738625"
+          ]
+        },
+        "author_id": "1714810307443314688",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2081789867000816007",
+        "created_at": "2026-07-27T17:12:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-27T18:12:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081789867000816007"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/uWEhV3uckP",
+              "end": 23,
+              "expanded_url": "https://x.com/DigitalD1sgust/status/2081789867000816007/photo/1",
+              "media_key": "3_2081789860243738625",
+              "start": 0,
+              "url": "https://t.co/uWEhV3uckP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081789867000816007",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 54,
+          "impression_count": 11246,
+          "like_count": 1043,
+          "quote_count": 7,
+          "reply_count": 1,
+          "retweet_count": 196
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/uWEhV3uckP"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2081789860243738625"
+          ],
+          "media_source_tweet_id": [
+            "2081789867000816007"
+          ]
+        },
+        "author_id": "2055822314969665536",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2082113406257991683",
+        "created_at": "2026-07-28T14:38:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-28T15:38:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082113406257991683"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1714810307443314688",
+              "start": 3,
+              "username": "DigitalD1sgust"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/uWEhV3uckP",
+              "end": 43,
+              "expanded_url": "https://x.com/DigitalD1sgust/status/2081789867000816007/photo/1",
+              "media_key": "3_2081789860243738625",
+              "start": 20,
+              "url": "https://t.co/uWEhV3uckP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082113406257991683",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 196
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081789867000816007",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @DigitalD1sgust: https://t.co/uWEhV3uckP"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-17T01:27:33.000Z",
+        "description": "同类互fo，成分请查看@aeglepotato/点赞狂魔/平时喜欢说怪话和发癫/备用@aeglepotato /🦋@aeglepotato /匿名提问箱https://t.co/C8vIKrLtCN",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 11,
+                "username": "aeglepotato"
+              },
+              {
+                "end": 54,
+                "start": 42,
+                "username": "aeglepotato"
+              },
+              {
+                "end": 69,
+                "start": 57,
+                "username": "aeglepotato"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/aeglepotato",
+                "end": 99,
+                "expanded_url": "https://ngl.link/aeglepotato",
+                "start": 76,
+                "url": "https://t.co/C8vIKrLtCN"
+              }
+            ]
+          }
+        },
+        "id": "2055822314969665536",
+        "name": "⛄ALLice🌈赛博幽灵",
+        "pinned_tweet_id": "2064878659698102753",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067517312576421888/aGH7Myxd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 314,
+          "following_count": 387,
+          "like_count": 15652,
+          "listed_count": 0,
+          "media_count": 49,
+          "tweet_count": 1039
+        },
+        "url": "",
+        "username": "GrievousPotato1",
+        "verified": false
+      },
+      {
+        "created_at": "2023-10-19T01:07:04.000Z",
+        "description": "23-MDNI𖤐Artist!!! I collect dolls/toys. Artist,23!!\n🌿🕷️🐌🫀🪱🦷🦭\nArt, Fashion, Makeup🧸",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/uurgothgf",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/uurgothgf",
+                "start": 0,
+                "url": "https://t.co/WvGkYaSatz"
+              }
+            ]
+          }
+        },
+        "id": "1714810307443314688",
+        "location": "Hell",
+        "name": "✧˖°. ☠︎ ☠︎ .° ˖ ✧",
+        "pinned_tweet_id": "2013782975666659347",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077954305944936448/h2sKisJO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9648,
+          "following_count": 585,
+          "like_count": 35344,
+          "listed_count": 25,
+          "media_count": 6312,
+          "tweet_count": 26899
+        },
+        "url": "https://t.co/WvGkYaSatz",
+        "username": "DigitalD1sgust",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,378 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2055822314969665536",
+    "conversation_id": "2079573691260702849",
+    "created_at": "2026-07-21T14:26:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-21T15:26:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079573691260702849"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1961080629468028928",
+          "start": 3,
+          "username": "qikieye"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "jile.bid",
+          "end": 46,
+          "expanded_url": "https://jile.bid/",
+          "start": 23,
+          "status": 200,
+          "title": "极光实验室",
+          "unwound_url": "https://jile.bid/",
+          "url": "https://t.co/FEQnSUwz3S"
+        },
+        {
+          "description": "Practices: Breathing techniques ⋅ Fasting ⋅ Meditation ⋅ Sensory deprivation ⋅ Sleep deprivation ⋅ Tulpa Tools: Meditation frequency ⋅ Psychedelic art ⋅ Shulgin Rating Scale ⋅ Vibes (Good vibes ⋅ Trippy vibes ⋅ Bad vibes)",
+          "display_url": "m.psychonautwiki.org",
+          "end": 70,
+          "expanded_url": "https://m.psychonautwiki.org/",
+          "start": 47,
+          "status": 200,
+          "title": "PsychonautWiki",
+          "unwound_url": "https://m.psychonautwiki.org/wiki/Main_Page",
+          "url": "https://t.co/rkvkd9HaoW"
+        },
+        {
+          "description": "引言",
+          "display_url": "od-wiki.com",
+          "end": 94,
+          "expanded_url": "https://www.od-wiki.com/",
+          "start": 71,
+          "status": 200,
+          "title": "欢迎来到 od-wiki.com",
+          "unwound_url": "https://www.od-wiki.com/",
+          "url": "https://t.co/i5RH5sdgNW"
+        },
+        {
+          "description": "在这里所有od知识都是自由开源编辑的，你可以来解决你的疑惑，顺便帮我们完善我们的od百科喵！",
+          "display_url": "freeodwiki.org",
+          "end": 118,
+          "expanded_url": "https://freeodwiki.org/",
+          "start": 95,
+          "status": 200,
+          "title": "FreeODWiki主页 - FreeODwiki——可自由编辑的开源Overdose百科",
+          "unwound_url": "https://freeodwiki.org/",
+          "url": "https://t.co/BchIC9WsGw"
+        },
+        {
+          "display_url": "t.co/1ivdoOo",
+          "end": 139,
+          "start": 119,
+          "url": "https://t.co/1ivdoOo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079573691260702849",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 5
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079473247876440551",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @qikieye: 在你od前建议查阅\nhttps://t.co/FEQnSUwz3S\nhttps://t.co/rkvkd9HaoW\nhttps://t.co/i5RH5sdgNW\nhttps://t.co/BchIC9WsGw\nhttps://t.co/1ivdoOo…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2055822314969665536",
+        "conversation_id": "2079573691260702849",
+        "created_at": "2026-07-21T14:26:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-21T15:26:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079573691260702849"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1961080629468028928",
+              "start": 3,
+              "username": "qikieye"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "jile.bid",
+              "end": 46,
+              "expanded_url": "https://jile.bid/",
+              "start": 23,
+              "status": 200,
+              "title": "极光实验室",
+              "unwound_url": "https://jile.bid/",
+              "url": "https://t.co/FEQnSUwz3S"
+            },
+            {
+              "description": "Practices: Breathing techniques ⋅ Fasting ⋅ Meditation ⋅ Sensory deprivation ⋅ Sleep deprivation ⋅ Tulpa Tools: Meditation frequency ⋅ Psychedelic art ⋅ Shulgin Rating Scale ⋅ Vibes (Good vibes ⋅ Trippy vibes ⋅ Bad vibes)",
+              "display_url": "m.psychonautwiki.org",
+              "end": 70,
+              "expanded_url": "https://m.psychonautwiki.org/",
+              "start": 47,
+              "status": 200,
+              "title": "PsychonautWiki",
+              "unwound_url": "https://m.psychonautwiki.org/wiki/Main_Page",
+              "url": "https://t.co/rkvkd9HaoW"
+            },
+            {
+              "description": "引言",
+              "display_url": "od-wiki.com",
+              "end": 94,
+              "expanded_url": "https://www.od-wiki.com/",
+              "start": 71,
+              "status": 200,
+              "title": "欢迎来到 od-wiki.com",
+              "unwound_url": "https://www.od-wiki.com/",
+              "url": "https://t.co/i5RH5sdgNW"
+            },
+            {
+              "description": "在这里所有od知识都是自由开源编辑的，你可以来解决你的疑惑，顺便帮我们完善我们的od百科喵！",
+              "display_url": "freeodwiki.org",
+              "end": 118,
+              "expanded_url": "https://freeodwiki.org/",
+              "start": 95,
+              "status": 200,
+              "title": "FreeODWiki主页 - FreeODwiki——可自由编辑的开源Overdose百科",
+              "unwound_url": "https://freeodwiki.org/",
+              "url": "https://t.co/BchIC9WsGw"
+            },
+            {
+              "display_url": "t.co/1ivdoOo",
+              "end": 139,
+              "start": 119,
+              "url": "https://t.co/1ivdoOo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079573691260702849",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079473247876440551",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @qikieye: 在你od前建议查阅\nhttps://t.co/FEQnSUwz3S\nhttps://t.co/rkvkd9HaoW\nhttps://t.co/i5RH5sdgNW\nhttps://t.co/BchIC9WsGw\nhttps://t.co/1ivdoOo…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1961080629468028928",
+        "conversation_id": "2079473247876440551",
+        "created_at": "2026-07-21T07:47:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-21T08:47:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079473247876440551"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "jile.bid",
+              "end": 33,
+              "expanded_url": "https://jile.bid/",
+              "start": 10,
+              "status": 200,
+              "title": "极光实验室",
+              "unwound_url": "https://jile.bid/",
+              "url": "https://t.co/FEQnSUwz3S"
+            },
+            {
+              "description": "Practices: Breathing techniques ⋅ Fasting ⋅ Meditation ⋅ Sensory deprivation ⋅ Sleep deprivation ⋅ Tulpa Tools: Meditation frequency ⋅ Psychedelic art ⋅ Shulgin Rating Scale ⋅ Vibes (Good vibes ⋅ Trippy vibes ⋅ Bad vibes)",
+              "display_url": "m.psychonautwiki.org",
+              "end": 57,
+              "expanded_url": "https://m.psychonautwiki.org/",
+              "start": 34,
+              "status": 200,
+              "title": "PsychonautWiki",
+              "unwound_url": "https://m.psychonautwiki.org/wiki/Main_Page",
+              "url": "https://t.co/rkvkd9HaoW"
+            },
+            {
+              "description": "引言",
+              "display_url": "od-wiki.com",
+              "end": 81,
+              "expanded_url": "https://www.od-wiki.com/",
+              "start": 58,
+              "status": 200,
+              "title": "欢迎来到 od-wiki.com",
+              "unwound_url": "https://www.od-wiki.com/",
+              "url": "https://t.co/i5RH5sdgNW"
+            },
+            {
+              "description": "在这里所有od知识都是自由开源编辑的，你可以来解决你的疑惑，顺便帮我们完善我们的od百科喵！",
+              "display_url": "freeodwiki.org",
+              "end": 105,
+              "expanded_url": "https://freeodwiki.org/",
+              "start": 82,
+              "status": 200,
+              "title": "FreeODWiki主页 - FreeODwiki——可自由编辑的开源Overdose百科",
+              "unwound_url": "https://freeodwiki.org/",
+              "url": "https://t.co/BchIC9WsGw"
+            },
+            {
+              "display_url": "zh.wikipedia.org",
+              "end": 129,
+              "expanded_url": "https://zh.wikipedia.org/",
+              "start": 106,
+              "status": 200,
+              "title": "维基百科，自由的百科全书",
+              "unwound_url": "https://zh.wikipedia.org/wiki/Wikipedia:%E9%A6%96%E9%A1%B5",
+              "url": "https://t.co/1ivdoOoY7z"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079473247876440551",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 60,
+          "impression_count": 5300,
+          "like_count": 72,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "在你od前建议查阅\nhttps://t.co/FEQnSUwz3S\nhttps://t.co/rkvkd9HaoW\nhttps://t.co/i5RH5sdgNW\nhttps://t.co/BchIC9WsGw\nhttps://t.co/1ivdoOoY7z\n\n极乐至上，安全第一，前人留下的经验都是为了后人能有更好的体验，切勿辜负！\n\nNO叠量，NO乱搭，NO注射！！！\n\n（触犯提及网站安全请留言删帖）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-17T01:27:33.000Z",
+        "description": "同类互fo，成分请查看@aeglepotato/点赞狂魔/平时喜欢说怪话和发癫/备用@aeglepotato /🦋@aeglepotato /匿名提问箱https://t.co/C8vIKrLtCN",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 11,
+                "username": "aeglepotato"
+              },
+              {
+                "end": 54,
+                "start": 42,
+                "username": "aeglepotato"
+              },
+              {
+                "end": 69,
+                "start": 57,
+                "username": "aeglepotato"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/aeglepotato",
+                "end": 99,
+                "expanded_url": "https://ngl.link/aeglepotato",
+                "start": 76,
+                "url": "https://t.co/C8vIKrLtCN"
+              }
+            ]
+          }
+        },
+        "id": "2055822314969665536",
+        "name": "⛄ALLice🌈赛博幽灵",
+        "pinned_tweet_id": "2064878659698102753",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067517312576421888/aGH7Myxd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 278,
+          "following_count": 357,
+          "like_count": 13291,
+          "listed_count": 0,
+          "media_count": 37,
+          "tweet_count": 887
+        },
+        "url": "",
+        "username": "GrievousPotato1",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-28T14:57:28.000Z",
+        "description": "Elysium, a life of ultimate bliss",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "jile.bid",
+                "end": 23,
+                "expanded_url": "http://jile.bid",
+                "start": 0,
+                "url": "https://t.co/bxJD99X3Ph"
+              }
+            ]
+          }
+        },
+        "id": "1961080629468028928",
+        "name": "qiki💊（rebirth）",
+        "pinned_tweet_id": "2077798417422811424",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013687970067267584/mPU39IrW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 189,
+          "following_count": 281,
+          "like_count": 254,
+          "listed_count": 1,
+          "media_count": 61,
+          "tweet_count": 332
+        },
+        "url": "https://t.co/bxJD99X3Ph",
+        "username": "qikieye",
+        "verified": false
+      }
+    ]
+  }
+}

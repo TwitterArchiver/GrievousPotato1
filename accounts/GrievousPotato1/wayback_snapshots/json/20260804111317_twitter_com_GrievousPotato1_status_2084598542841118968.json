@@ -1,0 +1,349 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2084598535614283776"
+      ]
+    },
+    "author_id": "2055822314969665536",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "description": "125th Emperor of Japan (reign 1989-2019)",
+          "id": "1109143548853551105",
+          "name": "Akihito (明仁)"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1324117227465891840",
+          "name": "Japanese imperial family"
+        }
+      }
+    ],
+    "conversation_id": "2084578339411411174",
+    "created_at": "2026-08-04T11:13:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-04T12:13:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084598542841118968"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2082124926375649280",
+          "start": 0,
+          "username": "Yuki281331"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Mq1dU0Qywu",
+          "end": 42,
+          "expanded_url": "https://x.com/GrievousPotato1/status/2084598542841118968/photo/1",
+          "media_key": "3_2084598535614283776",
+          "start": 19,
+          "url": "https://t.co/Mq1dU0Qywu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084598542841118968",
+    "in_reply_to_user_id": "2082124926375649280",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084578339411411174",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Yuki281331 天皇陛下万歳 https://t.co/Mq1dU0Qywu"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 452,
+        "media_key": "3_2084598535614283776",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HO37Us6WwAAyd1r.jpg",
+        "width": 442
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2084598535614283776"
+          ]
+        },
+        "author_id": "2055822314969665536",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "125th Emperor of Japan (reign 1989-2019)",
+              "id": "1109143548853551105",
+              "name": "Akihito (明仁)"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1324117227465891840",
+              "name": "Japanese imperial family"
+            }
+          }
+        ],
+        "conversation_id": "2084578339411411174",
+        "created_at": "2026-08-04T11:13:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-04T12:13:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084598542841118968"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2082124926375649280",
+              "start": 0,
+              "username": "Yuki281331"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Mq1dU0Qywu",
+              "end": 42,
+              "expanded_url": "https://x.com/GrievousPotato1/status/2084598542841118968/photo/1",
+              "media_key": "3_2084598535614283776",
+              "start": 19,
+              "url": "https://t.co/Mq1dU0Qywu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084598542841118968",
+        "in_reply_to_user_id": "2082124926375649280",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084578339411411174",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yuki281331 天皇陛下万歳 https://t.co/Mq1dU0Qywu"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2082124926375649280",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "id": "1321912164496470016",
+              "name": "Saving money"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1321912164496470016",
+              "name": "Saving money"
+            }
+          }
+        ],
+        "conversation_id": "2084578339411411174",
+        "created_at": "2026-08-04T09:53:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-04T10:53:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2084578339411411174"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/SRamirez66171/…",
+              "end": 49,
+              "expanded_url": "https://twitter.com/SRamirez66171/status/2084573488275177768",
+              "start": 26,
+              "url": "https://t.co/6YeEMdMLyk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084578339411411174",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 117,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084573488275177768",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "天皇はさっき最高命令を下しました：日本語を使うこと https://t.co/6YeEMdMLyk"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-17T01:27:33.000Z",
+        "description": "同类互fo，成分请查看@aeglepotato/点赞狂魔/平时喜欢说怪话和发癫/备用@aeglepotato /🦋@aeglepotato /匿名提问箱https://t.co/C8vIKrLtCN",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 11,
+                "username": "aeglepotato"
+              },
+              {
+                "end": 54,
+                "start": 42,
+                "username": "aeglepotato"
+              },
+              {
+                "end": 69,
+                "start": 57,
+                "username": "aeglepotato"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/aeglepotato",
+                "end": 99,
+                "expanded_url": "https://ngl.link/aeglepotato",
+                "start": 76,
+                "url": "https://t.co/C8vIKrLtCN"
+              }
+            ]
+          }
+        },
+        "id": "2055822314969665536",
+        "name": "⛄ALLice🌈赛博幽灵",
+        "pinned_tweet_id": "2064878659698102753",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067517312576421888/aGH7Myxd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 335,
+          "following_count": 402,
+          "like_count": 17317,
+          "listed_count": 0,
+          "media_count": 65,
+          "tweet_count": 1190
+        },
+        "url": "",
+        "username": "GrievousPotato1",
+        "verified": false
+      },
+      {
+        "created_at": "2026-07-28T15:25:30.000Z",
+        "description": "早已逝去之人，早已宽恕之罪。\n会慢慢回fo，怕频繁被ban\n@Yuki312813 前世",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 41,
+                "start": 30,
+                "username": "Yuki312813"
+              }
+            ]
+          }
+        },
+        "id": "2082124926375649280",
+        "location": "衫之宫区 北校 C栋楼顶",
+        "name": "岐哥，梦想哭了。2.0。",
+        "pinned_tweet_id": "2083472052636594342",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2083530016269516802/YkVotD8i_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 242,
+          "following_count": 223,
+          "like_count": 622,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 226
+        },
+        "url": "",
+        "username": "Yuki281331",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,319 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2082620545468710912"
+      ],
+      "media_source_tweet_id": [
+        "2082620552355713026"
+      ]
+    },
+    "author_id": "2055822314969665536",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2082713707734298939",
+    "created_at": "2026-07-30T06:23:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-30T07:23:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082713707734298939"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1353884578109415431",
+          "start": 3,
+          "username": "findumondeinte"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/yYqaqQKkQZ",
+          "end": 43,
+          "expanded_url": "https://x.com/shlagistn/status/2082620552355713026/photo/1",
+          "media_key": "3_2082620545468710912",
+          "start": 20,
+          "url": "https://t.co/yYqaqQKkQZ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082713707734298939",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 630
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082620552355713026",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @findumondeinte: https://t.co/yYqaqQKkQZ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 968,
+        "media_key": "3_2082620545468710912",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOb0WhaXwAAa1MQ.jpg",
+        "width": 968
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2082620545468710912"
+          ]
+        },
+        "author_id": "1353884578109415431",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2082620552355713026",
+        "created_at": "2026-07-30T00:13:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-30T01:13:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082620552355713026"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/yYqaqQKkQZ",
+              "end": 23,
+              "expanded_url": "https://x.com/shlagistn/status/2082620552355713026/photo/1",
+              "media_key": "3_2082620545468710912",
+              "start": 0,
+              "url": "https://t.co/yYqaqQKkQZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082620552355713026",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 271,
+          "impression_count": 16638,
+          "like_count": 3312,
+          "quote_count": 2,
+          "reply_count": 1,
+          "retweet_count": 630
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/yYqaqQKkQZ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2082620545468710912"
+          ],
+          "media_source_tweet_id": [
+            "2082620552355713026"
+          ]
+        },
+        "author_id": "2055822314969665536",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2082713707734298939",
+        "created_at": "2026-07-30T06:23:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-30T07:23:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082713707734298939"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1353884578109415431",
+              "start": 3,
+              "username": "findumondeinte"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/yYqaqQKkQZ",
+              "end": 43,
+              "expanded_url": "https://x.com/shlagistn/status/2082620552355713026/photo/1",
+              "media_key": "3_2082620545468710912",
+              "start": 20,
+              "url": "https://t.co/yYqaqQKkQZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082713707734298939",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 630
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082620552355713026",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @findumondeinte: https://t.co/yYqaqQKkQZ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-17T01:27:33.000Z",
+        "description": "同类互fo，成分请查看@aeglepotato/点赞狂魔/平时喜欢说怪话和发癫/备用@aeglepotato /🦋@aeglepotato /匿名提问箱https://t.co/C8vIKrLtCN",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 11,
+                "username": "aeglepotato"
+              },
+              {
+                "end": 54,
+                "start": 42,
+                "username": "aeglepotato"
+              },
+              {
+                "end": 69,
+                "start": 57,
+                "username": "aeglepotato"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/aeglepotato",
+                "end": 99,
+                "expanded_url": "https://ngl.link/aeglepotato",
+                "start": 76,
+                "url": "https://t.co/C8vIKrLtCN"
+              }
+            ]
+          }
+        },
+        "id": "2055822314969665536",
+        "name": "⛄ALLice🌈赛博幽灵",
+        "pinned_tweet_id": "2064878659698102753",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067517312576421888/aGH7Myxd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 318,
+          "following_count": 389,
+          "like_count": 16010,
+          "listed_count": 0,
+          "media_count": 54,
+          "tweet_count": 1071
+        },
+        "url": "",
+        "username": "GrievousPotato1",
+        "verified": false
+      },
+      {
+        "created_at": "2021-01-26T01:57:05.000Z",
+        "description": "宮廷道化師 🚫🚫🚫 #sh",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 13,
+                "start": 10,
+                "tag": "sh"
+              }
+            ]
+          }
+        },
+        "id": "1353884578109415431",
+        "location": "رئة البوتان -",
+        "name": "🗡️🗡️🗡️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082671192222085120/XxSNeone_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 29,
+          "following_count": 42,
+          "like_count": 31,
+          "listed_count": 1,
+          "media_count": 1,
+          "tweet_count": 1
+        },
+        "url": "",
+        "username": "findumondeinte",
+        "verified": false
+      }
+    ]
+  }
+}

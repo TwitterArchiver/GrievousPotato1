@@ -1,0 +1,223 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2055822314969665536",
+    "conversation_id": "2085540694483956176",
+    "created_at": "2026-08-07T01:37:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-07T02:37:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2085540694483956176"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1860970079246303232",
+          "start": 3,
+          "username": "1ju3twant2die"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2085540694483956176",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2085427323898392859",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @1ju3twant2die: 我真的很害怕健全家庭的人，整天拿着家境装逼高人一等，总之就是你先天性得到的东西拿来炫耀就更是说明你贱完了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2055822314969665536",
+        "conversation_id": "2085540694483956176",
+        "created_at": "2026-08-07T01:37:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-07T02:37:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085540694483956176"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1860970079246303232",
+              "start": 3,
+              "username": "1ju3twant2die"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085540694483956176",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085427323898392859",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @1ju3twant2die: 我真的很害怕健全家庭的人，整天拿着家境装逼高人一等，总之就是你先天性得到的东西拿来炫耀就更是说明你贱完了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1860970079246303232",
+        "conversation_id": "2085427323898392859",
+        "created_at": "2026-08-06T18:06:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-06T19:06:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2085427323898392859"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/kawa090109/sta…",
+              "end": 76,
+              "expanded_url": "https://twitter.com/kawa090109/status/2084972715900064112",
+              "start": 53,
+              "url": "https://t.co/naULhjrw7f"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085427323898392859",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 115,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084972715900064112",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我真的很害怕健全家庭的人，整天拿着家境装逼高人一等，总之就是你先天性得到的东西拿来炫耀就更是说明你贱完了 https://t.co/naULhjrw7f"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-17T01:27:33.000Z",
+        "description": "同类互fo，成分请查看@aeglepotato/点赞狂魔/平时喜欢说怪话和发癫/一般通过肉块爱好者，大量匂坂郁纪发言注意👁️/备用@aeglepotato /🦋@aeglepotato /匿名提问箱https://t.co/C8vIKrLtCN",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 11,
+                "username": "aeglepotato"
+              },
+              {
+                "end": 77,
+                "start": 65,
+                "username": "aeglepotato"
+              },
+              {
+                "end": 92,
+                "start": 80,
+                "username": "aeglepotato"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/aeglepotato",
+                "end": 122,
+                "expanded_url": "https://ngl.link/aeglepotato",
+                "start": 99,
+                "url": "https://t.co/C8vIKrLtCN"
+              }
+            ]
+          }
+        },
+        "id": "2055822314969665536",
+        "name": "⛄ALLice🌈赛博幽灵",
+        "pinned_tweet_id": "2064878659698102753",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067517312576421888/aGH7Myxd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 343,
+          "following_count": 415,
+          "like_count": 17822,
+          "listed_count": 0,
+          "media_count": 67,
+          "tweet_count": 1238
+        },
+        "url": "",
+        "username": "GrievousPotato1",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-25T08:53:51.000Z",
+        "description": "Post-structuralism｜Anarcho-monarchism｜Psychoanalysis｜Drug｜ Low-Functioning Antisocial Personality Disorder｜Satanism",
+        "id": "1860970079246303232",
+        "name": "RichardRamirezi ⛧",
+        "pinned_tweet_id": "2079788052814450690",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078122112653672449/JrmTUfzG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 242,
+          "following_count": 141,
+          "like_count": 672,
+          "listed_count": 0,
+          "media_count": 64,
+          "tweet_count": 614
+        },
+        "url": "",
+        "username": "1ju3twant2die",
+        "verified": false
+      }
+    ]
+  }
+}

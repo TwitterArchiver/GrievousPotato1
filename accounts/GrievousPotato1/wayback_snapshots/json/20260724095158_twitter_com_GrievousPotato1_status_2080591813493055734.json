@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2055822314969665536",
+    "conversation_id": "2080483105308340441",
+    "created_at": "2026-07-24T09:51:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-24T10:51:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2080591813493055734"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2045096595289759744",
+          "start": 0,
+          "username": "Leleucffq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080591813493055734",
+    "in_reply_to_user_id": "2045096595289759744",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080483105308340441",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Leleucffq 有可能是输入法，建议不要使用国产的输入法"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2055822314969665536",
+        "conversation_id": "2080483105308340441",
+        "created_at": "2026-07-24T09:51:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-24T10:51:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080591813493055734"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2045096595289759744",
+              "start": 0,
+              "username": "Leleucffq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080591813493055734",
+        "in_reply_to_user_id": "2045096595289759744",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080483105308340441",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Leleucffq 有可能是输入法，建议不要使用国产的输入法"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2045096595289759744",
+        "conversation_id": "2080483105308340441",
+        "created_at": "2026-07-24T02:40:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-24T03:40:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080483105308340441"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2080483105308340441",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 266,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我今天被条子打电话叫去签保证书了，说我之前在网上搜过大麻和其它毒品相关的词条什么的，然后又问我吃没吃过愈美片。其他的我都认了，但是我还没傻到在国内平台搜这些，而且那些他说的词条我有印象基本都是在推上搜的，现在问题来了：他们是怎么获得我在推上的搜索记录的？🤔"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-17T01:27:33.000Z",
+        "description": "同类互fo，成分请查看@aeglepotato/点赞狂魔/平时喜欢说怪话和发癫/备用@aeglepotato /🦋@aeglepotato /匿名提问箱https://t.co/C8vIKrLtCN",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 11,
+                "username": "aeglepotato"
+              },
+              {
+                "end": 54,
+                "start": 42,
+                "username": "aeglepotato"
+              },
+              {
+                "end": 69,
+                "start": 57,
+                "username": "aeglepotato"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/aeglepotato",
+                "end": 99,
+                "expanded_url": "https://ngl.link/aeglepotato",
+                "start": 76,
+                "url": "https://t.co/C8vIKrLtCN"
+              }
+            ]
+          }
+        },
+        "id": "2055822314969665536",
+        "name": "⛄ALLice🌈赛博幽灵",
+        "pinned_tweet_id": "2064878659698102753",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067517312576421888/aGH7Myxd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 294,
+          "following_count": 373,
+          "like_count": 14413,
+          "listed_count": 0,
+          "media_count": 41,
+          "tweet_count": 952
+        },
+        "url": "",
+        "username": "GrievousPotato1",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-17T11:08:04.000Z",
+        "description": "脑残离我远点。照片仅供参考，不聊骚不卖逼，只经营自己的唐氏生活。🚪：52（纯绿\nfo你就是喜欢你。#wlw",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 53,
+                "start": 49,
+                "tag": "wlw"
+              }
+            ]
+          }
+        },
+        "id": "2045096595289759744",
+        "location": "距你0.1km",
+        "name": "Lele",
+        "pinned_tweet_id": "2077005740708164090",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045097427519275008/-rUR_YzH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 256,
+          "following_count": 23,
+          "like_count": 614,
+          "listed_count": 0,
+          "media_count": 34,
+          "tweet_count": 230
+        },
+        "url": "",
+        "username": "Leleucffq",
+        "verified": false
+      }
+    ]
+  }
+}

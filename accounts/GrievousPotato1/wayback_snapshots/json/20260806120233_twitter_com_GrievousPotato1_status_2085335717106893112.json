@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2055822314969665536",
+    "conversation_id": "2085335717106893112",
+    "created_at": "2026-08-06T12:02:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-06T13:02:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2085335717106893112"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2081009888818278400",
+          "start": 3,
+          "username": "JiGuang_Lab"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2085335717106893112",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2085260144271880606",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @JiGuang_Lab: 医生每天给我开200mg喹硫平，告诉我生活很美好，即使我吃成了肥猪，没有人喜欢我，也告诉我要努力活下去"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2055822314969665536",
+        "conversation_id": "2085335717106893112",
+        "created_at": "2026-08-06T12:02:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-06T13:02:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085335717106893112"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2081009888818278400",
+              "start": 3,
+              "username": "JiGuang_Lab"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085335717106893112",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085260144271880606",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @JiGuang_Lab: 医生每天给我开200mg喹硫平，告诉我生活很美好，即使我吃成了肥猪，没有人喜欢我，也告诉我要努力活下去"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2081009888818278400",
+        "conversation_id": "2085260144271880606",
+        "created_at": "2026-08-06T07:02:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-06T08:02:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2085260144271880606"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2085260144271880606",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 369,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "医生每天给我开200mg喹硫平，告诉我生活很美好，即使我吃成了肥猪，没有人喜欢我，也告诉我要努力活下去"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-17T01:27:33.000Z",
+        "description": "同类互fo，成分请查看@aeglepotato/点赞狂魔/平时喜欢说怪话和发癫/一般通过肉块爱好者，大量匂坂郁纪发言注意👁️/备用@aeglepotato /🦋@aeglepotato /匿名提问箱https://t.co/C8vIKrLtCN",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 11,
+                "username": "aeglepotato"
+              },
+              {
+                "end": 77,
+                "start": 65,
+                "username": "aeglepotato"
+              },
+              {
+                "end": 92,
+                "start": 80,
+                "username": "aeglepotato"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/aeglepotato",
+                "end": 122,
+                "expanded_url": "https://ngl.link/aeglepotato",
+                "start": 99,
+                "url": "https://t.co/C8vIKrLtCN"
+              }
+            ]
+          }
+        },
+        "id": "2055822314969665536",
+        "name": "⛄ALLice🌈赛博幽灵",
+        "pinned_tweet_id": "2064878659698102753",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067517312576421888/aGH7Myxd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 340,
+          "following_count": 411,
+          "like_count": 17736,
+          "listed_count": 0,
+          "media_count": 67,
+          "tweet_count": 1228
+        },
+        "url": "",
+        "username": "GrievousPotato1",
+        "verified": false
+      },
+      {
+        "created_at": "2026-07-25T13:33:25.000Z",
+        "description": "极光实验室 致力于成为一个免费开放且持续更新的精神活性物质和0D知识整合站点，为方便理解，取舍了大量内容 本账号为官方工作人员账号，望熟知",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "jile.bid",
+                "end": 23,
+                "expanded_url": "https://jile.bid/",
+                "start": 0,
+                "url": "https://t.co/TdRUp52F7j"
+              }
+            ]
+          }
+        },
+        "id": "2081009888818278400",
+        "location": "化学极乐 人类崛起",
+        "name": "极光实验室",
+        "pinned_tweet_id": "2083873136043585589",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2083870888664219648/kFxXDJre_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 129,
+          "following_count": 105,
+          "like_count": 28,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 32
+        },
+        "url": "https://t.co/TdRUp52F7j",
+        "username": "JiGuang_Lab",
+        "verified": false
+      }
+    ]
+  }
+}

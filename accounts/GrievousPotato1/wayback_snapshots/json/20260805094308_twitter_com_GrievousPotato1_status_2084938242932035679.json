@@ -1,0 +1,224 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2055822314969665536",
+    "conversation_id": "2084808479621943403",
+    "created_at": "2026-08-05T09:43:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-05T10:43:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084938242932035679"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1799807052233179136",
+          "start": 0,
+          "username": "chi83688"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084938242932035679",
+    "in_reply_to_user_id": "1799807052233179136",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084916348468261369",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@chi83688 🫂抱抱你"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2055822314969665536",
+        "conversation_id": "2084808479621943403",
+        "created_at": "2026-08-05T09:43:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-05T10:43:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084938242932035679"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1799807052233179136",
+              "start": 0,
+              "username": "chi83688"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084938242932035679",
+        "in_reply_to_user_id": "1799807052233179136",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084916348468261369",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@chi83688 🫂抱抱你"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1799807052233179136",
+        "conversation_id": "2084808479621943403",
+        "created_at": "2026-08-05T08:16:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-05T09:16:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084916348468261369"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2055822314969665536",
+              "start": 0,
+              "username": "GrievousPotato1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084916348468261369",
+        "in_reply_to_user_id": "2055822314969665536",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084808479621943403",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@GrievousPotato1 这几天心里老是空落落的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-17T01:27:33.000Z",
+        "description": "同类互fo，成分请查看@aeglepotato/点赞狂魔/平时喜欢说怪话和发癫/备用@aeglepotato /🦋@aeglepotato /匿名提问箱https://t.co/C8vIKrLtCN",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 11,
+                "username": "aeglepotato"
+              },
+              {
+                "end": 54,
+                "start": 42,
+                "username": "aeglepotato"
+              },
+              {
+                "end": 69,
+                "start": 57,
+                "username": "aeglepotato"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/aeglepotato",
+                "end": 99,
+                "expanded_url": "https://ngl.link/aeglepotato",
+                "start": 76,
+                "url": "https://t.co/C8vIKrLtCN"
+              }
+            ]
+          }
+        },
+        "id": "2055822314969665536",
+        "name": "⛄ALLice🌈赛博幽灵",
+        "pinned_tweet_id": "2064878659698102753",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067517312576421888/aGH7Myxd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 333,
+          "following_count": 398,
+          "like_count": 17518,
+          "listed_count": 0,
+          "media_count": 66,
+          "tweet_count": 1204
+        },
+        "url": "",
+        "username": "GrievousPotato1",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-09T14:14:02.000Z",
+        "description": "不od不紫餐的超级健全人｜生理女心理不明喜欢女的｜我的病都是自诊的因为现在还在排期看医生｜很多屁话所以上推吐一下",
+        "id": "1799807052233179136",
+        "name": "好耶good-yeah",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979915225911492608/lBm2BrY4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 24,
+          "following_count": 193,
+          "like_count": 3037,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 204
+        },
+        "url": "",
+        "username": "chi83688",
+        "verified": false
+      }
+    ]
+  }
+}

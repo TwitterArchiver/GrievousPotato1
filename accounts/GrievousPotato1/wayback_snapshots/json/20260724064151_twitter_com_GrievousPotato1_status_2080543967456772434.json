@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2055822314969665536",
+    "conversation_id": "2080543967456772434",
+    "created_at": "2026-07-24T06:41:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-24T07:41:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2080543967456772434"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2065198847698337792",
+          "start": 3,
+          "username": "mzmorz8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080543967456772434",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080494109815714017",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @mzmorz8964: 泪水就是药物尤其，吸毒还有，这世界上爹妈就放弃，很多的眼含泪自己，健全走上青少年等着一时的。滥用放弃美好你的不要在天台上扔掉泪水药。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2055822314969665536",
+        "conversation_id": "2080543967456772434",
+        "created_at": "2026-07-24T06:41:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-24T07:41:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080543967456772434"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2065198847698337792",
+              "start": 3,
+              "username": "mzmorz8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080543967456772434",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080494109815714017",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @mzmorz8964: 泪水就是药物尤其，吸毒还有，这世界上爹妈就放弃，很多的眼含泪自己，健全走上青少年等着一时的。滥用放弃美好你的不要在天台上扔掉泪水药。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2065198847698337792",
+        "conversation_id": "2080494109815714017",
+        "created_at": "2026-07-24T03:23:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-24T04:23:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080494109815714017"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/GrievousPotato…",
+              "end": 90,
+              "expanded_url": "https://twitter.com/GrievousPotato1/status/2079889068419084343",
+              "start": 67,
+              "url": "https://t.co/04S9Tl5Rni"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080494109815714017",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 19,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079889068419084343",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "泪水就是药物尤其，吸毒还有，这世界上爹妈就放弃，很多的眼含泪自己，健全走上青少年等着一时的。滥用放弃美好你的不要在天台上扔掉泪水药。 https://t.co/04S9Tl5Rni"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-17T01:27:33.000Z",
+        "description": "同类互fo，成分请查看@aeglepotato/点赞狂魔/平时喜欢说怪话和发癫/备用@aeglepotato /🦋@aeglepotato /匿名提问箱https://t.co/C8vIKrLtCN",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 11,
+                "username": "aeglepotato"
+              },
+              {
+                "end": 54,
+                "start": 42,
+                "username": "aeglepotato"
+              },
+              {
+                "end": 69,
+                "start": 57,
+                "username": "aeglepotato"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/aeglepotato",
+                "end": 99,
+                "expanded_url": "https://ngl.link/aeglepotato",
+                "start": 76,
+                "url": "https://t.co/C8vIKrLtCN"
+              }
+            ]
+          }
+        },
+        "id": "2055822314969665536",
+        "name": "⛄ALLice🌈赛博幽灵",
+        "pinned_tweet_id": "2064878659698102753",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067517312576421888/aGH7Myxd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 295,
+          "following_count": 374,
+          "like_count": 14341,
+          "listed_count": 0,
+          "media_count": 40,
+          "tweet_count": 946
+        },
+        "url": "",
+        "username": "GrievousPotato1",
+        "verified": false
+      },
+      {
+        "created_at": "2026-06-11T22:27:35.000Z",
+        "description": "亿万人必须回归天空\n用于夺舍的信徒@fmf5y",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 17,
+                "username": "fmf5y"
+              }
+            ]
+          }
+        },
+        "id": "2065198847698337792",
+        "location": "終ノ空",
+        "name": "翻过护栏即可通往天堂",
+        "pinned_tweet_id": "2074371652646015157",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072879285581545472/OSEMd5Da_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 62,
+          "following_count": 83,
+          "like_count": 1051,
+          "listed_count": 1,
+          "media_count": 32,
+          "tweet_count": 404
+        },
+        "url": "",
+        "username": "mzmorz8964",
+        "verified": false
+      }
+    ]
+  }
+}

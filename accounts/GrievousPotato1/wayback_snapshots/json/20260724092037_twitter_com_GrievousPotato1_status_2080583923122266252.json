@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2055822314969665536",
+    "conversation_id": "2080583923122266252",
+    "created_at": "2026-07-24T09:20:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-24T10:20:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2080583923122266252"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2041933974407106560",
+          "start": 3,
+          "username": "angryyyymg"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080583923122266252",
+    "lang": "es",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1787
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080233655373291934",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @angryyyymg: cuando me preguntan porque soy asi pero yo vivo con la idea del suicidio desde los 8 años"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2055822314969665536",
+        "conversation_id": "2080583923122266252",
+        "created_at": "2026-07-24T09:20:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-24T10:20:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080583923122266252"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2041933974407106560",
+              "start": 3,
+              "username": "angryyyymg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080583923122266252",
+        "lang": "es",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1787
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080233655373291934",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @angryyyymg: cuando me preguntan porque soy asi pero yo vivo con la idea del suicidio desde los 8 años"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041933974407106560",
+        "conversation_id": "2080233655373291934",
+        "created_at": "2026-07-23T10:08:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-23T11:08:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080233655373291934"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2080233655373291934",
+        "lang": "es",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 191,
+          "impression_count": 58203,
+          "like_count": 6344,
+          "quote_count": 48,
+          "reply_count": 10,
+          "retweet_count": 1787
+        },
+        "reply_settings": "everyone",
+        "text": "cuando me preguntan porque soy asi pero yo vivo con la idea del suicidio desde los 8 años"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-17T01:27:33.000Z",
+        "description": "同类互fo，成分请查看@aeglepotato/点赞狂魔/平时喜欢说怪话和发癫/备用@aeglepotato /🦋@aeglepotato /匿名提问箱https://t.co/C8vIKrLtCN",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 11,
+                "username": "aeglepotato"
+              },
+              {
+                "end": 54,
+                "start": 42,
+                "username": "aeglepotato"
+              },
+              {
+                "end": 69,
+                "start": 57,
+                "username": "aeglepotato"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/aeglepotato",
+                "end": 99,
+                "expanded_url": "https://ngl.link/aeglepotato",
+                "start": 76,
+                "url": "https://t.co/C8vIKrLtCN"
+              }
+            ]
+          }
+        },
+        "id": "2055822314969665536",
+        "name": "⛄ALLice🌈赛博幽灵",
+        "pinned_tweet_id": "2064878659698102753",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067517312576421888/aGH7Myxd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 294,
+          "following_count": 372,
+          "like_count": 14394,
+          "listed_count": 0,
+          "media_count": 41,
+          "tweet_count": 951
+        },
+        "url": "",
+        "username": "GrievousPotato1",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-08T17:39:47.000Z",
+        "description": "trato de sobrevivir\nside:@martizitadeidad",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 41,
+                "start": 25,
+                "username": "martizitadeidad"
+              }
+            ]
+          }
+        },
+        "id": "2041933974407106560",
+        "location": "la concha de la lora",
+        "name": "martizzz",
+        "pinned_tweet_id": "2066645756178550883",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042010894096355328/5JJLHpAF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 448,
+          "following_count": 478,
+          "like_count": 1943,
+          "listed_count": 3,
+          "media_count": 55,
+          "tweet_count": 1753
+        },
+        "url": "",
+        "username": "angryyyymg",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2055822314969665536",
+    "conversation_id": "2081727135887016117",
+    "created_at": "2026-07-28T18:23:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-28T19:23:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082170015709909099"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2028661027647422465",
+          "start": 0,
+          "username": "nycteasio78869"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082170015709909099",
+    "in_reply_to_user_id": "2028661027647422465",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082158181053300812",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@nycteasio78869 原来如此🥲怪不得我墙内外都找不到社区"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2055822314969665536",
+        "conversation_id": "2081727135887016117",
+        "created_at": "2026-07-28T18:23:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-28T19:23:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082170015709909099"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2028661027647422465",
+              "start": 0,
+              "username": "nycteasio78869"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082170015709909099",
+        "in_reply_to_user_id": "2028661027647422465",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082158181053300812",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nycteasio78869 原来如此🥲怪不得我墙内外都找不到社区"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2028661027647422465",
+        "conversation_id": "2081727135887016117",
+        "created_at": "2026-07-28T17:36:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-28T18:36:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082158181053300812"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2055822314969665536",
+              "start": 0,
+              "username": "GrievousPotato1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082158181053300812",
+        "in_reply_to_user_id": "2055822314969665536",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081730667407200578",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@GrievousPotato1 感觉墙外…似乎在（这个圈子）审查/举报封号什么（这些方面）其实力度应该比墙内大（"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-17T01:27:33.000Z",
+        "description": "同类互fo，成分请查看@aeglepotato/点赞狂魔/平时喜欢说怪话和发癫/备用@aeglepotato /🦋@aeglepotato /匿名提问箱https://t.co/C8vIKrLtCN",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 11,
+                "username": "aeglepotato"
+              },
+              {
+                "end": 54,
+                "start": 42,
+                "username": "aeglepotato"
+              },
+              {
+                "end": 69,
+                "start": 57,
+                "username": "aeglepotato"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/aeglepotato",
+                "end": 99,
+                "expanded_url": "https://ngl.link/aeglepotato",
+                "start": 76,
+                "url": "https://t.co/C8vIKrLtCN"
+              }
+            ]
+          }
+        },
+        "id": "2055822314969665536",
+        "name": "⛄ALLice🌈赛博幽灵",
+        "pinned_tweet_id": "2064878659698102753",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067517312576421888/aGH7Myxd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 315,
+          "following_count": 388,
+          "like_count": 15718,
+          "listed_count": 0,
+          "media_count": 50,
+          "tweet_count": 1046
+        },
+        "url": "",
+        "username": "GrievousPotato1",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-03T02:37:45.000Z",
+        "description": "贺建奎还我猫娘",
+        "id": "2028661027647422465",
+        "location": "they/them",
+        "name": "Nycteasio",
+        "pinned_tweet_id": "2074167749891481990",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028661862712348672/tvPx6aEJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 30,
+          "following_count": 80,
+          "like_count": 6378,
+          "listed_count": 0,
+          "media_count": 84,
+          "tweet_count": 884
+        },
+        "url": "",
+        "username": "nycteasio78869",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2055822314969665536",
+    "conversation_id": "2080098431377313911",
+    "created_at": "2026-07-23T01:11:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-23T02:11:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2080098431377313911"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1943628759074312192",
+          "start": 3,
+          "username": "k3633455837"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080098431377313911",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079943520065102318",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @k3633455837: 我其实一点不畏惧死亡，比如之前是就是在开心的时候选择自杀，因为死亡在我看来本来就是一个事情，早死晚死没有区别，那为什么不在一个开心快乐的时候死呢？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2055822314969665536",
+        "conversation_id": "2080098431377313911",
+        "created_at": "2026-07-23T01:11:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-23T02:11:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080098431377313911"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1943628759074312192",
+              "start": 3,
+              "username": "k3633455837"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080098431377313911",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079943520065102318",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @k3633455837: 我其实一点不畏惧死亡，比如之前是就是在开心的时候选择自杀，因为死亡在我看来本来就是一个事情，早死晚死没有区别，那为什么不在一个开心快乐的时候死呢？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1943628759074312192",
+        "conversation_id": "2079943520065102318",
+        "created_at": "2026-07-22T14:55:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-22T15:55:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2079943520065102318"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2079943520065102318",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 114,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "我其实一点不畏惧死亡，比如之前是就是在开心的时候选择自杀，因为死亡在我看来本来就是一个事情，早死晚死没有区别，那为什么不在一个开心快乐的时候死呢？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-17T01:27:33.000Z",
+        "description": "同类互fo，成分请查看@aeglepotato/点赞狂魔/平时喜欢说怪话和发癫/备用@aeglepotato /🦋@aeglepotato /匿名提问箱https://t.co/C8vIKrLtCN",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 11,
+                "username": "aeglepotato"
+              },
+              {
+                "end": 54,
+                "start": 42,
+                "username": "aeglepotato"
+              },
+              {
+                "end": 69,
+                "start": 57,
+                "username": "aeglepotato"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/aeglepotato",
+                "end": 99,
+                "expanded_url": "https://ngl.link/aeglepotato",
+                "start": 76,
+                "url": "https://t.co/C8vIKrLtCN"
+              }
+            ]
+          }
+        },
+        "id": "2055822314969665536",
+        "name": "⛄ALLice🌈赛博幽灵",
+        "pinned_tweet_id": "2064878659698102753",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067517312576421888/aGH7Myxd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 286,
+          "following_count": 367,
+          "like_count": 13883,
+          "listed_count": 0,
+          "media_count": 38,
+          "tweet_count": 919
+        },
+        "url": "",
+        "username": "GrievousPotato1",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-11T11:09:53.000Z",
+        "description": "精神病一个",
+        "id": "1943628759074312192",
+        "location": "理想国",
+        "name": "苦水",
+        "pinned_tweet_id": "2053523266665668915",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078889682684030976/mX9zCSEQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 111,
+          "following_count": 110,
+          "like_count": 1053,
+          "listed_count": 0,
+          "media_count": 76,
+          "tweet_count": 2117
+        },
+        "url": "",
+        "username": "k3633455837",
+        "verified": false
+      }
+    ]
+  }
+}

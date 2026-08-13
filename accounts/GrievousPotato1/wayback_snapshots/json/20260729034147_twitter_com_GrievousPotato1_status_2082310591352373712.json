@@ -1,0 +1,247 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2082310584364576768"
+      ]
+    },
+    "author_id": "2055822314969665536",
+    "conversation_id": "2082219868716187749",
+    "created_at": "2026-07-29T03:41:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-29T04:41:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082310591352373712"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1980396569363935232",
+          "start": 0,
+          "username": "Disturbeuphoric"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/8Xn73hrrCY",
+          "end": 77,
+          "expanded_url": "https://x.com/GrievousPotato1/status/2082310591352373712/photo/1",
+          "media_key": "3_2082310584364576768",
+          "start": 54,
+          "url": "https://t.co/8Xn73hrrCY"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082310591352373712",
+    "in_reply_to_user_id": "1980396569363935232",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082219868716187749",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Disturbeuphoric 如果你指的是宜家的鲨鲨玩偶的话，一般跟跨性别有关，鲨鲨代表的是关心与支持 https://t.co/8Xn73hrrCY"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 364,
+        "media_key": "3_2082310584364576768",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOXacaUWMAAcFwk.jpg",
+        "width": 549
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2082310584364576768"
+          ]
+        },
+        "author_id": "2055822314969665536",
+        "conversation_id": "2082219868716187749",
+        "created_at": "2026-07-29T03:41:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-29T04:41:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082310591352373712"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1980396569363935232",
+              "start": 0,
+              "username": "Disturbeuphoric"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/8Xn73hrrCY",
+              "end": 77,
+              "expanded_url": "https://x.com/GrievousPotato1/status/2082310591352373712/photo/1",
+              "media_key": "3_2082310584364576768",
+              "start": 54,
+              "url": "https://t.co/8Xn73hrrCY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082310591352373712",
+        "in_reply_to_user_id": "1980396569363935232",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082219868716187749",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Disturbeuphoric 如果你指的是宜家的鲨鲨玩偶的话，一般跟跨性别有关，鲨鲨代表的是关心与支持 https://t.co/8Xn73hrrCY"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1980396569363935232",
+        "conversation_id": "2082219868716187749",
+        "created_at": "2026-07-28T21:41:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-28T22:41:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082219868716187749"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2082219868716187749",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "在你们的文化中，鲨鱼有什么象征意义？我总能看到鲨鱼玩偶。🦈"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-17T01:27:33.000Z",
+        "description": "同类互fo，成分请查看@aeglepotato/点赞狂魔/平时喜欢说怪话和发癫/备用@aeglepotato /🦋@aeglepotato /匿名提问箱https://t.co/C8vIKrLtCN",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 11,
+                "username": "aeglepotato"
+              },
+              {
+                "end": 54,
+                "start": 42,
+                "username": "aeglepotato"
+              },
+              {
+                "end": 69,
+                "start": 57,
+                "username": "aeglepotato"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/aeglepotato",
+                "end": 99,
+                "expanded_url": "https://ngl.link/aeglepotato",
+                "start": 76,
+                "url": "https://t.co/C8vIKrLtCN"
+              }
+            ]
+          }
+        },
+        "id": "2055822314969665536",
+        "name": "⛄ALLice🌈赛博幽灵",
+        "pinned_tweet_id": "2064878659698102753",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067517312576421888/aGH7Myxd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 317,
+          "following_count": 386,
+          "like_count": 15764,
+          "listed_count": 0,
+          "media_count": 51,
+          "tweet_count": 1051
+        },
+        "url": "",
+        "username": "GrievousPotato1",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-20T22:13:55.000Z",
+        "description": "非典型。不稳定。宅男。我既不是天使也不是恶魔。经常有人告诉我，我是纯洁的。我温柔又善良。AuDHD, autistic, ptsd, aroace, 感官过度敏感。我与你分享我的情绪状态。",
+        "id": "1980396569363935232",
+        "name": "小欢乐",
+        "pinned_tweet_id": "2063082220898664938",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066640831943933953/zdzZNx3D_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 205,
+          "following_count": 108,
+          "like_count": 17135,
+          "listed_count": 0,
+          "media_count": 170,
+          "tweet_count": 4638
+        },
+        "url": "",
+        "username": "Disturbeuphoric",
+        "verified": false
+      }
+    ]
+  }
+}

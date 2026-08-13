@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2055822314969665536",
+    "conversation_id": "2083786082148045093",
+    "created_at": "2026-08-02T05:24:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-02T06:24:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083786082148045093"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1937073350750466048",
+          "start": 3,
+          "username": "karo269640607"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083786082148045093",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083769363203785021",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @karo269640607: 你们这个是什么群?你们这是害人不浅，你们搞这个群干什么?谁是群主?快点出来，你那个群主。再这样我就报警了啊，我跟你们说，你们这一帮人，一天到晚，搞这些什么磕药呀，OD呐，会害死你们的，你们没有前途，我跟你说，你们这一百个人。好好学习不好吗?…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2055822314969665536",
+        "conversation_id": "2083786082148045093",
+        "created_at": "2026-08-02T05:24:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T06:24:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083786082148045093"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1937073350750466048",
+              "start": 3,
+              "username": "karo269640607"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083786082148045093",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083769363203785021",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @karo269640607: 你们这个是什么群?你们这是害人不浅，你们搞这个群干什么?谁是群主?快点出来，你那个群主。再这样我就报警了啊，我跟你们说，你们这一帮人，一天到晚，搞这些什么磕药呀，OD呐，会害死你们的，你们没有前途，我跟你说，你们这一百个人。好好学习不好吗?…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1937073350750466048",
+        "conversation_id": "2083769363203785021",
+        "created_at": "2026-08-02T04:18:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T05:18:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083769363203785021"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2083769363203785021",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 36,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "你们这个是什么群?你们这是害人不浅，你们搞这个群干什么?谁是群主?快点出来，你那个群主。再这样我就报警了啊，我跟你们说，你们这一帮人，一天到晚，搞这些什么磕药呀，OD呐，会害死你们的，你们没有前途，我跟你说，你们这一百个人。好好学习不好吗?一天到晚这样上网有什么意思?是不是人?"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-17T01:27:33.000Z",
+        "description": "同类互fo，成分请查看@aeglepotato/点赞狂魔/平时喜欢说怪话和发癫/备用@aeglepotato /🦋@aeglepotato /匿名提问箱https://t.co/C8vIKrLtCN",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 11,
+                "username": "aeglepotato"
+              },
+              {
+                "end": 54,
+                "start": 42,
+                "username": "aeglepotato"
+              },
+              {
+                "end": 69,
+                "start": 57,
+                "username": "aeglepotato"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/aeglepotato",
+                "end": 99,
+                "expanded_url": "https://ngl.link/aeglepotato",
+                "start": 76,
+                "url": "https://t.co/C8vIKrLtCN"
+              }
+            ]
+          }
+        },
+        "id": "2055822314969665536",
+        "name": "⛄ALLice🌈赛博幽灵",
+        "pinned_tweet_id": "2064878659698102753",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067517312576421888/aGH7Myxd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 330,
+          "following_count": 400,
+          "like_count": 16752,
+          "listed_count": 0,
+          "media_count": 61,
+          "tweet_count": 1142
+        },
+        "url": "",
+        "username": "GrievousPotato1",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-23T09:01:20.000Z",
+        "description": "o割餐券  I  ADHD、重焦中抑 |  虚无主义 | 顺女女同 | 生物化学药理板绘❤️ | 同类互fo | 混邪同人女 |恐游像素RPG爱好者|任何物种或性取向欢迎 | 化学极乐 |  言切 衛拓 黑红 狛日拒拆逆、生化里昂右向全肯定、all昴全肯定；尤昴莱昴奥昴⬆️艾昴蕾昴OK| 骂我的全家替挡灾",
+        "id": "1937073350750466048",
+        "name": "雨鈴",
+        "pinned_tweet_id": "2070341749247996152",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028587877639045120/B1wypVK8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 541,
+          "following_count": 763,
+          "like_count": 42100,
+          "listed_count": 1,
+          "media_count": 122,
+          "tweet_count": 8688
+        },
+        "url": "",
+        "username": "karo269640607",
+        "verified": false
+      }
+    ]
+  }
+}

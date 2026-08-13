@@ -1,0 +1,246 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2055822314969665536",
+    "conversation_id": "2085252190856249483",
+    "created_at": "2026-08-07T11:09:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-07T12:09:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2085684703135138009"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2057552254463291393",
+          "start": 0,
+          "username": "6De_dian"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2085684703135138009",
+    "in_reply_to_user_id": "2057552254463291393",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2085252190856249483",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@6De_dian 健全逼真可怜全身都是敏感点，希望那位画师能够转生成功不被继续网暴🥲"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2085252161449979904",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPBNyu5XcAA64P7.jpg",
+        "width": 677
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2055822314969665536",
+        "conversation_id": "2085252190856249483",
+        "created_at": "2026-08-07T11:09:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-07T12:09:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085684703135138009"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2057552254463291393",
+              "start": 0,
+              "username": "6De_dian"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085684703135138009",
+        "in_reply_to_user_id": "2057552254463291393",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085252190856249483",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@6De_dian 健全逼真可怜全身都是敏感点，希望那位画师能够转生成功不被继续网暴🥲"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2085252161449979904"
+          ]
+        },
+        "author_id": "2057552254463291393",
+        "conversation_id": "2085252190856249483",
+        "created_at": "2026-08-06T06:30:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-06T07:30:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2085252190856249483"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/3JXbjoX2yF",
+              "end": 149,
+              "expanded_url": "https://x.com/6De_dian/status/2085252190856249483/photo/1",
+              "media_key": "3_2085252161449979904",
+              "start": 126,
+              "url": "https://t.co/3JXbjoX2yF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085252190856249483",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 1300,
+          "like_count": 46,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "呃，如果说颗药系度就是画师塌房的话\n我大概应该、呃，塌了10万遍🫡？🥴。\n\n我真不行了。画了那么多同人稿产品稿我很心酸好不好\n精神病不吃药哪来的动力画稿，呃\n画手都快燃尽了！\n粉又没吸到你们鼻子里、\n真分给别人还得了？！亏大了！\n我没有那么大方呀—— https://t.co/3JXbjoX2yF"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-17T01:27:33.000Z",
+        "description": "同类互fo，成分请查看@aeglepotato/点赞狂魔/平时喜欢说怪话和发癫/一般通过肉块爱好者，大量匂坂郁纪发言注意👁️/备用@aeglepotato /🦋@aeglepotato /匿名提问箱https://t.co/C8vIKrLtCN",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 11,
+                "username": "aeglepotato"
+              },
+              {
+                "end": 77,
+                "start": 65,
+                "username": "aeglepotato"
+              },
+              {
+                "end": 92,
+                "start": 80,
+                "username": "aeglepotato"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/aeglepotato",
+                "end": 122,
+                "expanded_url": "https://ngl.link/aeglepotato",
+                "start": 99,
+                "url": "https://t.co/C8vIKrLtCN"
+              }
+            ]
+          }
+        },
+        "id": "2055822314969665536",
+        "name": "⛄ALLice🌈赛博幽灵",
+        "pinned_tweet_id": "2064878659698102753",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067517312576421888/aGH7Myxd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 345,
+          "following_count": 418,
+          "like_count": 17935,
+          "listed_count": 0,
+          "media_count": 69,
+          "tweet_count": 1248
+        },
+        "url": "",
+        "username": "GrievousPotato1",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-21T20:03:58.000Z",
+        "description": "可以叫我6点。\n\n让我明天 将一切重新来 该有多好？\n我一定更不负责任的生活 早知道。\n\n❤永远偏爱：@Korewoizontoyo\n｜双相｜ODer｜oc｜同人｜绝望De画手｜负能｜\n纯粹个人号发什么随心情\n不见证不参与争议\n查属性回fo回私信\n药理学爱好，正在学习中…\n会尽力回答您的问题(´∀`)/\n\n可以私信我哦",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 66,
+                "start": 51,
+                "username": "Korewoizontoyo"
+              }
+            ]
+          }
+        },
+        "id": "2057552254463291393",
+        "location": "逝去",
+        "name": "绝望_6De点",
+        "pinned_tweet_id": "2071211057796776389",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2071258839513526272/vtOebiN9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 612,
+          "following_count": 599,
+          "like_count": 14289,
+          "listed_count": 1,
+          "media_count": 144,
+          "tweet_count": 2796
+        },
+        "url": "",
+        "username": "6De_dian",
+        "verified": false
+      }
+    ]
+  }
+}

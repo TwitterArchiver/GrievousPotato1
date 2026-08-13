@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2055822314969665536",
+    "conversation_id": "2084115431376425087",
+    "created_at": "2026-08-03T04:23:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-03T05:23:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084133007384842510"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "2075312744417632256",
+          "start": 0,
+          "username": "4ksti7"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084133007384842510",
+    "in_reply_to_user_id": "2075312744417632256",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084115431376425087",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@4ksti7 健人特有的不把人当人看"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2055822314969665536",
+        "conversation_id": "2084115431376425087",
+        "created_at": "2026-08-03T04:23:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-03T05:23:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084133007384842510"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "2075312744417632256",
+              "start": 0,
+              "username": "4ksti7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084133007384842510",
+        "in_reply_to_user_id": "2075312744417632256",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084115431376425087",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@4ksti7 健人特有的不把人当人看"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2075312744417632256",
+        "conversation_id": "2084115431376425087",
+        "created_at": "2026-08-03T03:13:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-03T04:13:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2084115431376425087"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2084115431376425087",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 103,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "建人真是完全没懂我意思，就拿一个od的事情斤斤计较，在一个人od之前ta也是一个活生生的人好吗…"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-17T01:27:33.000Z",
+        "description": "同类互fo，成分请查看@aeglepotato/点赞狂魔/平时喜欢说怪话和发癫/备用@aeglepotato /🦋@aeglepotato /匿名提问箱https://t.co/C8vIKrLtCN",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 11,
+                "username": "aeglepotato"
+              },
+              {
+                "end": 54,
+                "start": 42,
+                "username": "aeglepotato"
+              },
+              {
+                "end": 69,
+                "start": 57,
+                "username": "aeglepotato"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/aeglepotato",
+                "end": 99,
+                "expanded_url": "https://ngl.link/aeglepotato",
+                "start": 76,
+                "url": "https://t.co/C8vIKrLtCN"
+              }
+            ]
+          }
+        },
+        "id": "2055822314969665536",
+        "name": "⛄ALLice🌈赛博幽灵",
+        "pinned_tweet_id": "2064878659698102753",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067517312576421888/aGH7Myxd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 332,
+          "following_count": 402,
+          "like_count": 17004,
+          "listed_count": 0,
+          "media_count": 64,
+          "tweet_count": 1170
+        },
+        "url": "",
+        "username": "GrievousPotato1",
+        "verified": false
+      },
+      {
+        "created_at": "2026-07-09T20:16:38.000Z",
+        "description": "前世@7ksti4   又受限了我发不了帖子😭\n我是一凡｜od｜自伤｜情绪摇滚｜敲击\n查成分互fo｜欢迎和我玩！\n我转世了互关我想你们了…巡回中🥺",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 9,
+                "start": 2,
+                "username": "7ksti4"
+              }
+            ]
+          }
+        },
+        "id": "2075312744417632256",
+        "name": "红发少年口口事件2.0",
+        "pinned_tweet_id": "2075565399530491957",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075314100142477312/ncKAigD9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 326,
+          "following_count": 286,
+          "like_count": 1530,
+          "listed_count": 0,
+          "media_count": 41,
+          "tweet_count": 229
+        },
+        "url": "",
+        "username": "4ksti7",
+        "verified": false
+      }
+    ]
+  }
+}

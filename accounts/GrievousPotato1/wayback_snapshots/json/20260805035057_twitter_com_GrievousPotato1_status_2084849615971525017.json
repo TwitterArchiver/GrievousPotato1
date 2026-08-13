@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2055822314969665536",
+    "conversation_id": "2084849615971525017",
+    "created_at": "2026-08-05T03:50:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-05T04:50:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084849615971525017"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1551235687277465600",
+          "start": 3,
+          "username": "zyfisapoppy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084849615971525017",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084675630264963350",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @zyfisapoppy: 紫餐肯定是不对的呀，大家都有痛苦要选择这种方式解决真是神人。所以要换种方式喵，把刀刃对着别人就好了啦，看谁不爽割谁嘿嘿嘿。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2055822314969665536",
+        "conversation_id": "2084849615971525017",
+        "created_at": "2026-08-05T03:50:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-05T04:50:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084849615971525017"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1551235687277465600",
+              "start": 3,
+              "username": "zyfisapoppy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084849615971525017",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084675630264963350",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @zyfisapoppy: 紫餐肯定是不对的呀，大家都有痛苦要选择这种方式解决真是神人。所以要换种方式喵，把刀刃对着别人就好了啦，看谁不爽割谁嘿嘿嘿。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1551235687277465600",
+        "conversation_id": "2084675630264963350",
+        "created_at": "2026-08-04T16:19:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-04T17:19:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2084675630264963350"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2084675630264963350",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 114,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "紫餐肯定是不对的呀，大家都有痛苦要选择这种方式解决真是神人。所以要换种方式喵，把刀刃对着别人就好了啦，看谁不爽割谁嘿嘿嘿。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-17T01:27:33.000Z",
+        "description": "同类互fo，成分请查看@aeglepotato/点赞狂魔/平时喜欢说怪话和发癫/备用@aeglepotato /🦋@aeglepotato /匿名提问箱https://t.co/C8vIKrLtCN",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 11,
+                "username": "aeglepotato"
+              },
+              {
+                "end": 54,
+                "start": 42,
+                "username": "aeglepotato"
+              },
+              {
+                "end": 69,
+                "start": 57,
+                "username": "aeglepotato"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/aeglepotato",
+                "end": 99,
+                "expanded_url": "https://ngl.link/aeglepotato",
+                "start": 76,
+                "url": "https://t.co/C8vIKrLtCN"
+              }
+            ]
+          }
+        },
+        "id": "2055822314969665536",
+        "name": "⛄ALLice🌈赛博幽灵",
+        "pinned_tweet_id": "2064878659698102753",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067517312576421888/aGH7Myxd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 338,
+          "following_count": 404,
+          "like_count": 17456,
+          "listed_count": 0,
+          "media_count": 66,
+          "tweet_count": 1200
+        },
+        "url": "",
+        "username": "GrievousPotato1",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-24T15:59:54.000Z",
+        "description": "一个平平无奇恋爱脑罢了\n纯双相发疯碎碎念\n有洁癖，不考虑跟任何我对象以外的人做",
+        "id": "1551235687277465600",
+        "name": "汤显祖",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1827744480943800321/xQnwkjFg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1581,
+          "following_count": 198,
+          "like_count": 1191,
+          "listed_count": 6,
+          "media_count": 65,
+          "tweet_count": 608
+        },
+        "url": "",
+        "username": "zyfisapoppy",
+        "verified": false
+      }
+    ]
+  }
+}

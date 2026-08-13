@@ -1,0 +1,261 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2055822314969665536",
+    "conversation_id": "2085393044682244180",
+    "created_at": "2026-08-07T03:01:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-07T04:01:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2085561900469801057"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1748763011140169729",
+          "start": 0,
+          "username": "lovelyshuimao"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2085561900469801057",
+    "in_reply_to_user_id": "1748763011140169729",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2085393044682244180",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lovelyshuimao 明文水印都不太行，ai能去掉，应该搞暗水印，让人眼识别不出来，但机器能识别，这样一炸一个准（但我也不知道该怎么搞）"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1576,
+        "media_key": "3_2085393033508564992",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPDN6kNaMAAtnAp.jpg",
+        "width": 1182
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2055822314969665536",
+        "conversation_id": "2085393044682244180",
+        "created_at": "2026-08-07T03:01:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-07T04:01:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085561900469801057"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1748763011140169729",
+              "start": 0,
+              "username": "lovelyshuimao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085561900469801057",
+        "in_reply_to_user_id": "1748763011140169729",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085393044682244180",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lovelyshuimao 明文水印都不太行，ai能去掉，应该搞暗水印，让人眼识别不出来，但机器能识别，这样一炸一个准（但我也不知道该怎么搞）"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2085393033508564992"
+          ]
+        },
+        "author_id": "1748763011140169729",
+        "conversation_id": "2085393044682244180",
+        "created_at": "2026-08-06T15:50:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-06T16:50:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085393044682244180"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/q4rGdXoDmg",
+              "end": 35,
+              "expanded_url": "https://x.com/lovelyshuimao/status/2085393044682244180/photo/1",
+              "media_key": "3_2085393033508564992",
+              "start": 12,
+              "url": "https://t.co/q4rGdXoDmg"
+            },
+            {
+              "display_url": "x.com/suekageseikiyo…",
+              "end": 59,
+              "expanded_url": "https://twitter.com/suekageseikiyo/status/2084610213936865553",
+              "start": 36,
+              "url": "https://t.co/tsQvCgxUOC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085393044682244180",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 1110,
+          "like_count": 22,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084610213936865553",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "来\n消除！\n求消除水印 https://t.co/q4rGdXoDmg https://t.co/tsQvCgxUOC"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-17T01:27:33.000Z",
+        "description": "同类互fo，成分请查看@aeglepotato/点赞狂魔/平时喜欢说怪话和发癫/一般通过肉块爱好者，大量匂坂郁纪发言注意👁️/备用@aeglepotato /🦋@aeglepotato /匿名提问箱https://t.co/C8vIKrLtCN",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 11,
+                "username": "aeglepotato"
+              },
+              {
+                "end": 77,
+                "start": 65,
+                "username": "aeglepotato"
+              },
+              {
+                "end": 92,
+                "start": 80,
+                "username": "aeglepotato"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/aeglepotato",
+                "end": 122,
+                "expanded_url": "https://ngl.link/aeglepotato",
+                "start": 99,
+                "url": "https://t.co/C8vIKrLtCN"
+              }
+            ]
+          }
+        },
+        "id": "2055822314969665536",
+        "name": "⛄ALLice🌈赛博幽灵",
+        "pinned_tweet_id": "2064878659698102753",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067517312576421888/aGH7Myxd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 343,
+          "following_count": 415,
+          "like_count": 17851,
+          "listed_count": 0,
+          "media_count": 68,
+          "tweet_count": 1241
+        },
+        "url": "",
+        "username": "GrievousPotato1",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-20T17:42:54.000Z",
+        "description": "🐱神仙水水猫｜星铃｜Lumia\n👩🏻‍💻INTJ ♀14 \n🙋🏻‍♀️提問box——————↓\n✍🏻想成為作家",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lovely%E6%B0%B4",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lovely%E6%B0%B4",
+                "start": 0,
+                "url": "https://t.co/EZhyEGrRuS"
+              }
+            ]
+          }
+        },
+        "id": "1748763011140169729",
+        "location": "距离你 4.3km",
+        "name": "lovely水",
+        "pinned_tweet_id": "2075897725733024056",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045354329792749568/b7JXuLvu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5710,
+          "following_count": 996,
+          "like_count": 276,
+          "listed_count": 23,
+          "media_count": 3505,
+          "tweet_count": 15947
+        },
+        "url": "https://t.co/EZhyEGrRuS",
+        "username": "lovelyshuimao",
+        "verified": true
+      }
+    ]
+  }
+}

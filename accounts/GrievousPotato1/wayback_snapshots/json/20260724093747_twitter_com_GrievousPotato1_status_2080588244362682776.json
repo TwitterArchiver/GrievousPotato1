@@ -1,0 +1,124 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2055822314969665536",
+    "conversation_id": "2080588244362682776",
+    "created_at": "2026-07-24T09:37:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-24T10:37:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2080588244362682776"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2080588244362682776",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "想起来有一次我给我电脑设置了一个类似于沙耶之歌背景的掉san桌面，刚好电脑坏了开不了机于是拿去给人修了，过几天我去拿电脑那人全程都在用奇怪的眼神看我\n幸好我只是在附近待一个月，不是在本地，要不然我真的会以头抢地的\n\n但是肉块真的很美丽啊😭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2055822314969665536",
+        "conversation_id": "2080588244362682776",
+        "created_at": "2026-07-24T09:37:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-24T10:37:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080588244362682776"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2080588244362682776",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "想起来有一次我给我电脑设置了一个类似于沙耶之歌背景的掉san桌面，刚好电脑坏了开不了机于是拿去给人修了，过几天我去拿电脑那人全程都在用奇怪的眼神看我\n幸好我只是在附近待一个月，不是在本地，要不然我真的会以头抢地的\n\n但是肉块真的很美丽啊😭"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-17T01:27:33.000Z",
+        "description": "同类互fo，成分请查看@aeglepotato/点赞狂魔/平时喜欢说怪话和发癫/备用@aeglepotato /🦋@aeglepotato /匿名提问箱https://t.co/C8vIKrLtCN",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 11,
+                "username": "aeglepotato"
+              },
+              {
+                "end": 54,
+                "start": 42,
+                "username": "aeglepotato"
+              },
+              {
+                "end": 69,
+                "start": 57,
+                "username": "aeglepotato"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/aeglepotato",
+                "end": 99,
+                "expanded_url": "https://ngl.link/aeglepotato",
+                "start": 76,
+                "url": "https://t.co/C8vIKrLtCN"
+              }
+            ]
+          }
+        },
+        "id": "2055822314969665536",
+        "name": "⛄ALLice🌈赛博幽灵",
+        "pinned_tweet_id": "2064878659698102753",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067517312576421888/aGH7Myxd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 294,
+          "following_count": 373,
+          "like_count": 14405,
+          "listed_count": 0,
+          "media_count": 41,
+          "tweet_count": 952
+        },
+        "url": "",
+        "username": "GrievousPotato1",
+        "verified": false
+      }
+    ]
+  }
+}

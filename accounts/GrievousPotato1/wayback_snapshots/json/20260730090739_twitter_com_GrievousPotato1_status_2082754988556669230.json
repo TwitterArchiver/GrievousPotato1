@@ -1,0 +1,225 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2055822314969665536",
+    "conversation_id": "2082318565252677770",
+    "created_at": "2026-07-30T09:07:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-30T10:07:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082754988556669230"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1884745808605818880",
+          "start": 0,
+          "username": "Bunbohue40037"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082754988556669230",
+    "in_reply_to_user_id": "1884745808605818880",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082318565252677770",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Bunbohue40037 笑的我屎尿横飞"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2055822314969665536",
+        "conversation_id": "2082318565252677770",
+        "created_at": "2026-07-30T09:07:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-30T10:07:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082754988556669230"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1884745808605818880",
+              "start": 0,
+              "username": "Bunbohue40037"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082754988556669230",
+        "in_reply_to_user_id": "1884745808605818880",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082318565252677770",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Bunbohue40037 笑的我屎尿横飞"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1884745808605818880",
+        "conversation_id": "2082318565252677770",
+        "created_at": "2026-07-29T04:13:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-29T05:13:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082318565252677770"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/thesame295757/…",
+              "end": 43,
+              "expanded_url": "https://twitter.com/thesame295757/status/2082256542439817515",
+              "start": 20,
+              "url": "https://t.co/DCUVDmBMdE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082318565252677770",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 20,
+          "impression_count": 73369,
+          "like_count": 614,
+          "quote_count": 3,
+          "reply_count": 28,
+          "retweet_count": 7
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082256542439817515",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "“论文没有一篇是单独发表的”\n震撼首发 https://t.co/DCUVDmBMdE"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-17T01:27:33.000Z",
+        "description": "同类互fo，成分请查看@aeglepotato/点赞狂魔/平时喜欢说怪话和发癫/备用@aeglepotato /🦋@aeglepotato /匿名提问箱https://t.co/C8vIKrLtCN",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 11,
+                "username": "aeglepotato"
+              },
+              {
+                "end": 54,
+                "start": 42,
+                "username": "aeglepotato"
+              },
+              {
+                "end": 69,
+                "start": 57,
+                "username": "aeglepotato"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/aeglepotato",
+                "end": 99,
+                "expanded_url": "https://ngl.link/aeglepotato",
+                "start": 76,
+                "url": "https://t.co/C8vIKrLtCN"
+              }
+            ]
+          }
+        },
+        "id": "2055822314969665536",
+        "name": "⛄ALLice🌈赛博幽灵",
+        "pinned_tweet_id": "2064878659698102753",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067517312576421888/aGH7Myxd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 317,
+          "following_count": 387,
+          "like_count": 16023,
+          "listed_count": 0,
+          "media_count": 54,
+          "tweet_count": 1072
+        },
+        "url": "",
+        "username": "GrievousPotato1",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-29T23:30:05.000Z",
+        "description": "she/they",
+        "id": "1884745808605818880",
+        "name": "Bún bò Huế 🍥",
+        "pinned_tweet_id": "1967610162459623452",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993755498269581312/BXnTU-n5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 517,
+          "following_count": 536,
+          "like_count": 187665,
+          "listed_count": 5,
+          "media_count": 1447,
+          "tweet_count": 20905
+        },
+        "url": "",
+        "username": "Bunbohue40037",
+        "verified": false
+      }
+    ]
+  }
+}

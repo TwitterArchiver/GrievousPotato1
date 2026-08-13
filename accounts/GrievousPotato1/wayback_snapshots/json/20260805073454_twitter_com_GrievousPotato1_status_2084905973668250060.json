@@ -1,0 +1,244 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2055822314969665536",
+    "conversation_id": "2084905973668250060",
+    "created_at": "2026-08-05T07:34:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-05T08:34:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084905973668250060"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1476198137589268480",
+          "start": 3,
+          "username": "N3kuv"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084905973668250060",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084905345504469423",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @N3kuv: 你们健全人也有网暴别人的案例，首先你要发表攻击性言论你就要做好被回怼甚至是被网暴的准备，你借着网暴这一事，却之字不提她一直在发表攻击性言论带给别人的伤害，用这种方式弱化她的错然后谴责网暴，就算网暴有错但网民戾气就这么大，无论任何圈子你只要一直发表攻击性言论…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2055822314969665536",
+        "conversation_id": "2084905973668250060",
+        "created_at": "2026-08-05T07:34:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-05T08:34:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084905973668250060"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1476198137589268480",
+              "start": 3,
+              "username": "N3kuv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084905973668250060",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084905345504469423",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @N3kuv: 你们健全人也有网暴别人的案例，首先你要发表攻击性言论你就要做好被回怼甚至是被网暴的准备，你借着网暴这一事，却之字不提她一直在发表攻击性言论带给别人的伤害，用这种方式弱化她的错然后谴责网暴，就算网暴有错但网民戾气就这么大，无论任何圈子你只要一直发表攻击性言论…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1476198137589268480",
+        "conversation_id": "2084905345504469423",
+        "created_at": "2026-08-05T07:32:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-05T08:32:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2084905345504469423"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/QwQIO3O/status…",
+              "end": 160,
+              "expanded_url": "https://twitter.com/QwQIO3O/status/2084815458579198190",
+              "start": 137,
+              "url": "https://t.co/qS8qOSWgV6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084905345504469423",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084815458579198190",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "你们健全人也有网暴别人的案例，首先你要发表攻击性言论你就要做好被回怼甚至是被网暴的准备，你借着网暴这一事，却之字不提她一直在发表攻击性言论带给别人的伤害，用这种方式弱化她的错然后谴责网暴，就算网暴有错但网民戾气就这么大，无论任何圈子你只要一直发表攻击性言论你都有可能被网暴 https://t.co/qS8qOSWgV6"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-17T01:27:33.000Z",
+        "description": "同类互fo，成分请查看@aeglepotato/点赞狂魔/平时喜欢说怪话和发癫/备用@aeglepotato /🦋@aeglepotato /匿名提问箱https://t.co/C8vIKrLtCN",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 11,
+                "username": "aeglepotato"
+              },
+              {
+                "end": 54,
+                "start": 42,
+                "username": "aeglepotato"
+              },
+              {
+                "end": 69,
+                "start": 57,
+                "username": "aeglepotato"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/aeglepotato",
+                "end": 99,
+                "expanded_url": "https://ngl.link/aeglepotato",
+                "start": 76,
+                "url": "https://t.co/C8vIKrLtCN"
+              }
+            ]
+          }
+        },
+        "id": "2055822314969665536",
+        "name": "⛄ALLice🌈赛博幽灵",
+        "pinned_tweet_id": "2064878659698102753",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067517312576421888/aGH7Myxd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 338,
+          "following_count": 404,
+          "like_count": 17494,
+          "listed_count": 0,
+          "media_count": 66,
+          "tweet_count": 1203
+        },
+        "url": "",
+        "username": "GrievousPotato1",
+        "verified": false
+      },
+      {
+        "created_at": "2021-12-29T14:29:24.000Z",
+        "description": "he/him 🏳️‍🌈 oder/drugtwt\n里推：@n3kuvv",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 35,
+                "start": 28,
+                "username": "n3kuvv"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/nekocaline",
+                "end": 23,
+                "expanded_url": "https://t.me/nekocaline",
+                "start": 0,
+                "url": "https://t.co/y3ZllgoxKJ"
+              }
+            ]
+          }
+        },
+        "id": "1476198137589268480",
+        "name": "麦子美妆🌾",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2084510809695436802/v3waW3Yo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 439,
+          "following_count": 566,
+          "like_count": 6399,
+          "listed_count": 0,
+          "media_count": 64,
+          "tweet_count": 676
+        },
+        "url": "https://t.co/y3ZllgoxKJ",
+        "username": "N3kuv",
+        "verified": false
+      }
+    ]
+  }
+}

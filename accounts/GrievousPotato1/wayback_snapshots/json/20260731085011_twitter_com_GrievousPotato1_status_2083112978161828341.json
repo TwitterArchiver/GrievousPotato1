@@ -1,0 +1,291 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2083047245461741568"
+      ],
+      "media_source_tweet_id": [
+        "2083047255918227463"
+      ]
+    },
+    "author_id": "2055822314969665536",
+    "conversation_id": "2083112978161828341",
+    "created_at": "2026-07-31T08:50:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-31T09:50:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083112978161828341"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1989627406391635968",
+          "start": 3,
+          "username": "drug_artist2"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/7stIEN1nSE",
+          "end": 54,
+          "expanded_url": "https://x.com/drug_artist2/status/2083047255918227463/photo/1",
+          "media_key": "3_2083047245461741568",
+          "start": 31,
+          "url": "https://t.co/7stIEN1nSE"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083112978161828341",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 4
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083047255918227463",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @drug_artist2: 首批合法吸毒馆在纽约开张 https://t.co/7stIEN1nSE"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3565,
+        "media_key": "3_2083047245461741568",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOh4buwaYAAeEJC.jpg",
+        "width": 1884
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2083047245461741568"
+          ]
+        },
+        "author_id": "1989627406391635968",
+        "conversation_id": "2083047255918227463",
+        "created_at": "2026-07-31T04:29:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T05:29:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083047255918227463"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/7stIEN1nSE",
+              "end": 36,
+              "expanded_url": "https://x.com/drug_artist2/status/2083047255918227463/photo/1",
+              "media_key": "3_2083047245461741568",
+              "start": 13,
+              "url": "https://t.co/7stIEN1nSE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083047255918227463",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2109,
+          "like_count": 49,
+          "quote_count": 0,
+          "reply_count": 9,
+          "retweet_count": 4
+        },
+        "reply_settings": "everyone",
+        "text": "首批合法吸毒馆在纽约开张 https://t.co/7stIEN1nSE"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2083047245461741568"
+          ],
+          "media_source_tweet_id": [
+            "2083047255918227463"
+          ]
+        },
+        "author_id": "2055822314969665536",
+        "conversation_id": "2083112978161828341",
+        "created_at": "2026-07-31T08:50:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T09:50:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083112978161828341"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1989627406391635968",
+              "start": 3,
+              "username": "drug_artist2"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/7stIEN1nSE",
+              "end": 54,
+              "expanded_url": "https://x.com/drug_artist2/status/2083047255918227463/photo/1",
+              "media_key": "3_2083047245461741568",
+              "start": 31,
+              "url": "https://t.co/7stIEN1nSE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083112978161828341",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 4
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083047255918227463",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @drug_artist2: 首批合法吸毒馆在纽约开张 https://t.co/7stIEN1nSE"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-17T01:27:33.000Z",
+        "description": "同类互fo，成分请查看@aeglepotato/点赞狂魔/平时喜欢说怪话和发癫/备用@aeglepotato /🦋@aeglepotato /匿名提问箱https://t.co/C8vIKrLtCN",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 11,
+                "username": "aeglepotato"
+              },
+              {
+                "end": 54,
+                "start": 42,
+                "username": "aeglepotato"
+              },
+              {
+                "end": 69,
+                "start": 57,
+                "username": "aeglepotato"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/aeglepotato",
+                "end": 99,
+                "expanded_url": "https://ngl.link/aeglepotato",
+                "start": 76,
+                "url": "https://t.co/C8vIKrLtCN"
+              }
+            ]
+          }
+        },
+        "id": "2055822314969665536",
+        "name": "⛄ALLice🌈赛博幽灵",
+        "pinned_tweet_id": "2064878659698102753",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067517312576421888/aGH7Myxd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 313,
+          "following_count": 385,
+          "like_count": 16207,
+          "listed_count": 0,
+          "media_count": 54,
+          "tweet_count": 1081
+        },
+        "url": "",
+        "username": "GrievousPotato1",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-15T09:32:30.000Z",
+        "description": "药物百科前wiki主|投稿报告请私信我|长发视觉系4i男娘｜提问箱:https://t.co/jtp9SaKxdp|愿每一位药物滥用者都能脱离深渊|提供药物/精神病咨询|im crazy!  年号 雨玄 我从地狱回来了",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/drugs_artist",
+                "end": 57,
+                "expanded_url": "https://ngl.link/drugs_artist",
+                "start": 34,
+                "url": "https://t.co/jtp9SaKxdp"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "yaowubaike.ca",
+                "end": 23,
+                "expanded_url": "http://yaowubaike.ca",
+                "start": 0,
+                "url": "https://t.co/CuWdphsu7d"
+              }
+            ]
+          }
+        },
+        "id": "1989627406391635968",
+        "location": "Xanax天国2mg自治区",
+        "name": "沐雨",
+        "pinned_tweet_id": "1992289000477102226",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1989627623304302594/iRhfipvR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1566,
+          "following_count": 49,
+          "like_count": 255,
+          "listed_count": 1,
+          "media_count": 26,
+          "tweet_count": 340
+        },
+        "url": "https://t.co/CuWdphsu7d",
+        "username": "drug_artist2",
+        "verified": false
+      }
+    ]
+  }
+}

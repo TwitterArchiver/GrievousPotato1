@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2055822314969665536",
+    "conversation_id": "2084085135079878862",
+    "created_at": "2026-08-03T04:24:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-03T05:24:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084133363565162918"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2053435734737186816",
+          "start": 0,
+          "username": "xingstaro"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084133363565162918",
+    "in_reply_to_user_id": "2053435734737186816",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084085135079878862",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xingstaro 加油，我也在减量🥹"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2055822314969665536",
+        "conversation_id": "2084085135079878862",
+        "created_at": "2026-08-03T04:24:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-03T05:24:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084133363565162918"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2053435734737186816",
+              "start": 0,
+              "username": "xingstaro"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084133363565162918",
+        "in_reply_to_user_id": "2053435734737186816",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084085135079878862",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xingstaro 加油，我也在减量🥹"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2053435734737186816",
+        "conversation_id": "2084085135079878862",
+        "created_at": "2026-08-03T01:13:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-03T02:13:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2084085135079878862"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2084085135079878862",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 89,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "喹硫平减量中（遵医嘱减量）\n我需要做到无限贴近于0%药物的依赖\n\n目前唯一每日一定会服用的是喹硫平，其他药物皆为娱乐用药可做到一个月不吃一口别的，我睡眠问题是从小到大小时候没有任何重度精神疾病也会这样，所以这辈子无法脱离安定作用的药物，但是减量我还是能做到的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-17T01:27:33.000Z",
+        "description": "同类互fo，成分请查看@aeglepotato/点赞狂魔/平时喜欢说怪话和发癫/备用@aeglepotato /🦋@aeglepotato /匿名提问箱https://t.co/C8vIKrLtCN",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 11,
+                "username": "aeglepotato"
+              },
+              {
+                "end": 54,
+                "start": 42,
+                "username": "aeglepotato"
+              },
+              {
+                "end": 69,
+                "start": 57,
+                "username": "aeglepotato"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/aeglepotato",
+                "end": 99,
+                "expanded_url": "https://ngl.link/aeglepotato",
+                "start": 76,
+                "url": "https://t.co/C8vIKrLtCN"
+              }
+            ]
+          }
+        },
+        "id": "2055822314969665536",
+        "name": "⛄ALLice🌈赛博幽灵",
+        "pinned_tweet_id": "2064878659698102753",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067517312576421888/aGH7Myxd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 332,
+          "following_count": 402,
+          "like_count": 17009,
+          "listed_count": 0,
+          "media_count": 64,
+          "tweet_count": 1171
+        },
+        "url": "",
+        "username": "GrievousPotato1",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-10T11:25:59.000Z",
+        "description": "糯米炸号中附身星星账号玩\n互fo查成分回 回得慢请戳我\n100%pyscho/💊/ 🔪/🩸",
+        "id": "2053435734737186816",
+        "name": "星星⭐(糯米附身版",
+        "pinned_tweet_id": "2054203632053338154",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053501608462331905/x3e1fQHZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 568,
+          "following_count": 504,
+          "like_count": 1571,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 1037
+        },
+        "url": "",
+        "username": "xingstaro",
+        "verified": false
+      }
+    ]
+  }
+}

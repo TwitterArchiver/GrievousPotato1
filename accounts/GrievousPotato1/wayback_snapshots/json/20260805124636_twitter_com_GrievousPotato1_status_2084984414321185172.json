@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2055822314969665536",
+    "conversation_id": "2084984414321185172",
+    "created_at": "2026-08-05T12:46:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-05T13:46:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084984414321185172"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1916974498903166978",
+          "start": 3,
+          "username": "Drug_wuming"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084984414321185172",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084917584999399887",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Drug_wuming: 极乐对于失去希望和机会的人至关重要\n政府是没有直接逼他们去极乐\n但是政府也没有提供政府该提供的成长路径和成长空间\n你政府不占领这块精神阵地，\n自有oder互帮互助来占领。\n极乐正义，因为政府无耻。\n从一个方面来讲，一个政府不能组织人民进行合适的…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2055822314969665536",
+        "conversation_id": "2084984414321185172",
+        "created_at": "2026-08-05T12:46:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-05T13:46:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084984414321185172"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1916974498903166978",
+              "start": 3,
+              "username": "Drug_wuming"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084984414321185172",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084917584999399887",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Drug_wuming: 极乐对于失去希望和机会的人至关重要\n政府是没有直接逼他们去极乐\n但是政府也没有提供政府该提供的成长路径和成长空间\n你政府不占领这块精神阵地，\n自有oder互帮互助来占领。\n极乐正义，因为政府无耻。\n从一个方面来讲，一个政府不能组织人民进行合适的…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1916974498903166978",
+        "conversation_id": "2084917584999399887",
+        "created_at": "2026-08-05T08:21:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-05T09:21:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2084917584999399887"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2084917584999399887",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 287,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "极乐对于失去希望和机会的人至关重要\n政府是没有直接逼他们去极乐\n但是政府也没有提供政府该提供的成长路径和成长空间\n你政府不占领这块精神阵地，\n自有oder互帮互助来占领。\n极乐正义，因为政府无耻。\n从一个方面来讲，一个政府不能组织人民进行合适的生产劳动你收税干嘛了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-17T01:27:33.000Z",
+        "description": "同类互fo，成分请查看@aeglepotato/点赞狂魔/平时喜欢说怪话和发癫/备用@aeglepotato /🦋@aeglepotato /匿名提问箱https://t.co/C8vIKrLtCN",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 11,
+                "username": "aeglepotato"
+              },
+              {
+                "end": 54,
+                "start": 42,
+                "username": "aeglepotato"
+              },
+              {
+                "end": 69,
+                "start": 57,
+                "username": "aeglepotato"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/aeglepotato",
+                "end": 99,
+                "expanded_url": "https://ngl.link/aeglepotato",
+                "start": 76,
+                "url": "https://t.co/C8vIKrLtCN"
+              }
+            ]
+          }
+        },
+        "id": "2055822314969665536",
+        "name": "⛄ALLice🌈赛博幽灵",
+        "pinned_tweet_id": "2064878659698102753",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067517312576421888/aGH7Myxd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 335,
+          "following_count": 400,
+          "like_count": 17553,
+          "listed_count": 0,
+          "media_count": 67,
+          "tweet_count": 1210
+        },
+        "url": "",
+        "username": "GrievousPotato1",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-28T21:55:19.000Z",
+        "description": "直男/有事说事",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "jile.bid",
+                "end": 23,
+                "expanded_url": "https://jile.bid/",
+                "start": 0,
+                "url": "https://t.co/BeprZt3h72"
+              }
+            ]
+          }
+        },
+        "id": "1916974498903166978",
+        "name": "无名",
+        "pinned_tweet_id": "2078738716508737549",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078082221064482816/MgKCJyTJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 870,
+          "following_count": 922,
+          "like_count": 700,
+          "listed_count": 1,
+          "media_count": 43,
+          "tweet_count": 566
+        },
+        "url": "https://t.co/BeprZt3h72",
+        "username": "Drug_wuming",
+        "verified": false
+      }
+    ]
+  }
+}

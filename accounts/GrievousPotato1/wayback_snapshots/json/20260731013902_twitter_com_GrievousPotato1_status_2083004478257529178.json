@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2055822314969665536",
+    "conversation_id": "2083004478257529178",
+    "created_at": "2026-07-31T01:39:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-31T02:39:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083004478257529178"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1417446435700625414",
+          "start": 3,
+          "username": "Aasuka_kkk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083004478257529178",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082795761465799039",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Aasuka_kkk: 停止od之后，才思泉涌的时刻都不见了，再也没有那种三高四高时看见圣经里的生物那种惊喜了。基路伯，撒拉弗这种天使其实感觉挺好相处的.."
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2055822314969665536",
+        "conversation_id": "2083004478257529178",
+        "created_at": "2026-07-31T01:39:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T02:39:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083004478257529178"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1417446435700625414",
+              "start": 3,
+              "username": "Aasuka_kkk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083004478257529178",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082795761465799039",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Aasuka_kkk: 停止od之后，才思泉涌的时刻都不见了，再也没有那种三高四高时看见圣经里的生物那种惊喜了。基路伯，撒拉弗这种天使其实感觉挺好相处的.."
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1417446435700625414",
+        "conversation_id": "2082795761465799039",
+        "created_at": "2026-07-30T11:49:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-30T12:49:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082795761465799039"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2082795761465799039",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 105,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "停止od之后，才思泉涌的时刻都不见了，再也没有那种三高四高时看见圣经里的生物那种惊喜了。基路伯，撒拉弗这种天使其实感觉挺好相处的.."
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-17T01:27:33.000Z",
+        "description": "同类互fo，成分请查看@aeglepotato/点赞狂魔/平时喜欢说怪话和发癫/备用@aeglepotato /🦋@aeglepotato /匿名提问箱https://t.co/C8vIKrLtCN",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 11,
+                "username": "aeglepotato"
+              },
+              {
+                "end": 54,
+                "start": 42,
+                "username": "aeglepotato"
+              },
+              {
+                "end": 69,
+                "start": 57,
+                "username": "aeglepotato"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/aeglepotato",
+                "end": 99,
+                "expanded_url": "https://ngl.link/aeglepotato",
+                "start": 76,
+                "url": "https://t.co/C8vIKrLtCN"
+              }
+            ]
+          }
+        },
+        "id": "2055822314969665536",
+        "name": "⛄ALLice🌈赛博幽灵",
+        "pinned_tweet_id": "2064878659698102753",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067517312576421888/aGH7Myxd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 316,
+          "following_count": 388,
+          "like_count": 16154,
+          "listed_count": 0,
+          "media_count": 54,
+          "tweet_count": 1077
+        },
+        "url": "",
+        "username": "GrievousPotato1",
+        "verified": false
+      },
+      {
+        "created_at": "2021-07-20T11:29:09.000Z",
+        "description": "现在立刻死掉就不会再感受到痛苦了对吧",
+        "id": "1417446435700625414",
+        "name": "AASuKa",
+        "pinned_tweet_id": "2047544704691265555",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057641568421720064/G6VSqD4z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 130,
+          "following_count": 35,
+          "like_count": 2213,
+          "listed_count": 0,
+          "media_count": 34,
+          "tweet_count": 627
+        },
+        "url": "",
+        "username": "Aasuka_kkk",
+        "verified": false
+      }
+    ]
+  }
+}

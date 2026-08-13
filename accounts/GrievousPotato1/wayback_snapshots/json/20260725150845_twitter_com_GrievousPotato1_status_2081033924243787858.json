@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2055822314969665536",
+    "conversation_id": "2080891706413666484",
+    "created_at": "2026-07-25T15:08:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-25T16:08:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081033924243787858"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1612280433064185859",
+          "start": 0,
+          "username": "c2F4F4F"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081033924243787858",
+    "in_reply_to_user_id": "1612280433064185859",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080891706413666484",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@c2F4F4F 霸道总裁来了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2055822314969665536",
+        "conversation_id": "2080891706413666484",
+        "created_at": "2026-07-25T15:08:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-25T16:08:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081033924243787858"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1612280433064185859",
+              "start": 0,
+              "username": "c2F4F4F"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081033924243787858",
+        "in_reply_to_user_id": "1612280433064185859",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080891706413666484",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@c2F4F4F 霸道总裁来了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1612280433064185859",
+        "conversation_id": "2080891706413666484",
+        "created_at": "2026-07-25T05:43:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-25T06:43:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080891706413666484"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2080891706413666484",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 588,
+          "like_count": 28,
+          "quote_count": 1,
+          "reply_count": 9,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "想象一下我是你的药代老公，给你寄了五百盒普瑞巴林两千盒愈美片"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-17T01:27:33.000Z",
+        "description": "同类互fo，成分请查看@aeglepotato/点赞狂魔/平时喜欢说怪话和发癫/备用@aeglepotato /🦋@aeglepotato /匿名提问箱https://t.co/C8vIKrLtCN",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 11,
+                "username": "aeglepotato"
+              },
+              {
+                "end": 54,
+                "start": 42,
+                "username": "aeglepotato"
+              },
+              {
+                "end": 69,
+                "start": 57,
+                "username": "aeglepotato"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/aeglepotato",
+                "end": 99,
+                "expanded_url": "https://ngl.link/aeglepotato",
+                "start": 76,
+                "url": "https://t.co/C8vIKrLtCN"
+              }
+            ]
+          }
+        },
+        "id": "2055822314969665536",
+        "name": "⛄ALLice🌈赛博幽灵",
+        "pinned_tweet_id": "2064878659698102753",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067517312576421888/aGH7Myxd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 303,
+          "following_count": 377,
+          "like_count": 14697,
+          "listed_count": 0,
+          "media_count": 43,
+          "tweet_count": 973
+        },
+        "url": "",
+        "username": "GrievousPotato1",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-09T02:49:54.000Z",
+        "description": "OD | 是个傻卵二次元 | 画师 | 自残 | 同好互fo | 二游只玩舟 | 精神状态不稳定 | 感官失调中 | 女 | 重抑中焦吃药中 |",
+        "id": "1612280433064185859",
+        "location": "Kanagawa-ken, Japan",
+        "name": "孙笑川",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080135043838816256/H8Ebl5jE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 124,
+          "following_count": 414,
+          "like_count": 9783,
+          "listed_count": 0,
+          "media_count": 90,
+          "tweet_count": 760
+        },
+        "url": "",
+        "username": "c2F4F4F",
+        "verified": false
+      }
+    ]
+  }
+}

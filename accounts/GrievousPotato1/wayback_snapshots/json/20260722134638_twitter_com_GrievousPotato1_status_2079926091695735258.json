@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2055822314969665536",
+    "conversation_id": "2079897411762504104",
+    "created_at": "2026-07-22T13:46:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-22T14:46:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079926091695735258"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1640751385502425088",
+          "start": 0,
+          "username": "aiaiaiai_9"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079926091695735258",
+    "in_reply_to_user_id": "1640751385502425088",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079897411762504104",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@aiaiaiai_9 蓝贝印有防护网，我喜欢蓝色本来想买蓝色结果只有红的有防护网，印象深刻🥲"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2055822314969665536",
+        "conversation_id": "2079897411762504104",
+        "created_at": "2026-07-22T13:46:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-22T14:46:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079926091695735258"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1640751385502425088",
+              "start": 0,
+              "username": "aiaiaiai_9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079926091695735258",
+        "in_reply_to_user_id": "1640751385502425088",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079897411762504104",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@aiaiaiai_9 蓝贝印有防护网，我喜欢蓝色本来想买蓝色结果只有红的有防护网，印象深刻🥲"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1640751385502425088",
+        "conversation_id": "2079897411762504104",
+        "created_at": "2026-07-22T11:52:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-22T12:52:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2079897411762504104"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2079897411762504104",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 149,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "割这么久我其实也不知道红蓝贝印具体的区别，但我就是更喜欢用红贝印一些🤔"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-17T01:27:33.000Z",
+        "description": "同类互fo，成分请查看@aeglepotato/点赞狂魔/平时喜欢说怪话和发癫/备用@aeglepotato /🦋@aeglepotato /匿名提问箱https://t.co/C8vIKrLtCN",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 11,
+                "username": "aeglepotato"
+              },
+              {
+                "end": 54,
+                "start": 42,
+                "username": "aeglepotato"
+              },
+              {
+                "end": 69,
+                "start": 57,
+                "username": "aeglepotato"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/aeglepotato",
+                "end": 99,
+                "expanded_url": "https://ngl.link/aeglepotato",
+                "start": 76,
+                "url": "https://t.co/C8vIKrLtCN"
+              }
+            ]
+          }
+        },
+        "id": "2055822314969665536",
+        "name": "⛄ALLice🌈赛博幽灵",
+        "pinned_tweet_id": "2064878659698102753",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067517312576421888/aGH7Myxd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 285,
+          "following_count": 364,
+          "like_count": 13735,
+          "listed_count": 0,
+          "media_count": 37,
+          "tweet_count": 913
+        },
+        "url": "",
+        "username": "GrievousPotato1",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-28T16:23:24.000Z",
+        "description": "我没说过我是个好人\n世人害我，妒我，怨我，我却握紧手中的愈美一笑而过❤️https://t.co/zTLe1aRKzm⬅️提问箱\n没回复就是被吞评论了",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/naomin86665",
+                "end": 59,
+                "expanded_url": "https://ngl.link/naomin86665",
+                "start": 36,
+                "url": "https://t.co/zTLe1aRKzm"
+              }
+            ]
+          }
+        },
+        "id": "1640751385502425088",
+        "name": "Naomin💵✨",
+        "pinned_tweet_id": "2075621297179287725",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077030321720279040/Yp2xnY-p_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 193,
+          "following_count": 138,
+          "like_count": 4337,
+          "listed_count": 0,
+          "media_count": 53,
+          "tweet_count": 948
+        },
+        "url": "",
+        "username": "aiaiaiai_9",
+        "verified": false
+      }
+    ]
+  }
+}
