@@ -1,0 +1,273 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2055822314969665536",
+    "conversation_id": "2094981558155293077",
+    "created_at": "2026-09-02T03:19:56.000Z",
+    "display_text_range": [
+      15,
+      92
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-02T04:19:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2094988670939836663"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2066161725322526720",
+          "start": 0,
+          "username": "MTFitness6780"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2094988670939836663",
+    "in_reply_to_user_id": "2066161725322526720",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2094986713856934263",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@MTFitness6780 （高举魔杖）所有的mtf！请将你们的睾酮之力！赐予给我！使用这股禁忌的超雄之力！给世界上所有的健全逼们降下神罚吧！睾酮power！变身！（炫酷的变身动画）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2055822314969665536",
+        "conversation_id": "2094981558155293077",
+        "created_at": "2026-09-02T03:19:56.000Z",
+        "display_text_range": [
+          15,
+          92
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-02T04:19:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2094988670939836663"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2066161725322526720",
+              "start": 0,
+              "username": "MTFitness6780"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094988670939836663",
+        "in_reply_to_user_id": "2066161725322526720",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2094986713856934263",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MTFitness6780 （高举魔杖）所有的mtf！请将你们的睾酮之力！赐予给我！使用这股禁忌的超雄之力！给世界上所有的健全逼们降下神罚吧！睾酮power！变身！（炫酷的变身动画）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2066161725322526720",
+        "conversation_id": "2094981558155293077",
+        "created_at": "2026-09-02T03:12:10.000Z",
+        "display_text_range": [
+          17,
+          49
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-02T04:12:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2094986713856934263"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2055822314969665536",
+              "start": 0,
+              "username": "GrievousPotato1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094986713856934263",
+        "in_reply_to_user_id": "2055822314969665536",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2094981558155293077",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@GrievousPotato1 经常看别人说这种话我都想睾酮回复强化成悍匪去毁灭健全逼的鬼魅生活"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-05-17T01:27:33.000Z",
+        "description": "同类互fo，成分请查看@aeglepotato/点赞狂魔/平时喜欢说怪话和发癫/一般通过肉块爱好者，大量匂坂郁纪发言注意👁️/备用@aeglepotato /🦋@aeglepotato /匿名提问箱https://t.co/C8vIKrLtCN",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 11,
+                "username": "aeglepotato"
+              },
+              {
+                "end": 77,
+                "start": 65,
+                "username": "aeglepotato"
+              },
+              {
+                "end": 92,
+                "start": 80,
+                "username": "aeglepotato"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/aeglepotato",
+                "end": 122,
+                "expanded_url": "https://ngl.link/aeglepotato",
+                "start": 99,
+                "url": "https://t.co/C8vIKrLtCN"
+              }
+            ]
+          }
+        },
+        "id": "2055822314969665536",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2094988670939836663",
+        "name": "🌈ALLice⛄赛博幽灵",
+        "pinned_tweet_id": "2064878659698102753",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2055822314969665536/1784767652",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067517312576421888/aGH7Myxd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 388,
+          "following_count": 458,
+          "like_count": 20463,
+          "listed_count": 0,
+          "media_count": 95,
+          "tweet_count": 1591
+        },
+        "url": "",
+        "username": "GrievousPotato1",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-06-14T14:18:33.000Z",
+        "description": "08年MTF一枚 家长党😋 OD（?）紫餐（?）主人：@Antumn_Ink9   随意提问喵↓",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 39,
+                "start": 27,
+                "username": "Antumn_Ink9"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/mtfitness6780",
+                "end": 23,
+                "expanded_url": "https://ngl.link/mtfitness6780",
+                "start": 0,
+                "url": "https://t.co/Z6NiHQe69Q"
+              }
+            ]
+          }
+        },
+        "id": "2066161725322526720",
+        "is_identity_verified": false,
+        "location": "2.8km",
+        "most_recent_tweet_id": "2094988484276805814",
+        "name": "素風motofu",
+        "pinned_tweet_id": "2083683389870424349",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2066161725322526720/1782701797",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066716754622173184/mlx9B5Nf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 154,
+          "following_count": 150,
+          "like_count": 1240,
+          "listed_count": 2,
+          "media_count": 49,
+          "tweet_count": 1329
+        },
+        "url": "https://t.co/Z6NiHQe69Q",
+        "username": "MTFitness6780",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

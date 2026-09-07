@@ -1,0 +1,295 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2055822314969665536",
+    "conversation_id": "2093557542517424542",
+    "created_at": "2026-08-29T07:41:06.000Z",
+    "display_text_range": [
+      15,
+      18
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-29T08:41:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2093604841280905566"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2092788164234821632",
+          "start": 0,
+          "username": "Yuki1161_IC26"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2093604841280905566",
+    "in_reply_to_user_id": "2092788164234821632",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2093557542517424542",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Yuki1161_IC26 猫堕😼"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3528,
+        "media_key": "3_2093557500624744448",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQ3PdGWXsAA0Ldf.jpg",
+        "width": 3528
+      },
+      {
+        "height": 3528,
+        "media_key": "3_2093557524922351616",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQ3Peg3XwAALet7.jpg",
+        "width": 3528
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2055822314969665536",
+        "conversation_id": "2093557542517424542",
+        "created_at": "2026-08-29T07:41:06.000Z",
+        "display_text_range": [
+          15,
+          18
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-29T08:41:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2093604841280905566"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2092788164234821632",
+              "start": 0,
+              "username": "Yuki1161_IC26"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2093604841280905566",
+        "in_reply_to_user_id": "2092788164234821632",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2093557542517424542",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yuki1161_IC26 猫堕😼"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2093557500624744448",
+            "3_2093557524922351616"
+          ]
+        },
+        "author_id": "2092788164234821632",
+        "conversation_id": "2093557542517424542",
+        "created_at": "2026-08-29T04:33:09.000Z",
+        "display_text_range": [
+          0,
+          76
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-29T05:33:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2093557542517424542"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/gzxnIuEhG0",
+              "end": 100,
+              "expanded_url": "https://x.com/Yuki1161_IC26/status/2093557542517424542/photo/1",
+              "media_key": "3_2093557500624744448",
+              "start": 77,
+              "url": "https://t.co/gzxnIuEhG0"
+            },
+            {
+              "display_url": "pic.x.com/gzxnIuEhG0",
+              "end": 100,
+              "expanded_url": "https://x.com/Yuki1161_IC26/status/2093557542517424542/photo/1",
+              "media_key": "3_2093557524922351616",
+              "start": 77,
+              "url": "https://t.co/gzxnIuEhG0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2093557542517424542",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2093557500624744448"
+          },
+          {
+            "media_key": "3_2093557524922351616"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 289,
+          "like_count": 17,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "哈昂～狗秀金撒嘛❤瓦塔西🥵已經徹底變成岐哥撒嘛❤️齁哦哦哦哦の形狀了🥵叫叫～需要好多💰💰🥵請岐哥哥，～❤️主人把瓦塔西貓貓🐱惡墮了齁哦哦哦哦哦✌🏻🥵✌🏻 https://t.co/gzxnIuEhG0"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-05-17T01:27:33.000Z",
+        "description": "同类互fo，成分请查看@aeglepotato/点赞狂魔/平时喜欢说怪话和发癫/一般通过肉块爱好者，大量匂坂郁纪发言注意👁️/备用@aeglepotato /🦋@aeglepotato /匿名提问箱https://t.co/C8vIKrLtCN",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 11,
+                "username": "aeglepotato"
+              },
+              {
+                "end": 77,
+                "start": 65,
+                "username": "aeglepotato"
+              },
+              {
+                "end": 92,
+                "start": 80,
+                "username": "aeglepotato"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/aeglepotato",
+                "end": 122,
+                "expanded_url": "https://ngl.link/aeglepotato",
+                "start": 99,
+                "url": "https://t.co/C8vIKrLtCN"
+              }
+            ]
+          }
+        },
+        "id": "2055822314969665536",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2093604841280905566",
+        "name": "🌈ALLice⛄赛博幽灵",
+        "pinned_tweet_id": "2064878659698102753",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2055822314969665536/1784767652",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067517312576421888/aGH7Myxd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 377,
+          "following_count": 449,
+          "like_count": 20164,
+          "listed_count": 0,
+          "media_count": 91,
+          "tweet_count": 1543
+        },
+        "url": "",
+        "username": "GrievousPotato1",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-27T01:37:48.000Z",
+        "description": "早已逝去之人 早已宽恕之罪 姐姐@Cecey33\n💊報告🩸等一些負面會些轉發到（待定）\n互fo微查成分可私信fo¹/基本無雷²/不fo詭異號²\n岐的成分複雜做好被雷準備/秩序中立¹/🫳🏻摸摸路人²\n共號/路評/互動²/解離²/抑制²/💊²/🩸²/🐱²/🎵²/☺️²\n\n对不起，我可能有时候很坏-岐",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 16,
+                "username": "Cecey33"
+              }
+            ]
+          }
+        },
+        "id": "2092788164234821632",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2093578333225103721",
+        "name": "歧哥。6號機⁶。 #心宿二◇",
+        "pinned_tweet_id": "2093328760997097797",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2092788164234821632/1787900139",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2092859810945634304/6BBETLHz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 99,
+          "following_count": 96,
+          "like_count": 91,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 68
+        },
+        "url": "",
+        "username": "Yuki1161_IC26",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

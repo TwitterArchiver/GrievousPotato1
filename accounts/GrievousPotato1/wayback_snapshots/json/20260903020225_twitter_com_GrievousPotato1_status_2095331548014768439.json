@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2055822314969665536",
+    "conversation_id": "2095331548014768439",
+    "created_at": "2026-09-03T02:02:25.000Z",
+    "display_text_range": [
+      0,
+      110
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-03T03:02:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2095331548014768439"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1609183710330630145",
+          "start": 3,
+          "username": "XZdRbRugCrJNzRD"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2095331548014768439",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2095085971159359545",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @XZdRbRugCrJNzRD: 普通人生孩子并不伟大，只是为了满足自己当父母的私欲，为了自己的面子，情感，精神寄托，为了自己的养老，为了自己传宗接代的任务，为了合群，为了不被人笑话而把一个无辜的生命带到世间受苦"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2055822314969665536",
+        "conversation_id": "2095331548014768439",
+        "created_at": "2026-09-03T02:02:25.000Z",
+        "display_text_range": [
+          0,
+          110
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-03T03:02:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2095331548014768439"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1609183710330630145",
+              "start": 3,
+              "username": "XZdRbRugCrJNzRD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095331548014768439",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2095085971159359545",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @XZdRbRugCrJNzRD: 普通人生孩子并不伟大，只是为了满足自己当父母的私欲，为了自己的面子，情感，精神寄托，为了自己的养老，为了自己传宗接代的任务，为了合群，为了不被人笑话而把一个无辜的生命带到世间受苦"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1609183710330630145",
+        "conversation_id": "2095085971159359545",
+        "created_at": "2026-09-02T09:46:34.000Z",
+        "display_text_range": [
+          0,
+          89
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-02T10:46:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2095085971159359545"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2095085971159359545",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3413,
+          "like_count": 47,
+          "quote_count": 1,
+          "reply_count": 29,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "普通人生孩子并不伟大，只是为了满足自己当父母的私欲，为了自己的面子，情感，精神寄托，为了自己的养老，为了自己传宗接代的任务，为了合群，为了不被人笑话而把一个无辜的生命带到世间受苦"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-05-17T01:27:33.000Z",
+        "description": "同类互fo，成分请查看@aeglepotato/点赞狂魔/平时喜欢说怪话和发癫/一般通过肉块爱好者，大量匂坂郁纪发言注意👁️/备用@aeglepotato /🦋@aeglepotato /匿名提问箱https://t.co/C8vIKrLtCN",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 11,
+                "username": "aeglepotato"
+              },
+              {
+                "end": 77,
+                "start": 65,
+                "username": "aeglepotato"
+              },
+              {
+                "end": 92,
+                "start": 80,
+                "username": "aeglepotato"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/aeglepotato",
+                "end": 122,
+                "expanded_url": "https://ngl.link/aeglepotato",
+                "start": 99,
+                "url": "https://t.co/C8vIKrLtCN"
+              }
+            ]
+          }
+        },
+        "id": "2055822314969665536",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2095331548014768439",
+        "name": "🌈ALLice⛄赛博幽灵",
+        "pinned_tweet_id": "2064878659698102753",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2055822314969665536/1784767652",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067517312576421888/aGH7Myxd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 391,
+          "following_count": 459,
+          "like_count": 20554,
+          "listed_count": 0,
+          "media_count": 98,
+          "tweet_count": 1610
+        },
+        "url": "",
+        "username": "GrievousPotato1",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-12-31T13:45:12.000Z",
+        "description": "脑子不好，抑郁症，智力低下",
+        "id": "1609183710330630145",
+        "is_identity_verified": false,
+        "location": "unknown",
+        "most_recent_tweet_id": "2095208819940823256",
+        "name": ".942",
+        "pinned_tweet_id": "2088565665821323389",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1609183710330630145/1776523119",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059314305045270528/dfVEkO0p_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 124,
+          "following_count": 825,
+          "like_count": 20953,
+          "listed_count": 1,
+          "media_count": 717,
+          "tweet_count": 9117
+        },
+        "url": "",
+        "username": "XZdRbRugCrJNzRD",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

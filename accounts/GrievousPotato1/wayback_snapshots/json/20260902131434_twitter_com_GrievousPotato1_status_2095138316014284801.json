@@ -1,0 +1,373 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2055822314969665536",
+    "conversation_id": "2095091830505587123",
+    "created_at": "2026-09-02T13:14:34.000Z",
+    "display_text_range": [
+      10,
+      12
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-02T14:14:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2095138316014284801"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2092351522868977664",
+          "start": 0,
+          "username": "tcfzyjbs"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2095138316014284801",
+    "in_reply_to_user_id": "2092351522868977664",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2095091830505587123",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@tcfzyjbs 美美"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 75906,
+        "height": 1280,
+        "media_key": "13_2095090727579770880",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2095090727579770880/img/7t47XAkUoOseEnTY.jpg",
+        "public_metrics": {
+          "view_count": 26
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2095090727579770880/vid/avc1/320x568/3s2MApgQ_R9yoyKv.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2095090727579770880/vid/avc1/480x852/rEkahfy3G2doZwEt.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2095090727579770880/vid/avc1/720x1280/38vsRG5w-2774pva.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2095090727579770880/pl/alPtQjLCvKT1dxVF.m3u8"
+          }
+        ],
+        "width": 720
+      },
+      {
+        "duration_ms": 61098,
+        "height": 1280,
+        "media_key": "13_2095091345572696064",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2095091345572696064/img/RsOomQ8BAeJMxMCC.jpg",
+        "public_metrics": {
+          "view_count": 12
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2095091345572696064/vid/avc1/320x568/cnarwLUz8rzwVngv.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2095091345572696064/vid/avc1/480x852/aaJsqtTpHpL7HPPS.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2095091345572696064/vid/avc1/720x1280/O_PHYKNB0kQnFtpu.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2095091345572696064/pl/3aYhN3zy0ooMd0pH.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2055822314969665536",
+        "conversation_id": "2095091830505587123",
+        "created_at": "2026-09-02T13:14:34.000Z",
+        "display_text_range": [
+          10,
+          12
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-02T14:14:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2095138316014284801"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2092351522868977664",
+              "start": 0,
+              "username": "tcfzyjbs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095138316014284801",
+        "in_reply_to_user_id": "2092351522868977664",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2095091830505587123",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tcfzyjbs 美美"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2095090727579770880",
+            "13_2095091345572696064"
+          ]
+        },
+        "author_id": "2092351522868977664",
+        "conversation_id": "2095091830505587123",
+        "created_at": "2026-09-02T10:09:51.000Z",
+        "display_text_range": [
+          0,
+          104
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-02T11:09:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2095091830505587123"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 24,
+              "start": 18,
+              "tag": "shtwt"
+            },
+            {
+              "end": 28,
+              "start": 25,
+              "tag": "自殘"
+            },
+            {
+              "end": 32,
+              "start": 29,
+              "tag": "自傷"
+            },
+            {
+              "end": 40,
+              "start": 33,
+              "tag": "988twt"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/89oYj0swwR",
+              "end": 128,
+              "expanded_url": "https://x.com/tcfzyjbs/status/2095091830505587123/video/1",
+              "media_key": "13_2095090727579770880",
+              "start": 105,
+              "url": "https://t.co/89oYj0swwR"
+            },
+            {
+              "display_url": "pic.x.com/89oYj0swwR",
+              "end": 128,
+              "expanded_url": "https://x.com/tcfzyjbs/status/2095091830505587123/video/1",
+              "media_key": "13_2095091345572696064",
+              "start": 105,
+              "url": "https://t.co/89oYj0swwR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095091830505587123",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "13_2095090727579770880"
+          },
+          {
+            "media_key": "13_2095091345572696064"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 71,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "把三月份的放出来 脂肪 筋膜 肌肉\n#shtwt #自殘 #自傷 #988twt\n本内容均为特效化妆模拟，参照医学教学案例设计，AI辅助增强清晰度，无任何真实伤情，纯学术用途。假的，假的，假的，AI生成视频。 https://t.co/89oYj0swwR"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-05-17T01:27:33.000Z",
+        "description": "同类互fo，成分请查看@aeglepotato/点赞狂魔/平时喜欢说怪话和发癫/一般通过肉块爱好者，大量匂坂郁纪发言注意👁️/备用@aeglepotato /🦋@aeglepotato /匿名提问箱https://t.co/C8vIKrLtCN",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 11,
+                "username": "aeglepotato"
+              },
+              {
+                "end": 77,
+                "start": 65,
+                "username": "aeglepotato"
+              },
+              {
+                "end": 92,
+                "start": 80,
+                "username": "aeglepotato"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/aeglepotato",
+                "end": 122,
+                "expanded_url": "https://ngl.link/aeglepotato",
+                "start": 99,
+                "url": "https://t.co/C8vIKrLtCN"
+              }
+            ]
+          }
+        },
+        "id": "2055822314969665536",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2095138316014284801",
+        "name": "🌈ALLice⛄赛博幽灵",
+        "pinned_tweet_id": "2064878659698102753",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2055822314969665536/1784767652",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067517312576421888/aGH7Myxd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 390,
+          "following_count": 459,
+          "like_count": 20504,
+          "listed_count": 0,
+          "media_count": 98,
+          "tweet_count": 1603
+        },
+        "url": "",
+        "username": "GrievousPotato1",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-25T20:42:42.000Z",
+        "description": "可以叫我小时 ‖ 前世@kldyj66\n还有一个号去年七月炸掉了我忘了是哪个了\n生理女心理女取向女\nBPD/C-PTSD/MDD\n主页有自残/od/负能相关\n#shedtwt ‖ 想和同类玩 我会直关 介意请讲🤲",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 87,
+                "start": 79,
+                "tag": "shedtwt"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 19,
+                "start": 11,
+                "username": "kldyj66"
+              }
+            ]
+          }
+        },
+        "id": "2092351522868977664",
+        "is_identity_verified": false,
+        "location": "餐券女温暖的肌肉层",
+        "most_recent_tweet_id": "2095131332515074435",
+        "name": "天才廢宅一擊必殺",
+        "pinned_tweet_id": "2092611414590726379",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2092351522868977664/1787939246",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2093395507393728512/uQGl3JV__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 59,
+          "following_count": 81,
+          "like_count": 290,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 242
+        },
+        "url": "",
+        "username": "tcfzyjbs",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

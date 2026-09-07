@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2055822314969665536",
+    "conversation_id": "2094804004458922419",
+    "created_at": "2026-09-01T15:06:08.000Z",
+    "display_text_range": [
+      0,
+      140
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-01T16:06:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2094804004458922419"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "2017909057764691968",
+          "start": 3,
+          "username": "IMeoroll57559"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2094804004458922419",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 73
+    },
+    "referenced_tweets": [
+      {
+        "id": "2094722256757018995",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @IMeoroll57559: 和思想贫瘠的人交流起来简直是太痛苦了，你会发现无论你想聊点什么，对方全都接不住，除了吃喝拉撒就是男女那点事。有时候看着他们我会觉得他们浅薄的就像一张半透明的纸，压根不需要探索和进行任何深入沟通，因为纸的背后完全没有内容，而且稍微碰一下就烂掉…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2055822314969665536",
+        "conversation_id": "2094804004458922419",
+        "created_at": "2026-09-01T15:06:08.000Z",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-01T16:06:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2094804004458922419"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "2017909057764691968",
+              "start": 3,
+              "username": "IMeoroll57559"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094804004458922419",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 73
+        },
+        "referenced_tweets": [
+          {
+            "id": "2094722256757018995",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @IMeoroll57559: 和思想贫瘠的人交流起来简直是太痛苦了，你会发现无论你想聊点什么，对方全都接不住，除了吃喝拉撒就是男女那点事。有时候看着他们我会觉得他们浅薄的就像一张半透明的纸，压根不需要探索和进行任何深入沟通，因为纸的背后完全没有内容，而且稍微碰一下就烂掉…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2017909057764691968",
+        "conversation_id": "2094722256757018995",
+        "created_at": "2026-09-01T09:41:18.000Z",
+        "display_text_range": [
+          0,
+          134
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-01T10:41:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2094722256757018995"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2094722256757018995",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 64,
+          "impression_count": 20356,
+          "like_count": 762,
+          "quote_count": 7,
+          "reply_count": 108,
+          "retweet_count": 73
+        },
+        "reply_settings": "everyone",
+        "text": "和思想贫瘠的人交流起来简直是太痛苦了，你会发现无论你想聊点什么，对方全都接不住，除了吃喝拉撒就是男女那点事。有时候看着他们我会觉得他们浅薄的就像一张半透明的纸，压根不需要探索和进行任何深入沟通，因为纸的背后完全没有内容，而且稍微碰一下就烂掉了，烂掉的是他们脆弱的自尊心"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-05-17T01:27:33.000Z",
+        "description": "同类互fo，成分请查看@aeglepotato/点赞狂魔/平时喜欢说怪话和发癫/一般通过肉块爱好者，大量匂坂郁纪发言注意👁️/备用@aeglepotato /🦋@aeglepotato /匿名提问箱https://t.co/C8vIKrLtCN",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 11,
+                "username": "aeglepotato"
+              },
+              {
+                "end": 77,
+                "start": 65,
+                "username": "aeglepotato"
+              },
+              {
+                "end": 92,
+                "start": 80,
+                "username": "aeglepotato"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/aeglepotato",
+                "end": 122,
+                "expanded_url": "https://ngl.link/aeglepotato",
+                "start": 99,
+                "url": "https://t.co/C8vIKrLtCN"
+              }
+            ]
+          }
+        },
+        "id": "2055822314969665536",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2094804004458922419",
+        "name": "🌈ALLice⛄赛博幽灵",
+        "pinned_tweet_id": "2064878659698102753",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2055822314969665536/1784767652",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067517312576421888/aGH7Myxd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 384,
+          "following_count": 456,
+          "like_count": 20414,
+          "listed_count": 0,
+          "media_count": 95,
+          "tweet_count": 1583
+        },
+        "url": "",
+        "username": "GrievousPotato1",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-02-01T10:33:21.000Z",
+        "description": "",
+        "id": "2017909057764691968",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2094785736742691225",
+        "name": "Iris (Meoroll、)",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2017909057764691968/1787978037",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2093889977088454656/08s1EAZ5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 234,
+          "following_count": 1,
+          "like_count": 154,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 73
+        },
+        "url": "",
+        "username": "IMeoroll57559",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

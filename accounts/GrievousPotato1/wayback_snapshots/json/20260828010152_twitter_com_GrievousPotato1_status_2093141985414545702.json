@@ -1,0 +1,275 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2055822314969665536",
+    "conversation_id": "2093141985414545702",
+    "created_at": "2026-08-28T01:01:52.000Z",
+    "display_text_range": [
+      0,
+      46
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-28T02:01:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2093141985414545702"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/vanillaCitron/…",
+          "end": 70,
+          "expanded_url": "https://twitter.com/vanillaCitron/status/2092667653831942325",
+          "start": 47,
+          "url": "https://t.co/Lbl8bl8AFf"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2093141985414545702",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2092667653831942325",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "其实我非常想长个🐔，这样当有傻逼说出“居然是女的”的时候我就可以脱下裤子用🐔狠狠的扇它的脸（ https://t.co/Lbl8bl8AFf"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1232,
+        "media_key": "3_2092664770856108032",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQqjhYzaQAAme8L.jpg",
+        "width": 1182
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2055822314969665536",
+        "conversation_id": "2093141985414545702",
+        "created_at": "2026-08-28T01:01:52.000Z",
+        "display_text_range": [
+          0,
+          46
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-28T02:01:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2093141985414545702"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/vanillaCitron/…",
+              "end": 70,
+              "expanded_url": "https://twitter.com/vanillaCitron/status/2092667653831942325",
+              "start": 47,
+              "url": "https://t.co/Lbl8bl8AFf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2093141985414545702",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092667653831942325",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "其实我非常想长个🐔，这样当有傻逼说出“居然是女的”的时候我就可以脱下裤子用🐔狠狠的扇它的脸（ https://t.co/Lbl8bl8AFf"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2092664770856108032"
+          ]
+        },
+        "author_id": "1285577648861659137",
+        "conversation_id": "2092667653831942325",
+        "created_at": "2026-08-26T17:37:03.000Z",
+        "display_text_range": [
+          0,
+          139
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-26T18:37:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2092667653831942325"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/WpnFV6NURz",
+              "end": 163,
+              "expanded_url": "https://x.com/vanillaCitron/status/2092667653831942325/photo/1",
+              "media_key": "3_2092664770856108032",
+              "start": 140,
+              "url": "https://t.co/WpnFV6NURz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092667653831942325",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2092664770856108032"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 56,
+          "impression_count": 61806,
+          "like_count": 576,
+          "quote_count": 13,
+          "reply_count": 83,
+          "retweet_count": 37
+        },
+        "reply_settings": "everyone",
+        "text": "这位作者同时在歧视和霸凌女性和跨性别者。也反映了简中技术圈（含投资人）长期以来的偏见和歧视。\n\n作为女性，在参加各种活动时，我常感觉到不被欢迎。在请教技术问题时，他们会优先询问和同行的男性朋友；共同合作的项目，他们会默认男性为项目主导者。而却更多跟我的交流兴趣爱好或是生活方式。 https://t.co/WpnFV6NURz"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-05-17T01:27:33.000Z",
+        "description": "同类互fo，成分请查看@aeglepotato/点赞狂魔/平时喜欢说怪话和发癫/一般通过肉块爱好者，大量匂坂郁纪发言注意👁️/备用@aeglepotato /🦋@aeglepotato /匿名提问箱https://t.co/C8vIKrLtCN",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 11,
+                "username": "aeglepotato"
+              },
+              {
+                "end": 77,
+                "start": 65,
+                "username": "aeglepotato"
+              },
+              {
+                "end": 92,
+                "start": 80,
+                "username": "aeglepotato"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/aeglepotato",
+                "end": 122,
+                "expanded_url": "https://ngl.link/aeglepotato",
+                "start": 99,
+                "url": "https://t.co/C8vIKrLtCN"
+              }
+            ]
+          }
+        },
+        "id": "2055822314969665536",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2093141985414545702",
+        "name": "🌈ALLice⛄赛博幽灵",
+        "pinned_tweet_id": "2064878659698102753",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2055822314969665536/1784767652",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067517312576421888/aGH7Myxd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 378,
+          "following_count": 450,
+          "like_count": 20075,
+          "listed_count": 0,
+          "media_count": 90,
+          "tweet_count": 1528
+        },
+        "url": "",
+        "username": "GrievousPotato1",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2020-07-21T14:10:31.000Z",
+        "description": "🏳️‍🌈 / 🌠 ex. Tencent design engineer /  SSC 26 Winner / iOS developer, made @PieceletNeoDB",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 91,
+                "start": 77,
+                "username": "PieceletNeoDB"
+              }
+            ]
+          }
+        },
+        "id": "1285577648861659137",
+        "is_identity_verified": false,
+        "location": "出逃要趕早 | 🐘 @lcandy@m.cmx.im",
+        "most_recent_tweet_id": "2093050253851418858",
+        "name": "citron🍢🍋",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1285577648861659137/1637980528",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1686744469415104512/OFA-6nhA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4979,
+          "following_count": 1209,
+          "like_count": 21159,
+          "listed_count": 25,
+          "media_count": 1030,
+          "tweet_count": 7563
+        },
+        "url": "",
+        "username": "vanillaCitron",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

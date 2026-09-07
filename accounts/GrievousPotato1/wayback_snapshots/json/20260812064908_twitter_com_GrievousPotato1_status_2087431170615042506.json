@@ -1,0 +1,435 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2087112685205028864",
+        "3_2087112685217624064"
+      ],
+      "media_source_tweet_id": [
+        "2087112708227514722",
+        "2087112708227514722"
+      ]
+    },
+    "author_id": "2055822314969665536",
+    "conversation_id": "2087431170615042506",
+    "created_at": "2026-08-12T06:49:08.000Z",
+    "display_text_range": [
+      0,
+      100
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-12T07:49:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2087431170615042506"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 57,
+          "start": 51,
+          "tag": "困的呕吐物"
+        },
+        {
+          "end": 62,
+          "start": 58,
+          "tag": "人皮扣"
+        },
+        {
+          "end": 76,
+          "start": 63,
+          "tag": "playpiercing"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2043252600234274816",
+          "start": 3,
+          "username": "outuwu___"
+        },
+        {
+          "end": 35,
+          "id": "2043252600234274816",
+          "start": 25,
+          "username": "outuwu___"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/hPaztkCSBh",
+          "end": 100,
+          "expanded_url": "https://x.com/outuwu___/status/2087112708227514722/photo/1",
+          "media_key": "3_2087112685205028864",
+          "start": 77,
+          "url": "https://t.co/hPaztkCSBh"
+        },
+        {
+          "display_url": "pic.x.com/hPaztkCSBh",
+          "end": 100,
+          "expanded_url": "https://x.com/outuwu___/status/2087112708227514722/photo/1",
+          "media_key": "3_2087112685217624064",
+          "start": 77,
+          "url": "https://t.co/hPaztkCSBh"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2087431170615042506",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2087112685205028864"
+      },
+      {
+        "media_key": "3_2087112685217624064"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 149
+    },
+    "referenced_tweets": [
+      {
+        "id": "2087112708227514722",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @outuwu___: 老图新发\n__\n\n🪡@outuwu___ \n装饰性穿刺艺术 拍完照就取\n#困的呕吐物 #人皮扣 #playpiercing https://t.co/hPaztkCSBh"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2087112685205028864",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPbp7d_bgAALRKX.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2087112685217624064",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPbp7eCbsAA7mr5.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2087112685205028864",
+            "3_2087112685217624064"
+          ]
+        },
+        "author_id": "2043252600234274816",
+        "conversation_id": "2087112708227514722",
+        "created_at": "2026-08-11T09:43:40.000Z",
+        "display_text_range": [
+          0,
+          61
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-11T10:43:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2087112708227514722"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 42,
+              "start": 36,
+              "tag": "困的呕吐物"
+            },
+            {
+              "end": 47,
+              "start": 43,
+              "tag": "人皮扣"
+            },
+            {
+              "end": 61,
+              "start": 48,
+              "tag": "playpiercing"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 20,
+              "id": "2043252600234274816",
+              "start": 10,
+              "username": "outuwu___"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/hPaztkCSBh",
+              "end": 85,
+              "expanded_url": "https://x.com/outuwu___/status/2087112708227514722/photo/1",
+              "media_key": "3_2087112685205028864",
+              "start": 62,
+              "url": "https://t.co/hPaztkCSBh"
+            },
+            {
+              "display_url": "pic.x.com/hPaztkCSBh",
+              "end": 85,
+              "expanded_url": "https://x.com/outuwu___/status/2087112708227514722/photo/1",
+              "media_key": "3_2087112685217624064",
+              "start": 62,
+              "url": "https://t.co/hPaztkCSBh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087112708227514722",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2087112685205028864"
+          },
+          {
+            "media_key": "3_2087112685217624064"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 158,
+          "impression_count": 55612,
+          "like_count": 1685,
+          "quote_count": 23,
+          "reply_count": 11,
+          "retweet_count": 149
+        },
+        "reply_settings": "everyone",
+        "text": "老图新发\n__\n\n🪡@outuwu___ \n装饰性穿刺艺术 拍完照就取\n#困的呕吐物 #人皮扣 #playpiercing https://t.co/hPaztkCSBh"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2087112685205028864",
+            "3_2087112685217624064"
+          ],
+          "media_source_tweet_id": [
+            "2087112708227514722",
+            "2087112708227514722"
+          ]
+        },
+        "author_id": "2055822314969665536",
+        "conversation_id": "2087431170615042506",
+        "created_at": "2026-08-12T06:49:08.000Z",
+        "display_text_range": [
+          0,
+          100
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-12T07:49:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087431170615042506"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 57,
+              "start": 51,
+              "tag": "困的呕吐物"
+            },
+            {
+              "end": 62,
+              "start": 58,
+              "tag": "人皮扣"
+            },
+            {
+              "end": 76,
+              "start": 63,
+              "tag": "playpiercing"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2043252600234274816",
+              "start": 3,
+              "username": "outuwu___"
+            },
+            {
+              "end": 35,
+              "id": "2043252600234274816",
+              "start": 25,
+              "username": "outuwu___"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/hPaztkCSBh",
+              "end": 100,
+              "expanded_url": "https://x.com/outuwu___/status/2087112708227514722/photo/1",
+              "media_key": "3_2087112685205028864",
+              "start": 77,
+              "url": "https://t.co/hPaztkCSBh"
+            },
+            {
+              "display_url": "pic.x.com/hPaztkCSBh",
+              "end": 100,
+              "expanded_url": "https://x.com/outuwu___/status/2087112708227514722/photo/1",
+              "media_key": "3_2087112685217624064",
+              "start": 77,
+              "url": "https://t.co/hPaztkCSBh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087431170615042506",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2087112685205028864"
+          },
+          {
+            "media_key": "3_2087112685217624064"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 149
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087112708227514722",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @outuwu___: 老图新发\n__\n\n🪡@outuwu___ \n装饰性穿刺艺术 拍完照就取\n#困的呕吐物 #人皮扣 #playpiercing https://t.co/hPaztkCSBh"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-05-17T01:27:33.000Z",
+        "description": "同类互fo，成分请查看@aeglepotato/点赞狂魔/平时喜欢说怪话和发癫/一般通过肉块爱好者，大量匂坂郁纪发言注意👁️/备用@aeglepotato /🦋@aeglepotato /匿名提问箱https://t.co/C8vIKrLtCN",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 11,
+                "username": "aeglepotato"
+              },
+              {
+                "end": 77,
+                "start": 65,
+                "username": "aeglepotato"
+              },
+              {
+                "end": 92,
+                "start": 80,
+                "username": "aeglepotato"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/aeglepotato",
+                "end": 122,
+                "expanded_url": "https://ngl.link/aeglepotato",
+                "start": 99,
+                "url": "https://t.co/C8vIKrLtCN"
+              }
+            ]
+          }
+        },
+        "id": "2055822314969665536",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2087431170615042506",
+        "name": "⛄ALLice🌈赛博幽灵",
+        "pinned_tweet_id": "2064878659698102753",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2055822314969665536/1784767652",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067517312576421888/aGH7Myxd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 352,
+          "following_count": 424,
+          "like_count": 18418,
+          "listed_count": 0,
+          "media_count": 73,
+          "tweet_count": 1294
+        },
+        "url": "",
+        "username": "GrievousPotato1",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-04-12T09:02:42.000Z",
+        "description": "你好 我是困困2.0ʢᴗ.ᴗʡᶻ @kundeoutuwu_｜Bi｜S｜🪡人皮扣体验/合作/教学/穿刺制品欢迎礼貌询价｜作品均是🔞 一切行为均经过知情同意确认 无真实暴力发生 无任何不良暗示与引导｜咨询/预约类私信都会回 非互fo私信不闲聊。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 17,
+                "username": "kundeoutuwu_"
+              }
+            ]
+          }
+        },
+        "id": "2043252600234274816",
+        "is_identity_verified": false,
+        "location": "    Visual / Body Artist",
+        "most_recent_tweet_id": "2087112708227514722",
+        "name": "呕吐物___",
+        "pinned_tweet_id": "2053693305083601370",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2043252600234274816/1775985582",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043253824169869312/FBHypxGr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1178,
+          "following_count": 113,
+          "like_count": 481,
+          "listed_count": 4,
+          "media_count": 38,
+          "tweet_count": 110
+        },
+        "url": "",
+        "username": "outuwu___",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

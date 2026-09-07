@@ -1,0 +1,241 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2095125725103714305"
+      ]
+    },
+    "author_id": "2055822314969665536",
+    "conversation_id": "2095125719445590082",
+    "created_at": "2026-09-02T12:24:34.000Z",
+    "display_text_range": [
+      0,
+      96
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-02T13:24:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2095125731713937457"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/qS1IKr2i5p",
+          "end": 120,
+          "expanded_url": "https://x.com/GrievousPotato1/status/2095125731713937457/photo/1",
+          "media_key": "3_2095125725103714305",
+          "start": 97,
+          "url": "https://t.co/qS1IKr2i5p"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2095125731713937457",
+    "in_reply_to_user_id": "2055822314969665536",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2095125725103714305"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2095125719445590082",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "还有一个小心得，当自己真的非常想往生的时候，强制规定自己一个星期后再考虑，如果一个星期后还想往生的话就喝\n我就是这样撑过了无数次“一个星期”，虽然我不知道活着到底是好是坏，但结果就是我还活着（ https://t.co/qS1IKr2i5p"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1206,
+        "media_key": "3_2095125725103714305",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRNhvxyW8AEBRvp.jpg",
+        "width": 1220
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2095125725103714305"
+          ]
+        },
+        "author_id": "2055822314969665536",
+        "conversation_id": "2095125719445590082",
+        "created_at": "2026-09-02T12:24:34.000Z",
+        "display_text_range": [
+          0,
+          96
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-02T13:24:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2095125731713937457"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/qS1IKr2i5p",
+              "end": 120,
+              "expanded_url": "https://x.com/GrievousPotato1/status/2095125731713937457/photo/1",
+              "media_key": "3_2095125725103714305",
+              "start": 97,
+              "url": "https://t.co/qS1IKr2i5p"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095125731713937457",
+        "in_reply_to_user_id": "2055822314969665536",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2095125725103714305"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2095125719445590082",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "还有一个小心得，当自己真的非常想往生的时候，强制规定自己一个星期后再考虑，如果一个星期后还想往生的话就喝\n我就是这样撑过了无数次“一个星期”，虽然我不知道活着到底是好是坏，但结果就是我还活着（ https://t.co/qS1IKr2i5p"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2055822314969665536",
+        "conversation_id": "2095125719445590082",
+        "created_at": "2026-09-02T12:24:31.000Z",
+        "display_text_range": [
+          0,
+          133
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-02T13:24:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2095125719445590082"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2095125719445590082",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "虽然这样说很奇怪，但如果对自己的自控力有信心，又有要往生的想法，我是推荐去准备一些能让自己往生的物品的，这样当你搞到手的时候，就不会再想“该怎么往生”，而是会考虑“有必要往生吗”\n\n但前提是自控力一定要非常强，不会一时冲动就喝了\n\n（看着我手上快过期的亚盐有感而发）"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-05-17T01:27:33.000Z",
+        "description": "同类互fo，成分请查看@aeglepotato/点赞狂魔/平时喜欢说怪话和发癫/一般通过肉块爱好者，大量匂坂郁纪发言注意👁️/备用@aeglepotato /🦋@aeglepotato /匿名提问箱https://t.co/C8vIKrLtCN",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 11,
+                "username": "aeglepotato"
+              },
+              {
+                "end": 77,
+                "start": 65,
+                "username": "aeglepotato"
+              },
+              {
+                "end": 92,
+                "start": 80,
+                "username": "aeglepotato"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/aeglepotato",
+                "end": 122,
+                "expanded_url": "https://ngl.link/aeglepotato",
+                "start": 99,
+                "url": "https://t.co/C8vIKrLtCN"
+              }
+            ]
+          }
+        },
+        "id": "2055822314969665536",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2095125731713937457",
+        "name": "🌈ALLice⛄赛博幽灵",
+        "pinned_tweet_id": "2064878659698102753",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2055822314969665536/1784767652",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067517312576421888/aGH7Myxd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 390,
+          "following_count": 459,
+          "like_count": 20499,
+          "listed_count": 0,
+          "media_count": 97,
+          "tweet_count": 1600
+        },
+        "url": "",
+        "username": "GrievousPotato1",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

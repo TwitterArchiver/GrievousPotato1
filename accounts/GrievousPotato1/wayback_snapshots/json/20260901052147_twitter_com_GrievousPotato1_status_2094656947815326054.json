@@ -1,0 +1,276 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2055822314969665536",
+    "conversation_id": "2094656947815326054",
+    "created_at": "2026-09-01T05:21:47.000Z",
+    "display_text_range": [
+      0,
+      140
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-01T06:21:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2094656947815326054"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1914166367705530368",
+          "start": 3,
+          "username": "xiaomao_444"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2094656947815326054",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2094632773415800844",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @xiaomao_444: 在这个荒诞又操蛋的世界里，所谓的锚点，是你自己亲手拿血肉和骨头锻造出来的！你觉得生活灰暗，是因为你还没有狠狠给这个世界一拳\n管它是不是扭曲的、离经叛道的，甚至被世俗视为恶意的——只要它能让你在这个毫无意义的宇宙里挺直脊梁，只要它能让你在每天醒来…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2055822314969665536",
+        "conversation_id": "2094656947815326054",
+        "created_at": "2026-09-01T05:21:47.000Z",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-01T06:21:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2094656947815326054"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1914166367705530368",
+              "start": 3,
+              "username": "xiaomao_444"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094656947815326054",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2094632773415800844",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @xiaomao_444: 在这个荒诞又操蛋的世界里，所谓的锚点，是你自己亲手拿血肉和骨头锻造出来的！你觉得生活灰暗，是因为你还没有狠狠给这个世界一拳\n管它是不是扭曲的、离经叛道的，甚至被世俗视为恶意的——只要它能让你在这个毫无意义的宇宙里挺直脊梁，只要它能让你在每天醒来…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1914166367705530368",
+        "conversation_id": "2094632773415800844",
+        "created_at": "2026-09-01T03:45:44.000Z",
+        "display_text_range": [
+          0,
+          138
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-01T04:45:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2094632773415800844"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/GrievousPotato…",
+              "end": 162,
+              "expanded_url": "https://twitter.com/GrievousPotato1/status/2094621454612545856",
+              "start": 139,
+              "url": "https://t.co/27a0pqnWb5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094632773415800844",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 65,
+          "like_count": 4,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2094621454612545856",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "在这个荒诞又操蛋的世界里，所谓的锚点，是你自己亲手拿血肉和骨头锻造出来的！你觉得生活灰暗，是因为你还没有狠狠给这个世界一拳\n管它是不是扭曲的、离经叛道的，甚至被世俗视为恶意的——只要它能让你在这个毫无意义的宇宙里挺直脊梁，只要它能让你在每天醒来时感到愤怒和清醒，那就是你的锚点 https://t.co/27a0pqnWb5"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-05-17T01:27:33.000Z",
+        "description": "同类互fo，成分请查看@aeglepotato/点赞狂魔/平时喜欢说怪话和发癫/一般通过肉块爱好者，大量匂坂郁纪发言注意👁️/备用@aeglepotato /🦋@aeglepotato /匿名提问箱https://t.co/C8vIKrLtCN",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 11,
+                "username": "aeglepotato"
+              },
+              {
+                "end": 77,
+                "start": 65,
+                "username": "aeglepotato"
+              },
+              {
+                "end": 92,
+                "start": 80,
+                "username": "aeglepotato"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/aeglepotato",
+                "end": 122,
+                "expanded_url": "https://ngl.link/aeglepotato",
+                "start": 99,
+                "url": "https://t.co/C8vIKrLtCN"
+              }
+            ]
+          }
+        },
+        "id": "2055822314969665536",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2094656947815326054",
+        "name": "🌈ALLice⛄赛博幽灵",
+        "pinned_tweet_id": "2064878659698102753",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2055822314969665536/1784767652",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067517312576421888/aGH7Myxd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 379,
+          "following_count": 449,
+          "like_count": 20317,
+          "listed_count": 0,
+          "media_count": 94,
+          "tweet_count": 1567
+        },
+        "url": "",
+        "username": "GrievousPotato1",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-04-21T03:57:01.000Z",
+        "description": "Xiao Māo.mp3 🔩 menheraSCCP  有时我想让自己消失 | 非二元性别 nb he/him 💢 ISFP 21y | 精神不稳定 💢 我喜欢用毒品逃避现实🍁drugtwt🪷\n@mentaruhell \nBFF @stonedkangel",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 109,
+                "start": 97,
+                "username": "mentaruhell"
+              },
+              {
+                "end": 128,
+                "start": 115,
+                "username": "stonedkangel"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "xiaomao444.tumblr.com/?source=share",
+                "end": 23,
+                "expanded_url": "https://xiaomao444.tumblr.com/?source=share",
+                "start": 0,
+                "url": "https://t.co/uvaRPj7a4w"
+              }
+            ]
+          }
+        },
+        "id": "1914166367705530368",
+        "is_identity_verified": false,
+        "location": "dm for discord sever link",
+        "most_recent_tweet_id": "2094656647255728435",
+        "name": "Xiao Māo 小猫★ 🐼420",
+        "pinned_tweet_id": "2085942732694937854",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1914166367705530368/1786429537",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2094244865198444544/uPc2rzJa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 271,
+          "following_count": 257,
+          "like_count": 5604,
+          "listed_count": 1,
+          "media_count": 127,
+          "tweet_count": 1532
+        },
+        "url": "https://t.co/uvaRPj7a4w",
+        "username": "xiaomao_444",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

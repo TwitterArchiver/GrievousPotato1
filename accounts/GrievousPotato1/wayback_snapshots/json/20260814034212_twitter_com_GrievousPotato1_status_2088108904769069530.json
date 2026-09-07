@@ -1,0 +1,324 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2055822314969665536",
+    "conversation_id": "2088101340107173975",
+    "created_at": "2026-08-14T03:42:12.000Z",
+    "display_text_range": [
+      15,
+      22
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-14T04:42:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2088108904769069530"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1904731881817735168",
+          "start": 0,
+          "username": "3e1diei0_oi7y"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088108904769069530",
+    "in_reply_to_user_id": "1904731881817735168",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2088101340107173975",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@3e1diei0_oi7y 好美丽的文字🥹"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 866,
+        "media_key": "3_2088101324093292545",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPptF02agAEo7gB.jpg",
+        "width": 2048
+      },
+      {
+        "height": 453,
+        "media_key": "3_2088101324177145856",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPptF1KaAAAV2ag.jpg",
+        "width": 1080
+      },
+      {
+        "height": 382,
+        "media_key": "3_2088101324118536192",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPptF08bsAA9hDK.jpg",
+        "width": 600
+      },
+      {
+        "height": 455,
+        "media_key": "3_2088101324177207296",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPptF1Ka8AALcy5.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2055822314969665536",
+        "conversation_id": "2088101340107173975",
+        "created_at": "2026-08-14T03:42:12.000Z",
+        "display_text_range": [
+          15,
+          22
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-14T04:42:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088108904769069530"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1904731881817735168",
+              "start": 0,
+              "username": "3e1diei0_oi7y"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088108904769069530",
+        "in_reply_to_user_id": "1904731881817735168",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088101340107173975",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@3e1diei0_oi7y 好美丽的文字🥹"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2088101324093292545",
+            "3_2088101324177145856",
+            "3_2088101324118536192",
+            "3_2088101324177207296"
+          ]
+        },
+        "author_id": "1904731881817735168",
+        "conversation_id": "2088101340107173975",
+        "created_at": "2026-08-14T03:12:09.000Z",
+        "display_text_range": [
+          0,
+          147
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-14T04:12:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2088101340107173975"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/uyS5VPbkA8",
+              "end": 171,
+              "expanded_url": "https://x.com/3e1diei0_oi7y/status/2088101340107173975/photo/1",
+              "media_key": "3_2088101324093292545",
+              "start": 148,
+              "url": "https://t.co/uyS5VPbkA8"
+            },
+            {
+              "display_url": "pic.x.com/uyS5VPbkA8",
+              "end": 171,
+              "expanded_url": "https://x.com/3e1diei0_oi7y/status/2088101340107173975/photo/1",
+              "media_key": "3_2088101324177145856",
+              "start": 148,
+              "url": "https://t.co/uyS5VPbkA8"
+            },
+            {
+              "display_url": "pic.x.com/uyS5VPbkA8",
+              "end": 171,
+              "expanded_url": "https://x.com/3e1diei0_oi7y/status/2088101340107173975/photo/1",
+              "media_key": "3_2088101324118536192",
+              "start": 148,
+              "url": "https://t.co/uyS5VPbkA8"
+            },
+            {
+              "display_url": "pic.x.com/uyS5VPbkA8",
+              "end": 171,
+              "expanded_url": "https://x.com/3e1diei0_oi7y/status/2088101340107173975/photo/1",
+              "media_key": "3_2088101324177207296",
+              "start": 148,
+              "url": "https://t.co/uyS5VPbkA8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088101340107173975",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2088101324093292545"
+          },
+          {
+            "media_key": "3_2088101324177145856"
+          },
+          {
+            "media_key": "3_2088101324118536192"
+          },
+          {
+            "media_key": "3_2088101324177207296"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 45,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "天真、脆弱、无知的迷途羔羊。 \n哭泣、尖叫着爱… \n迷信爱，借由爱拯救未来，也为爱所戕杀。\n我如此笃信于你，为什么神默然不语呢。 \n口含命运碎花裙的野兔，在错置的情焰中焚烧，如是注视着。\n\nDaer father, what’s going on？ \nFather,where are you? https://t.co/uyS5VPbkA8"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-05-17T01:27:33.000Z",
+        "description": "同类互fo，成分请查看@aeglepotato/点赞狂魔/平时喜欢说怪话和发癫/一般通过肉块爱好者，大量匂坂郁纪发言注意👁️/备用@aeglepotato /🦋@aeglepotato /匿名提问箱https://t.co/C8vIKrLtCN",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 11,
+                "username": "aeglepotato"
+              },
+              {
+                "end": 77,
+                "start": 65,
+                "username": "aeglepotato"
+              },
+              {
+                "end": 92,
+                "start": 80,
+                "username": "aeglepotato"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/aeglepotato",
+                "end": 122,
+                "expanded_url": "https://ngl.link/aeglepotato",
+                "start": 99,
+                "url": "https://t.co/C8vIKrLtCN"
+              }
+            ]
+          }
+        },
+        "id": "2055822314969665536",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2088108904769069530",
+        "name": "⛄ALLice🌈赛博幽灵",
+        "pinned_tweet_id": "2064878659698102753",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2055822314969665536/1784767652",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067517312576421888/aGH7Myxd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 358,
+          "following_count": 426,
+          "like_count": 18700,
+          "listed_count": 0,
+          "media_count": 76,
+          "tweet_count": 1340
+        },
+        "url": "",
+        "username": "GrievousPotato1",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-03-26T03:07:31.000Z",
+        "description": "愛，愛，愛",
+        "id": "1904731881817735168",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2088101340107173975",
+        "name": "L4crim_0se9v",
+        "pinned_tweet_id": "2074083499922047374",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1904731881817735168/1784026484",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076981039357128705/hmY4LgMd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 481,
+          "following_count": 644,
+          "like_count": 33882,
+          "listed_count": 0,
+          "media_count": 209,
+          "tweet_count": 1190
+        },
+        "url": "",
+        "username": "3e1diei0_oi7y",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

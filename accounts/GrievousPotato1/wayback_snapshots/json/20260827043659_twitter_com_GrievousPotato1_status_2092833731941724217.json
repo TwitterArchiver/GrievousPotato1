@@ -1,0 +1,340 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2055822314969665536",
+    "conversation_id": "2092769649243148632",
+    "created_at": "2026-08-27T04:36:59.000Z",
+    "display_text_range": [
+      14,
+      19
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-27T05:36:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2092833731941724217"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2090032448050524161",
+          "start": 0,
+          "username": "Yuki1161taff"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2092833731941724217",
+    "in_reply_to_user_id": "2090032448050524161",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2092769649243148632",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Yuki1161taff 摄影大师👍"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1279,
+        "media_key": "3_2092769623683092480",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQsC4oBb0AAv3I7.jpg",
+        "width": 2275
+      },
+      {
+        "height": 1279,
+        "media_key": "3_2092769630305792000",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQsC5AsaMAA40uu.jpg",
+        "width": 2275
+      },
+      {
+        "height": 1080,
+        "media_key": "3_2092769637780070400",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQsC5ciaoAA00pg.jpg",
+        "width": 1920
+      },
+      {
+        "height": 1280,
+        "media_key": "3_2092769643048194048",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQsC5wKb0AAp4ys.jpg",
+        "width": 2773
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2055822314969665536",
+        "conversation_id": "2092769649243148632",
+        "created_at": "2026-08-27T04:36:59.000Z",
+        "display_text_range": [
+          14,
+          19
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-27T05:36:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2092833731941724217"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2090032448050524161",
+              "start": 0,
+              "username": "Yuki1161taff"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092833731941724217",
+        "in_reply_to_user_id": "2090032448050524161",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092769649243148632",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yuki1161taff 摄影大师👍"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2092769623683092480",
+            "3_2092769630305792000",
+            "3_2092769637780070400",
+            "3_2092769643048194048"
+          ]
+        },
+        "author_id": "2090032448050524161",
+        "conversation_id": "2092769649243148632",
+        "created_at": "2026-08-27T00:22:20.000Z",
+        "display_text_range": [
+          0,
+          52
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-27T01:22:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2092769649243148632"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/VUGPvu6Zgh",
+              "end": 76,
+              "expanded_url": "https://x.com/Yuki1161taff/status/2092769649243148632/photo/1",
+              "media_key": "3_2092769623683092480",
+              "start": 53,
+              "url": "https://t.co/VUGPvu6Zgh"
+            },
+            {
+              "display_url": "pic.x.com/VUGPvu6Zgh",
+              "end": 76,
+              "expanded_url": "https://x.com/Yuki1161taff/status/2092769649243148632/photo/1",
+              "media_key": "3_2092769630305792000",
+              "start": 53,
+              "url": "https://t.co/VUGPvu6Zgh"
+            },
+            {
+              "display_url": "pic.x.com/VUGPvu6Zgh",
+              "end": 76,
+              "expanded_url": "https://x.com/Yuki1161taff/status/2092769649243148632/photo/1",
+              "media_key": "3_2092769637780070400",
+              "start": 53,
+              "url": "https://t.co/VUGPvu6Zgh"
+            },
+            {
+              "display_url": "pic.x.com/VUGPvu6Zgh",
+              "end": 76,
+              "expanded_url": "https://x.com/Yuki1161taff/status/2092769649243148632/photo/1",
+              "media_key": "3_2092769643048194048",
+              "start": 53,
+              "url": "https://t.co/VUGPvu6Zgh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092769649243148632",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2092769623683092480"
+          },
+          {
+            "media_key": "3_2092769630305792000"
+          },
+          {
+            "media_key": "3_2092769637780070400"
+          },
+          {
+            "media_key": "3_2092769643048194048"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 337,
+          "like_count": 23,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "给你们看看岐哥拍的照😈这是我特别喜欢的四张🤔真漂亮呀 明明好会拍照的哦不发出来给推友的话看看真的可惜了！ https://t.co/VUGPvu6Zgh"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-05-17T01:27:33.000Z",
+        "description": "同类互fo，成分请查看@aeglepotato/点赞狂魔/平时喜欢说怪话和发癫/一般通过肉块爱好者，大量匂坂郁纪发言注意👁️/备用@aeglepotato /🦋@aeglepotato /匿名提问箱https://t.co/C8vIKrLtCN",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 11,
+                "username": "aeglepotato"
+              },
+              {
+                "end": 77,
+                "start": 65,
+                "username": "aeglepotato"
+              },
+              {
+                "end": 92,
+                "start": 80,
+                "username": "aeglepotato"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/aeglepotato",
+                "end": 122,
+                "expanded_url": "https://ngl.link/aeglepotato",
+                "start": 99,
+                "url": "https://t.co/C8vIKrLtCN"
+              }
+            ]
+          }
+        },
+        "id": "2055822314969665536",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2092833731941724217",
+        "name": "🌈ALLice⛄赛博幽灵",
+        "pinned_tweet_id": "2064878659698102753",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2055822314969665536/1784767652",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067517312576421888/aGH7Myxd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 376,
+          "following_count": 448,
+          "like_count": 20034,
+          "listed_count": 0,
+          "media_count": 89,
+          "tweet_count": 1521
+        },
+        "url": "",
+        "username": "GrievousPotato1",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-19T11:07:46.000Z",
+        "description": "早已逝去之人 早已宽恕之罪 姐姐@Cecey33\n💊報告🩸一些負面等會些轉發到@yuki11300026\n互fo微查成分可私信fo/除雷全基本無雷²/不fo詭異號\n岐的成分複雜做好被雷準備/秩序中立¹/🫳🏻摸摸路人\n共號/路評/互動²/解離²/抑制²/💊²/🩸²/🐱²/🎵²/☺️²\n\n对不起，我可能有时候很坏-岐",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 16,
+                "username": "Cecey33"
+              },
+              {
+                "end": 52,
+                "start": 39,
+                "username": "yuki11300026"
+              }
+            ]
+          }
+        },
+        "id": "2090032448050524161",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2092831001139388527",
+        "name": "岐哥。5。#心宿二",
+        "pinned_tweet_id": "2092753743066632641",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2090032448050524161/1787803233",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2092451553412079616/ujbHdi_I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 292,
+          "following_count": 295,
+          "like_count": 568,
+          "listed_count": 0,
+          "media_count": 54,
+          "tweet_count": 440
+        },
+        "url": "",
+        "username": "Yuki1161taff",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

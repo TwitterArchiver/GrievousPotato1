@@ -1,0 +1,304 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2055822314969665536",
+    "conversation_id": "2094981558155293077",
+    "created_at": "2026-09-02T02:51:40.000Z",
+    "display_text_range": [
+      0,
+      55
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-02T03:51:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2094981558155293077"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/tkk27bb6967/st…",
+          "end": 79,
+          "expanded_url": "https://twitter.com/tkk27bb6967/status/2094720497892376603",
+          "start": 56,
+          "url": "https://t.co/6orjQNDo0K"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2094981558155293077",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2094720497892376603",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "（虽然这样说有点呃呃但是）大家别抑郁了，都来得双相吧👍变身大狼狗疯狂撕咬世界👍大狗大狗嚼嚼嚼👍咬似所有健全逼👍 https://t.co/6orjQNDo0K"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2210,
+        "media_key": "3_2094720479475204096",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRHxLYLbAAAZ8AZ.jpg",
+        "width": 1260
+      },
+      {
+        "height": 819,
+        "media_key": "3_2094720487104598016",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRHxL0maUAAdAO6.jpg",
+        "width": 1260
+      },
+      {
+        "height": 394,
+        "media_key": "3_2094720492846669824",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRHxMJ_bYAAA-KX.jpg",
+        "width": 1260
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2055822314969665536",
+        "conversation_id": "2094981558155293077",
+        "created_at": "2026-09-02T02:51:40.000Z",
+        "display_text_range": [
+          0,
+          55
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-02T03:51:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2094981558155293077"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/tkk27bb6967/st…",
+              "end": 79,
+              "expanded_url": "https://twitter.com/tkk27bb6967/status/2094720497892376603",
+              "start": 56,
+              "url": "https://t.co/6orjQNDo0K"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094981558155293077",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2094720497892376603",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "（虽然这样说有点呃呃但是）大家别抑郁了，都来得双相吧👍变身大狼狗疯狂撕咬世界👍大狗大狗嚼嚼嚼👍咬似所有健全逼👍 https://t.co/6orjQNDo0K"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2094720479475204096",
+            "3_2094720487104598016",
+            "3_2094720492846669824"
+          ]
+        },
+        "author_id": "2071227667354140672",
+        "conversation_id": "2094720497892376603",
+        "created_at": "2026-09-01T09:34:19.000Z",
+        "display_text_range": [
+          0,
+          26
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-01T10:34:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2094720497892376603"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/di6UT8FjG7",
+              "end": 50,
+              "expanded_url": "https://x.com/tkk27bb6967/status/2094720497892376603/photo/1",
+              "media_key": "3_2094720479475204096",
+              "start": 27,
+              "url": "https://t.co/di6UT8FjG7"
+            },
+            {
+              "display_url": "pic.x.com/di6UT8FjG7",
+              "end": 50,
+              "expanded_url": "https://x.com/tkk27bb6967/status/2094720497892376603/photo/1",
+              "media_key": "3_2094720487104598016",
+              "start": 27,
+              "url": "https://t.co/di6UT8FjG7"
+            },
+            {
+              "display_url": "pic.x.com/di6UT8FjG7",
+              "end": 50,
+              "expanded_url": "https://x.com/tkk27bb6967/status/2094720497892376603/photo/1",
+              "media_key": "3_2094720492846669824",
+              "start": 27,
+              "url": "https://t.co/di6UT8FjG7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094720497892376603",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2094720479475204096"
+          },
+          {
+            "media_key": "3_2094720487104598016"
+          },
+          {
+            "media_key": "3_2094720492846669824"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 5080,
+          "like_count": 122,
+          "quote_count": 2,
+          "reply_count": 9,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "看到这种发言我都想自戳双目，把疾病当mbti整了是吧 https://t.co/di6UT8FjG7"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-05-17T01:27:33.000Z",
+        "description": "同类互fo，成分请查看@aeglepotato/点赞狂魔/平时喜欢说怪话和发癫/一般通过肉块爱好者，大量匂坂郁纪发言注意👁️/备用@aeglepotato /🦋@aeglepotato /匿名提问箱https://t.co/C8vIKrLtCN",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 11,
+                "username": "aeglepotato"
+              },
+              {
+                "end": 77,
+                "start": 65,
+                "username": "aeglepotato"
+              },
+              {
+                "end": 92,
+                "start": 80,
+                "username": "aeglepotato"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/aeglepotato",
+                "end": 122,
+                "expanded_url": "https://ngl.link/aeglepotato",
+                "start": 99,
+                "url": "https://t.co/C8vIKrLtCN"
+              }
+            ]
+          }
+        },
+        "id": "2055822314969665536",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2094981558155293077",
+        "name": "🌈ALLice⛄赛博幽灵",
+        "pinned_tweet_id": "2064878659698102753",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2055822314969665536/1784767652",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067517312576421888/aGH7Myxd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 388,
+          "following_count": 458,
+          "like_count": 20459,
+          "listed_count": 0,
+          "media_count": 95,
+          "tweet_count": 1589
+        },
+        "url": "",
+        "username": "GrievousPotato1",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-06-28T13:45:28.000Z",
+        "description": "🏳️‍⚧️transfemboy🏳️‍⚧️\n❤️🧡💛💚💙💜🩵🩷🤍🩷🩵\n\n（femboy指的是立场fem和性别表达无关）\n（性别表达偏向世俗意义的男性化）\n\ncn娇娇，he or she/audhd/纯血直男/非单意识体，成员共用账号所以存在左右脑互搏的情况\n\n杨响是我最爱的女儿（我的tulpa），她的小名是锵锵",
+        "id": "2071227667354140672",
+        "is_identity_verified": false,
+        "location": "淘坤坤de梦幻之逼",
+        "most_recent_tweet_id": "2094967936364712313",
+        "name": "沉睡小男仆",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2071227667354140672/1785226715",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2093322876145569792/99aIfYfN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 148,
+          "following_count": 168,
+          "like_count": 1862,
+          "listed_count": 0,
+          "media_count": 303,
+          "tweet_count": 2577
+        },
+        "url": "",
+        "username": "tkk27bb6967",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

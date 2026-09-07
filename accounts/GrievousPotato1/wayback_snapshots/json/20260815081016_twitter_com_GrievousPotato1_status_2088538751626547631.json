@@ -1,0 +1,264 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2055822314969665536",
+    "conversation_id": "2088538751626547631",
+    "created_at": "2026-08-15T08:10:16.000Z",
+    "display_text_range": [
+      0,
+      66
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-15T09:10:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2088538751626547631"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/TGbabycost/sta…",
+          "end": 90,
+          "expanded_url": "https://twitter.com/TGbabycost/status/2088257755073429850",
+          "start": 67,
+          "url": "https://t.co/r5WjCKeJkW"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088538751626547631",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2088257755073429850",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "初看：什么叫做“男性有权携带刀具保护自己”？\n再看：&lt;翻译自阿拉伯文&gt;\n我靠，这位外国友人属实武德充沛，失敬失敬（抱拳） https://t.co/r5WjCKeJkW"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2055822314969665536",
+        "conversation_id": "2088538751626547631",
+        "created_at": "2026-08-15T08:10:16.000Z",
+        "display_text_range": [
+          0,
+          66
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-15T09:10:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2088538751626547631"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/TGbabycost/sta…",
+              "end": 90,
+              "expanded_url": "https://twitter.com/TGbabycost/status/2088257755073429850",
+              "start": 67,
+              "url": "https://t.co/r5WjCKeJkW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088538751626547631",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088257755073429850",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "初看：什么叫做“男性有权携带刀具保护自己”？\n再看：&lt;翻译自阿拉伯文&gt;\n我靠，这位外国友人属实武德充沛，失敬失敬（抱拳） https://t.co/r5WjCKeJkW"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1013526829",
+        "conversation_id": "2088257755073429850",
+        "created_at": "2026-08-14T13:33:41.000Z",
+        "display_text_range": [
+          0,
+          153
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-14T14:33:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2088257755073429850"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/tatanakots/sta…",
+              "end": 177,
+              "expanded_url": "https://twitter.com/tatanakots/status/2087982584655741229",
+              "start": 154,
+              "url": "https://t.co/PnW6Eyzdlq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088257755073429850",
+        "lang": "ar",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 7938,
+          "like_count": 13,
+          "quote_count": 16,
+          "reply_count": 3,
+          "retweet_count": 5
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087982584655741229",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "إذا لم يخضع الشخص للعملية الجراحية لتغيير جنسه، فإنه يظل رجلاً. وله الحق كرجل أن يحمل سكينًا ويحمي كرامته وسلامة عائلته. هل فقد الصينيون الثقة في أنفسهم؟ https://t.co/PnW6Eyzdlq"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-05-17T01:27:33.000Z",
+        "description": "同类互fo，成分请查看@aeglepotato/点赞狂魔/平时喜欢说怪话和发癫/一般通过肉块爱好者，大量匂坂郁纪发言注意👁️/备用@aeglepotato /🦋@aeglepotato /匿名提问箱https://t.co/C8vIKrLtCN",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 11,
+                "username": "aeglepotato"
+              },
+              {
+                "end": 77,
+                "start": 65,
+                "username": "aeglepotato"
+              },
+              {
+                "end": 92,
+                "start": 80,
+                "username": "aeglepotato"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/aeglepotato",
+                "end": 122,
+                "expanded_url": "https://ngl.link/aeglepotato",
+                "start": 99,
+                "url": "https://t.co/C8vIKrLtCN"
+              }
+            ]
+          }
+        },
+        "id": "2055822314969665536",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2088538751626547631",
+        "name": "⛄ALLice🌈赛博幽灵",
+        "pinned_tweet_id": "2064878659698102753",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2055822314969665536/1784767652",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067517312576421888/aGH7Myxd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 359,
+          "following_count": 426,
+          "like_count": 18854,
+          "listed_count": 0,
+          "media_count": 76,
+          "tweet_count": 1363
+        },
+        "url": "",
+        "username": "GrievousPotato1",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2012-12-15T16:26:30.000Z",
+        "description": "لا تجادل الأحمق فقد يخطئ الناس في التفريق بينكما.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/babycost",
+                "end": 23,
+                "expanded_url": "http://t.me/babycost",
+                "start": 0,
+                "url": "https://t.co/7SzUBiJ5EI"
+              }
+            ]
+          }
+        },
+        "id": "1013526829",
+        "is_identity_verified": true,
+        "location": "pm",
+        "most_recent_tweet_id": "2088486201736962310",
+        "name": "22",
+        "pinned_tweet_id": "2087889042083897820",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1013526829/1786438561",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2087098408909811712/mfNESRHe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2705,
+          "following_count": 207,
+          "like_count": 182,
+          "listed_count": 2,
+          "media_count": 127,
+          "tweet_count": 41226
+        },
+        "url": "https://t.co/7SzUBiJ5EI",
+        "username": "TGbabycost",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

@@ -1,0 +1,307 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2088213790563381248"
+      ],
+      "media_source_tweet_id": [
+        "2088213801468641597"
+      ]
+    },
+    "author_id": "2055822314969665536",
+    "conversation_id": "2088241050951299193",
+    "created_at": "2026-08-14T12:27:18.000Z",
+    "display_text_range": [
+      0,
+      47
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-14T13:27:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2088241050951299193"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1628790080910536705",
+          "start": 3,
+          "username": "tousa40700129"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/JMMDlkiRxy",
+          "end": 47,
+          "expanded_url": "https://x.com/tousa40700129/status/2088213801468641597/photo/1",
+          "media_key": "3_2088213790563381248",
+          "start": 24,
+          "url": "https://t.co/JMMDlkiRxy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088241050951299193",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2088213790563381248"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2088213801468641597",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @tousa40700129: 地狱笑话 https://t.co/JMMDlkiRxy"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2088213790563381248",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPrTYPGaMAALC4B.jpg",
+        "width": 942
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2088213790563381248"
+          ]
+        },
+        "author_id": "1628790080910536705",
+        "conversation_id": "2088213801468641597",
+        "created_at": "2026-08-14T10:39:02.000Z",
+        "display_text_range": [
+          0,
+          4
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-14T11:39:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2088213801468641597"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/JMMDlkiRxy",
+              "end": 28,
+              "expanded_url": "https://x.com/tousa40700129/status/2088213801468641597/photo/1",
+              "media_key": "3_2088213790563381248",
+              "start": 5,
+              "url": "https://t.co/JMMDlkiRxy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088213801468641597",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2088213790563381248"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 236,
+          "like_count": 13,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "地狱笑话 https://t.co/JMMDlkiRxy"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2088213790563381248"
+          ],
+          "media_source_tweet_id": [
+            "2088213801468641597"
+          ]
+        },
+        "author_id": "2055822314969665536",
+        "conversation_id": "2088241050951299193",
+        "created_at": "2026-08-14T12:27:18.000Z",
+        "display_text_range": [
+          0,
+          47
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-14T13:27:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088241050951299193"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1628790080910536705",
+              "start": 3,
+              "username": "tousa40700129"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/JMMDlkiRxy",
+              "end": 47,
+              "expanded_url": "https://x.com/tousa40700129/status/2088213801468641597/photo/1",
+              "media_key": "3_2088213790563381248",
+              "start": 24,
+              "url": "https://t.co/JMMDlkiRxy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088241050951299193",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2088213790563381248"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088213801468641597",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @tousa40700129: 地狱笑话 https://t.co/JMMDlkiRxy"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-05-17T01:27:33.000Z",
+        "description": "同类互fo，成分请查看@aeglepotato/点赞狂魔/平时喜欢说怪话和发癫/一般通过肉块爱好者，大量匂坂郁纪发言注意👁️/备用@aeglepotato /🦋@aeglepotato /匿名提问箱https://t.co/C8vIKrLtCN",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 11,
+                "username": "aeglepotato"
+              },
+              {
+                "end": 77,
+                "start": 65,
+                "username": "aeglepotato"
+              },
+              {
+                "end": 92,
+                "start": 80,
+                "username": "aeglepotato"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/aeglepotato",
+                "end": 122,
+                "expanded_url": "https://ngl.link/aeglepotato",
+                "start": 99,
+                "url": "https://t.co/C8vIKrLtCN"
+              }
+            ]
+          }
+        },
+        "id": "2055822314969665536",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2088241050951299193",
+        "name": "⛄ALLice🌈赛博幽灵",
+        "pinned_tweet_id": "2064878659698102753",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2055822314969665536/1784767652",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067517312576421888/aGH7Myxd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 359,
+          "following_count": 425,
+          "like_count": 18776,
+          "listed_count": 0,
+          "media_count": 76,
+          "tweet_count": 1356
+        },
+        "url": "",
+        "username": "GrievousPotato1",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-02-23T16:13:32.000Z",
+        "description": "年上姐姐重度依赖",
+        "id": "1628790080910536705",
+        "is_identity_verified": false,
+        "location": "苏州",
+        "most_recent_tweet_id": "2088234255923208411",
+        "name": "🎄Sil0🇪🇺🧸🎄",
+        "pinned_tweet_id": "1954060583256699291",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1628790080910536705/1696419555",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998307036417945601/iNPcDudB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1058,
+          "following_count": 534,
+          "like_count": 27937,
+          "listed_count": 0,
+          "media_count": 815,
+          "tweet_count": 7095
+        },
+        "url": "",
+        "username": "tousa40700129",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2055822314969665536",
+    "conversation_id": "2094963311003472049",
+    "created_at": "2026-09-02T01:39:10.000Z",
+    "display_text_range": [
+      0,
+      140
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-02T02:39:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2094963311003472049"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1899082105977462784",
+          "start": 3,
+          "username": "Nullemptyset"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2094963311003472049",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2094888303917158838",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Nullemptyset: 一天，我正在河边悲伤地炫最后一盒+8，不小心因为躯体化手抖把药板掉河里了，正当我要悲愤为什么命运如此对我时，我发现河面正在剧烈变形，原来是河神出现了。河神温柔地问我，孩子，你掉的是这盒ymsf还是这盒普pr80？我说都不是，我只是掉了一盒垃圾…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2055822314969665536",
+        "conversation_id": "2094963311003472049",
+        "created_at": "2026-09-02T01:39:10.000Z",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-02T02:39:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2094963311003472049"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1899082105977462784",
+              "start": 3,
+              "username": "Nullemptyset"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094963311003472049",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2094888303917158838",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Nullemptyset: 一天，我正在河边悲伤地炫最后一盒+8，不小心因为躯体化手抖把药板掉河里了，正当我要悲愤为什么命运如此对我时，我发现河面正在剧烈变形，原来是河神出现了。河神温柔地问我，孩子，你掉的是这盒ymsf还是这盒普pr80？我说都不是，我只是掉了一盒垃圾…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1899082105977462784",
+        "conversation_id": "2094888303917158838",
+        "created_at": "2026-09-01T20:41:07.000Z",
+        "display_text_range": [
+          0,
+          135
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-01T21:41:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2094888303917158838"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2094888303917158838",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "一天，我正在河边悲伤地炫最后一盒+8，不小心因为躯体化手抖把药板掉河里了，正当我要悲愤为什么命运如此对我时，我发现河面正在剧烈变形，原来是河神出现了。河神温柔地问我，孩子，你掉的是这盒ymsf还是这盒普pr80？我说都不是，我只是掉了一盒垃圾+8。河神非常欣赏我的诚实↓"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-05-17T01:27:33.000Z",
+        "description": "同类互fo，成分请查看@aeglepotato/点赞狂魔/平时喜欢说怪话和发癫/一般通过肉块爱好者，大量匂坂郁纪发言注意👁️/备用@aeglepotato /🦋@aeglepotato /匿名提问箱https://t.co/C8vIKrLtCN",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 11,
+                "username": "aeglepotato"
+              },
+              {
+                "end": 77,
+                "start": 65,
+                "username": "aeglepotato"
+              },
+              {
+                "end": 92,
+                "start": 80,
+                "username": "aeglepotato"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/aeglepotato",
+                "end": 122,
+                "expanded_url": "https://ngl.link/aeglepotato",
+                "start": 99,
+                "url": "https://t.co/C8vIKrLtCN"
+              }
+            ]
+          }
+        },
+        "id": "2055822314969665536",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2094963311003472049",
+        "name": "🌈ALLice⛄赛博幽灵",
+        "pinned_tweet_id": "2064878659698102753",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2055822314969665536/1784767652",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067517312576421888/aGH7Myxd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 387,
+          "following_count": 458,
+          "like_count": 20433,
+          "listed_count": 0,
+          "media_count": 95,
+          "tweet_count": 1587
+        },
+        "url": "",
+        "username": "GrievousPotato1",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-03-10T12:57:20.000Z",
+        "description": "＝空集，可称呼为 小空｜ftx｜sh｜od｜不聊黄不鉴证不无差别骂人｜同类互fo｜私信欢迎互动",
+        "id": "1899082105977462784",
+        "is_identity_verified": false,
+        "location": "虚无",
+        "most_recent_tweet_id": "2094918349088313516",
+        "name": "∅",
+        "pinned_tweet_id": "2071605670533792080",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1899082105977462784/1772009146",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059683378790891520/TFD9Nj43_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 97,
+          "following_count": 105,
+          "like_count": 502,
+          "listed_count": 0,
+          "media_count": 39,
+          "tweet_count": 284
+        },
+        "url": "",
+        "username": "Nullemptyset",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

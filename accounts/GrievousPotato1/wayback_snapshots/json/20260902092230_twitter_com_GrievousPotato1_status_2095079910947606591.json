@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2055822314969665536",
+    "conversation_id": "2095079910947606591",
+    "created_at": "2026-09-02T09:22:30.000Z",
+    "display_text_range": [
+      0,
+      26
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-02T10:22:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2095079910947606591"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "description": "Download & Streaming: https://linkco.re/x64ghDHSピノキオピー 7th Album『...",
+          "display_url": "youtu.be/Xx1TnVObQ0k",
+          "end": 26,
+          "expanded_url": "https://youtu.be/Xx1TnVObQ0k",
+          "images": [
+            {
+              "height": 720,
+              "url": "https://pbs.twimg.com/news_img/2093287520536768513/_YXrY48g?format=jpg&name=orig",
+              "width": 1280
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/2093287520536768513/_YXrY48g?format=jpg&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 3,
+          "status": 200,
+          "title": "ピノキオピー - 愛属性 feat. 初音ミク / Love Attribute",
+          "unwound_url": "https://www.youtube.com/watch?v=Xx1TnVObQ0k&feature=youtu.be",
+          "url": "https://t.co/xGdkQhHTcU"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2095079910947606591",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "在听\nhttps://t.co/xGdkQhHTcU"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2055822314969665536",
+        "conversation_id": "2095079910947606591",
+        "created_at": "2026-09-02T09:22:30.000Z",
+        "display_text_range": [
+          0,
+          26
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-02T10:22:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2095079910947606591"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "Download & Streaming: https://linkco.re/x64ghDHSピノキオピー 7th Album『...",
+              "display_url": "youtu.be/Xx1TnVObQ0k",
+              "end": 26,
+              "expanded_url": "https://youtu.be/Xx1TnVObQ0k",
+              "images": [
+                {
+                  "height": 720,
+                  "url": "https://pbs.twimg.com/news_img/2093287520536768513/_YXrY48g?format=jpg&name=orig",
+                  "width": 1280
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2093287520536768513/_YXrY48g?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 3,
+              "status": 200,
+              "title": "ピノキオピー - 愛属性 feat. 初音ミク / Love Attribute",
+              "unwound_url": "https://www.youtube.com/watch?v=Xx1TnVObQ0k&feature=youtu.be",
+              "url": "https://t.co/xGdkQhHTcU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095079910947606591",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "在听\nhttps://t.co/xGdkQhHTcU"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-05-17T01:27:33.000Z",
+        "description": "同类互fo，成分请查看@aeglepotato/点赞狂魔/平时喜欢说怪话和发癫/一般通过肉块爱好者，大量匂坂郁纪发言注意👁️/备用@aeglepotato /🦋@aeglepotato /匿名提问箱https://t.co/C8vIKrLtCN",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 11,
+                "username": "aeglepotato"
+              },
+              {
+                "end": 77,
+                "start": 65,
+                "username": "aeglepotato"
+              },
+              {
+                "end": 92,
+                "start": 80,
+                "username": "aeglepotato"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/aeglepotato",
+                "end": 122,
+                "expanded_url": "https://ngl.link/aeglepotato",
+                "start": 99,
+                "url": "https://t.co/C8vIKrLtCN"
+              }
+            ]
+          }
+        },
+        "id": "2055822314969665536",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2095079910947606591",
+        "name": "🌈ALLice⛄赛博幽灵",
+        "pinned_tweet_id": "2064878659698102753",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2055822314969665536/1784767652",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067517312576421888/aGH7Myxd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 390,
+          "following_count": 460,
+          "like_count": 20479,
+          "listed_count": 0,
+          "media_count": 96,
+          "tweet_count": 1596
+        },
+        "url": "",
+        "username": "GrievousPotato1",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

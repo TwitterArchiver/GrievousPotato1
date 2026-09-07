@@ -1,0 +1,256 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2055822314969665536",
+    "conversation_id": "2094981558155293077",
+    "created_at": "2026-09-02T07:24:42.000Z",
+    "display_text_range": [
+      11,
+      28
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-02T08:24:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2095050265246191689"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1587848154921111552",
+          "start": 0,
+          "username": "haiA_0001"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2095050265246191689",
+    "in_reply_to_user_id": "1587848154921111552",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2095006844729311401",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@haiA_0001 那我的向井敏明和野田毅谁给我补啊😭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2055822314969665536",
+        "conversation_id": "2094981558155293077",
+        "created_at": "2026-09-02T07:24:42.000Z",
+        "display_text_range": [
+          11,
+          28
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-02T08:24:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2095050265246191689"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1587848154921111552",
+              "start": 0,
+              "username": "haiA_0001"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095050265246191689",
+        "in_reply_to_user_id": "1587848154921111552",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2095006844729311401",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@haiA_0001 那我的向井敏明和野田毅谁给我补啊😭"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1587848154921111552",
+        "conversation_id": "2094981558155293077",
+        "created_at": "2026-09-02T04:32:09.000Z",
+        "display_text_range": [
+          32,
+          100
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-02T05:32:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2095006844729311401"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2055822314969665536",
+              "start": 0,
+              "username": "GrievousPotato1"
+            },
+            {
+              "end": 31,
+              "id": "2066161725322526720",
+              "start": 17,
+              "username": "MTFitness6780"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095006844729311401",
+        "in_reply_to_user_id": "2055822314969665536",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 17,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2094988670939836663",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@GrievousPotato1 @MTFitness6780 招欠之后藏在虫群的贱全批：😏哎呀～谁惹你就去找谁嘛…伤害无辜的人算xxxxx\n\n“精神病”正在选择英雄附体：田明建，白宝山……，张献忠。"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-05-17T01:27:33.000Z",
+        "description": "同类互fo，成分请查看@aeglepotato/点赞狂魔/平时喜欢说怪话和发癫/一般通过肉块爱好者，大量匂坂郁纪发言注意👁️/备用@aeglepotato /🦋@aeglepotato /匿名提问箱https://t.co/C8vIKrLtCN",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 11,
+                "username": "aeglepotato"
+              },
+              {
+                "end": 77,
+                "start": 65,
+                "username": "aeglepotato"
+              },
+              {
+                "end": 92,
+                "start": 80,
+                "username": "aeglepotato"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/aeglepotato",
+                "end": 122,
+                "expanded_url": "https://ngl.link/aeglepotato",
+                "start": 99,
+                "url": "https://t.co/C8vIKrLtCN"
+              }
+            ]
+          }
+        },
+        "id": "2055822314969665536",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2095050265246191689",
+        "name": "🌈ALLice⛄赛博幽灵",
+        "pinned_tweet_id": "2064878659698102753",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2055822314969665536/1784767652",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067517312576421888/aGH7Myxd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 391,
+          "following_count": 460,
+          "like_count": 20469,
+          "listed_count": 0,
+          "media_count": 95,
+          "tweet_count": 1591
+        },
+        "url": "",
+        "username": "GrievousPotato1",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-11-02T16:45:41.000Z",
+        "description": "洼地毒瘴受害者｜自闭的人矿耗材｜一颗不怎么安份的螺丝钉｜因为痛苦而产生疑惑｜因为不解而寻找答案｜向往自由",
+        "id": "1587848154921111552",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2095049661212139902",
+        "name": "愣神的我",
+        "pinned_tweet_id": "2013881780982493379",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1587848154921111552/1707150163",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004467005324423168/EferUXDv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 426,
+          "following_count": 1379,
+          "like_count": 11576,
+          "listed_count": 1,
+          "media_count": 162,
+          "tweet_count": 5793
+        },
+        "url": "",
+        "username": "haiA_0001",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

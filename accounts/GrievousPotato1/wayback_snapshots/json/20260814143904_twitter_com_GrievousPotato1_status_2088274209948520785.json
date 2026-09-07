@@ -1,0 +1,305 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2088269738397110272"
+      ],
+      "media_source_tweet_id": [
+        "2088269747376767116"
+      ]
+    },
+    "author_id": "2055822314969665536",
+    "conversation_id": "2088274209948520785",
+    "created_at": "2026-08-14T14:39:04.000Z",
+    "display_text_range": [
+      0,
+      81
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-14T15:39:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2088274209948520785"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2088268322328743936",
+          "start": 3,
+          "username": "UpupaEpooops"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/fHkBWJeuae",
+          "end": 81,
+          "expanded_url": "https://x.com/UpupaEpooops/status/2088269747376767116/photo/1",
+          "media_key": "3_2088269738397110272",
+          "start": 58,
+          "url": "https://t.co/fHkBWJeuae"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088274209948520785",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2088269738397110272"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2088269747376767116",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @UpupaEpooops: 我从地狱归来，沟槽的马斯克送我的生日礼物是把我的号封了……寻回互关中……🏳🏳🏳 https://t.co/fHkBWJeuae"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 571,
+        "media_key": "3_2088269738397110272",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPsGQ1BbkAAOLIM.jpg",
+        "width": 819
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2088269738397110272"
+          ]
+        },
+        "author_id": "2088268322328743936",
+        "conversation_id": "2088269747376767116",
+        "created_at": "2026-08-14T14:21:20.000Z",
+        "display_text_range": [
+          0,
+          39
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-14T15:21:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2088269747376767116"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/fHkBWJeuae",
+              "end": 63,
+              "expanded_url": "https://x.com/UpupaEpooops/status/2088269747376767116/photo/1",
+              "media_key": "3_2088269738397110272",
+              "start": 40,
+              "url": "https://t.co/fHkBWJeuae"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088269747376767116",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2088269738397110272"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "我从地狱归来，沟槽的马斯克送我的生日礼物是把我的号封了……寻回互关中……🏳🏳🏳 https://t.co/fHkBWJeuae"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2088269738397110272"
+          ],
+          "media_source_tweet_id": [
+            "2088269747376767116"
+          ]
+        },
+        "author_id": "2055822314969665536",
+        "conversation_id": "2088274209948520785",
+        "created_at": "2026-08-14T14:39:04.000Z",
+        "display_text_range": [
+          0,
+          81
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-14T15:39:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088274209948520785"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2088268322328743936",
+              "start": 3,
+              "username": "UpupaEpooops"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/fHkBWJeuae",
+              "end": 81,
+              "expanded_url": "https://x.com/UpupaEpooops/status/2088269747376767116/photo/1",
+              "media_key": "3_2088269738397110272",
+              "start": 58,
+              "url": "https://t.co/fHkBWJeuae"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088274209948520785",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2088269738397110272"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088269747376767116",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @UpupaEpooops: 我从地狱归来，沟槽的马斯克送我的生日礼物是把我的号封了……寻回互关中……🏳🏳🏳 https://t.co/fHkBWJeuae"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-05-17T01:27:33.000Z",
+        "description": "同类互fo，成分请查看@aeglepotato/点赞狂魔/平时喜欢说怪话和发癫/一般通过肉块爱好者，大量匂坂郁纪发言注意👁️/备用@aeglepotato /🦋@aeglepotato /匿名提问箱https://t.co/C8vIKrLtCN",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 11,
+                "username": "aeglepotato"
+              },
+              {
+                "end": 77,
+                "start": 65,
+                "username": "aeglepotato"
+              },
+              {
+                "end": 92,
+                "start": 80,
+                "username": "aeglepotato"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/aeglepotato",
+                "end": 122,
+                "expanded_url": "https://ngl.link/aeglepotato",
+                "start": 99,
+                "url": "https://t.co/C8vIKrLtCN"
+              }
+            ]
+          }
+        },
+        "id": "2055822314969665536",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2088274209948520785",
+        "name": "⛄ALLice🌈赛博幽灵",
+        "pinned_tweet_id": "2064878659698102753",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2055822314969665536/1784767652",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067517312576421888/aGH7Myxd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 358,
+          "following_count": 425,
+          "like_count": 18796,
+          "listed_count": 0,
+          "media_count": 76,
+          "tweet_count": 1356
+        },
+        "url": "",
+        "username": "GrievousPotato1",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-14T14:16:38.000Z",
+        "description": "我从地狱归来……寻回互关😢\n💊/🐦/🎨/日常记录推，二代目",
+        "id": "2088268322328743936",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2088269747376767116",
+        "name": "小坞二号⭐地狱归来",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2088268322328743936/1786717220",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2088268920906289152/zDacpUyT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 43,
+          "like_count": 0,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 1
+        },
+        "url": "",
+        "username": "UpupaEpooops",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

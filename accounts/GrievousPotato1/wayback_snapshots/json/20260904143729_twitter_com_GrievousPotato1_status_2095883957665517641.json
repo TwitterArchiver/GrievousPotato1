@@ -1,0 +1,397 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2095728705075318784",
+        "3_2095728705062797312",
+        "3_2095728705113120769"
+      ],
+      "media_source_tweet_id": [
+        "2095728714445414695",
+        "2095728714445414695",
+        "2095728714445414695"
+      ]
+    },
+    "author_id": "2055822314969665536",
+    "conversation_id": "2095883957665517641",
+    "created_at": "2026-09-04T14:37:29.000Z",
+    "display_text_range": [
+      0,
+      97
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-04T15:37:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2095883957665517641"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1356839907440824321",
+          "start": 3,
+          "username": "mitsu7travel"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/wyDQAEwsem",
+          "end": 97,
+          "expanded_url": "https://x.com/mitsu7travel/status/2095728714445414695/photo/1",
+          "media_key": "3_2095728705075318784",
+          "start": 74,
+          "url": "https://t.co/wyDQAEwsem"
+        },
+        {
+          "display_url": "pic.x.com/wyDQAEwsem",
+          "end": 97,
+          "expanded_url": "https://x.com/mitsu7travel/status/2095728714445414695/photo/1",
+          "media_key": "3_2095728705062797312",
+          "start": 74,
+          "url": "https://t.co/wyDQAEwsem"
+        },
+        {
+          "display_url": "pic.x.com/wyDQAEwsem",
+          "end": 97,
+          "expanded_url": "https://x.com/mitsu7travel/status/2095728714445414695/photo/1",
+          "media_key": "3_2095728705113120769",
+          "start": 74,
+          "url": "https://t.co/wyDQAEwsem"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2095883957665517641",
+    "lang": "ja",
+    "media_metadata": [
+      {
+        "media_key": "3_2095728705075318784"
+      },
+      {
+        "media_key": "3_2095728705062797312"
+      },
+      {
+        "media_key": "3_2095728705113120769"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2692
+    },
+    "referenced_tweets": [
+      {
+        "id": "2095728714445414695",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @mitsu7travel: タイ屈指の映え寺院であるワットロンクンですが事前情報なしで行くと最初の地獄でビックリするので気をつけてください https://t.co/wyDQAEwsem"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1603,
+        "media_key": "3_2095728705075318784",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRWGJ1OakAAcG3e.jpg",
+        "width": 960
+      },
+      {
+        "height": 1271,
+        "media_key": "3_2095728705062797312",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRWGJ1LbgAA-2x5.jpg",
+        "width": 959
+      },
+      {
+        "height": 1024,
+        "media_key": "3_2095728705113120769",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRWGJ1XbYAExZ00.jpg",
+        "width": 768
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2095728705075318784",
+            "3_2095728705062797312",
+            "3_2095728705113120769"
+          ],
+          "media_source_tweet_id": [
+            "2095728714445414695",
+            "2095728714445414695",
+            "2095728714445414695"
+          ]
+        },
+        "author_id": "2055822314969665536",
+        "conversation_id": "2095883957665517641",
+        "created_at": "2026-09-04T14:37:29.000Z",
+        "display_text_range": [
+          0,
+          97
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-04T15:37:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2095883957665517641"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1356839907440824321",
+              "start": 3,
+              "username": "mitsu7travel"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/wyDQAEwsem",
+              "end": 97,
+              "expanded_url": "https://x.com/mitsu7travel/status/2095728714445414695/photo/1",
+              "media_key": "3_2095728705075318784",
+              "start": 74,
+              "url": "https://t.co/wyDQAEwsem"
+            },
+            {
+              "display_url": "pic.x.com/wyDQAEwsem",
+              "end": 97,
+              "expanded_url": "https://x.com/mitsu7travel/status/2095728714445414695/photo/1",
+              "media_key": "3_2095728705062797312",
+              "start": 74,
+              "url": "https://t.co/wyDQAEwsem"
+            },
+            {
+              "display_url": "pic.x.com/wyDQAEwsem",
+              "end": 97,
+              "expanded_url": "https://x.com/mitsu7travel/status/2095728714445414695/photo/1",
+              "media_key": "3_2095728705113120769",
+              "start": 74,
+              "url": "https://t.co/wyDQAEwsem"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095883957665517641",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2095728705075318784"
+          },
+          {
+            "media_key": "3_2095728705062797312"
+          },
+          {
+            "media_key": "3_2095728705113120769"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2692
+        },
+        "referenced_tweets": [
+          {
+            "id": "2095728714445414695",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @mitsu7travel: タイ屈指の映え寺院であるワットロンクンですが事前情報なしで行くと最初の地獄でビックリするので気をつけてください https://t.co/wyDQAEwsem"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2095728705075318784",
+            "3_2095728705062797312",
+            "3_2095728705113120769"
+          ]
+        },
+        "author_id": "1356839907440824321",
+        "conversation_id": "2095728714445414695",
+        "created_at": "2026-09-04T04:20:36.000Z",
+        "display_text_range": [
+          0,
+          55
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-04T05:20:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2095728714445414695"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/wyDQAEwsem",
+              "end": 79,
+              "expanded_url": "https://x.com/mitsu7travel/status/2095728714445414695/photo/1",
+              "media_key": "3_2095728705075318784",
+              "start": 56,
+              "url": "https://t.co/wyDQAEwsem"
+            },
+            {
+              "display_url": "pic.x.com/wyDQAEwsem",
+              "end": 79,
+              "expanded_url": "https://x.com/mitsu7travel/status/2095728714445414695/photo/1",
+              "media_key": "3_2095728705062797312",
+              "start": 56,
+              "url": "https://t.co/wyDQAEwsem"
+            },
+            {
+              "display_url": "pic.x.com/wyDQAEwsem",
+              "end": 79,
+              "expanded_url": "https://x.com/mitsu7travel/status/2095728714445414695/photo/1",
+              "media_key": "3_2095728705113120769",
+              "start": 56,
+              "url": "https://t.co/wyDQAEwsem"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095728714445414695",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2095728705075318784"
+          },
+          {
+            "media_key": "3_2095728705062797312"
+          },
+          {
+            "media_key": "3_2095728705113120769"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3799,
+          "impression_count": 2369484,
+          "like_count": 19790,
+          "quote_count": 422,
+          "reply_count": 78,
+          "retweet_count": 2692
+        },
+        "reply_settings": "everyone",
+        "text": "タイ屈指の映え寺院であるワットロンクンですが事前情報なしで行くと最初の地獄でビックリするので気をつけてください https://t.co/wyDQAEwsem"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-05-17T01:27:33.000Z",
+        "description": "同类互fo，成分请查看@aeglepotato/点赞狂魔/平时喜欢说怪话和发癫/一般通过肉块爱好者，大量匂坂郁纪发言注意👁️/备用@aeglepotato /🦋@aeglepotato /匿名提问箱https://t.co/C8vIKrLtCN",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 11,
+                "username": "aeglepotato"
+              },
+              {
+                "end": 77,
+                "start": 65,
+                "username": "aeglepotato"
+              },
+              {
+                "end": 92,
+                "start": 80,
+                "username": "aeglepotato"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/aeglepotato",
+                "end": 122,
+                "expanded_url": "https://ngl.link/aeglepotato",
+                "start": 99,
+                "url": "https://t.co/C8vIKrLtCN"
+              }
+            ]
+          }
+        },
+        "id": "2055822314969665536",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2095883957665517641",
+        "name": "🌈ALLice⛄赛博幽灵",
+        "pinned_tweet_id": "2064878659698102753",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2055822314969665536/1784767652",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067517312576421888/aGH7Myxd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 397,
+          "following_count": 460,
+          "like_count": 20647,
+          "listed_count": 0,
+          "media_count": 100,
+          "tweet_count": 1624
+        },
+        "url": "",
+        "username": "GrievousPotato1",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2021-02-03T05:40:29.000Z",
+        "description": "リュック１つで世界一周してます/訪れた国８０ヶ国以上/趣味は海外旅行情報のシェア/ちいかわのうさぎ推し。",
+        "id": "1356839907440824321",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2095875183265685607",
+        "name": "みつ　世界一周中",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1356839907440824321/1763971608",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2001629737807167488/8AKUG5Ec_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 85562,
+          "following_count": 70,
+          "like_count": 42916,
+          "listed_count": 309,
+          "media_count": 3266,
+          "tweet_count": 20743
+        },
+        "url": "",
+        "username": "mitsu7travel",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2055822314969665536",
+    "conversation_id": "2092802622956654993",
+    "created_at": "2026-08-27T02:33:22.000Z",
+    "display_text_range": [
+      0,
+      140
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-27T03:33:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2092802622956654993"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2045687921597206528",
+          "start": 3,
+          "username": "uuR9re"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2092802622956654993",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 94
+    },
+    "referenced_tweets": [
+      {
+        "id": "2092636588618686966",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @uuR9re: 仅凭文字就迅速升温的关系是很危险的。人不可能脱离真实的肉体、日常的生活和社会环境而存在。单靠聊天滋生的爱，必须经由现实生活的检验。只有当你真正和对方面对面坐下，看见对方脸上的表情、说话的语气、下意识的小动作时，你才会意识到，这一刻，你才算真正开始了解这个…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2055822314969665536",
+        "conversation_id": "2092802622956654993",
+        "created_at": "2026-08-27T02:33:22.000Z",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-27T03:33:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2092802622956654993"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2045687921597206528",
+              "start": 3,
+              "username": "uuR9re"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092802622956654993",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 94
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092636588618686966",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @uuR9re: 仅凭文字就迅速升温的关系是很危险的。人不可能脱离真实的肉体、日常的生活和社会环境而存在。单靠聊天滋生的爱，必须经由现实生活的检验。只有当你真正和对方面对面坐下，看见对方脸上的表情、说话的语气、下意识的小动作时，你才会意识到，这一刻，你才算真正开始了解这个…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2045687921597206528",
+        "conversation_id": "2092636588618686966",
+        "created_at": "2026-08-26T15:33:36.000Z",
+        "display_text_range": [
+          0,
+          129
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-26T16:33:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2092636588618686966"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2092636588618686966",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 80,
+          "impression_count": 20483,
+          "like_count": 825,
+          "quote_count": 17,
+          "reply_count": 33,
+          "retweet_count": 94
+        },
+        "reply_settings": "everyone",
+        "text": "仅凭文字就迅速升温的关系是很危险的。人不可能脱离真实的肉体、日常的生活和社会环境而存在。单靠聊天滋生的爱，必须经由现实生活的检验。只有当你真正和对方面对面坐下，看见对方脸上的表情、说话的语气、下意识的小动作时，你才会意识到，这一刻，你才算真正开始了解这个人。"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-05-17T01:27:33.000Z",
+        "description": "同类互fo，成分请查看@aeglepotato/点赞狂魔/平时喜欢说怪话和发癫/一般通过肉块爱好者，大量匂坂郁纪发言注意👁️/备用@aeglepotato /🦋@aeglepotato /匿名提问箱https://t.co/C8vIKrLtCN",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 11,
+                "username": "aeglepotato"
+              },
+              {
+                "end": 77,
+                "start": 65,
+                "username": "aeglepotato"
+              },
+              {
+                "end": 92,
+                "start": 80,
+                "username": "aeglepotato"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/aeglepotato",
+                "end": 122,
+                "expanded_url": "https://ngl.link/aeglepotato",
+                "start": 99,
+                "url": "https://t.co/C8vIKrLtCN"
+              }
+            ]
+          }
+        },
+        "id": "2055822314969665536",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2092802622956654993",
+        "name": "🌈ALLice⛄赛博幽灵",
+        "pinned_tweet_id": "2064878659698102753",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2055822314969665536/1784767652",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067517312576421888/aGH7Myxd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 376,
+          "following_count": 448,
+          "like_count": 20023,
+          "listed_count": 0,
+          "media_count": 89,
+          "tweet_count": 1520
+        },
+        "url": "",
+        "username": "GrievousPotato1",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-04-19T02:22:26.000Z",
+        "description": "infj丨sub丨uu. 的心事笔记本\n\n将自己打碎又重组能得到新生吗？",
+        "id": "2045687921597206528",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2092785908856881163",
+        "name": "uu.",
+        "pinned_tweet_id": "2092511417371127989",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2045687921597206528/1787731411",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2092661733144031233/YxthevdC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2599,
+          "following_count": 19,
+          "like_count": 392,
+          "listed_count": 3,
+          "media_count": 2,
+          "tweet_count": 20
+        },
+        "url": "",
+        "username": "uuR9re",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

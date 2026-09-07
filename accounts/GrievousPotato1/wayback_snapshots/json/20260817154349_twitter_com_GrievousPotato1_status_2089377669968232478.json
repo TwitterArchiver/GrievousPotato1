@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2055822314969665536",
+    "conversation_id": "2089377669968232478",
+    "created_at": "2026-08-17T15:43:49.000Z",
+    "display_text_range": [
+      0,
+      140
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-17T16:43:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2089377669968232478"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1717106855019692032",
+          "start": 3,
+          "username": "YiiiiR0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2089377669968232478",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 33
+    },
+    "referenced_tweets": [
+      {
+        "id": "2088578297655631902",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @YiiiiR0: od被当作吸毒处理，而强制戒毒所不过就是强制劳动+强制戒断，并非真正有帮助的医疗措施。强制戒断并不是“终极治疗手段”，而只是一种监狱-惩戒措施。一些药物也并不适用于强制戒断，如苯二氮卓类，如果已经形成身体依赖，突然停药可能造成危及生命的戒断反应。但对毒…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2055822314969665536",
+        "conversation_id": "2089377669968232478",
+        "created_at": "2026-08-17T15:43:49.000Z",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-17T16:43:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2089377669968232478"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1717106855019692032",
+              "start": 3,
+              "username": "YiiiiR0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089377669968232478",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 33
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088578297655631902",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @YiiiiR0: od被当作吸毒处理，而强制戒毒所不过就是强制劳动+强制戒断，并非真正有帮助的医疗措施。强制戒断并不是“终极治疗手段”，而只是一种监狱-惩戒措施。一些药物也并不适用于强制戒断，如苯二氮卓类，如果已经形成身体依赖，突然停药可能造成危及生命的戒断反应。但对毒…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1717106855019692032",
+        "conversation_id": "2088578297655631902",
+        "created_at": "2026-08-15T10:47:24.000Z",
+        "display_text_range": [
+          0,
+          144
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-15T11:47:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2088578297655631902"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2088578297655631902",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "od被当作吸毒处理，而强制戒毒所不过就是强制劳动+强制戒断，并非真正有帮助的医疗措施。强制戒断并不是“终极治疗手段”，而只是一种监狱-惩戒措施。一些药物也并不适用于强制戒断，如苯二氮卓类，如果已经形成身体依赖，突然停药可能造成危及生命的戒断反应。但对毒的罪化使得od的人被视为“不配享受照护”。一过性的精神障碍也极易被滥用的双相诊断误诊，等待双相的封闭病房则是电击疗法、捆束和集体宿舍。在这样的情况下，od的人在轻躁狂状态无法对自身状况有自知力，也不能去就医，便容易地落入了毒品意识形态所设想的通往犯罪的管道。"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 25,
+          "impression_count": 18336,
+          "like_count": 244,
+          "quote_count": 3,
+          "reply_count": 15,
+          "retweet_count": 33
+        },
+        "reply_settings": "everyone",
+        "text": "od被当作吸毒处理，而强制戒毒所不过就是强制劳动+强制戒断，并非真正有帮助的医疗措施。强制戒断并不是“终极治疗手段”，而只是一种监狱-惩戒措施。一些药物也并不适用于强制戒断，如苯二氮卓类，如果已经形成身体依赖，突然停药可能造成危及生命的戒断反应。但对毒的罪化使得od的人被视为“不配享受照"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-05-17T01:27:33.000Z",
+        "description": "同类互fo，成分请查看@aeglepotato/点赞狂魔/平时喜欢说怪话和发癫/一般通过肉块爱好者，大量匂坂郁纪发言注意👁️/备用@aeglepotato /🦋@aeglepotato /匿名提问箱https://t.co/C8vIKrLtCN",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 11,
+                "username": "aeglepotato"
+              },
+              {
+                "end": 77,
+                "start": 65,
+                "username": "aeglepotato"
+              },
+              {
+                "end": 92,
+                "start": 80,
+                "username": "aeglepotato"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/aeglepotato",
+                "end": 122,
+                "expanded_url": "https://ngl.link/aeglepotato",
+                "start": 99,
+                "url": "https://t.co/C8vIKrLtCN"
+              }
+            ]
+          }
+        },
+        "id": "2055822314969665536",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2089377669968232478",
+        "name": "⛄ALLice🌈赛博幽灵",
+        "pinned_tweet_id": "2064878659698102753",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2055822314969665536/1784767652",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067517312576421888/aGH7Myxd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 354,
+          "following_count": 424,
+          "like_count": 19110,
+          "listed_count": 0,
+          "media_count": 79,
+          "tweet_count": 1400
+        },
+        "url": "",
+        "username": "GrievousPotato1",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-10-25T09:12:44.000Z",
+        "description": "",
+        "id": "1717106855019692032",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2089193127957696833",
+        "name": "yiiiir",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978148348390518784/QyjskgmT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 40,
+          "following_count": 82,
+          "like_count": 1390,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 92
+        },
+        "url": "",
+        "username": "YiiiiR0",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

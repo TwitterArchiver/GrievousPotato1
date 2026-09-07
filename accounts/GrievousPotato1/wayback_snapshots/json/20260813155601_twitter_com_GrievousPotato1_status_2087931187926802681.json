@@ -1,0 +1,260 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2055822314969665536",
+    "conversation_id": "2087931187926802681",
+    "created_at": "2026-08-13T15:56:01.000Z",
+    "display_text_range": [
+      0,
+      85
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-13T16:56:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2087931187926802681"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1555961306913689600",
+          "start": 3,
+          "username": "3C3AHuangYou"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2087931187926802681",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2087855436049657904",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @3C3AHuangYou: 我一直说把全地球人类搅成一锅不分你我的肉酱是对的，别他妈分什么物种人种性别年龄残疾心理状态需求了，我正在被所有人操我正在操所有人就行了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2055822314969665536",
+        "conversation_id": "2087931187926802681",
+        "created_at": "2026-08-13T15:56:01.000Z",
+        "display_text_range": [
+          0,
+          85
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-13T16:56:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087931187926802681"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1555961306913689600",
+              "start": 3,
+              "username": "3C3AHuangYou"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087931187926802681",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087855436049657904",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @3C3AHuangYou: 我一直说把全地球人类搅成一锅不分你我的肉酱是对的，别他妈分什么物种人种性别年龄残疾心理状态需求了，我正在被所有人操我正在操所有人就行了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1555961306913689600",
+        "conversation_id": "2087855436049657904",
+        "created_at": "2026-08-13T10:55:01.000Z",
+        "display_text_range": [
+          0,
+          67
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-13T11:55:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2087855436049657904"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Liquid_Pomelo/…",
+              "end": 91,
+              "expanded_url": "https://twitter.com/Liquid_Pomelo/status/2087560216208441823",
+              "start": 68,
+              "url": "https://t.co/cjj1sejjgU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087855436049657904",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2110,
+          "like_count": 30,
+          "quote_count": 2,
+          "reply_count": 6,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087560216208441823",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我一直说把全地球人类搅成一锅不分你我的肉酱是对的，别他妈分什么物种人种性别年龄残疾心理状态需求了，我正在被所有人操我正在操所有人就行了 https://t.co/cjj1sejjgU"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-05-17T01:27:33.000Z",
+        "description": "同类互fo，成分请查看@aeglepotato/点赞狂魔/平时喜欢说怪话和发癫/一般通过肉块爱好者，大量匂坂郁纪发言注意👁️/备用@aeglepotato /🦋@aeglepotato /匿名提问箱https://t.co/C8vIKrLtCN",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 11,
+                "username": "aeglepotato"
+              },
+              {
+                "end": 77,
+                "start": 65,
+                "username": "aeglepotato"
+              },
+              {
+                "end": 92,
+                "start": 80,
+                "username": "aeglepotato"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/aeglepotato",
+                "end": 122,
+                "expanded_url": "https://ngl.link/aeglepotato",
+                "start": 99,
+                "url": "https://t.co/C8vIKrLtCN"
+              }
+            ]
+          }
+        },
+        "id": "2055822314969665536",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2087931187926802681",
+        "name": "⛄ALLice🌈赛博幽灵",
+        "pinned_tweet_id": "2064878659698102753",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2055822314969665536/1784767652",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067517312576421888/aGH7Myxd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 355,
+          "following_count": 427,
+          "like_count": 18603,
+          "listed_count": 0,
+          "media_count": 75,
+          "tweet_count": 1324
+        },
+        "url": "",
+        "username": "GrievousPotato1",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-08-06T16:57:47.000Z",
+        "description": "我常怀悲缅 而苦难绵延大地  如风吹过林间  赓继如缕 累续无绝；我燃尽的灰  @ButterInnerSide",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 56,
+                "start": 40,
+                "username": "ButterInnerSide"
+              }
+            ]
+          }
+        },
+        "id": "1555961306913689600",
+        "is_identity_verified": false,
+        "location": "微笑的尸山",
+        "most_recent_tweet_id": "2087905196081123387",
+        "name": "人造黄油➡️no where",
+        "pinned_tweet_id": "1923079056955687153",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1555961306913689600/1711972862",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1921217447677644800/MuCe2H0M_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7126,
+          "following_count": 2956,
+          "like_count": 169369,
+          "listed_count": 9,
+          "media_count": 1888,
+          "tweet_count": 28231
+        },
+        "url": "",
+        "username": "3C3AHuangYou",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

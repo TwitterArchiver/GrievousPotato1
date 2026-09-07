@@ -1,0 +1,264 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2055822314969665536",
+    "conversation_id": "2087019909729374305",
+    "created_at": "2026-08-11T03:34:56.000Z",
+    "display_text_range": [
+      0,
+      9
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-11T04:34:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2087019909729374305"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/99905230523aol…",
+          "end": 33,
+          "expanded_url": "https://twitter.com/99905230523aol/status/2080519568192352607",
+          "start": 10,
+          "url": "https://t.co/m7fgRvQTgq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2087019909729374305",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080519568192352607",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "那我是致幻主义了🤤 https://t.co/m7fgRvQTgq"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1056,
+        "media_key": "3_2080519565289947136",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HN99hYVbgAA5vJF.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2055822314969665536",
+        "conversation_id": "2087019909729374305",
+        "created_at": "2026-08-11T03:34:56.000Z",
+        "display_text_range": [
+          0,
+          9
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-11T04:34:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2087019909729374305"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/99905230523aol…",
+              "end": 33,
+              "expanded_url": "https://twitter.com/99905230523aol/status/2080519568192352607",
+              "start": 10,
+              "url": "https://t.co/m7fgRvQTgq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087019909729374305",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080519568192352607",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "那我是致幻主义了🤤 https://t.co/m7fgRvQTgq"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2080519565289947136"
+          ]
+        },
+        "author_id": "1629877998148042757",
+        "conversation_id": "2080519568192352607",
+        "created_at": "2026-07-24T05:04:53.000Z",
+        "display_text_range": [
+          0,
+          8
+        ],
+        "edit_controls": {
+          "editable_until": "2026-07-24T06:04:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080519568192352607"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/8vZcZ2LQE3",
+              "end": 32,
+              "expanded_url": "https://x.com/99905230523aol/status/2080519568192352607/photo/1",
+              "media_key": "3_2080519565289947136",
+              "start": 9,
+              "url": "https://t.co/8vZcZ2LQE3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080519568192352607",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2080519565289947136"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 7802,
+          "like_count": 117,
+          "quote_count": 3,
+          "reply_count": 8,
+          "retweet_count": 21
+        },
+        "reply_settings": "everyone",
+        "text": "药圈意识形态大赏 https://t.co/8vZcZ2LQE3"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-05-17T01:27:33.000Z",
+        "description": "同类互fo，成分请查看@aeglepotato/点赞狂魔/平时喜欢说怪话和发癫/一般通过肉块爱好者，大量匂坂郁纪发言注意👁️/备用@aeglepotato /🦋@aeglepotato /匿名提问箱https://t.co/C8vIKrLtCN",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 11,
+                "username": "aeglepotato"
+              },
+              {
+                "end": 77,
+                "start": 65,
+                "username": "aeglepotato"
+              },
+              {
+                "end": 92,
+                "start": 80,
+                "username": "aeglepotato"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/aeglepotato",
+                "end": 122,
+                "expanded_url": "https://ngl.link/aeglepotato",
+                "start": 99,
+                "url": "https://t.co/C8vIKrLtCN"
+              }
+            ]
+          }
+        },
+        "id": "2055822314969665536",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2087019909729374305",
+        "name": "⛄ALLice🌈赛博幽灵",
+        "pinned_tweet_id": "2064878659698102753",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2055822314969665536/1784767652",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067517312576421888/aGH7Myxd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 343,
+          "following_count": 415,
+          "like_count": 18292,
+          "listed_count": 0,
+          "media_count": 71,
+          "tweet_count": 1274
+        },
+        "url": "",
+        "username": "GrievousPotato1",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-02-26T16:16:23.000Z",
+        "description": "一个激进分子，加速主义，后性别主义\n支持致幻剂合法化，大麻合法化\n/双性恋\n高功能孤独症谱系/支持神经多样性运动",
+        "id": "1629877998148042757",
+        "is_identity_verified": false,
+        "location": "激进主义分子",
+        "most_recent_tweet_id": "2086476468985479467",
+        "name": "无政府主义联盟",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1629877998148042757/1744557286",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061047941188743168/OTSCZ730_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 155,
+          "following_count": 78,
+          "like_count": 37,
+          "listed_count": 0,
+          "media_count": 37,
+          "tweet_count": 267
+        },
+        "url": "",
+        "username": "99905230523aol",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

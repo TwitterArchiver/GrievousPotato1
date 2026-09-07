@@ -1,0 +1,335 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2055822314969665536",
+    "conversation_id": "2092567018809774368",
+    "created_at": "2026-08-27T01:04:14.000Z",
+    "display_text_range": [
+      27,
+      33
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-27T02:04:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2092780192271868113"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1626658024449540097",
+          "start": 0,
+          "username": "h4tewithluv"
+        },
+        {
+          "end": 26,
+          "id": "1789010584731586561",
+          "start": 13,
+          "username": "17_ZakkysLab"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2092780192271868113",
+    "in_reply_to_user_id": "1626658024449540097",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2092567018809774368",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@h4tewithluv @17_ZakkysLab ？！帅帅！？"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1608,
+        "media_key": "3_2092566743197863936",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQpKXbUa0AAcrqV.jpg",
+        "width": 978
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2055822314969665536",
+        "conversation_id": "2092567018809774368",
+        "created_at": "2026-08-27T01:04:14.000Z",
+        "display_text_range": [
+          27,
+          33
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-27T02:04:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2092780192271868113"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1626658024449540097",
+              "start": 0,
+              "username": "h4tewithluv"
+            },
+            {
+              "end": 26,
+              "id": "1789010584731586561",
+              "start": 13,
+              "username": "17_ZakkysLab"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092780192271868113",
+        "in_reply_to_user_id": "1626658024449540097",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092567018809774368",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@h4tewithluv @17_ZakkysLab ？！帅帅！？"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2092566743197863936"
+          ]
+        },
+        "author_id": "1626658024449540097",
+        "conversation_id": "2092567018809774368",
+        "created_at": "2026-08-26T10:57:09.000Z",
+        "display_text_range": [
+          0,
+          36
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-26T11:57:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2092567018809774368"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 23,
+              "id": "1789010584731586561",
+              "start": 10,
+              "username": "17_ZakkysLab"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/0CVrh1gsel",
+              "end": 60,
+              "expanded_url": "https://x.com/h4tewithluv/status/2092567018809774368/photo/1",
+              "media_key": "3_2092566743197863936",
+              "start": 37,
+              "url": "https://t.co/0CVrh1gsel"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092567018809774368",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2092566743197863936"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2585,
+          "like_count": 14,
+          "quote_count": 1,
+          "reply_count": 6,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "與小扎的每一個瞬間 @17_ZakkysLab \n只剩下海蝕崖承受著暴雨 https://t.co/0CVrh1gsel"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-05-17T01:27:33.000Z",
+        "description": "同类互fo，成分请查看@aeglepotato/点赞狂魔/平时喜欢说怪话和发癫/一般通过肉块爱好者，大量匂坂郁纪发言注意👁️/备用@aeglepotato /🦋@aeglepotato /匿名提问箱https://t.co/C8vIKrLtCN",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 11,
+                "username": "aeglepotato"
+              },
+              {
+                "end": 77,
+                "start": 65,
+                "username": "aeglepotato"
+              },
+              {
+                "end": 92,
+                "start": 80,
+                "username": "aeglepotato"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/aeglepotato",
+                "end": 122,
+                "expanded_url": "https://ngl.link/aeglepotato",
+                "start": 99,
+                "url": "https://t.co/C8vIKrLtCN"
+              }
+            ]
+          }
+        },
+        "id": "2055822314969665536",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2092780192271868113",
+        "name": "🌈ALLice⛄赛博幽灵",
+        "pinned_tweet_id": "2064878659698102753",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2055822314969665536/1784767652",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067517312576421888/aGH7Myxd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 375,
+          "following_count": 448,
+          "like_count": 20000,
+          "listed_count": 0,
+          "media_count": 88,
+          "tweet_count": 1516
+        },
+        "url": "",
+        "username": "GrievousPotato1",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-02-17T19:01:20.000Z",
+        "description": "98年的老東西 / ip北京、上海、吉隆坡 / od / 割 / 雙相 / 精神狀態=開盲盒 / 我的未來一眼望到頭 ❤: @17_ZakkysLab\n🚪：暫無，不想加墻內",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 75,
+                "start": 62,
+                "username": "17_ZakkysLab"
+              }
+            ]
+          }
+        },
+        "id": "1626658024449540097",
+        "is_identity_verified": false,
+        "location": "Singapore",
+        "most_recent_tweet_id": "2092636711625142697",
+        "name": "世界盡頭是一片螢光海",
+        "pinned_tweet_id": "2092636711625142697",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1626658024449540097/1787583844",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2091905768585150464/yrwPkiap_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 47,
+          "following_count": 40,
+          "like_count": 11,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 17
+        },
+        "url": "",
+        "username": "h4tewithluv",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-05-10T19:12:26.000Z",
+        "description": "扎鸡兄弟 Los Pollos Hermanos",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Zakky979",
+                "end": 23,
+                "expanded_url": "https://t.me/Zakky979",
+                "start": 0,
+                "url": "https://t.co/ALxTTL6SOC"
+              }
+            ]
+          }
+        },
+        "id": "1789010584731586561",
+        "is_identity_verified": false,
+        "location": "阿尔伯克基",
+        "most_recent_tweet_id": "2092637219546861863",
+        "name": "扎17",
+        "pinned_tweet_id": "2092636720026288426",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1789010584731586561/1787669819",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2092264793378099201/nwq8pqCe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 151,
+          "following_count": 50,
+          "like_count": 155,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 107
+        },
+        "url": "https://t.co/ALxTTL6SOC",
+        "username": "17_ZakkysLab",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}
