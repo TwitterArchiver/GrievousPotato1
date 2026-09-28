@@ -1,0 +1,237 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2055822314969665536",
+    "conversation_id": "2100817567619457315",
+    "created_at": "2026-09-18T06:33:56.000Z",
+    "display_text_range": [
+      14,
+      70
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-18T07:33:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2100835699071086958"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1906965920515551233",
+          "start": 0,
+          "username": "OrangeTsukii"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2100835699071086958",
+    "in_reply_to_user_id": "1906965920515551233",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2100817567619457315",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@OrangeTsukii 但这样掐多了会不会对大脑有损伤？我记得看过一个新闻是男伴把女伴掐出栓塞导致脑梗塞死了，从此就对这种玩法有点恐惧（"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2055822314969665536",
+        "conversation_id": "2100817567619457315",
+        "created_at": "2026-09-18T06:33:56.000Z",
+        "display_text_range": [
+          14,
+          70
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-18T07:33:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2100835699071086958"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1906965920515551233",
+              "start": 0,
+              "username": "OrangeTsukii"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100835699071086958",
+        "in_reply_to_user_id": "1906965920515551233",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2100817567619457315",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@OrangeTsukii 但这样掐多了会不会对大脑有损伤？我记得看过一个新闻是男伴把女伴掐出栓塞导致脑梗塞死了，从此就对这种玩法有点恐惧（"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1906965920515551233",
+        "conversation_id": "2100817567619457315",
+        "created_at": "2026-09-18T05:21:54.000Z",
+        "display_text_range": [
+          0,
+          144
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-18T06:20:33.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2100817229168410787",
+          "2100817567619457315"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2100817567619457315",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "本来不想聊NSFW但看别人掐脖子怎么都是掐气管的，看不下去了。想着本来也是我最爱的XP之一，就顺便从医学专业角度说一下哈：\n\n不是掐气管。从甲状软骨（喉结）最突出的地方，平对的两侧颈部是颈动脉窦，两侧同时用力会挤压血管，阻断血流同时反射性降低心输出量，导致全身低血压，脑部会因为缺血缺氧。\n\n脑缺氧会出现眼前发黑、耳鸣、头重脚轻、飘、短暂意识模糊、高潮被放大等反应。全身也会因为性兴奋、窒息恐惧、缺氧本身，让交感和内啡肽一起上来，主观上会又爽又兴奋。\n\n掐对了真的会特别爽，我把前任掐到爽晕过，醒过来之后只知道软瘫在身上大喘气了。"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 1606,
+          "like_count": 14,
+          "quote_count": 1,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "本来不想聊NSFW但看别人掐脖子怎么都是掐气管的，看不下去了。想着本来也是我最爱的XP之一，就顺便从医学专业角度说一下哈：\n\n不是掐气管。从甲状软骨（喉结）最突出的地方，平对的两侧颈部是颈动脉窦，两侧同时用力会挤压血管，阻断血流同时反射性降低心输出量，导致全身低血压，脑部会因为缺血缺氧。"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-05-17T01:27:33.000Z",
+        "description": "同类互fo，成分请查看@aeglepotato/点赞狂魔/平时喜欢说怪话和发癫/一般通过肉块爱好者，大量匂坂郁纪发言注意👁️/备用@aeglepotato /🦋@aeglepotato /匿名提问箱https://t.co/C8vIKrLtCN",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 11,
+                "username": "aeglepotato"
+              },
+              {
+                "end": 77,
+                "start": 65,
+                "username": "aeglepotato"
+              },
+              {
+                "end": 92,
+                "start": 80,
+                "username": "aeglepotato"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/aeglepotato",
+                "end": 122,
+                "expanded_url": "https://ngl.link/aeglepotato",
+                "start": 99,
+                "url": "https://t.co/C8vIKrLtCN"
+              }
+            ]
+          }
+        },
+        "id": "2055822314969665536",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2100835699071086958",
+        "name": "🌈ALLice⛄赛博幽灵",
+        "pinned_tweet_id": "2064878659698102753",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2055822314969665536/1784767652",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067517312576421888/aGH7Myxd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 459,
+          "following_count": 487,
+          "like_count": 21784,
+          "listed_count": 0,
+          "media_count": 115,
+          "tweet_count": 1800
+        },
+        "url": "",
+        "username": "GrievousPotato1",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-04-01T07:04:46.000Z",
+        "description": "日本摇滚乐重度依赖。",
+        "id": "1906965920515551233",
+        "is_identity_verified": false,
+        "location": "游荡在互联网上的初恋幽灵",
+        "most_recent_tweet_id": "2100833736292274218",
+        "name": "Tsukiyo",
+        "pinned_tweet_id": "2097746438222700904",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1906965920515551233/1789065135",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2092182042708746240/2bOhDkc1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 206,
+          "following_count": 62,
+          "like_count": 14328,
+          "listed_count": 0,
+          "media_count": 69,
+          "tweet_count": 667
+        },
+        "url": "",
+        "username": "OrangeTsukii",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

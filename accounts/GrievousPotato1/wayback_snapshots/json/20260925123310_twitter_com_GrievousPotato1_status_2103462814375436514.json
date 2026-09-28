@@ -1,0 +1,279 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2055822314969665536",
+    "conversation_id": "2103462814375436514",
+    "created_at": "2026-09-25T12:33:10.000Z",
+    "display_text_range": [
+      0,
+      140
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-25T13:33:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2103462814375436514"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1843201902550634496",
+          "start": 3,
+          "username": "LwrDHYyuxR22499"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "t.co",
+          "end": 139,
+          "start": 126,
+          "url": "https://t.co/"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2103462814375436514",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "2103447407715627469",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @LwrDHYyuxR22499: 一个冷知识：\n不要对任何人的职业抱有认知滤镜。警察有很多坏警察，退伍兵也有很多军痞子。\n \n相对的许多人就是借着救助者滤镜，从而对受害者进行性剥削，甚至利用药物控制。\n我已经见过不下三个用思诺思迷奸的案例。… https://t.co/…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3254,
+        "media_key": "3_2103447114026242048",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTDyAXNa0AACHXm.jpg",
+        "width": 4096
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2055822314969665536",
+        "conversation_id": "2103462814375436514",
+        "created_at": "2026-09-25T12:33:10.000Z",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-25T13:33:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2103462814375436514"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1843201902550634496",
+              "start": 3,
+              "username": "LwrDHYyuxR22499"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "t.co",
+              "end": 139,
+              "start": 126,
+              "url": "https://t.co/"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103462814375436514",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2103447407715627469",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @LwrDHYyuxR22499: 一个冷知识：\n不要对任何人的职业抱有认知滤镜。警察有很多坏警察，退伍兵也有很多军痞子。\n \n相对的许多人就是借着救助者滤镜，从而对受害者进行性剥削，甚至利用药物控制。\n我已经见过不下三个用思诺思迷奸的案例。… https://t.co/…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2103447114026242048"
+          ]
+        },
+        "author_id": "1843201902550634496",
+        "conversation_id": "2103447407715627469",
+        "created_at": "2026-09-25T11:31:56.000Z",
+        "display_text_range": [
+          0,
+          103
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-25T12:31:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2103447407715627469"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/JYc2CAThk4",
+              "end": 127,
+              "expanded_url": "https://x.com/LwrDHYyuxR22499/status/2103447407715627469/photo/1",
+              "media_key": "3_2103447114026242048",
+              "start": 104,
+              "url": "https://t.co/JYc2CAThk4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103447407715627469",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2103447114026242048"
+          }
+        ],
+        "note_tweet": {
+          "entities": {},
+          "text": "一个冷知识：\n不要对任何人的职业抱有认知滤镜。警察有很多坏警察，退伍兵也有很多军痞子。\n \n相对的许多人就是借着救助者滤镜，从而对受害者进行性剥削，甚至利用药物控制。\n我已经见过不下三个用思诺思迷奸的案例。\n还有一位对女性做心理治疗的时候，称“心情不好可以来我房间，我帮你揉揉下面心情就好了”\n \n在一个封闭环境下往往所谓救助的权利架构体系，跟邪教出奇的相似"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1006,
+          "like_count": 37,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "一个冷知识：\n不要对任何人的职业抱有认知滤镜。警察有很多坏警察，退伍兵也有很多军痞子。\n \n相对的许多人就是借着救助者滤镜，从而对受害者进行性剥削，甚至利用药物控制。\n我已经见过不下三个用思诺思迷奸的案例。 https://t.co/JYc2CAThk4"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-05-17T01:27:33.000Z",
+        "description": "同类互fo，成分请查看@aeglepotato/点赞狂魔/平时喜欢说怪话和发癫/一般通过肉块爱好者，大量匂坂郁纪发言注意👁️/备用@aeglepotato /🦋@aeglepotato /匿名提问箱https://t.co/C8vIKrLtCN",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 11,
+                "username": "aeglepotato"
+              },
+              {
+                "end": 77,
+                "start": 65,
+                "username": "aeglepotato"
+              },
+              {
+                "end": 92,
+                "start": 80,
+                "username": "aeglepotato"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/aeglepotato",
+                "end": 122,
+                "expanded_url": "https://ngl.link/aeglepotato",
+                "start": 99,
+                "url": "https://t.co/C8vIKrLtCN"
+              }
+            ]
+          }
+        },
+        "id": "2055822314969665536",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2103462814375436514",
+        "name": "🌈ALLice⛄赛博幽灵",
+        "pinned_tweet_id": "2064878659698102753",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2055822314969665536/1790048433",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067517312576421888/aGH7Myxd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 465,
+          "following_count": 495,
+          "like_count": 22567,
+          "listed_count": 0,
+          "media_count": 128,
+          "tweet_count": 1913
+        },
+        "url": "",
+        "username": "GrievousPotato1",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-10-07T08:09:22.000Z",
+        "description": "一名独立调查人，反扭转救援信息战主力、体系化反扭设计者，反邪教，反家暴\n曾受邀BBC Eye联合调查曝光违规机构，个案不定期登刊央视、东方卫视、中华网、半月谈以及各大新闻媒体。\n斩获2026年度新闻界🥇卓越奖\n最大的愿望是中国老百姓都能过上好日子",
+        "id": "1843201902550634496",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2103447407715627469",
+        "name": "牧鸢",
+        "pinned_tweet_id": "1999309621845254386",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1843201902550634496/1728288725",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079781229529022464/zTPOeSt6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7448,
+          "following_count": 3428,
+          "like_count": 4865,
+          "listed_count": 20,
+          "media_count": 592,
+          "tweet_count": 4086
+        },
+        "url": "",
+        "username": "LwrDHYyuxR22499",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

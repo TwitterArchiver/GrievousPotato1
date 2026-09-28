@@ -1,0 +1,320 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2099696452708577280"
+      ],
+      "media_source_tweet_id": [
+        "2099696459285201185"
+      ]
+    },
+    "author_id": "2055822314969665536",
+    "conversation_id": "2100054902433038814",
+    "created_at": "2026-09-16T02:51:20.000Z",
+    "display_text_range": [
+      0,
+      67
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-16T03:51:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2100054902433038814"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1309708058239684608",
+          "start": 3,
+          "username": "APsychedelics"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/8le8uHy2eB",
+          "end": 67,
+          "expanded_url": "https://x.com/APsychedelics/status/2099696459285201185/photo/1",
+          "media_key": "3_2099696452708577280",
+          "start": 44,
+          "url": "https://t.co/8le8uHy2eB"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2100054902433038814",
+    "lang": "en",
+    "media_metadata": [
+      {
+        "media_key": "3_2099696452708577280"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 57
+    },
+    "referenced_tweets": [
+      {
+        "id": "2099696459285201185",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @APsychedelics: Don't do drugs, kids 👨‍🚀 https://t.co/8le8uHy2eB"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1440,
+        "media_key": "3_2099696452708577280",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSOezI_XsAAA3E3.jpg",
+        "width": 1453
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2099696452708577280"
+          ],
+          "media_source_tweet_id": [
+            "2099696459285201185"
+          ]
+        },
+        "author_id": "2055822314969665536",
+        "conversation_id": "2100054902433038814",
+        "created_at": "2026-09-16T02:51:20.000Z",
+        "display_text_range": [
+          0,
+          67
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-16T03:51:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2100054902433038814"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1309708058239684608",
+              "start": 3,
+              "username": "APsychedelics"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/8le8uHy2eB",
+              "end": 67,
+              "expanded_url": "https://x.com/APsychedelics/status/2099696459285201185/photo/1",
+              "media_key": "3_2099696452708577280",
+              "start": 44,
+              "url": "https://t.co/8le8uHy2eB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100054902433038814",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "3_2099696452708577280"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 57
+        },
+        "referenced_tweets": [
+          {
+            "id": "2099696459285201185",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @APsychedelics: Don't do drugs, kids 👨‍🚀 https://t.co/8le8uHy2eB"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2099696452708577280"
+          ]
+        },
+        "author_id": "1309708058239684608",
+        "conversation_id": "2099696459285201185",
+        "created_at": "2026-09-15T03:07:01.000Z",
+        "display_text_range": [
+          0,
+          24
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-15T04:07:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2099696459285201185"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/8le8uHy2eB",
+              "end": 48,
+              "expanded_url": "https://x.com/APsychedelics/status/2099696459285201185/photo/1",
+              "media_key": "3_2099696452708577280",
+              "start": 25,
+              "url": "https://t.co/8le8uHy2eB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099696459285201185",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "3_2099696452708577280"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 55,
+          "impression_count": 5117,
+          "like_count": 439,
+          "quote_count": 5,
+          "reply_count": 6,
+          "retweet_count": 57
+        },
+        "reply_settings": "everyone",
+        "text": "Don't do drugs, kids 👨‍🚀 https://t.co/8le8uHy2eB"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-05-17T01:27:33.000Z",
+        "description": "同类互fo，成分请查看@aeglepotato/点赞狂魔/平时喜欢说怪话和发癫/一般通过肉块爱好者，大量匂坂郁纪发言注意👁️/备用@aeglepotato /🦋@aeglepotato /匿名提问箱https://t.co/C8vIKrLtCN",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 11,
+                "username": "aeglepotato"
+              },
+              {
+                "end": 77,
+                "start": 65,
+                "username": "aeglepotato"
+              },
+              {
+                "end": 92,
+                "start": 80,
+                "username": "aeglepotato"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/aeglepotato",
+                "end": 122,
+                "expanded_url": "https://ngl.link/aeglepotato",
+                "start": 99,
+                "url": "https://t.co/C8vIKrLtCN"
+              }
+            ]
+          }
+        },
+        "id": "2055822314969665536",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2100054902433038814",
+        "name": "🌈ALLice⛄赛博幽灵",
+        "pinned_tweet_id": "2064878659698102753",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2055822314969665536/1784767652",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067517312576421888/aGH7Myxd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 451,
+          "following_count": 483,
+          "like_count": 21589,
+          "listed_count": 0,
+          "media_count": 113,
+          "tweet_count": 1771
+        },
+        "url": "",
+        "username": "GrievousPotato1",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2020-09-26T04:15:38.000Z",
+        "description": "**NOTHING FOR SALE**",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/psychhaeven",
+                "end": 23,
+                "expanded_url": "https://t.me/psychhaeven",
+                "start": 0,
+                "url": "https://t.co/UnANRzz82J"
+              }
+            ]
+          }
+        },
+        "id": "1309708058239684608",
+        "is_identity_verified": false,
+        "location": "Spaceship Earth",
+        "most_recent_tweet_id": "2100044028913844648",
+        "name": "👾 𝐀𝐥𝐢𝐞𝐧𝐬 & 𝐏𝐬𝐲𝐜𝐡𝐞𝐝𝐞𝐥𝐢𝐜𝐬 🌵",
+        "pinned_tweet_id": "1907841187915968859",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1309708058239684608/1603127013",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1684640764330987520/9RWz9rO__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15365,
+          "following_count": 715,
+          "like_count": 49106,
+          "listed_count": 68,
+          "media_count": 32775,
+          "tweet_count": 43537
+        },
+        "url": "https://t.co/UnANRzz82J",
+        "username": "APsychedelics",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

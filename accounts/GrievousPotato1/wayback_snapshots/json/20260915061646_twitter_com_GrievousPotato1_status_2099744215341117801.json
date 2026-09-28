@@ -1,0 +1,400 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2099744208626008064"
+      ]
+    },
+    "author_id": "2055822314969665536",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2099742153047941335",
+    "created_at": "2026-09-15T06:16:46.000Z",
+    "display_text_range": [
+      12,
+      20
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-15T07:16:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2099744215341117801"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2065198847698337792",
+          "start": 0,
+          "username": "mzmorz8964"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/KZzCWX7ZYy",
+          "end": 44,
+          "expanded_url": "https://x.com/GrievousPotato1/status/2099744215341117801/photo/1",
+          "media_key": "3_2099744208626008064",
+          "start": 21,
+          "url": "https://t.co/KZzCWX7ZYy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2099744215341117801",
+    "in_reply_to_user_id": "2065198847698337792",
+    "lang": "ja",
+    "media_metadata": [
+      {
+        "media_key": "3_2099744208626008064"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2099742153047941335",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mzmorz8964 推特上也是😭🏳️ https://t.co/KZzCWX7ZYy"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1129,
+        "media_key": "3_2099744208626008064",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSPKO5pWQAAg8E_.jpg",
+        "width": 1220
+      },
+      {
+        "height": 131,
+        "media_key": "3_2099742138603012096",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSPIWaNaAAANcZl.jpg",
+        "width": 493
+      },
+      {
+        "height": 4096,
+        "media_key": "3_2099742144567406592",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSPIWwbbcAAaTit.jpg",
+        "width": 3616
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2099744208626008064"
+          ]
+        },
+        "author_id": "2055822314969665536",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2099742153047941335",
+        "created_at": "2026-09-15T06:16:46.000Z",
+        "display_text_range": [
+          12,
+          20
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-15T07:16:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2099744215341117801"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2065198847698337792",
+              "start": 0,
+              "username": "mzmorz8964"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/KZzCWX7ZYy",
+              "end": 44,
+              "expanded_url": "https://x.com/GrievousPotato1/status/2099744215341117801/photo/1",
+              "media_key": "3_2099744208626008064",
+              "start": 21,
+              "url": "https://t.co/KZzCWX7ZYy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099744215341117801",
+        "in_reply_to_user_id": "2065198847698337792",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2099744208626008064"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2099742153047941335",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mzmorz8964 推特上也是😭🏳️ https://t.co/KZzCWX7ZYy"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2099742138603012096",
+            "3_2099742144567406592"
+          ]
+        },
+        "author_id": "2065198847698337792",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2099742153047941335",
+        "created_at": "2026-09-15T06:08:35.000Z",
+        "display_text_range": [
+          0,
+          1
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-15T07:08:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2099742153047941335"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/7Vds9FCee1",
+              "end": 25,
+              "expanded_url": "https://x.com/mzmorz8964/status/2099742153047941335/photo/1",
+              "media_key": "3_2099742138603012096",
+              "start": 2,
+              "url": "https://t.co/7Vds9FCee1"
+            },
+            {
+              "display_url": "pic.x.com/7Vds9FCee1",
+              "end": 25,
+              "expanded_url": "https://x.com/mzmorz8964/status/2099742153047941335/photo/1",
+              "media_key": "3_2099742144567406592",
+              "start": 2,
+              "url": "https://t.co/7Vds9FCee1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099742153047941335",
+        "lang": "zxx",
+        "media_metadata": [
+          {
+            "media_key": "3_2099742138603012096"
+          },
+          {
+            "media_key": "3_2099742144567406592"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "？ https://t.co/7Vds9FCee1"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-05-17T01:27:33.000Z",
+        "description": "同类互fo，成分请查看@aeglepotato/点赞狂魔/平时喜欢说怪话和发癫/一般通过肉块爱好者，大量匂坂郁纪发言注意👁️/备用@aeglepotato /🦋@aeglepotato /匿名提问箱https://t.co/C8vIKrLtCN",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 11,
+                "username": "aeglepotato"
+              },
+              {
+                "end": 77,
+                "start": 65,
+                "username": "aeglepotato"
+              },
+              {
+                "end": 92,
+                "start": 80,
+                "username": "aeglepotato"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/aeglepotato",
+                "end": 122,
+                "expanded_url": "https://ngl.link/aeglepotato",
+                "start": 99,
+                "url": "https://t.co/C8vIKrLtCN"
+              }
+            ]
+          }
+        },
+        "id": "2055822314969665536",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2099744215341117801",
+        "name": "🌈ALLice⛄赛博幽灵",
+        "pinned_tweet_id": "2064878659698102753",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2055822314969665536/1784767652",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067517312576421888/aGH7Myxd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 451,
+          "following_count": 484,
+          "like_count": 21541,
+          "listed_count": 0,
+          "media_count": 113,
+          "tweet_count": 1762
+        },
+        "url": "",
+        "username": "GrievousPotato1",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-06-11T22:27:35.000Z",
+        "description": "被逼迫着挣扎着走向名为未来的焦虑\n这里是教主sama，间宫卓司人间体\n 伏行之混沌 @yuu114514ovo\n最虔诚的信徒（逃生舱）@fmf5y",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 55,
+                "start": 42,
+                "username": "yuu114514ovo"
+              },
+              {
+                "end": 73,
+                "start": 67,
+                "username": "fmf5y"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/mzm_ssiah1",
+                "end": 23,
+                "expanded_url": "https://ngl.link/mzm_ssiah1",
+                "start": 0,
+                "url": "https://t.co/hu72BnifsZ"
+              }
+            ]
+          }
+        },
+        "id": "2065198847698337792",
+        "is_identity_verified": false,
+        "location": "終ノ空",
+        "most_recent_tweet_id": "2099743335426535627",
+        "name": "翻过护栏即可通往天堂",
+        "pinned_tweet_id": "2082912570957324352",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2065198847698337792/1787691792",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2099475100668174338/N87dkzVQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 206,
+          "following_count": 212,
+          "like_count": 2033,
+          "listed_count": 2,
+          "media_count": 133,
+          "tweet_count": 1117
+        },
+        "url": "https://t.co/hu72BnifsZ",
+        "username": "mzmorz8964",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

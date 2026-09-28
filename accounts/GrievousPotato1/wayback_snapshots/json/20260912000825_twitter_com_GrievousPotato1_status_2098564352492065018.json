@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2055822314969665536",
+    "conversation_id": "2098564352492065018",
+    "created_at": "2026-09-12T00:08:25.000Z",
+    "display_text_range": [
+      0,
+      116
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-12T01:08:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2098564352492065018"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1258538782485368838",
+          "start": 3,
+          "username": "dogstoievsk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2098564352492065018",
+    "lang": "pt",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 12917
+    },
+    "referenced_tweets": [
+      {
+        "id": "2098180367442153889",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @dogstoievsk: todo o sangue que deixa a pica dura passou pelo coração primeiro ou seja todo pau duro é apaixonado"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2055822314969665536",
+        "conversation_id": "2098564352492065018",
+        "created_at": "2026-09-12T00:08:25.000Z",
+        "display_text_range": [
+          0,
+          116
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-12T01:08:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2098564352492065018"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1258538782485368838",
+              "start": 3,
+              "username": "dogstoievsk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098564352492065018",
+        "lang": "pt",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 12917
+        },
+        "referenced_tweets": [
+          {
+            "id": "2098180367442153889",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @dogstoievsk: todo o sangue que deixa a pica dura passou pelo coração primeiro ou seja todo pau duro é apaixonado"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1258538782485368838",
+        "conversation_id": "2098180367442153889",
+        "created_at": "2026-09-10T22:42:36.000Z",
+        "display_text_range": [
+          0,
+          99
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-10T23:42:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2098180367442153889"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2098180367442153889",
+        "lang": "pt",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 8082,
+          "impression_count": 5696613,
+          "like_count": 118173,
+          "quote_count": 1298,
+          "reply_count": 412,
+          "retweet_count": 12917
+        },
+        "reply_settings": "everyone",
+        "text": "todo o sangue que deixa a pica dura passou pelo coração primeiro ou seja todo pau duro é apaixonado"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-05-17T01:27:33.000Z",
+        "description": "同类互fo，成分请查看@aeglepotato/点赞狂魔/平时喜欢说怪话和发癫/一般通过肉块爱好者，大量匂坂郁纪发言注意👁️/备用@aeglepotato /🦋@aeglepotato /匿名提问箱https://t.co/C8vIKrLtCN",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 11,
+                "username": "aeglepotato"
+              },
+              {
+                "end": 77,
+                "start": 65,
+                "username": "aeglepotato"
+              },
+              {
+                "end": 92,
+                "start": 80,
+                "username": "aeglepotato"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/aeglepotato",
+                "end": 122,
+                "expanded_url": "https://ngl.link/aeglepotato",
+                "start": 99,
+                "url": "https://t.co/C8vIKrLtCN"
+              }
+            ]
+          }
+        },
+        "id": "2055822314969665536",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2098564352492065018",
+        "name": "🌈ALLice⛄赛博幽灵",
+        "pinned_tweet_id": "2064878659698102753",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2055822314969665536/1784767652",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067517312576421888/aGH7Myxd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 442,
+          "following_count": 486,
+          "like_count": 21228,
+          "listed_count": 0,
+          "media_count": 108,
+          "tweet_count": 1715
+        },
+        "url": "",
+        "username": "GrievousPotato1",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2020-05-07T23:26:52.000Z",
+        "description": "(ele/o) a vida não é uma lasanha.",
+        "id": "1258538782485368838",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2098562702897483986",
+        "name": "inceltonmello123",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1258538782485368838/1766016248",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2001443326709342209/FGScN0nU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 398,
+          "following_count": 243,
+          "like_count": 189365,
+          "listed_count": 2,
+          "media_count": 497,
+          "tweet_count": 13092
+        },
+        "url": "",
+        "username": "dogstoievsk",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

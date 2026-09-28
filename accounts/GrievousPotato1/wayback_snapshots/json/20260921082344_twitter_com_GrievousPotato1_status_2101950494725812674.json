@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2055822314969665536",
+    "conversation_id": "2101950494725812674",
+    "created_at": "2026-09-21T08:23:44.000Z",
+    "display_text_range": [
+      0,
+      140
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-21T09:23:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2101950494725812674"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1702177500565274624",
+          "start": 3,
+          "username": "Noe1017_Monad"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2101950494725812674",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 53
+    },
+    "referenced_tweets": [
+      {
+        "id": "2101681543085469829",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Noe1017_Monad: 东亚特色社会达尔文主义，俗称“卷赢了没奖励，卷输了有惩罚”。\n\n卷赢了，往往只是保住本来就该有的正常生活；卷输了，却可能遭遇明显的向下惩罚。 \n\n以学历为例，现在考上好学校的奖励基本只是获得一个正常入场券；但没考上，可能意味着就业机会、城市…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2055822314969665536",
+        "conversation_id": "2101950494725812674",
+        "created_at": "2026-09-21T08:23:44.000Z",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-21T09:23:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2101950494725812674"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1702177500565274624",
+              "start": 3,
+              "username": "Noe1017_Monad"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2101950494725812674",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 53
+        },
+        "referenced_tweets": [
+          {
+            "id": "2101681543085469829",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Noe1017_Monad: 东亚特色社会达尔文主义，俗称“卷赢了没奖励，卷输了有惩罚”。\n\n卷赢了，往往只是保住本来就该有的正常生活；卷输了，却可能遭遇明显的向下惩罚。 \n\n以学历为例，现在考上好学校的奖励基本只是获得一个正常入场券；但没考上，可能意味着就业机会、城市…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1702177500565274624",
+        "conversation_id": "2101681543085469829",
+        "created_at": "2026-09-20T14:35:01.000Z",
+        "display_text_range": [
+          0,
+          133
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-20T15:35:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2101681543085469829"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2101681543085469829",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "东亚特色社会达尔文主义，俗称“卷赢了没奖励，卷输了有惩罚”。\n\n卷赢了，往往只是保住本来就该有的正常生活；卷输了，却可能遭遇明显的向下惩罚。 \n\n以学历为例，现在考上好学校的奖励基本只是获得一个正常入场券；但没考上，可能意味着就业机会、城市选择、收入上限都明显下降。\n\n工作也是一样：在私企你拼命干，可能只是绩效正常、岗位保住；你不拼，可能就是末位、调岗、裁员。\n\n 说句不好听的绝大部分狂卷最后也只是获得了一个“基本”住房、“基本”伴侣、“基本”工作。"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 107,
+          "impression_count": 28425,
+          "like_count": 658,
+          "quote_count": 8,
+          "reply_count": 24,
+          "retweet_count": 53
+        },
+        "reply_settings": "everyone",
+        "text": "东亚特色社会达尔文主义，俗称“卷赢了没奖励，卷输了有惩罚”。\n\n卷赢了，往往只是保住本来就该有的正常生活；卷输了，却可能遭遇明显的向下惩罚。 \n\n以学历为例，现在考上好学校的奖励基本只是获得一个正常入场券；但没考上，可能意味着就业机会、城市选择、收入上限都明显下降。"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-05-17T01:27:33.000Z",
+        "description": "同类互fo，成分请查看@aeglepotato/点赞狂魔/平时喜欢说怪话和发癫/一般通过肉块爱好者，大量匂坂郁纪发言注意👁️/备用@aeglepotato /🦋@aeglepotato /匿名提问箱https://t.co/C8vIKrLtCN",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 11,
+                "username": "aeglepotato"
+              },
+              {
+                "end": 77,
+                "start": 65,
+                "username": "aeglepotato"
+              },
+              {
+                "end": 92,
+                "start": 80,
+                "username": "aeglepotato"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/aeglepotato",
+                "end": 122,
+                "expanded_url": "https://ngl.link/aeglepotato",
+                "start": 99,
+                "url": "https://t.co/C8vIKrLtCN"
+              }
+            ]
+          }
+        },
+        "id": "2055822314969665536",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2101950494725812674",
+        "name": "🌈ALLice⛄赛博幽灵",
+        "pinned_tweet_id": "2064878659698102753",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2055822314969665536/1784767652",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067517312576421888/aGH7Myxd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 463,
+          "following_count": 491,
+          "like_count": 22057,
+          "listed_count": 0,
+          "media_count": 118,
+          "tweet_count": 1838
+        },
+        "url": "",
+        "username": "GrievousPotato1",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-09-14T04:28:40.000Z",
+        "description": "关注我，价值投资不迷路 | 格雷厄姆布道者| 蓝V互关不取关",
+        "id": "1702177500565274624",
+        "is_identity_verified": true,
+        "most_recent_tweet_id": "2101909750552359146",
+        "name": "Noe1017",
+        "pinned_tweet_id": "2101850604180283670",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1702177500565274624/1770296751",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047333871000371200/0apezDGl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6567,
+          "following_count": 2835,
+          "like_count": 1123,
+          "listed_count": 11,
+          "media_count": 243,
+          "tweet_count": 1353
+        },
+        "url": "",
+        "username": "Noe1017_Monad",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

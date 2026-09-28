@@ -1,0 +1,283 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2055822314969665536",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10045225402",
+          "name": "X"
+        }
+      }
+    ],
+    "conversation_id": "2099425407254622479",
+    "created_at": "2026-09-14T09:09:57.000Z",
+    "display_text_range": [
+      0,
+      92
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-14T10:09:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2099425407254622479"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1467246457937928195",
+          "start": 3,
+          "username": "juanfhoms"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2099425407254622479",
+    "lang": "es",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2792
+    },
+    "referenced_tweets": [
+      {
+        "id": "2098758525640188064",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @juanfhoms: Me encanta Twitter porque acá todos tienen depresión. Me siento como en casa."
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2055822314969665536",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10045225402",
+              "name": "X"
+            }
+          }
+        ],
+        "conversation_id": "2099425407254622479",
+        "created_at": "2026-09-14T09:09:57.000Z",
+        "display_text_range": [
+          0,
+          92
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-14T10:09:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2099425407254622479"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1467246457937928195",
+              "start": 3,
+              "username": "juanfhoms"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099425407254622479",
+        "lang": "es",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2792
+        },
+        "referenced_tweets": [
+          {
+            "id": "2098758525640188064",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @juanfhoms: Me encanta Twitter porque acá todos tienen depresión. Me siento como en casa."
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1467246457937928195",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10045225402",
+              "name": "X"
+            }
+          }
+        ],
+        "conversation_id": "2098758525640188064",
+        "created_at": "2026-09-12T13:00:00.000Z",
+        "display_text_range": [
+          0,
+          77
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-12T14:00:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2098758525640188064"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2098758525640188064",
+        "lang": "es",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 189,
+          "impression_count": 164306,
+          "like_count": 11992,
+          "quote_count": 66,
+          "reply_count": 62,
+          "retweet_count": 2792
+        },
+        "reply_settings": "everyone",
+        "text": "Me encanta Twitter porque acá todos tienen depresión. Me siento como en casa."
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-05-17T01:27:33.000Z",
+        "description": "同类互fo，成分请查看@aeglepotato/点赞狂魔/平时喜欢说怪话和发癫/一般通过肉块爱好者，大量匂坂郁纪发言注意👁️/备用@aeglepotato /🦋@aeglepotato /匿名提问箱https://t.co/C8vIKrLtCN",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 11,
+                "username": "aeglepotato"
+              },
+              {
+                "end": 77,
+                "start": 65,
+                "username": "aeglepotato"
+              },
+              {
+                "end": 92,
+                "start": 80,
+                "username": "aeglepotato"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/aeglepotato",
+                "end": 122,
+                "expanded_url": "https://ngl.link/aeglepotato",
+                "start": 99,
+                "url": "https://t.co/C8vIKrLtCN"
+              }
+            ]
+          }
+        },
+        "id": "2055822314969665536",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2099425407254622479",
+        "name": "🌈ALLice⛄赛博幽灵",
+        "pinned_tweet_id": "2064878659698102753",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2055822314969665536/1784767652",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067517312576421888/aGH7Myxd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 446,
+          "following_count": 481,
+          "like_count": 21452,
+          "listed_count": 0,
+          "media_count": 111,
+          "tweet_count": 1748
+        },
+        "url": "",
+        "username": "GrievousPotato1",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2021-12-04T21:36:51.000Z",
+        "description": "",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/soyjuanfra",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/soyjuanfra",
+                "start": 0,
+                "url": "https://t.co/5CpSapp5S1"
+              }
+            ]
+          }
+        },
+        "id": "1467246457937928195",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2099334823236272456",
+        "name": "ᴊᴜᴀɴғʀᴀ ʜᴏᴍs",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1467246457937928195/1762311095",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1985104820735275008/GqP9k8ng_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11716,
+          "following_count": 501,
+          "like_count": 1418,
+          "listed_count": 14,
+          "media_count": 880,
+          "tweet_count": 2411
+        },
+        "url": "https://t.co/5CpSapp5S1",
+        "username": "juanfhoms",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

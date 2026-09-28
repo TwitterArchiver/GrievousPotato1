@@ -1,0 +1,262 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2055822314969665536",
+    "conversation_id": "2101678906382143586",
+    "created_at": "2026-09-20T14:24:33.000Z",
+    "display_text_range": [
+      0,
+      140
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-20T15:24:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2101678906382143586"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1906965920515551233",
+          "start": 3,
+          "username": "OrangeTsukii"
+        },
+        {
+          "end": 34,
+          "id": "2055822314969665536",
+          "start": 18,
+          "username": "GrievousPotato1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2101678906382143586",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2101675408395776283",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @OrangeTsukii: @GrievousPotato1 终于来了一张我我特别感兴趣的话题了，我真的很认真的在思考人肉会是什么味道，而且在上解剖课的时候还很认真的分析过大体老师（对不起有点冒犯），我会根据我的实际解剖经验一条一条来猜一猜这个东西能不能吃，吃起来是什么…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2055822314969665536",
+        "conversation_id": "2101678906382143586",
+        "created_at": "2026-09-20T14:24:33.000Z",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-20T15:24:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2101678906382143586"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1906965920515551233",
+              "start": 3,
+              "username": "OrangeTsukii"
+            },
+            {
+              "end": 34,
+              "id": "2055822314969665536",
+              "start": 18,
+              "username": "GrievousPotato1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2101678906382143586",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2101675408395776283",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @OrangeTsukii: @GrievousPotato1 终于来了一张我我特别感兴趣的话题了，我真的很认真的在思考人肉会是什么味道，而且在上解剖课的时候还很认真的分析过大体老师（对不起有点冒犯），我会根据我的实际解剖经验一条一条来猜一猜这个东西能不能吃，吃起来是什么…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1906965920515551233",
+        "conversation_id": "2101589260700962876",
+        "created_at": "2026-09-20T14:10:39.000Z",
+        "display_text_range": [
+          17,
+          124
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-20T15:10:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2101675408395776283"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2055822314969665536",
+              "start": 0,
+              "username": "GrievousPotato1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2101675408395776283",
+        "in_reply_to_user_id": "2055822314969665536",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "终于来了一张我我特别感兴趣的话题了，我真的很认真的在思考人肉会是什么味道，而且在上解剖课的时候还很认真的分析过大体老师（对不起有点冒犯），我会根据我的实际解剖经验一条一条来猜一猜这个东西能不能吃，吃起来是什么感觉。\n\n首先是大脑，大脑是绝对不可以食用的，曾经有食人族内部互食死去的亲属的大脑导致整个部落被传染朊病毒的案例，朊病毒是蛋白质病毒，即使煮沸后也不一定就会失活，所以为了安全考虑绝对不要食用大脑。\n\n其次胸背腹部的肌肉。我觉得胸部和背部的肉应该是吃起来比较好吃的，腹部的话脂肪实在是太多了，很难说好吃。同理，屁股上其实也有很厚很厚的脂肪，可能要先花很多时间清理才可以把肌肉暴露出来。但是胸部的肉太少了，完全没有排骨的肉多，肋间肌的肉可能也就只有一点点！？吃起来会很麻烦。背部的话如果能处理好，我个人觉得斜方肌和三角肌会非常美味。\n\n再然后是四肢。因为人还是主要靠四肢来活动的，所以四肢的肌肉真的很发达，我个人觉得应该不会特别好吃，肌纤维太健壮的地方咬不动。不过如果可以炖烂一点的话，咬起来会很带劲，也可以做成风干肉干，毕竟都是一长条的骨骼肌，把肌腱砍断之后就可以完整的取下来。\n\n最后内脏的话，我其实觉得从营养角度上来说，肝脏是最值得吃的一部分。野外的动物也都是先吃肝脏，就为了补充肝脏中丰富的微量元素和维生素。肺的话需要清洗很麻烦，但是洗干净之后煮成杂碎也不错，皮肤是不好吃的呀很脏，而且其实真皮层也没什么营养，没必要吃，可以带着皮下脂肪一起炼油。神经这块其实没必要吃，碳水化合物是最垃圾的东西。\n\n还有什么？哦，消化道不吃，我有洁癖觉得很恶心。"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2101659528328585547",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@GrievousPotato1 终于来了一张我我特别感兴趣的话题了，我真的很认真的在思考人肉会是什么味道，而且在上解剖课的时候还很认真的分析过大体老师（对不起有点冒犯），我会根据我的实际解剖经验一条一条来猜一猜这个东西能不能吃，吃起来是什么感觉。"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-05-17T01:27:33.000Z",
+        "description": "同类互fo，成分请查看@aeglepotato/点赞狂魔/平时喜欢说怪话和发癫/一般通过肉块爱好者，大量匂坂郁纪发言注意👁️/备用@aeglepotato /🦋@aeglepotato /匿名提问箱https://t.co/C8vIKrLtCN",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 11,
+                "username": "aeglepotato"
+              },
+              {
+                "end": 77,
+                "start": 65,
+                "username": "aeglepotato"
+              },
+              {
+                "end": 92,
+                "start": 80,
+                "username": "aeglepotato"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/aeglepotato",
+                "end": 122,
+                "expanded_url": "https://ngl.link/aeglepotato",
+                "start": 99,
+                "url": "https://t.co/C8vIKrLtCN"
+              }
+            ]
+          }
+        },
+        "id": "2055822314969665536",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2101678906382143586",
+        "name": "🌈ALLice⛄赛博幽灵",
+        "pinned_tweet_id": "2064878659698102753",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2055822314969665536/1784767652",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067517312576421888/aGH7Myxd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 461,
+          "following_count": 490,
+          "like_count": 22011,
+          "listed_count": 0,
+          "media_count": 118,
+          "tweet_count": 1824
+        },
+        "url": "",
+        "username": "GrievousPotato1",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-04-01T07:04:46.000Z",
+        "description": "日本摇滚乐重度依赖。\n请你为我而失眠。",
+        "id": "1906965920515551233",
+        "is_identity_verified": false,
+        "location": "游荡在互联网的初恋幽灵",
+        "most_recent_tweet_id": "2101675408395776283",
+        "name": "Tsukiyo",
+        "pinned_tweet_id": "2097746438222700904",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1906965920515551233/1789065135",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2092182042708746240/2bOhDkc1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 210,
+          "following_count": 65,
+          "like_count": 14882,
+          "listed_count": 0,
+          "media_count": 66,
+          "tweet_count": 722
+        },
+        "url": "",
+        "username": "OrangeTsukii",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

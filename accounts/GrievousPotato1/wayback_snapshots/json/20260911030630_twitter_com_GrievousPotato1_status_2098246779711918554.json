@@ -1,0 +1,265 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2055822314969665536",
+    "conversation_id": "2098110485119783003",
+    "created_at": "2026-09-11T03:06:30.000Z",
+    "display_text_range": [
+      10,
+      14
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-11T04:06:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2098246779711918554"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "3140679366",
+          "start": 0,
+          "username": "rare_jpg"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2098246779711918554",
+    "in_reply_to_user_id": "3140679366",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2098110485119783003",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@rare_jpg cute"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 500,
+        "media_key": "3_2098110482607661058",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HR38Xh9aYAITn0g.png",
+        "width": 500
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2055822314969665536",
+        "conversation_id": "2098110485119783003",
+        "created_at": "2026-09-11T03:06:30.000Z",
+        "display_text_range": [
+          10,
+          14
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-11T04:06:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2098246779711918554"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "3140679366",
+              "start": 0,
+              "username": "rare_jpg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098246779711918554",
+        "in_reply_to_user_id": "3140679366",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2098110485119783003",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@rare_jpg cute"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2098110482607661058"
+          ]
+        },
+        "author_id": "3140679366",
+        "conversation_id": "2098110485119783003",
+        "created_at": "2026-09-10T18:04:55.000Z",
+        "display_text_range": [
+          0,
+          0
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-10T19:04:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2098110485119783003"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/iIaBjQw3uq",
+              "end": 23,
+              "expanded_url": "https://x.com/rare_jpg/status/2098110485119783003/photo/1",
+              "media_key": "3_2098110482607661058",
+              "start": 0,
+              "url": "https://t.co/iIaBjQw3uq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098110485119783003",
+        "lang": "zxx",
+        "media_metadata": [
+          {
+            "media_key": "3_2098110482607661058"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 466,
+          "impression_count": 87587,
+          "like_count": 5076,
+          "quote_count": 80,
+          "reply_count": 71,
+          "retweet_count": 551
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/iIaBjQw3uq"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-05-17T01:27:33.000Z",
+        "description": "同类互fo，成分请查看@aeglepotato/点赞狂魔/平时喜欢说怪话和发癫/一般通过肉块爱好者，大量匂坂郁纪发言注意👁️/备用@aeglepotato /🦋@aeglepotato /匿名提问箱https://t.co/C8vIKrLtCN",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 11,
+                "username": "aeglepotato"
+              },
+              {
+                "end": 77,
+                "start": 65,
+                "username": "aeglepotato"
+              },
+              {
+                "end": 92,
+                "start": 80,
+                "username": "aeglepotato"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/aeglepotato",
+                "end": 122,
+                "expanded_url": "https://ngl.link/aeglepotato",
+                "start": 99,
+                "url": "https://t.co/C8vIKrLtCN"
+              }
+            ]
+          }
+        },
+        "id": "2055822314969665536",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2098246779711918554",
+        "name": "🌈ALLice⛄赛博幽灵",
+        "pinned_tweet_id": "2064878659698102753",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2055822314969665536/1784767652",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067517312576421888/aGH7Myxd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 438,
+          "following_count": 484,
+          "like_count": 21163,
+          "listed_count": 0,
+          "media_count": 107,
+          "tweet_count": 1703
+        },
+        "url": "",
+        "username": "GrievousPotato1",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2015-04-05T20:50:17.000Z",
+        "description": "the internet.",
+        "id": "3140679366",
+        "is_identity_verified": false,
+        "location": "biz@rarejpg.com",
+        "most_recent_tweet_id": "2098239325431279697",
+        "name": "rare.jpg",
+        "pinned_tweet_id": "2097774044250567028",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/3140679366/1749092146",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1854365475003920384/mbml_UNx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 324612,
+          "following_count": 11,
+          "like_count": 11953,
+          "listed_count": 723,
+          "media_count": 8705,
+          "tweet_count": 9994
+        },
+        "url": "",
+        "username": "rare_jpg",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

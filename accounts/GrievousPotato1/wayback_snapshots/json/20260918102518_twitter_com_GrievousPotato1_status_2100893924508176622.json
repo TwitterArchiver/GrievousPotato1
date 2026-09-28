@@ -1,0 +1,289 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2055822314969665536",
+    "conversation_id": "2100661895300821216",
+    "created_at": "2026-09-18T10:25:18.000Z",
+    "display_text_range": [
+      12,
+      33
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-18T11:25:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2100893924508176622"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1272762156388192256",
+          "start": 0,
+          "username": "_kabibara_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2100893924508176622",
+    "in_reply_to_user_id": "1272762156388192256",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2100661895300821216",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@_kabibara_ 哇还有飞天狂风大几把，千里之外取人屁眼之术"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 9766,
+        "height": 640,
+        "media_key": "13_2100661876770414592",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2100661876770414592/img/wUuypg0gXJaMlgr8.jpg",
+        "public_metrics": {
+          "view_count": 1266870
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2100661876770414592/vid/avc1/540x270/ZkHDaLuukmFxACvm.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2100661876770414592/vid/avc1/720x360/l4_01t1mWHW6mSPs.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2100661876770414592/vid/avc1/1280x640/jDr5cfLoIzAnbYfp.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2100661876770414592/pl/NY3kH9PJjaVtit2E.m3u8"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2055822314969665536",
+        "conversation_id": "2100661895300821216",
+        "created_at": "2026-09-18T10:25:18.000Z",
+        "display_text_range": [
+          12,
+          33
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-18T11:25:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2100893924508176622"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1272762156388192256",
+              "start": 0,
+              "username": "_kabibara_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100893924508176622",
+        "in_reply_to_user_id": "1272762156388192256",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2100661895300821216",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@_kabibara_ 哇还有飞天狂风大几把，千里之外取人屁眼之术"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2100661876770414592"
+          ]
+        },
+        "author_id": "1272762156388192256",
+        "conversation_id": "2100661895300821216",
+        "created_at": "2026-09-17T19:03:18.000Z",
+        "display_text_range": [
+          0,
+          0
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-17T20:03:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2100661895300821216"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/yxkpaoRqVS",
+              "end": 23,
+              "expanded_url": "https://x.com/_kabibara_/status/2100661895300821216/video/1",
+              "media_key": "13_2100661876770414592",
+              "start": 0,
+              "url": "https://t.co/yxkpaoRqVS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100661895300821216",
+        "lang": "zxx",
+        "media_metadata": [
+          {
+            "media_key": "13_2100661876770414592"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5054,
+          "impression_count": 2346369,
+          "like_count": 32790,
+          "quote_count": 215,
+          "reply_count": 202,
+          "retweet_count": 1945
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/yxkpaoRqVS"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-05-17T01:27:33.000Z",
+        "description": "同类互fo，成分请查看@aeglepotato/点赞狂魔/平时喜欢说怪话和发癫/一般通过肉块爱好者，大量匂坂郁纪发言注意👁️/备用@aeglepotato /🦋@aeglepotato /匿名提问箱https://t.co/C8vIKrLtCN",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 11,
+                "username": "aeglepotato"
+              },
+              {
+                "end": 77,
+                "start": 65,
+                "username": "aeglepotato"
+              },
+              {
+                "end": 92,
+                "start": 80,
+                "username": "aeglepotato"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/aeglepotato",
+                "end": 122,
+                "expanded_url": "https://ngl.link/aeglepotato",
+                "start": 99,
+                "url": "https://t.co/C8vIKrLtCN"
+              }
+            ]
+          }
+        },
+        "id": "2055822314969665536",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2100893924508176622",
+        "name": "🌈ALLice⛄赛博幽灵",
+        "pinned_tweet_id": "2064878659698102753",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2055822314969665536/1784767652",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067517312576421888/aGH7Myxd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 459,
+          "following_count": 487,
+          "like_count": 21812,
+          "listed_count": 0,
+          "media_count": 115,
+          "tweet_count": 1803
+        },
+        "url": "",
+        "username": "GrievousPotato1",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2020-06-16T05:25:25.000Z",
+        "description": "From Mordor With Hate",
+        "id": "1272762156388192256",
+        "is_identity_verified": false,
+        "location": "Kiev Russia ",
+        "most_recent_tweet_id": "2100831726255919392",
+        "name": "capinchos☦️🇷🇺🇰🇵🇺🇸🇨🇳",
+        "pinned_tweet_id": "2071675929395356009",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1272762156388192256/1785336287",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2093633604219998208/gleHao1N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2867,
+          "following_count": 777,
+          "like_count": 15900,
+          "listed_count": 76,
+          "media_count": 2673,
+          "tweet_count": 9430
+        },
+        "url": "",
+        "username": "_kabibara_",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

@@ -1,0 +1,285 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2055822314969665536",
+    "conversation_id": "2100422278274035781",
+    "created_at": "2026-09-17T03:11:09.000Z",
+    "display_text_range": [
+      0,
+      140
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-17T04:11:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2100422278274035781"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "719207579327602688",
+          "start": 3,
+          "username": "andr_blogueiro"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2100422278274035781",
+    "lang": "pt",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2066
+    },
+    "referenced_tweets": [
+      {
+        "id": "2100226083048104325",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "following",
+    "text": "RT @andr_blogueiro: Freud já dizia: \"Ninguém se apaixona \"do nada.\" Você se apaixona quando alguém toca na sua falta e você chama isso de i…"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 13699,
+        "height": 458,
+        "media_key": "13_2079352835225853952",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2079352835225853952/img/apAdQVgMDYK9Gvb0.jpg",
+        "public_metrics": {
+          "view_count": 2160569
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2079352835225853952/vid/avc1/424x270/7OaCjsHkvxS5cbIa.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2079352835225853952/vid/avc1/720x458/FWbG2TDzMOKwRXx-.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2079352835225853952/pl/9DlQK5YaJ1zEFZ5f.m3u8?v=cfc"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2055822314969665536",
+        "conversation_id": "2100422278274035781",
+        "created_at": "2026-09-17T03:11:09.000Z",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-17T04:11:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2100422278274035781"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "719207579327602688",
+              "start": 3,
+              "username": "andr_blogueiro"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100422278274035781",
+        "lang": "pt",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2066
+        },
+        "referenced_tweets": [
+          {
+            "id": "2100226083048104325",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "RT @andr_blogueiro: Freud já dizia: \"Ninguém se apaixona \"do nada.\" Você se apaixona quando alguém toca na sua falta e você chama isso de i…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2079352835225853952"
+          ],
+          "media_source_tweet_id": [
+            "2079352910010364129"
+          ]
+        },
+        "author_id": "719207579327602688",
+        "conversation_id": "2100226083048104325",
+        "created_at": "2026-09-16T14:11:33.000Z",
+        "display_text_range": [
+          0,
+          155
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-16T15:11:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2100226083048104325"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Aqs2zKVqy6",
+              "end": 155,
+              "expanded_url": "https://x.com/eduantao/status/2079352910010364129/video/1",
+              "media_key": "13_2079352835225853952",
+              "start": 132,
+              "url": "https://t.co/Aqs2zKVqy6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100226083048104325",
+        "lang": "pt",
+        "media_metadata": [
+          {
+            "media_key": "13_2079352835225853952"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1927,
+          "impression_count": 197445,
+          "like_count": 17872,
+          "quote_count": 333,
+          "reply_count": 10,
+          "retweet_count": 2066
+        },
+        "reply_settings": "following",
+        "text": "Freud já dizia: \"Ninguém se apaixona \"do nada.\" Você se apaixona quando alguém toca na sua falta e você chama isso de intensidade.\" https://t.co/Aqs2zKVqy6"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-05-17T01:27:33.000Z",
+        "description": "同类互fo，成分请查看@aeglepotato/点赞狂魔/平时喜欢说怪话和发癫/一般通过肉块爱好者，大量匂坂郁纪发言注意👁️/备用@aeglepotato /🦋@aeglepotato /匿名提问箱https://t.co/C8vIKrLtCN",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 11,
+                "username": "aeglepotato"
+              },
+              {
+                "end": 77,
+                "start": 65,
+                "username": "aeglepotato"
+              },
+              {
+                "end": 92,
+                "start": 80,
+                "username": "aeglepotato"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/aeglepotato",
+                "end": 122,
+                "expanded_url": "https://ngl.link/aeglepotato",
+                "start": 99,
+                "url": "https://t.co/C8vIKrLtCN"
+              }
+            ]
+          }
+        },
+        "id": "2055822314969665536",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2100422278274035781",
+        "name": "🌈ALLice⛄赛博幽灵",
+        "pinned_tweet_id": "2064878659698102753",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2055822314969665536/1784767652",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067517312576421888/aGH7Myxd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 459,
+          "following_count": 488,
+          "like_count": 21689,
+          "listed_count": 0,
+          "media_count": 115,
+          "tweet_count": 1785
+        },
+        "url": "",
+        "username": "GrievousPotato1",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2016-04-10T16:57:03.000Z",
+        "description": "pensamentos intrusivos & humor duvidoso",
+        "id": "719207579327602688",
+        "is_identity_verified": false,
+        "location": "Brasília, Brasil",
+        "most_recent_tweet_id": "2100368260914991382",
+        "name": "blogueiro low profile",
+        "pinned_tweet_id": "2098088411814895967",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/719207579327602688/1789577111",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2098088027079753729/VcO97Ow6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6187,
+          "following_count": 579,
+          "like_count": 16881,
+          "listed_count": 4,
+          "media_count": 2387,
+          "tweet_count": 8237
+        },
+        "url": "",
+        "username": "andr_blogueiro",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

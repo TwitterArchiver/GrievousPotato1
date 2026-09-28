@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2055822314969665536",
+    "conversation_id": "2103636808617648416",
+    "created_at": "2026-09-26T00:04:33.000Z",
+    "display_text_range": [
+      0,
+      140
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-26T01:04:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2103636808617648416"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1972944778116706304",
+          "start": 3,
+          "username": "fine_420"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2103636808617648416",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2103550687854678350",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @fine_420: 如果说在另一个世界从你出生开始，都告诉你杀人是对的，每个人都要杀人，相当于我们吃饭要用筷子一样，那么你还会觉得杀人是一个不可饶恕的事情吗？ 所以我一直在想 为什么我们不可以杀人，难道只是对于从小到大的三观吗？ 如果说做一个实验，把一个人困在一个区域里…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2055822314969665536",
+        "conversation_id": "2103636808617648416",
+        "created_at": "2026-09-26T00:04:33.000Z",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-26T01:04:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2103636808617648416"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1972944778116706304",
+              "start": 3,
+              "username": "fine_420"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103636808617648416",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2103550687854678350",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @fine_420: 如果说在另一个世界从你出生开始，都告诉你杀人是对的，每个人都要杀人，相当于我们吃饭要用筷子一样，那么你还会觉得杀人是一个不可饶恕的事情吗？ 所以我一直在想 为什么我们不可以杀人，难道只是对于从小到大的三观吗？ 如果说做一个实验，把一个人困在一个区域里…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1972944778116706304",
+        "conversation_id": "2103550687854678350",
+        "created_at": "2026-09-25T18:22:20.000Z",
+        "display_text_range": [
+          0,
+          136
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-25T19:22:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2103550687854678350"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2103550687854678350",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "如果说在另一个世界从你出生开始，都告诉你杀人是对的，每个人都要杀人，相当于我们吃饭要用筷子一样，那么你还会觉得杀人是一个不可饶恕的事情吗？ 所以我一直在想 为什么我们不可以杀人，难道只是对于从小到大的三观吗？ 如果说做一个实验，把一个人困在一个区域里面，就像楚门的世界一样 ，我们告诉从小告诉他杀人是对的，于是他开始杀人，那么我们所追求的对生命的敬畏会不会是一种很莫名其妙的东西？ 如果这么说那么会不会对生命的敬畏很虚伪？一切都是你的三观在告诉你你不能这么做？ 如果我们按照这个方式进行下去是否可以创造出一个更加野性更加返璞归真的世界？"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 50,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "如果说在另一个世界从你出生开始，都告诉你杀人是对的，每个人都要杀人，相当于我们吃饭要用筷子一样，那么你还会觉得杀人是一个不可饶恕的事情吗？ 所以我一直在想 为什么我们不可以杀人，难道只是对于从小到大的三观吗？ 如果说做一个实验，把一个人困在一个区域里面，就像楚门的世界一样"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-05-17T01:27:33.000Z",
+        "description": "同类互fo，成分请查看@aeglepotato/点赞狂魔/平时喜欢说怪话和发癫/一般通过肉块爱好者，大量匂坂郁纪发言注意👁️/备用@aeglepotato /🦋@aeglepotato /匿名提问箱https://t.co/C8vIKrLtCN",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 11,
+                "username": "aeglepotato"
+              },
+              {
+                "end": 77,
+                "start": 65,
+                "username": "aeglepotato"
+              },
+              {
+                "end": 92,
+                "start": 80,
+                "username": "aeglepotato"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/aeglepotato",
+                "end": 122,
+                "expanded_url": "https://ngl.link/aeglepotato",
+                "start": 99,
+                "url": "https://t.co/C8vIKrLtCN"
+              }
+            ]
+          }
+        },
+        "id": "2055822314969665536",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2103636808617648416",
+        "name": "🌈ALLice⛄赛博幽灵",
+        "pinned_tweet_id": "2064878659698102753",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2055822314969665536/1790048433",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067517312576421888/aGH7Myxd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 465,
+          "following_count": 494,
+          "like_count": 22580,
+          "listed_count": 0,
+          "media_count": 129,
+          "tweet_count": 1917
+        },
+        "url": "",
+        "username": "GrievousPotato1",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-09-30T08:41:20.000Z",
+        "description": "支持大麻合法化！",
+        "id": "1972944778116706304",
+        "is_identity_verified": false,
+        "location": "#大麻合法化",
+        "most_recent_tweet_id": "2103550687854678350",
+        "name": "伊芙琳 420",
+        "pinned_tweet_id": "2102792148190208448",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1972944778116706304/1789240967",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2098854806135959552/0iCi6r1V_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 111,
+          "following_count": 8,
+          "like_count": 68,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 128
+        },
+        "url": "",
+        "username": "fine_420",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

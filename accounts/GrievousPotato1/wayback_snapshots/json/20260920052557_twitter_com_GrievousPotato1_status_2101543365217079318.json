@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2055822314969665536",
+    "conversation_id": "2101543365217079318",
+    "created_at": "2026-09-20T05:25:57.000Z",
+    "display_text_range": [
+      0,
+      112
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-20T06:25:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2101543365217079318"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2090104945521659904",
+          "start": 3,
+          "username": "Xiaolingii9"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2101543365217079318",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 13
+    },
+    "referenced_tweets": [
+      {
+        "id": "2101495003839434785",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Xiaolingii9: 等你成年后会觉得原生家庭无足轻重\n等你毕业了会觉得学校被孤立无足轻重\n等你退休了会觉得被领导穿小鞋无足轻重\n等你去世了你会觉得生命中所有痛苦无足轻重 你跟我说这些那你让现在正在经历的我怎么办"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2055822314969665536",
+        "conversation_id": "2101543365217079318",
+        "created_at": "2026-09-20T05:25:57.000Z",
+        "display_text_range": [
+          0,
+          112
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-20T06:25:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2101543365217079318"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2090104945521659904",
+              "start": 3,
+              "username": "Xiaolingii9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2101543365217079318",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 13
+        },
+        "referenced_tweets": [
+          {
+            "id": "2101495003839434785",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Xiaolingii9: 等你成年后会觉得原生家庭无足轻重\n等你毕业了会觉得学校被孤立无足轻重\n等你退休了会觉得被领导穿小鞋无足轻重\n等你去世了你会觉得生命中所有痛苦无足轻重 你跟我说这些那你让现在正在经历的我怎么办"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2090104945521659904",
+        "conversation_id": "2101495003839434785",
+        "created_at": "2026-09-20T02:13:47.000Z",
+        "display_text_range": [
+          0,
+          95
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-20T03:13:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2101495003839434785"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2101495003839434785",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 1886,
+          "like_count": 88,
+          "quote_count": 0,
+          "reply_count": 11,
+          "retweet_count": 13
+        },
+        "reply_settings": "everyone",
+        "text": "等你成年后会觉得原生家庭无足轻重\n等你毕业了会觉得学校被孤立无足轻重\n等你退休了会觉得被领导穿小鞋无足轻重\n等你去世了你会觉得生命中所有痛苦无足轻重 你跟我说这些那你让现在正在经历的我怎么办"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-05-17T01:27:33.000Z",
+        "description": "同类互fo，成分请查看@aeglepotato/点赞狂魔/平时喜欢说怪话和发癫/一般通过肉块爱好者，大量匂坂郁纪发言注意👁️/备用@aeglepotato /🦋@aeglepotato /匿名提问箱https://t.co/C8vIKrLtCN",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 11,
+                "username": "aeglepotato"
+              },
+              {
+                "end": 77,
+                "start": 65,
+                "username": "aeglepotato"
+              },
+              {
+                "end": 92,
+                "start": 80,
+                "username": "aeglepotato"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/aeglepotato",
+                "end": 122,
+                "expanded_url": "https://ngl.link/aeglepotato",
+                "start": 99,
+                "url": "https://t.co/C8vIKrLtCN"
+              }
+            ]
+          }
+        },
+        "id": "2055822314969665536",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2101543365217079318",
+        "name": "🌈ALLice⛄赛博幽灵",
+        "pinned_tweet_id": "2064878659698102753",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2055822314969665536/1784767652",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067517312576421888/aGH7Myxd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 460,
+          "following_count": 489,
+          "like_count": 21995,
+          "listed_count": 0,
+          "media_count": 116,
+          "tweet_count": 1817
+        },
+        "url": "",
+        "username": "GrievousPotato1",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-19T15:55:42.000Z",
+        "description": "爱说废话的人",
+        "id": "2090104945521659904",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2101529277196071316",
+        "name": "灸",
+        "pinned_tweet_id": "2101025045292130324",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2090104945521659904/1789055120",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2101495916020871168/k9z52SsM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 230,
+          "following_count": 111,
+          "like_count": 24,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 260
+        },
+        "url": "",
+        "username": "Xiaolingii9",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

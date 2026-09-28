@@ -1,0 +1,253 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2102577522982400000",
+        "3_2102577533996732416",
+        "3_2102577548697767936"
+      ]
+    },
+    "author_id": "2055822314969665536",
+    "conversation_id": "2102577560966004784",
+    "created_at": "2026-09-23T01:55:29.000Z",
+    "display_text_range": [
+      0,
+      8
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-23T02:55:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2102577560966004784"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/bBK9VAnY8J",
+          "end": 32,
+          "expanded_url": "https://x.com/GrievousPotato1/status/2102577560966004784/photo/1",
+          "media_key": "3_2102577522982400000",
+          "start": 9,
+          "url": "https://t.co/bBK9VAnY8J"
+        },
+        {
+          "display_url": "pic.x.com/bBK9VAnY8J",
+          "end": 32,
+          "expanded_url": "https://x.com/GrievousPotato1/status/2102577560966004784/photo/1",
+          "media_key": "3_2102577533996732416",
+          "start": 9,
+          "url": "https://t.co/bBK9VAnY8J"
+        },
+        {
+          "display_url": "pic.x.com/bBK9VAnY8J",
+          "end": 32,
+          "expanded_url": "https://x.com/GrievousPotato1/status/2102577560966004784/photo/1",
+          "media_key": "3_2102577548697767936",
+          "start": 9,
+          "url": "https://t.co/bBK9VAnY8J"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2102577560966004784",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2102577522982400000"
+      },
+      {
+        "media_key": "3_2102577533996732416"
+      },
+      {
+        "media_key": "3_2102577548697767936"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "nb还有这种词条 https://t.co/bBK9VAnY8J"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1499,
+        "media_key": "3_2102577522982400000",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HS3bHgIWMAAa15y.jpg",
+        "width": 1220
+      },
+      {
+        "height": 2156,
+        "media_key": "3_2102577533996732416",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HS3bIJKXkAATGRr.jpg",
+        "width": 1220
+      },
+      {
+        "height": 2186,
+        "media_key": "3_2102577548697767936",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HS3bI_7XkAAxLht.jpg",
+        "width": 1220
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2102577522982400000",
+            "3_2102577533996732416",
+            "3_2102577548697767936"
+          ]
+        },
+        "author_id": "2055822314969665536",
+        "conversation_id": "2102577560966004784",
+        "created_at": "2026-09-23T01:55:29.000Z",
+        "display_text_range": [
+          0,
+          8
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-23T02:55:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2102577560966004784"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/bBK9VAnY8J",
+              "end": 32,
+              "expanded_url": "https://x.com/GrievousPotato1/status/2102577560966004784/photo/1",
+              "media_key": "3_2102577522982400000",
+              "start": 9,
+              "url": "https://t.co/bBK9VAnY8J"
+            },
+            {
+              "display_url": "pic.x.com/bBK9VAnY8J",
+              "end": 32,
+              "expanded_url": "https://x.com/GrievousPotato1/status/2102577560966004784/photo/1",
+              "media_key": "3_2102577533996732416",
+              "start": 9,
+              "url": "https://t.co/bBK9VAnY8J"
+            },
+            {
+              "display_url": "pic.x.com/bBK9VAnY8J",
+              "end": 32,
+              "expanded_url": "https://x.com/GrievousPotato1/status/2102577560966004784/photo/1",
+              "media_key": "3_2102577548697767936",
+              "start": 9,
+              "url": "https://t.co/bBK9VAnY8J"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2102577560966004784",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2102577522982400000"
+          },
+          {
+            "media_key": "3_2102577533996732416"
+          },
+          {
+            "media_key": "3_2102577548697767936"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "nb还有这种词条 https://t.co/bBK9VAnY8J"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-05-17T01:27:33.000Z",
+        "description": "同类互fo，成分请查看@aeglepotato/点赞狂魔/平时喜欢说怪话和发癫/一般通过肉块爱好者，大量匂坂郁纪发言注意👁️/备用@aeglepotato /🦋@aeglepotato /匿名提问箱https://t.co/C8vIKrLtCN",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 11,
+                "username": "aeglepotato"
+              },
+              {
+                "end": 77,
+                "start": 65,
+                "username": "aeglepotato"
+              },
+              {
+                "end": 92,
+                "start": 80,
+                "username": "aeglepotato"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/aeglepotato",
+                "end": 122,
+                "expanded_url": "https://ngl.link/aeglepotato",
+                "start": 99,
+                "url": "https://t.co/C8vIKrLtCN"
+              }
+            ]
+          }
+        },
+        "id": "2055822314969665536",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2102577560966004784",
+        "name": "🌈ALLice⛄赛博幽灵",
+        "pinned_tweet_id": "2064878659698102753",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2055822314969665536/1790048433",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067517312576421888/aGH7Myxd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 469,
+          "following_count": 492,
+          "like_count": 22243,
+          "listed_count": 0,
+          "media_count": 124,
+          "tweet_count": 1872
+        },
+        "url": "",
+        "username": "GrievousPotato1",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

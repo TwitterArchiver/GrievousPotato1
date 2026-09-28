@@ -1,0 +1,245 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2055822314969665536",
+    "conversation_id": "2102296617009242317",
+    "created_at": "2026-09-22T07:19:06.000Z",
+    "display_text_range": [
+      0,
+      139
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-22T08:19:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2102296617009242317"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2091219590038843392",
+          "start": 3,
+          "username": "saturnine357"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2102296617009242317",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 116
+    },
+    "referenced_tweets": [
+      {
+        "id": "2102037590530801880",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @saturnine357: 刷到一个抖音说接触过有人格魅力的人之后就不会再为好看的皮囊所执着了，结果博主说的人格魅力指的是“乐观的性格特点 稳定的情绪状态 非常丰富的认知内涵 幽默的聊天风格  成熟的社交底气  有边界感的社交距离  收放自如的攻击性 快人一步的反应力…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2055822314969665536",
+        "conversation_id": "2102296617009242317",
+        "created_at": "2026-09-22T07:19:06.000Z",
+        "display_text_range": [
+          0,
+          139
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-22T08:19:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2102296617009242317"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2091219590038843392",
+              "start": 3,
+              "username": "saturnine357"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2102296617009242317",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 116
+        },
+        "referenced_tweets": [
+          {
+            "id": "2102037590530801880",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @saturnine357: 刷到一个抖音说接触过有人格魅力的人之后就不会再为好看的皮囊所执着了，结果博主说的人格魅力指的是“乐观的性格特点 稳定的情绪状态 非常丰富的认知内涵 幽默的聊天风格  成熟的社交底气  有边界感的社交距离  收放自如的攻击性 快人一步的反应力…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2091219590038843392",
+        "conversation_id": "2102037590530801880",
+        "created_at": "2026-09-21T14:09:50.000Z",
+        "display_text_range": [
+          0,
+          146
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-21T15:09:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2102037590530801880"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2102037590530801880",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 273,
+          "impression_count": 52556,
+          "like_count": 1555,
+          "quote_count": 34,
+          "reply_count": 146,
+          "retweet_count": 116
+        },
+        "reply_settings": "everyone",
+        "text": "刷到一个抖音说接触过有人格魅力的人之后就不会再为好看的皮囊所执着了，结果博主说的人格魅力指的是“乐观的性格特点 稳定的情绪状态 非常丰富的认知内涵 幽默的聊天风格  成熟的社交底气  有边界感的社交距离  收放自如的攻击性 快人一步的反应力 有情有义的人品特质”，我的天哪这些比好看难得太多了"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-05-17T01:27:33.000Z",
+        "description": "同类互fo，成分请查看@aeglepotato/点赞狂魔/平时喜欢说怪话和发癫/一般通过肉块爱好者，大量匂坂郁纪发言注意👁️/备用@aeglepotato /🦋@aeglepotato /匿名提问箱https://t.co/C8vIKrLtCN",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 11,
+                "username": "aeglepotato"
+              },
+              {
+                "end": 77,
+                "start": 65,
+                "username": "aeglepotato"
+              },
+              {
+                "end": 92,
+                "start": 80,
+                "username": "aeglepotato"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/aeglepotato",
+                "end": 122,
+                "expanded_url": "https://ngl.link/aeglepotato",
+                "start": 99,
+                "url": "https://t.co/C8vIKrLtCN"
+              }
+            ]
+          }
+        },
+        "id": "2055822314969665536",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2102296617009242317",
+        "name": "🌈ALLice⛄赛博幽灵",
+        "pinned_tweet_id": "2064878659698102753",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2055822314969665536/1790048433",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067517312576421888/aGH7Myxd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 466,
+          "following_count": 492,
+          "like_count": 22148,
+          "listed_count": 0,
+          "media_count": 120,
+          "tweet_count": 1863
+        },
+        "url": "",
+        "username": "GrievousPotato1",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-22T17:45:10.000Z",
+        "description": "文字自留地 梦到什么说什么 📭https://t.co/qi8xbvFhI3\n无🚪 不加其他联系方式  私信总被吞随缘回",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sture13431",
+                "end": 38,
+                "expanded_url": "https://ngl.link/sture13431",
+                "start": 15,
+                "url": "https://t.co/qi8xbvFhI3"
+              }
+            ]
+          }
+        },
+        "id": "2091219590038843392",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2102277485006385355",
+        "name": "Cynin因因",
+        "pinned_tweet_id": "2099812599970029838",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2097721409149792256/_AKceo2b_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 566,
+          "following_count": 17,
+          "like_count": 959,
+          "listed_count": 1,
+          "media_count": 49,
+          "tweet_count": 591
+        },
+        "url": "",
+        "username": "saturnine357",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

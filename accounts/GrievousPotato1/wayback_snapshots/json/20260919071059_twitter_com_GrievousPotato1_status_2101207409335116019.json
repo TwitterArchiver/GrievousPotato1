@@ -1,0 +1,253 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2101207337876721664"
+      ]
+    },
+    "author_id": "2055822314969665536",
+    "conversation_id": "2101207409335116019",
+    "created_at": "2026-09-19T07:10:59.000Z",
+    "display_text_range": [
+      0,
+      52
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-19T08:10:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2101207409335116019"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/yEcMsw6lwQ",
+          "end": 76,
+          "expanded_url": "https://x.com/GrievousPotato1/status/2101207409335116019/photo/1",
+          "media_key": "3_2101207337876721664",
+          "start": 53,
+          "url": "https://t.co/yEcMsw6lwQ"
+        },
+        {
+          "display_url": "x.com/GrievousPotato…",
+          "end": 100,
+          "expanded_url": "https://twitter.com/GrievousPotato1/status/2097498948361417020",
+          "start": 77,
+          "url": "https://t.co/ufpPeb0asm"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2101207409335116019",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2101207337876721664"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2097498948361417020",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "推特新玩法：将自己含有暗语的推文翻译成英文\n绷不住了\n英语使用者be like：这家伙在说什么呢.jpg https://t.co/yEcMsw6lwQ https://t.co/ufpPeb0asm"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 991,
+        "media_key": "3_2101207337876721664",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSj88O2WEAAwmml.jpg",
+        "width": 1220
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2101207337876721664"
+          ]
+        },
+        "author_id": "2055822314969665536",
+        "conversation_id": "2101207409335116019",
+        "created_at": "2026-09-19T07:10:59.000Z",
+        "display_text_range": [
+          0,
+          52
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-19T08:10:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2101207409335116019"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/yEcMsw6lwQ",
+              "end": 76,
+              "expanded_url": "https://x.com/GrievousPotato1/status/2101207409335116019/photo/1",
+              "media_key": "3_2101207337876721664",
+              "start": 53,
+              "url": "https://t.co/yEcMsw6lwQ"
+            },
+            {
+              "display_url": "x.com/GrievousPotato…",
+              "end": 100,
+              "expanded_url": "https://twitter.com/GrievousPotato1/status/2097498948361417020",
+              "start": 77,
+              "url": "https://t.co/ufpPeb0asm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2101207409335116019",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2101207337876721664"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2097498948361417020",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "推特新玩法：将自己含有暗语的推文翻译成英文\n绷不住了\n英语使用者be like：这家伙在说什么呢.jpg https://t.co/yEcMsw6lwQ https://t.co/ufpPeb0asm"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2055822314969665536",
+        "conversation_id": "2097498948361417020",
+        "created_at": "2026-09-09T01:34:53.000Z",
+        "display_text_range": [
+          0,
+          128
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-09T02:34:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2097498948361417020"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2097498948361417020",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 2885,
+          "like_count": 75,
+          "quote_count": 1,
+          "reply_count": 5,
+          "retweet_count": 8
+        },
+        "reply_settings": "everyone",
+        "text": "诶🤓👆我说大家拍神秘小药片的时候可以说自己是晶格，然后说自己这些药片是从邪恶oder身上缴获的赃物，去打野就说自己在出外勤踩点，打野成功就说自己抓到了邪恶oder，服用是在验货，因为自己尽职尽责所以每天都能逮捕到邪恶oder😈\n只要胆子够肥晶格也可以串🤓👆"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-05-17T01:27:33.000Z",
+        "description": "同类互fo，成分请查看@aeglepotato/点赞狂魔/平时喜欢说怪话和发癫/一般通过肉块爱好者，大量匂坂郁纪发言注意👁️/备用@aeglepotato /🦋@aeglepotato /匿名提问箱https://t.co/C8vIKrLtCN",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 11,
+                "username": "aeglepotato"
+              },
+              {
+                "end": 77,
+                "start": 65,
+                "username": "aeglepotato"
+              },
+              {
+                "end": 92,
+                "start": 80,
+                "username": "aeglepotato"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/aeglepotato",
+                "end": 122,
+                "expanded_url": "https://ngl.link/aeglepotato",
+                "start": 99,
+                "url": "https://t.co/C8vIKrLtCN"
+              }
+            ]
+          }
+        },
+        "id": "2055822314969665536",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2101207409335116019",
+        "name": "🌈ALLice⛄赛博幽灵",
+        "pinned_tweet_id": "2064878659698102753",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2055822314969665536/1784767652",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067517312576421888/aGH7Myxd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 460,
+          "following_count": 489,
+          "like_count": 21906,
+          "listed_count": 0,
+          "media_count": 116,
+          "tweet_count": 1809
+        },
+        "url": "",
+        "username": "GrievousPotato1",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

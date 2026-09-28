@@ -1,0 +1,306 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2101488178159042560"
+      ],
+      "media_source_tweet_id": [
+        "2101488188472848565"
+      ]
+    },
+    "author_id": "2055822314969665536",
+    "conversation_id": "2101533590852874470",
+    "created_at": "2026-09-20T04:47:07.000Z",
+    "display_text_range": [
+      0,
+      82
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-20T05:47:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2101533590852874470"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2101482454079168513",
+          "start": 3,
+          "username": "HyperInutile"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/QEakhUmJ0P",
+          "end": 82,
+          "expanded_url": "https://x.com/HyperInutile/status/2101488188472848565/photo/1",
+          "media_key": "3_2101488178159042560",
+          "start": 59,
+          "url": "https://t.co/QEakhUmJ0P"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2101533590852874470",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2101488178159042560"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2101488188472848565",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @HyperInutile: 大号因雪兔惨遭限制，禁言过程中Nui将以此备用号继续与各位互动┌(┌´ཀ`)┐！ https://t.co/QEakhUmJ0P"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2030,
+        "media_key": "3_2101488178159042560",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSn8XSbaQAAIFjm.jpg",
+        "width": 4096
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2101488178159042560"
+          ],
+          "media_source_tweet_id": [
+            "2101488188472848565"
+          ]
+        },
+        "author_id": "2055822314969665536",
+        "conversation_id": "2101533590852874470",
+        "created_at": "2026-09-20T04:47:07.000Z",
+        "display_text_range": [
+          0,
+          82
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-20T05:47:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2101533590852874470"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2101482454079168513",
+              "start": 3,
+              "username": "HyperInutile"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/QEakhUmJ0P",
+              "end": 82,
+              "expanded_url": "https://x.com/HyperInutile/status/2101488188472848565/photo/1",
+              "media_key": "3_2101488178159042560",
+              "start": 59,
+              "url": "https://t.co/QEakhUmJ0P"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2101533590852874470",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2101488178159042560"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2101488188472848565",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @HyperInutile: 大号因雪兔惨遭限制，禁言过程中Nui将以此备用号继续与各位互动┌(┌´ཀ`)┐！ https://t.co/QEakhUmJ0P"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2101488178159042560"
+          ]
+        },
+        "author_id": "2101482454079168513",
+        "conversation_id": "2101488188472848565",
+        "created_at": "2026-09-20T01:46:42.000Z",
+        "display_text_range": [
+          0,
+          40
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-20T02:46:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2101488188472848565"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/QEakhUmJ0P",
+              "end": 64,
+              "expanded_url": "https://x.com/HyperInutile/status/2101488188472848565/photo/1",
+              "media_key": "3_2101488178159042560",
+              "start": 41,
+              "url": "https://t.co/QEakhUmJ0P"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2101488188472848565",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2101488178159042560"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 56,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "大号因雪兔惨遭限制，禁言过程中Nui将以此备用号继续与各位互动┌(┌´ཀ`)┐！ https://t.co/QEakhUmJ0P"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-05-17T01:27:33.000Z",
+        "description": "同类互fo，成分请查看@aeglepotato/点赞狂魔/平时喜欢说怪话和发癫/一般通过肉块爱好者，大量匂坂郁纪发言注意👁️/备用@aeglepotato /🦋@aeglepotato /匿名提问箱https://t.co/C8vIKrLtCN",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 11,
+                "username": "aeglepotato"
+              },
+              {
+                "end": 77,
+                "start": 65,
+                "username": "aeglepotato"
+              },
+              {
+                "end": 92,
+                "start": 80,
+                "username": "aeglepotato"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/aeglepotato",
+                "end": 122,
+                "expanded_url": "https://ngl.link/aeglepotato",
+                "start": 99,
+                "url": "https://t.co/C8vIKrLtCN"
+              }
+            ]
+          }
+        },
+        "id": "2055822314969665536",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2101533590852874470",
+        "name": "🌈ALLice⛄赛博幽灵",
+        "pinned_tweet_id": "2064878659698102753",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2055822314969665536/1784767652",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067517312576421888/aGH7Myxd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 460,
+          "following_count": 489,
+          "like_count": 21967,
+          "listed_count": 0,
+          "media_count": 116,
+          "tweet_count": 1813
+        },
+        "url": "",
+        "username": "GrievousPotato1",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-09-20T01:26:20.000Z",
+        "description": "如今我们只有这一个去处",
+        "id": "2101482454079168513",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2101525707973419331",
+        "name": "Nui",
+        "pinned_tweet_id": "2101488188472848565",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2101482454079168513/1789869168",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2101483925386477569/2cIden52_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7,
+          "following_count": 36,
+          "like_count": 24,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 7
+        },
+        "url": "",
+        "username": "HyperInutile",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}
