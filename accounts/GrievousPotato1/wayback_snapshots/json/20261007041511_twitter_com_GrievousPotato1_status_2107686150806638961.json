@@ -1,0 +1,663 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2055822314969665536",
+    "conversation_id": "2107483951854178356",
+    "created_at": "2026-10-07T04:15:11.000Z",
+    "display_text_range": [
+      102,
+      110
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-07T05:15:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2107686150806638961"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1680146462213292033",
+          "start": 0,
+          "username": "doumaiNPS"
+        },
+        {
+          "end": 26,
+          "id": "1243590342911410176",
+          "start": 11,
+          "username": "bing2000100830"
+        },
+        {
+          "end": 39,
+          "id": "1781745564738281472",
+          "start": 27,
+          "username": "Stolly21_TG"
+        },
+        {
+          "end": 52,
+          "id": "1625237813926182913",
+          "start": 40,
+          "username": "koizumi7723"
+        },
+        {
+          "end": 64,
+          "id": "2072699786336075776",
+          "start": 53,
+          "username": "zhiyeranxi"
+        },
+        {
+          "end": 80,
+          "id": "1672124894694490117",
+          "start": 65,
+          "username": "NanaseToki0923"
+        },
+        {
+          "end": 90,
+          "id": "2070858923431825408",
+          "start": 81,
+          "username": "safrerkv"
+        },
+        {
+          "end": 101,
+          "id": "2050523644120428544",
+          "start": 91,
+          "username": "asu625912"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2107686150806638961",
+    "in_reply_to_user_id": "1680146462213292033",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2107684268789108861",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@doumaiNPS @bing2000100830 @Stolly21_TG @koizumi7723 @zhiyeranxi @NanaseToki0923 @safrerkv @asu625912 没有关系喵~摸摸"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2055822314969665536",
+        "conversation_id": "2107483951854178356",
+        "created_at": "2026-10-07T04:15:11.000Z",
+        "display_text_range": [
+          102,
+          110
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-07T05:15:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2107686150806638961"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1680146462213292033",
+              "start": 0,
+              "username": "doumaiNPS"
+            },
+            {
+              "end": 26,
+              "id": "1243590342911410176",
+              "start": 11,
+              "username": "bing2000100830"
+            },
+            {
+              "end": 39,
+              "id": "1781745564738281472",
+              "start": 27,
+              "username": "Stolly21_TG"
+            },
+            {
+              "end": 52,
+              "id": "1625237813926182913",
+              "start": 40,
+              "username": "koizumi7723"
+            },
+            {
+              "end": 64,
+              "id": "2072699786336075776",
+              "start": 53,
+              "username": "zhiyeranxi"
+            },
+            {
+              "end": 80,
+              "id": "1672124894694490117",
+              "start": 65,
+              "username": "NanaseToki0923"
+            },
+            {
+              "end": 90,
+              "id": "2070858923431825408",
+              "start": 81,
+              "username": "safrerkv"
+            },
+            {
+              "end": 101,
+              "id": "2050523644120428544",
+              "start": 91,
+              "username": "asu625912"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2107686150806638961",
+        "in_reply_to_user_id": "1680146462213292033",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2107684268789108861",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@doumaiNPS @bing2000100830 @Stolly21_TG @koizumi7723 @zhiyeranxi @NanaseToki0923 @safrerkv @asu625912 没有关系喵~摸摸"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1680146462213292033",
+        "conversation_id": "2107483951854178356",
+        "created_at": "2026-10-07T04:07:43.000Z",
+        "display_text_range": [
+          108,
+          138
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-07T05:07:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2107684268789108861"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2055822314969665536",
+              "start": 0,
+              "username": "GrievousPotato1"
+            },
+            {
+              "end": 32,
+              "id": "1243590342911410176",
+              "start": 17,
+              "username": "bing2000100830"
+            },
+            {
+              "end": 45,
+              "id": "1781745564738281472",
+              "start": 33,
+              "username": "Stolly21_TG"
+            },
+            {
+              "end": 58,
+              "id": "1625237813926182913",
+              "start": 46,
+              "username": "koizumi7723"
+            },
+            {
+              "end": 70,
+              "id": "2072699786336075776",
+              "start": 59,
+              "username": "zhiyeranxi"
+            },
+            {
+              "end": 86,
+              "id": "1672124894694490117",
+              "start": 71,
+              "username": "NanaseToki0923"
+            },
+            {
+              "end": 96,
+              "id": "2070858923431825408",
+              "start": 87,
+              "username": "safrerkv"
+            },
+            {
+              "end": 107,
+              "id": "2050523644120428544",
+              "start": 97,
+              "username": "asu625912"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2107684268789108861",
+        "in_reply_to_user_id": "2055822314969665536",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 15,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2107497939484471476",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@GrievousPotato1 @bing2000100830 @Stolly21_TG @koizumi7723 @zhiyeranxi @NanaseToki0923 @safrerkv @asu625912 老师不好意思捏 兜兜笨笨嘟 忘记开私信了 现在可以正常私信了"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-05-17T01:27:33.000Z",
+        "description": "同类互fo，成分请查看@aeglepotato/点赞狂魔/平时喜欢说怪话和发癫/一般通过肉块爱好者/备用@aeglepotato /🦋@aeglepotato /匿名提问箱https://t.co/C8vIKrLtCN",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 11,
+                "username": "aeglepotato"
+              },
+              {
+                "end": 64,
+                "start": 52,
+                "username": "aeglepotato"
+              },
+              {
+                "end": 79,
+                "start": 67,
+                "username": "aeglepotato"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/aeglepotato",
+                "end": 109,
+                "expanded_url": "https://ngl.link/aeglepotato",
+                "start": 86,
+                "url": "https://t.co/C8vIKrLtCN"
+              }
+            ]
+          }
+        },
+        "id": "2055822314969665536",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2107686150806638961",
+        "name": "🌈ALLice⛄赛博幽灵",
+        "pinned_tweet_id": "2064878659698102753",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2055822314969665536/1790741335",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067517312576421888/aGH7Myxd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 515,
+          "following_count": 521,
+          "like_count": 23692,
+          "listed_count": 0,
+          "media_count": 137,
+          "tweet_count": 2077
+        },
+        "url": "",
+        "username": "GrievousPotato1",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-07-15T09:25:21.000Z",
+        "description": "兜麦实验室官方账号 本号不主动与他人联系或合作 暂时也未与其他工作室有过合作关系\n如有自称兜麦账号主动联系 请勿上当受骗 可以发到兜麦官号私信 我们帮您确认真伪\n创始人@zifensix @painun1is\n有合作相关事宜请联系两位创始人详谈\nTelegram官方群聊链接在下方\n暂时停业",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 93,
+                "start": 84,
+                "username": "zifensix"
+              },
+              {
+                "end": 104,
+                "start": 94,
+                "username": "painun1is"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/doumaiRC",
+                "end": 23,
+                "expanded_url": "https://t.me/doumaiRC",
+                "start": 0,
+                "url": "https://t.co/Ot2Mmw7M8G"
+              }
+            ]
+          }
+        },
+        "id": "1680146462213292033",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2107684268789108861",
+        "name": "兜麦总部",
+        "pinned_tweet_id": "2106459246607184044",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1680146462213292033/1791140014",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2106456360053592064/Yf1ui_yY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 323,
+          "following_count": 2,
+          "like_count": 43,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 37
+        },
+        "url": "https://t.co/Ot2Mmw7M8G",
+        "username": "doumaiNPS",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2020-03-27T17:27:10.000Z",
+        "description": "世界还有很多值得我们逃避的东西。",
+        "id": "1243590342911410176",
+        "is_identity_verified": false,
+        "location": "可以躲起来的软软的地方",
+        "most_recent_tweet_id": "2107586033042981075",
+        "name": "饼",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1243590342911410176/1762679177",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043756949473497088/uBMN18oS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1023,
+          "following_count": 1446,
+          "like_count": 68534,
+          "listed_count": 2,
+          "media_count": 129,
+          "tweet_count": 4576
+        },
+        "url": "",
+        "username": "bing2000100830",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-04-20T18:03:50.000Z",
+        "description": "另一个我：@shuniu21 \n学习药理的oder、ed蛆、162cm35kg、鼻吸130mgDPT存活、休学无所事事、尼古丁依赖持续、外出无能家里蹲。（互fo欢迎~查成分回fo回私信这些！有时候没及时回是上限了。。等等我´꒳`",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 14,
+                "start": 5,
+                "username": "shuniu21"
+              }
+            ]
+          }
+        },
+        "id": "1781745564738281472",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2107175049669365957",
+        "name": "枢纽Toky",
+        "pinned_tweet_id": "2082344025248715144",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1781745564738281472/1780291296",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059978102059696128/DD34Uxdu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 693,
+          "following_count": 320,
+          "like_count": 2135,
+          "listed_count": 2,
+          "media_count": 134,
+          "tweet_count": 793
+        },
+        "url": "",
+        "username": "Stolly21_TG",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-02-13T20:57:54.000Z",
+        "description": "06顺女/友跨/LGBTQ/爱磕药自残/shedtwt/直fo会回/EN/CN/欢迎大家找我玩\n老公@chemy_05",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 59,
+                "start": 50,
+                "username": "chemy_05"
+              }
+            ]
+          }
+        },
+        "id": "1625237813926182913",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2107558245183414394",
+        "name": "小泉",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1625237813926182913/1676322456",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1720311986050002944/pEEBk6Y6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 208,
+          "following_count": 458,
+          "like_count": 549,
+          "listed_count": 0,
+          "media_count": 37,
+          "tweet_count": 707
+        },
+        "url": "",
+        "username": "koizumi7723",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-07-02T15:14:29.000Z",
+        "description": "这是梦与幻的乐园 记录着虚幻的世界\n性格飘忽不定，坚定的悲剧爱好者\n负能量与正能量的集合体 预感到自己会在某个夏日结束前离开",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E5%A4%9C%E5%8…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E5%A4%9C%E5%87%AA%E6%B1%90%E6%9F%931",
+                "start": 0,
+                "url": "https://t.co/LtxUZ7iP7i"
+              }
+            ]
+          }
+        },
+        "id": "2072699786336075776",
+        "is_identity_verified": false,
+        "location": "Dream country",
+        "most_recent_tweet_id": "2107684823158661392",
+        "name": "凪夜柒汐",
+        "pinned_tweet_id": "2106404299471569098",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2072699786336075776/1783005464",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072700977178722304/RalLc1Iw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 266,
+          "following_count": 237,
+          "like_count": 4373,
+          "listed_count": 0,
+          "media_count": 20,
+          "tweet_count": 827
+        },
+        "url": "https://t.co/LtxUZ7iP7i",
+        "username": "zhiyeranxi",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/semantic_core_img/1428827730364096519/4ZXpTBhS?format=png&name=orig",
+          "description": "Automated"
+        },
+        "created_at": "2023-06-23T06:10:28.000Z",
+        "description": "22岁/MtX/丑蝈蝻/持证含糖/泛性恋/双相/BPD/HPD/ADHD/人格分裂/ISFP-T/抖M/火车迷/骑行佬/已炸柜/超大只/数码爱好者/maimai 真•超•檄•橙•晓•桃•紫•堇•白•熊•华•镜将取得/maimai霸者取得/maimai LV12全AP/",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "12306.cn",
+                "end": 23,
+                "expanded_url": "https://www.12306.cn",
+                "start": 0,
+                "url": "https://t.co/Z1K8st7ZjN"
+              }
+            ]
+          }
+        },
+        "id": "1672124894694490117",
+        "is_identity_verified": false,
+        "location": "上局金温公司",
+        "most_recent_tweet_id": "2107555858058273114",
+        "name": "七濑与喜🏳️‍⚧️🍥社畜模式",
+        "pinned_tweet_id": "2073029940602372493",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1672124894694490117/1731680200",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984842117060153344/X4c6c0w9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1831,
+          "following_count": 776,
+          "like_count": 9314,
+          "listed_count": 6,
+          "media_count": 1220,
+          "tweet_count": 5446
+        },
+        "url": "https://t.co/Z1K8st7ZjN",
+        "username": "NanaseToki0923",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-06-27T13:18:02.000Z",
+        "description": "💊｜🔪✋🏻🩸｜重抑重焦｜梦想是当心理委员 ｜友跨｜\n我叫相融          和我聊天：https://t.co/tpi8Vbpwcz\n                           tg群聊↓   杯子@kris_dreammer 想和我扩列可以私信我 互fo也请私信喵",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 120,
+                "start": 106,
+                "username": "kris_dreammer"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/xiangrongTvT",
+                "end": 68,
+                "expanded_url": "https://t.me/xiangrongTvT",
+                "start": 45,
+                "url": "https://t.co/tpi8Vbpwcz"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+6MOIrdnz1xcxM…",
+                "end": 23,
+                "expanded_url": "https://t.me/+6MOIrdnz1xcxMjVl",
+                "start": 0,
+                "url": "https://t.co/1Djqu66g7u"
+              }
+            ]
+          }
+        },
+        "id": "2070858923431825408",
+        "is_identity_verified": false,
+        "location": "衫之宫区 北校 C栋楼顶",
+        "most_recent_tweet_id": "2107685407408140314",
+        "name": "🎀超絶最かわ🎀てんしちゃん",
+        "pinned_tweet_id": "2105666174197608597",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2070858923431825408/1782967118",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072540027268280320/nrwLJmD1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1709,
+          "following_count": 2032,
+          "like_count": 8674,
+          "listed_count": 1,
+          "media_count": 743,
+          "tweet_count": 3439
+        },
+        "url": "https://t.co/1Djqu66g7u",
+        "username": "safrerkv",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-05-02T10:32:05.000Z",
+        "description": "可以叫我Asu/老鼠\n双相/重焦/od/紫餐/餐券/非绿/trpg/邦/烤/画师/coser/非常非常非常容易焦虑和内耗……擅长消失一段时间再出现\nip福州，喜欢画画和唱歌，想和人一起线下玩呀\n希望有不幸经历的大家都能够幸福……\n梦想是成为一个温暖善良的人，现在已经做到啦。",
+        "id": "2050523644120428544",
+        "is_identity_verified": false,
+        "location": "鼠窝2.0",
+        "most_recent_tweet_id": "2107202254654849480",
+        "name": "🐀2.0",
+        "pinned_tweet_id": "2103016447077450142",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2102750747989561344/R3jgKT9F_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 197,
+          "following_count": 208,
+          "like_count": 66,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 135
+        },
+        "url": "",
+        "username": "asu625912",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

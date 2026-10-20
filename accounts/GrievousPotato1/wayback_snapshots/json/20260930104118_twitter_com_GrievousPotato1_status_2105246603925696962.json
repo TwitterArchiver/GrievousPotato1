@@ -1,0 +1,255 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2055822314969665536",
+    "conversation_id": "2105226109843546577",
+    "created_at": "2026-09-30T10:41:18.000Z",
+    "display_text_range": [
+      12,
+      14
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-30T11:41:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2105246603925696962"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1190192406307602433",
+          "start": 0,
+          "username": "annaqizuyi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2105246603925696962",
+    "in_reply_to_user_id": "1190192406307602433",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2105226340001853474",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@annaqizuyi 点了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2055822314969665536",
+        "conversation_id": "2105226109843546577",
+        "created_at": "2026-09-30T10:41:18.000Z",
+        "display_text_range": [
+          12,
+          14
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-30T11:41:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2105246603925696962"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1190192406307602433",
+              "start": 0,
+              "username": "annaqizuyi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2105246603925696962",
+        "in_reply_to_user_id": "1190192406307602433",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2105226340001853474",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@annaqizuyi 点了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1190192406307602433",
+        "conversation_id": "2105226109843546577",
+        "created_at": "2026-09-30T09:20:47.000Z",
+        "display_text_range": [
+          0,
+          21
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-30T10:20:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2105226340001853474"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2105226340001853474",
+        "in_reply_to_user_id": "1190192406307602433",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 16,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2105226109843546577",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "你把所有高级的人类都说成是精神障碍，哈哈哈"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-05-17T01:27:33.000Z",
+        "description": "同类互fo，成分请查看@aeglepotato/点赞狂魔/平时喜欢说怪话和发癫/一般通过肉块爱好者/备用@aeglepotato /🦋@aeglepotato /匿名提问箱https://t.co/C8vIKrLtCN",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 11,
+                "username": "aeglepotato"
+              },
+              {
+                "end": 64,
+                "start": 52,
+                "username": "aeglepotato"
+              },
+              {
+                "end": 79,
+                "start": 67,
+                "username": "aeglepotato"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/aeglepotato",
+                "end": 109,
+                "expanded_url": "https://ngl.link/aeglepotato",
+                "start": 86,
+                "url": "https://t.co/C8vIKrLtCN"
+              }
+            ]
+          }
+        },
+        "id": "2055822314969665536",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2105246603925696962",
+        "name": "🌈ALLice⛄赛博幽灵",
+        "pinned_tweet_id": "2064878659698102753",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2055822314969665536/1790741335",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067517312576421888/aGH7Myxd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 488,
+          "following_count": 505,
+          "like_count": 23121,
+          "listed_count": 0,
+          "media_count": 132,
+          "tweet_count": 1995
+        },
+        "url": "",
+        "username": "GrievousPotato1",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2019-11-01T09:03:16.000Z",
+        "description": "我只希望自由只能更加自由\n警告：我的思想价值观有严重问题（从社会规范上面说确实如此）主要就是情绪词和语言游戏的自说自话为主。有一点要说清楚我并不是在搞“哲学”，我只是在玩一个思维游戏我从这些和自己游戏里面会有神圣感和欣快感。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/annaqizhuyi",
+                "end": 23,
+                "expanded_url": "https://ngl.link/annaqizhuyi",
+                "start": 0,
+                "url": "https://t.co/DcqWU8dcZh"
+              }
+            ]
+          }
+        },
+        "id": "1190192406307602433",
+        "is_identity_verified": false,
+        "location": "上海闵行徐汇交界处",
+        "most_recent_tweet_id": "2105229678583959821",
+        "name": "卡爾思",
+        "pinned_tweet_id": "2077262016499335489",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1190192406307602433/1588900893",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1190192652026830848/6P_aT4uH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 56,
+          "following_count": 182,
+          "like_count": 170,
+          "listed_count": 2,
+          "media_count": 23,
+          "tweet_count": 1008
+        },
+        "url": "https://t.co/DcqWU8dcZh",
+        "username": "annaqizuyi",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

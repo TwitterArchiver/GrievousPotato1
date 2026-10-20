@@ -1,0 +1,264 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2055822314969665536",
+    "conversation_id": "2107687057162412195",
+    "created_at": "2026-10-08T09:20:12.000Z",
+    "display_text_range": [
+      14,
+      32
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-08T10:20:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2108125297488941528"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2083858416402079745",
+          "start": 0,
+          "username": "EvansRichter"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2108125297488941528",
+    "in_reply_to_user_id": "2083858416402079745",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2107687057162412195",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@EvansRichter 照这个标准在⏰就没几个人格健全的了（"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2055822314969665536",
+        "conversation_id": "2107687057162412195",
+        "created_at": "2026-10-08T09:20:12.000Z",
+        "display_text_range": [
+          14,
+          32
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-08T10:20:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2108125297488941528"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2083858416402079745",
+              "start": 0,
+              "username": "EvansRichter"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2108125297488941528",
+        "in_reply_to_user_id": "2083858416402079745",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2107687057162412195",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@EvansRichter 照这个标准在⏰就没几个人格健全的了（"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2083858416402079745",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Wellness & Health",
+              "id": "903303816698671104",
+              "name": "Wellness and health"
+            }
+          }
+        ],
+        "conversation_id": "2107687057162412195",
+        "created_at": "2026-10-07T04:18:48.000Z",
+        "display_text_range": [
+          0,
+          29
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-07T05:18:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2107687057162412195"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Anyhowyyc3/sta…",
+              "end": 53,
+              "expanded_url": "https://twitter.com/Anyhowyyc3/status/2107528923726655497",
+              "start": 30,
+              "url": "https://t.co/mtdfXXBgYk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2107687057162412195",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 13,
+          "impression_count": 9177,
+          "like_count": 416,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 20
+        },
+        "referenced_tweets": [
+          {
+            "id": "2107528923726655497",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "人格健全当然必须包含同理心和共情能力。\n刻薄既意味着残缺。 https://t.co/mtdfXXBgYk"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-05-17T01:27:33.000Z",
+        "description": "同类互fo，成分请查看@aeglepotato/点赞狂魔/平时喜欢说怪话和发癫/一般通过肉块爱好者/备用@aeglepotato /🦋@aeglepotato /匿名提问箱https://t.co/C8vIKrLtCN",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 11,
+                "username": "aeglepotato"
+              },
+              {
+                "end": 64,
+                "start": 52,
+                "username": "aeglepotato"
+              },
+              {
+                "end": 79,
+                "start": 67,
+                "username": "aeglepotato"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/aeglepotato",
+                "end": 109,
+                "expanded_url": "https://ngl.link/aeglepotato",
+                "start": 86,
+                "url": "https://t.co/C8vIKrLtCN"
+              }
+            ]
+          }
+        },
+        "id": "2055822314969665536",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2108125297488941528",
+        "name": "🌈ALLice⛄赛博幽灵",
+        "pinned_tweet_id": "2064878659698102753",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2055822314969665536/1790741335",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067517312576421888/aGH7Myxd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 514,
+          "following_count": 520,
+          "like_count": 23781,
+          "listed_count": 0,
+          "media_count": 138,
+          "tweet_count": 2087
+        },
+        "url": "",
+        "username": "GrievousPotato1",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-02T10:13:53.000Z",
+        "description": "男 19岁\n自由意识共产主义\n马克思主义\nLGBTQ+全友好\n🇵🇸🕊️\nENFP\n欢迎互fo，互fo欢迎扩列",
+        "id": "2083858416402079745",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2108125177980621015",
+        "name": "穿靴子的猫",
+        "pinned_tweet_id": "2101715146641211874",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2083858416402079745/1785666289",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2098376155514724352/Dmxindkp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 281,
+          "following_count": 841,
+          "like_count": 13497,
+          "listed_count": 0,
+          "media_count": 115,
+          "tweet_count": 3255
+        },
+        "url": "",
+        "username": "EvansRichter",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

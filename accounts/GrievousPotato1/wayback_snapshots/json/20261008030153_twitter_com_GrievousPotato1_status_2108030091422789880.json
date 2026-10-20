@@ -1,0 +1,287 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2055822314969665536",
+    "conversation_id": "2106027663047663885",
+    "created_at": "2026-10-08T03:01:53.000Z",
+    "display_text_range": [
+      9,
+      24
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-08T04:01:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2108030091422789880"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "2096605025653186560",
+          "start": 0,
+          "username": "ylgmxcb"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2108030091422789880",
+    "in_reply_to_user_id": "2096605025653186560",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2106027663047663885",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ylgmxcb 哇还有粪坑中的奇迹之花（绝望）"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 892,
+        "media_key": "3_2106027656848592896",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HToc_uWb0AA37Yf.jpg",
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2055822314969665536",
+        "conversation_id": "2106027663047663885",
+        "created_at": "2026-10-08T03:01:53.000Z",
+        "display_text_range": [
+          9,
+          24
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-08T04:01:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2108030091422789880"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2096605025653186560",
+              "start": 0,
+              "username": "ylgmxcb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2108030091422789880",
+        "in_reply_to_user_id": "2096605025653186560",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2106027663047663885",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ylgmxcb 哇还有粪坑中的奇迹之花（绝望）"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2106027656848592896"
+          ]
+        },
+        "author_id": "2096605025653186560",
+        "conversation_id": "2106027663047663885",
+        "created_at": "2026-10-02T14:24:57.000Z",
+        "display_text_range": [
+          0,
+          115
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-02T15:24:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2106027663047663885"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/A0Su4XwA0x",
+              "end": 139,
+              "expanded_url": "https://x.com/ylgmxcb/status/2106027663047663885/photo/1",
+              "media_key": "3_2106027656848592896",
+              "start": 116,
+              "url": "https://t.co/A0Su4XwA0x"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106027663047663885",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2106027656848592896"
+          }
+        ],
+        "note_tweet": {
+          "entities": {},
+          "text": "因原料革命内部某位核心人员的负性思维，目前该账号由我主导。\n一些基本的共识：\n1.原料革命不希望与任何人为敌\n2.原料革命不支持任何不开名/售卖商品利润率在300%以上的药商组织\n3.原料革命会无偿帮助/宣传所有不违背第二条的药商\n4.原料革命的宗旨是向所有人提供需要的信息，让怕麻烦的人以一个相对合理的代价解决麻烦"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2262,
+          "like_count": 49,
+          "quote_count": 1,
+          "reply_count": 5,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "因原料革命内部某位核心人员的负性思维，目前该账号由我主导。\n一些基本的共识：\n1.原料革命不希望与任何人为敌\n2.原料革命不支持任何不开名/售卖商品利润率在300%以上的药商组织\n3.原料革命会无偿帮助/宣传所有不违背第二条的药商 https://t.co/A0Su4XwA0x"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-05-17T01:27:33.000Z",
+        "description": "同类互fo，成分请查看@aeglepotato/点赞狂魔/平时喜欢说怪话和发癫/一般通过肉块爱好者/备用@aeglepotato /🦋@aeglepotato /匿名提问箱https://t.co/C8vIKrLtCN",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 11,
+                "username": "aeglepotato"
+              },
+              {
+                "end": 64,
+                "start": 52,
+                "username": "aeglepotato"
+              },
+              {
+                "end": 79,
+                "start": 67,
+                "username": "aeglepotato"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/aeglepotato",
+                "end": 109,
+                "expanded_url": "https://ngl.link/aeglepotato",
+                "start": 86,
+                "url": "https://t.co/C8vIKrLtCN"
+              }
+            ]
+          }
+        },
+        "id": "2055822314969665536",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2108030091422789880",
+        "name": "🌈ALLice⛄赛博幽灵",
+        "pinned_tweet_id": "2064878659698102753",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2055822314969665536/1790741335",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067517312576421888/aGH7Myxd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 515,
+          "following_count": 521,
+          "like_count": 23714,
+          "listed_count": 0,
+          "media_count": 137,
+          "tweet_count": 2078
+        },
+        "url": "",
+        "username": "GrievousPotato1",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-09-06T14:23:43.000Z",
+        "description": "原料革命是一个致力于提供药物信息，消除信息差所导致的不平等的在药圈活动的组织。\n本账号即代表，为原料革命的最重要一环——宣传，所兢兢业业的人们。\n原料革命下属低价药商：@freepgbplz\n原料革命自由宣传部：@freedogdrum\n原料革命最锋利的剑：@UWATCHLIFE",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 95,
+                "start": 84,
+                "username": "freepgbplz"
+              },
+              {
+                "end": 118,
+                "start": 106,
+                "username": "freedogdrum"
+              },
+              {
+                "end": 140,
+                "start": 129,
+                "username": "UWATCHLIFE"
+              }
+            ]
+          }
+        },
+        "id": "2096605025653186560",
+        "is_identity_verified": false,
+        "location": "OD圈",
+        "most_recent_tweet_id": "2106068600729768391",
+        "name": "原料革命宣传部",
+        "pinned_tweet_id": "2106027663047663885",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2096605025653186560/1788779650",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2096919871372369920/iFcW2t6E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 469,
+          "following_count": 33,
+          "like_count": 26,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 39
+        },
+        "url": "",
+        "username": "ylgmxcb",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2055822314969665536",
+    "conversation_id": "2107684899125694773",
+    "created_at": "2026-10-07T04:10:13.000Z",
+    "display_text_range": [
+      0,
+      135
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-07T05:10:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2107684899125694773"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "2013962121739194368",
+          "start": 3,
+          "username": "yyuntng177680"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2107684899125694773",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2107479062080065765",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @yyuntng177680: 一个有意思的现象是当下的文艺作品都在扁平化自己的角色，为了让观众不再思考，每个角色都不会再说谎了，即使说谎也会给很明确的暗示，让观众一眼识别。这也导致很多人总是下意识地把别人发出来的话当作是完全的真心话。真正的对话是存在很多层次的。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2055822314969665536",
+        "conversation_id": "2107684899125694773",
+        "created_at": "2026-10-07T04:10:13.000Z",
+        "display_text_range": [
+          0,
+          135
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-07T05:10:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2107684899125694773"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "2013962121739194368",
+              "start": 3,
+              "username": "yyuntng177680"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2107684899125694773",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2107479062080065765",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @yyuntng177680: 一个有意思的现象是当下的文艺作品都在扁平化自己的角色，为了让观众不再思考，每个角色都不会再说谎了，即使说谎也会给很明确的暗示，让观众一眼识别。这也导致很多人总是下意识地把别人发出来的话当作是完全的真心话。真正的对话是存在很多层次的。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2013962121739194368",
+        "conversation_id": "2107479062080065765",
+        "created_at": "2026-10-06T14:32:18.000Z",
+        "display_text_range": [
+          0,
+          116
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-06T15:32:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2107479062080065765"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2107479062080065765",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1128,
+          "like_count": 30,
+          "quote_count": 1,
+          "reply_count": 3,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "一个有意思的现象是当下的文艺作品都在扁平化自己的角色，为了让观众不再思考，每个角色都不会再说谎了，即使说谎也会给很明确的暗示，让观众一眼识别。这也导致很多人总是下意识地把别人发出来的话当作是完全的真心话。真正的对话是存在很多层次的。"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-05-17T01:27:33.000Z",
+        "description": "同类互fo，成分请查看@aeglepotato/点赞狂魔/平时喜欢说怪话和发癫/一般通过肉块爱好者/备用@aeglepotato /🦋@aeglepotato /匿名提问箱https://t.co/C8vIKrLtCN",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 11,
+                "username": "aeglepotato"
+              },
+              {
+                "end": 64,
+                "start": 52,
+                "username": "aeglepotato"
+              },
+              {
+                "end": 79,
+                "start": 67,
+                "username": "aeglepotato"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/aeglepotato",
+                "end": 109,
+                "expanded_url": "https://ngl.link/aeglepotato",
+                "start": 86,
+                "url": "https://t.co/C8vIKrLtCN"
+              }
+            ]
+          }
+        },
+        "id": "2055822314969665536",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2107684899125694773",
+        "name": "🌈ALLice⛄赛博幽灵",
+        "pinned_tweet_id": "2064878659698102753",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2055822314969665536/1790741335",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067517312576421888/aGH7Myxd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 515,
+          "following_count": 521,
+          "like_count": 23691,
+          "listed_count": 0,
+          "media_count": 137,
+          "tweet_count": 2076
+        },
+        "url": "",
+        "username": "GrievousPotato1",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-01-21T13:09:39.000Z",
+        "description": "骑中心公嬷一体机\n属性过多 有异食癖 爱吃阴间产",
+        "id": "2013962121739194368",
+        "is_identity_verified": false,
+        "location": "家产床底下",
+        "most_recent_tweet_id": "2107667027783815217",
+        "name": "hugedog_emperor",
+        "pinned_tweet_id": "2082750921189335529",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2013962121739194368/1779309483",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076386108364242944/PyLbKbAV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 189,
+          "following_count": 217,
+          "like_count": 11097,
+          "listed_count": 0,
+          "media_count": 237,
+          "tweet_count": 4047
+        },
+        "url": "",
+        "username": "yyuntng177680",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

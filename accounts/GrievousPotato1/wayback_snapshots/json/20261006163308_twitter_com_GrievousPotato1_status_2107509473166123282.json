@@ -1,0 +1,285 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2055822314969665536",
+    "conversation_id": "2107509473166123282",
+    "created_at": "2026-10-06T16:33:08.000Z",
+    "display_text_range": [
+      0,
+      140
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-06T17:33:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2107509473166123282"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2072699786336075776",
+          "start": 3,
+          "username": "zhiyeranxi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2107509473166123282",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 4
+    },
+    "referenced_tweets": [
+      {
+        "id": "2107423394211971401",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @zhiyeranxi: @zhiiyeranxi     曝光假冒人员，避雷避雷避雷！！！\n此人冒充我，主页一模一样，id就多了个i，还在冒充我盗领中奖信息。\n在无天前开始活跃，一定一定不要被骗，他不是我，我只有这一个账号！\n我的开奖是不收你们钱的，一起来要付邮费什么的…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2107423367800266755",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HT8SYy0XoAMAOMs.jpg",
+        "width": 1345
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2055822314969665536",
+        "conversation_id": "2107509473166123282",
+        "created_at": "2026-10-06T16:33:08.000Z",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-06T17:33:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2107509473166123282"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2072699786336075776",
+              "start": 3,
+              "username": "zhiyeranxi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2107509473166123282",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 4
+        },
+        "referenced_tweets": [
+          {
+            "id": "2107423394211971401",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @zhiyeranxi: @zhiiyeranxi     曝光假冒人员，避雷避雷避雷！！！\n此人冒充我，主页一模一样，id就多了个i，还在冒充我盗领中奖信息。\n在无天前开始活跃，一定一定不要被骗，他不是我，我只有这一个账号！\n我的开奖是不收你们钱的，一起来要付邮费什么的…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2107423367800266755"
+          ]
+        },
+        "author_id": "2072699786336075776",
+        "conversation_id": "2107423394211971401",
+        "created_at": "2026-10-06T10:51:05.000Z",
+        "display_text_range": [
+          0,
+          148
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-06T11:51:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2107423394211971401"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1751672682733875200",
+              "start": 0,
+              "username": "zhiiyeranxi"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Lsv3030557",
+              "end": 172,
+              "expanded_url": "https://x.com/zhiyeranxi/status/2107423394211971401/photo/1",
+              "media_key": "3_2107423367800266755",
+              "start": 149,
+              "url": "https://t.co/Lsv3030557"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2107423394211971401",
+        "in_reply_to_user_id": "1751672682733875200",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2107423367800266755"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 349,
+          "like_count": 18,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 4
+        },
+        "reply_settings": "everyone",
+        "text": "@zhiiyeranxi     曝光假冒人员，避雷避雷避雷！！！\n此人冒充我，主页一模一样，id就多了个i，还在冒充我盗领中奖信息。\n在无天前开始活跃，一定一定不要被骗，他不是我，我只有这一个账号！\n我的开奖是不收你们钱的，一起来要付邮费什么的不要相信。\n麻烦看到的各位转一下，让大家不要被骗。 https://t.co/Lsv3030557"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-05-17T01:27:33.000Z",
+        "description": "同类互fo，成分请查看@aeglepotato/点赞狂魔/平时喜欢说怪话和发癫/一般通过肉块爱好者/备用@aeglepotato /🦋@aeglepotato /匿名提问箱https://t.co/C8vIKrLtCN",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 11,
+                "username": "aeglepotato"
+              },
+              {
+                "end": 64,
+                "start": 52,
+                "username": "aeglepotato"
+              },
+              {
+                "end": 79,
+                "start": 67,
+                "username": "aeglepotato"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/aeglepotato",
+                "end": 109,
+                "expanded_url": "https://ngl.link/aeglepotato",
+                "start": 86,
+                "url": "https://t.co/C8vIKrLtCN"
+              }
+            ]
+          }
+        },
+        "id": "2055822314969665536",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2107509473166123282",
+        "name": "🌈ALLice⛄赛博幽灵",
+        "pinned_tweet_id": "2064878659698102753",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2055822314969665536/1790741335",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067517312576421888/aGH7Myxd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 513,
+          "following_count": 518,
+          "like_count": 23646,
+          "listed_count": 0,
+          "media_count": 137,
+          "tweet_count": 2071
+        },
+        "url": "",
+        "username": "GrievousPotato1",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-07-02T15:14:29.000Z",
+        "description": "这是梦与幻的乐园 记录着虚幻的世界\n性格飘忽不定，坚定的悲剧爱好者\n负能量与正能量的集合体 预感到自己会在某个夏日结束前离开",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E5%A4%9C%E5%8…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E5%A4%9C%E5%87%AA%E6%B1%90%E6%9F%931",
+                "start": 0,
+                "url": "https://t.co/LtxUZ7iP7i"
+              }
+            ]
+          }
+        },
+        "id": "2072699786336075776",
+        "is_identity_verified": false,
+        "location": "Dream country",
+        "most_recent_tweet_id": "2107472997736956060",
+        "name": "凪夜柒汐",
+        "pinned_tweet_id": "2106404299471569098",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2072699786336075776/1783005464",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072700977178722304/RalLc1Iw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 266,
+          "following_count": 234,
+          "like_count": 4337,
+          "listed_count": 0,
+          "media_count": 19,
+          "tweet_count": 815
+        },
+        "url": "https://t.co/LtxUZ7iP7i",
+        "username": "zhiyeranxi",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

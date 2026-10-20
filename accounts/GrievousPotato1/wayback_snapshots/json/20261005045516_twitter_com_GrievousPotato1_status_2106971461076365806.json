@@ -1,0 +1,277 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2055822314969665536",
+    "conversation_id": "2106795405107470350",
+    "created_at": "2026-10-05T04:55:16.000Z",
+    "display_text_range": [
+      11,
+      17
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-05T05:55:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2106971461076365806"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1680146462213292033",
+          "start": 0,
+          "username": "doumaiNPS"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2106971461076365806",
+    "in_reply_to_user_id": "1680146462213292033",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2106795405107470350",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@doumaiNPS 4homet"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2055822314969665536",
+        "conversation_id": "2106795405107470350",
+        "created_at": "2026-10-05T04:55:16.000Z",
+        "display_text_range": [
+          11,
+          17
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-05T05:55:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2106971461076365806"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1680146462213292033",
+              "start": 0,
+              "username": "doumaiNPS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106971461076365806",
+        "in_reply_to_user_id": "1680146462213292033",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2106795405107470350",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@doumaiNPS 4homet"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1680146462213292033",
+        "conversation_id": "2106795405107470350",
+        "created_at": "2026-10-04T17:15:41.000Z",
+        "display_text_range": [
+          0,
+          35
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-04T18:15:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2106795405107470350"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/doumainps/stat…",
+              "end": 59,
+              "expanded_url": "https://twitter.com/doumainps/status/2106794237945856213",
+              "start": 36,
+              "url": "https://t.co/RIZNyzzquh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106795405107470350",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 515,
+          "like_count": 12,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2106794237945856213",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "兜麦只售卖自研产品 但是偶尔会抽你们喜欢的物质 评论投稿下期抽什么物质 https://t.co/RIZNyzzquh"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-05-17T01:27:33.000Z",
+        "description": "同类互fo，成分请查看@aeglepotato/点赞狂魔/平时喜欢说怪话和发癫/一般通过肉块爱好者/备用@aeglepotato /🦋@aeglepotato /匿名提问箱https://t.co/C8vIKrLtCN",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 11,
+                "username": "aeglepotato"
+              },
+              {
+                "end": 64,
+                "start": 52,
+                "username": "aeglepotato"
+              },
+              {
+                "end": 79,
+                "start": 67,
+                "username": "aeglepotato"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/aeglepotato",
+                "end": 109,
+                "expanded_url": "https://ngl.link/aeglepotato",
+                "start": 86,
+                "url": "https://t.co/C8vIKrLtCN"
+              }
+            ]
+          }
+        },
+        "id": "2055822314969665536",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2106971461076365806",
+        "name": "🌈ALLice⛄赛博幽灵",
+        "pinned_tweet_id": "2064878659698102753",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2055822314969665536/1790741335",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067517312576421888/aGH7Myxd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 508,
+          "following_count": 516,
+          "like_count": 23551,
+          "listed_count": 0,
+          "media_count": 137,
+          "tweet_count": 2050
+        },
+        "url": "",
+        "username": "GrievousPotato1",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-07-15T09:25:21.000Z",
+        "description": "兜麦实验室官方账号\n创始人@zifensix @painun1is\n本号不回私信 有事请联系两位创始人",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 13,
+                "username": "zifensix"
+              },
+              {
+                "end": 33,
+                "start": 23,
+                "username": "painun1is"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/doumaiRC",
+                "end": 23,
+                "expanded_url": "https://t.me/doumaiRC",
+                "start": 0,
+                "url": "https://t.co/Ot2Mmw7ej8"
+              }
+            ]
+          }
+        },
+        "id": "1680146462213292033",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2106877502308429962",
+        "name": "兜麦总部",
+        "pinned_tweet_id": "2106459246607184044",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1680146462213292033/1791140014",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2106456360053592064/Yf1ui_yY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 236,
+          "following_count": 2,
+          "like_count": 32,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 25
+        },
+        "url": "https://t.co/Ot2Mmw7ej8",
+        "username": "doumaiNPS",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

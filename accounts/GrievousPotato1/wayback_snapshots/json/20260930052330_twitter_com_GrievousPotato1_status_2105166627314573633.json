@@ -1,0 +1,320 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2055822314969665536",
+    "conversation_id": "2105166627314573633",
+    "created_at": "2026-09-30T05:23:30.000Z",
+    "display_text_range": [
+      0,
+      140
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-30T06:23:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2105166627314573633"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1629877998148042757",
+          "start": 3,
+          "username": "99905230523aol"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "t.co/Z1rW30",
+          "end": 139,
+          "start": 120,
+          "url": "https://t.co/Z1rW30"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2105166627314573633",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2105151429489123608",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @99905230523aol: 注射攻略\n注射分为：肌肉注射、皮下注射、静脉注射/所有药液注射一定要排清空气！具体就是拍两下针管后推出部分药液。一定要在针扎位置消毒\n肌肉注射：一般为臀部，针管成90°，抽动无回血，缓慢推入药液。… https://t.co/Z1rW30…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3264,
+        "media_key": "3_2105151357854597120",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTcAAaNawAAirWb.jpg",
+        "width": 2448
+      },
+      {
+        "height": 3264,
+        "media_key": "3_2105151382978441216",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTcAB3zaMAANWHh.jpg",
+        "width": 2448
+      },
+      {
+        "height": 3264,
+        "media_key": "3_2105151407993282560",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTcADU_aYAARlhf.jpg",
+        "width": 2448
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2055822314969665536",
+        "conversation_id": "2105166627314573633",
+        "created_at": "2026-09-30T05:23:30.000Z",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-30T06:23:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2105166627314573633"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1629877998148042757",
+              "start": 3,
+              "username": "99905230523aol"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "t.co/Z1rW30",
+              "end": 139,
+              "start": 120,
+              "url": "https://t.co/Z1rW30"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2105166627314573633",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2105151429489123608",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @99905230523aol: 注射攻略\n注射分为：肌肉注射、皮下注射、静脉注射/所有药液注射一定要排清空气！具体就是拍两下针管后推出部分药液。一定要在针扎位置消毒\n肌肉注射：一般为臀部，针管成90°，抽动无回血，缓慢推入药液。… https://t.co/Z1rW30…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2105151357854597120",
+            "3_2105151382978441216",
+            "3_2105151407993282560"
+          ]
+        },
+        "author_id": "1629877998148042757",
+        "conversation_id": "2105151429489123608",
+        "created_at": "2026-09-30T04:23:07.000Z",
+        "display_text_range": [
+          0,
+          98
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-30T05:21:30.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2105151023534989606",
+          "2105151429489123608"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Z1rW30Wlwd",
+              "end": 122,
+              "expanded_url": "https://x.com/99905230523aol/status/2105151429489123608/photo/1",
+              "media_key": "3_2105151357854597120",
+              "start": 99,
+              "url": "https://t.co/Z1rW30Wlwd"
+            },
+            {
+              "display_url": "pic.x.com/Z1rW30Wlwd",
+              "end": 122,
+              "expanded_url": "https://x.com/99905230523aol/status/2105151429489123608/photo/1",
+              "media_key": "3_2105151382978441216",
+              "start": 99,
+              "url": "https://t.co/Z1rW30Wlwd"
+            },
+            {
+              "display_url": "pic.x.com/Z1rW30Wlwd",
+              "end": 122,
+              "expanded_url": "https://x.com/99905230523aol/status/2105151429489123608/photo/1",
+              "media_key": "3_2105151407993282560",
+              "start": 99,
+              "url": "https://t.co/Z1rW30Wlwd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2105151429489123608",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2105151357854597120"
+          },
+          {
+            "media_key": "3_2105151382978441216"
+          },
+          {
+            "media_key": "3_2105151407993282560"
+          }
+        ],
+        "note_tweet": {
+          "entities": {},
+          "text": "注射攻略\n注射分为：肌肉注射、皮下注射、静脉注射/所有药液注射一定要排清空气！具体就是拍两下针管后推出部分药液。一定要在针扎位置消毒\n肌肉注射：一般为臀部，针管成90°，抽动无回血，缓慢推入药液。\n静脉注射：主要位于手臂，在刺点6cm处扎止血带，握拳，与皮肤成30°角，见回血后扎入。静脉具体就是蓝血见于手臂\n皮下注射：成30°至40°角，抽动无回血后扎入。具体位置看下图"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 126,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "注射攻略\n注射分为：肌肉注射、皮下注射、静脉注射/所有药液注射一定要排清空气！具体就是拍两下针管后推出部分药液。一定要在针扎位置消毒\n肌肉注射：一般为臀部，针管成90°，抽动无回血，缓慢推入药液。 https://t.co/Z1rW30Wlwd"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-05-17T01:27:33.000Z",
+        "description": "同类互fo，成分请查看@aeglepotato/点赞狂魔/平时喜欢说怪话和发癫/一般通过肉块爱好者/备用@aeglepotato /🦋@aeglepotato /匿名提问箱https://t.co/C8vIKrLtCN",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 11,
+                "username": "aeglepotato"
+              },
+              {
+                "end": 64,
+                "start": 52,
+                "username": "aeglepotato"
+              },
+              {
+                "end": 79,
+                "start": 67,
+                "username": "aeglepotato"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/aeglepotato",
+                "end": 109,
+                "expanded_url": "https://ngl.link/aeglepotato",
+                "start": 86,
+                "url": "https://t.co/C8vIKrLtCN"
+              }
+            ]
+          }
+        },
+        "id": "2055822314969665536",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2105166627314573633",
+        "name": "🌈ALLice⛄赛博幽灵",
+        "pinned_tweet_id": "2064878659698102753",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2055822314969665536/1790741335",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067517312576421888/aGH7Myxd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 485,
+          "following_count": 503,
+          "like_count": 23034,
+          "listed_count": 0,
+          "media_count": 132,
+          "tweet_count": 1973
+        },
+        "url": "",
+        "username": "GrievousPotato1",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-02-26T16:16:23.000Z",
+        "description": "一个激进分子，虚无加速主义，后性别主义Postgenderism/支持致幻剂合法化，大麻合法化/双性恋/高功能孤独症谱系/支持神经多样性运动/双相伴混合特征",
+        "id": "1629877998148042757",
+        "is_identity_verified": false,
+        "location": "激进主义分子",
+        "most_recent_tweet_id": "2105156178674434508",
+        "name": "无政府主义联盟",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1629877998148042757/1790409902",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061047941188743168/OTSCZ730_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 500,
+          "following_count": 120,
+          "like_count": 70,
+          "listed_count": 0,
+          "media_count": 73,
+          "tweet_count": 565
+        },
+        "url": "",
+        "username": "99905230523aol",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

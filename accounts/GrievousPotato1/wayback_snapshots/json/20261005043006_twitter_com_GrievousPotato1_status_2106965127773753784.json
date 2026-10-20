@@ -1,0 +1,294 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2055822314969665536",
+    "conversation_id": "2106965127773753784",
+    "created_at": "2026-10-05T04:30:06.000Z",
+    "display_text_range": [
+      0,
+      84
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-05T05:30:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2106965127773753784"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1576083963713503232",
+          "start": 3,
+          "username": "Whatlimbo"
+        },
+        {
+          "end": 23,
+          "id": "2082746402648870912",
+          "start": 15,
+          "username": "fldzm86"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2106965127773753784",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 76
+    },
+    "referenced_tweets": [
+      {
+        "id": "2106767112211742946",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Whatlimbo: @fldzm86 自己异性恋圈子的东西躲起来玩没人管你，出来跳脸是要干啥？到时候异性恋生出来一堆傻逼危害社会增加社会负担的时候你来负责吗？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2055822314969665536",
+        "conversation_id": "2106965127773753784",
+        "created_at": "2026-10-05T04:30:06.000Z",
+        "display_text_range": [
+          0,
+          84
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-05T05:30:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2106965127773753784"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1576083963713503232",
+              "start": 3,
+              "username": "Whatlimbo"
+            },
+            {
+              "end": 23,
+              "id": "2082746402648870912",
+              "start": 15,
+              "username": "fldzm86"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106965127773753784",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 76
+        },
+        "referenced_tweets": [
+          {
+            "id": "2106767112211742946",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Whatlimbo: @fldzm86 自己异性恋圈子的东西躲起来玩没人管你，出来跳脸是要干啥？到时候异性恋生出来一堆傻逼危害社会增加社会负担的时候你来负责吗？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1576083963713503232",
+        "conversation_id": "2106704017871306954",
+        "created_at": "2026-10-04T15:23:16.000Z",
+        "display_text_range": [
+          9,
+          69
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-04T16:23:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2106767112211742946"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2082746402648870912",
+              "start": 0,
+              "username": "fldzm86"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106767112211742946",
+        "in_reply_to_user_id": "2082746402648870912",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 21,
+          "impression_count": 123101,
+          "like_count": 2343,
+          "quote_count": 7,
+          "reply_count": 31,
+          "retweet_count": 76
+        },
+        "referenced_tweets": [
+          {
+            "id": "2106704017871306954",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@fldzm86 自己异性恋圈子的东西躲起来玩没人管你，出来跳脸是要干啥？到时候异性恋生出来一堆傻逼危害社会增加社会负担的时候你来负责吗？"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-05-17T01:27:33.000Z",
+        "description": "同类互fo，成分请查看@aeglepotato/点赞狂魔/平时喜欢说怪话和发癫/一般通过肉块爱好者/备用@aeglepotato /🦋@aeglepotato /匿名提问箱https://t.co/C8vIKrLtCN",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 11,
+                "username": "aeglepotato"
+              },
+              {
+                "end": 64,
+                "start": 52,
+                "username": "aeglepotato"
+              },
+              {
+                "end": 79,
+                "start": 67,
+                "username": "aeglepotato"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/aeglepotato",
+                "end": 109,
+                "expanded_url": "https://ngl.link/aeglepotato",
+                "start": 86,
+                "url": "https://t.co/C8vIKrLtCN"
+              }
+            ]
+          }
+        },
+        "id": "2055822314969665536",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2106965127773753784",
+        "name": "🌈ALLice⛄赛博幽灵",
+        "pinned_tweet_id": "2064878659698102753",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2055822314969665536/1790741335",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067517312576421888/aGH7Myxd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 508,
+          "following_count": 516,
+          "like_count": 23547,
+          "listed_count": 0,
+          "media_count": 137,
+          "tweet_count": 2048
+        },
+        "url": "",
+        "username": "GrievousPotato1",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-10-01T05:37:59.000Z",
+        "description": "「CARRiER WAVE.」Comming Soon.",
+        "id": "1576083963713503232",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2106951760841777281",
+        "name": "limbo.",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1576083963713503232/1780411169",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2093601604570333184/W3G9njpK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 198,
+          "following_count": 123,
+          "like_count": 1402,
+          "listed_count": 1,
+          "media_count": 57,
+          "tweet_count": 912
+        },
+        "url": "",
+        "username": "Whatlimbo",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-07-30T08:35:32.000Z",
+        "description": "왕가남을취급합니다\n@imduyyopp",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 10,
+                "username": "imduyyopp"
+              }
+            ]
+          }
+        },
+        "id": "2082746402648870912",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2106798140838093038",
+        "name": "사워크림",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2082746402648870912/1787501498",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2099856859842953216/PUKzlUaT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 384,
+          "following_count": 339,
+          "like_count": 5356,
+          "listed_count": 2,
+          "media_count": 366,
+          "tweet_count": 2491
+        },
+        "url": "",
+        "username": "fldzm86",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

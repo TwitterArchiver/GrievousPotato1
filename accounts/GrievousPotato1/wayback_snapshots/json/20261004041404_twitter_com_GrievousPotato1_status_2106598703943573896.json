@@ -1,0 +1,330 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2106531619918184448"
+      ],
+      "media_source_tweet_id": [
+        "2106531625953800312"
+      ]
+    },
+    "author_id": "2055822314969665536",
+    "conversation_id": "2106598703943573896",
+    "created_at": "2026-10-04T04:14:04.000Z",
+    "display_text_range": [
+      0,
+      53
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-04T05:14:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2106598703943573896"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1902046879166468096",
+          "start": 3,
+          "username": "awaTsuki1111"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/KxjHZRnTUb",
+          "end": 53,
+          "expanded_url": "https://x.com/awaTsuki1111/status/2106531625953800312/photo/1",
+          "media_key": "3_2106531619918184448",
+          "start": 30,
+          "url": "https://t.co/KxjHZRnTUb"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2106598703943573896",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2106531619918184448"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2106531625953800312",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @awaTsuki1111: pr啥作用啊？啥计量？ https://t.co/KxjHZRnTUb"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1253,
+        "media_key": "3_2106531619918184448",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTvnWPFaAAA1htf.jpg",
+        "width": 1843
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2106531619918184448"
+          ],
+          "media_source_tweet_id": [
+            "2106531625953800312"
+          ]
+        },
+        "author_id": "2055822314969665536",
+        "conversation_id": "2106598703943573896",
+        "created_at": "2026-10-04T04:14:04.000Z",
+        "display_text_range": [
+          0,
+          53
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-04T05:14:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2106598703943573896"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1902046879166468096",
+              "start": 3,
+              "username": "awaTsuki1111"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/KxjHZRnTUb",
+              "end": 53,
+              "expanded_url": "https://x.com/awaTsuki1111/status/2106531625953800312/photo/1",
+              "media_key": "3_2106531619918184448",
+              "start": 30,
+              "url": "https://t.co/KxjHZRnTUb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106598703943573896",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2106531619918184448"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2106531625953800312",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @awaTsuki1111: pr啥作用啊？啥计量？ https://t.co/KxjHZRnTUb"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2106531619918184448"
+          ]
+        },
+        "author_id": "1902046879166468096",
+        "conversation_id": "2106531625953800312",
+        "created_at": "2026-10-03T23:47:31.000Z",
+        "display_text_range": [
+          0,
+          11
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-04T00:47:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2106531625953800312"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/KxjHZRnTUb",
+              "end": 35,
+              "expanded_url": "https://x.com/awaTsuki1111/status/2106531625953800312/photo/1",
+              "media_key": "3_2106531619918184448",
+              "start": 12,
+              "url": "https://t.co/KxjHZRnTUb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106531625953800312",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2106531619918184448"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 412,
+          "like_count": 13,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "pr啥作用啊？啥计量？ https://t.co/KxjHZRnTUb"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-05-17T01:27:33.000Z",
+        "description": "同类互fo，成分请查看@aeglepotato/点赞狂魔/平时喜欢说怪话和发癫/一般通过肉块爱好者/备用@aeglepotato /🦋@aeglepotato /匿名提问箱https://t.co/C8vIKrLtCN",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 11,
+                "username": "aeglepotato"
+              },
+              {
+                "end": 64,
+                "start": 52,
+                "username": "aeglepotato"
+              },
+              {
+                "end": 79,
+                "start": 67,
+                "username": "aeglepotato"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/aeglepotato",
+                "end": 109,
+                "expanded_url": "https://ngl.link/aeglepotato",
+                "start": 86,
+                "url": "https://t.co/C8vIKrLtCN"
+              }
+            ]
+          }
+        },
+        "id": "2055822314969665536",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2106598703943573896",
+        "name": "🌈ALLice⛄赛博幽灵",
+        "pinned_tweet_id": "2064878659698102753",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2055822314969665536/1790741335",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067517312576421888/aGH7Myxd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 506,
+          "following_count": 517,
+          "like_count": 23484,
+          "listed_count": 0,
+          "media_count": 136,
+          "tweet_count": 2041
+        },
+        "url": "",
+        "username": "GrievousPotato1",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-03-18T17:18:28.000Z",
+        "description": "04年男生，od自残，重抑重焦\n总之就是烂人一个\n欢迎找我匿名提问\nhttps://t.co/01BuPOlAXf",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/awatsuki1111",
+                "end": 57,
+                "expanded_url": "https://ngl.link/awatsuki1111",
+                "start": 34,
+                "url": "https://t.co/01BuPOlAXf"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+4bD-ndvMmSIzM…",
+                "end": 23,
+                "expanded_url": "https://t.me/+4bD-ndvMmSIzMWJl",
+                "start": 0,
+                "url": "https://t.co/gFG7IsvbtC"
+              }
+            ]
+          }
+        },
+        "id": "1902046879166468096",
+        "is_identity_verified": false,
+        "location": "石家庄",
+        "most_recent_tweet_id": "2106541904557142203",
+        "name": "awaTsuki",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055909459688603648/OCNIfSz-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 168,
+          "following_count": 83,
+          "like_count": 902,
+          "listed_count": 1,
+          "media_count": 87,
+          "tweet_count": 1095
+        },
+        "url": "https://t.co/gFG7IsvbtC",
+        "username": "awaTsuki1111",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

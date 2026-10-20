@@ -1,0 +1,244 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2055822314969665536",
+    "conversation_id": "2108710284600742398",
+    "created_at": "2026-10-10T00:04:44.000Z",
+    "display_text_range": [
+      0,
+      135
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-10T01:04:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2108710284600742398"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1169174984389885952",
+          "start": 3,
+          "username": "Angel_SaveUsAll"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2108710284600742398",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 17
+    },
+    "referenced_tweets": [
+      {
+        "id": "2108614293881074133",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Angel_SaveUsAll: 今天是10月10日世界精神病日，无论你是:地雷门槛餐卷妹、哭丧右美小毒虫、去雄计划跨性别、精神病院常驻npc、县城文艺小众比、网络问卷自诊断、初四来福爱好者、吃感康可以看见爱的人，还是其他精神病，甚至是一只鸡，我都要祝你节日快乐"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2055822314969665536",
+        "conversation_id": "2108710284600742398",
+        "created_at": "2026-10-10T00:04:44.000Z",
+        "display_text_range": [
+          0,
+          135
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-10T01:04:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2108710284600742398"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1169174984389885952",
+              "start": 3,
+              "username": "Angel_SaveUsAll"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2108710284600742398",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 17
+        },
+        "referenced_tweets": [
+          {
+            "id": "2108614293881074133",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Angel_SaveUsAll: 今天是10月10日世界精神病日，无论你是:地雷门槛餐卷妹、哭丧右美小毒虫、去雄计划跨性别、精神病院常驻npc、县城文艺小众比、网络问卷自诊断、初四来福爱好者、吃感康可以看见爱的人，还是其他精神病，甚至是一只鸡，我都要祝你节日快乐"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1169174984389885952",
+        "conversation_id": "2108614293881074133",
+        "created_at": "2026-10-09T17:43:18.000Z",
+        "display_text_range": [
+          0,
+          114
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-09T18:43:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2108614293881074133"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2108614293881074133",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 1936,
+          "like_count": 82,
+          "quote_count": 3,
+          "reply_count": 5,
+          "retweet_count": 17
+        },
+        "reply_settings": "everyone",
+        "text": "今天是10月10日世界精神病日，无论你是:地雷门槛餐卷妹、哭丧右美小毒虫、去雄计划跨性别、精神病院常驻npc、县城文艺小众比、网络问卷自诊断、初四来福爱好者、吃感康可以看见爱的人，还是其他精神病，甚至是一只鸡，我都要祝你节日快乐"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-05-17T01:27:33.000Z",
+        "description": "同类互fo，成分请查看@aeglepotato/点赞狂魔/平时喜欢说怪话和发癫/一般通过肉块爱好者/备用@aeglepotato /🦋@aeglepotato /匿名提问箱https://t.co/C8vIKrLtCN",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 11,
+                "username": "aeglepotato"
+              },
+              {
+                "end": 64,
+                "start": 52,
+                "username": "aeglepotato"
+              },
+              {
+                "end": 79,
+                "start": 67,
+                "username": "aeglepotato"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/aeglepotato",
+                "end": 109,
+                "expanded_url": "https://ngl.link/aeglepotato",
+                "start": 86,
+                "url": "https://t.co/C8vIKrLtCN"
+              }
+            ]
+          }
+        },
+        "id": "2055822314969665536",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2108710284600742398",
+        "name": "🌈ALLice⛄赛博幽灵",
+        "pinned_tweet_id": "2064878659698102753",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2055822314969665536/1790741335",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067517312576421888/aGH7Myxd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 513,
+          "following_count": 519,
+          "like_count": 23859,
+          "listed_count": 0,
+          "media_count": 140,
+          "tweet_count": 2093
+        },
+        "url": "",
+        "username": "GrievousPotato1",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2019-09-04T09:07:06.000Z",
+        "description": "救贖天使 新人画师，阴湿蕾蕾 只是会吃神秘小药片💊💊噶手手🩸🔪 情绪不稳定/双相/焦虑症 舞萌 经常碎碎念EN&CN OK 日本語苦手 欢迎同类找我聊天贴贴🍥老婆@linwei130",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 91,
+                "start": 81,
+                "username": "linwei130"
+              }
+            ]
+          }
+        },
+        "id": "1169174984389885952",
+        "is_identity_verified": false,
+        "location": "New York, NY",
+        "most_recent_tweet_id": "2108680337509507550",
+        "name": "小救「无聊版」",
+        "pinned_tweet_id": "2043782475936120911",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1169174984389885952/1783508953",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2107508884654977024/EE8L2z8H_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1748,
+          "following_count": 674,
+          "like_count": 19545,
+          "listed_count": 4,
+          "media_count": 754,
+          "tweet_count": 6370
+        },
+        "url": "",
+        "username": "Angel_SaveUsAll",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

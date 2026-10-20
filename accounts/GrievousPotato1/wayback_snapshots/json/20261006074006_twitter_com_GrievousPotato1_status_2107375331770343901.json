@@ -1,0 +1,345 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2055822314969665536",
+    "conversation_id": "2107375331770343901",
+    "created_at": "2026-10-06T07:40:06.000Z",
+    "display_text_range": [
+      0,
+      140
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-06T08:40:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2107375331770343901"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1991066716085030912",
+          "start": 3,
+          "username": "Rfy1017"
+        },
+        {
+          "end": 89,
+          "id": "2096460299213905920",
+          "start": 81,
+          "username": "d9nmTTT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2107375331770343901",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "2107353815402033219",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Rfy1017: Allylescaline 50mg口服初体验 这是我第一次使用苯乙胺类迷幻剂 也是我第一次以带有强烈主观色彩的非线性结构写报告\n爱来自@d9nmTTT  整体躯体感受爆炸 我整个人全程意识不清晰 请务必保证身边有bzd还有你信任的sitter 我这个…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1750,
+        "media_key": "3_2107353776537612288",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HT7TGDKaMAAw24I.jpg",
+        "width": 1125
+      },
+      {
+        "height": 968,
+        "media_key": "3_2107353776537653248",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HT7TGDKa0AAXb_y.jpg",
+        "width": 1125
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2055822314969665536",
+        "conversation_id": "2107375331770343901",
+        "created_at": "2026-10-06T07:40:06.000Z",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-06T08:40:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2107375331770343901"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1991066716085030912",
+              "start": 3,
+              "username": "Rfy1017"
+            },
+            {
+              "end": 89,
+              "id": "2096460299213905920",
+              "start": 81,
+              "username": "d9nmTTT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2107375331770343901",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2107353815402033219",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Rfy1017: Allylescaline 50mg口服初体验 这是我第一次使用苯乙胺类迷幻剂 也是我第一次以带有强烈主观色彩的非线性结构写报告\n爱来自@d9nmTTT  整体躯体感受爆炸 我整个人全程意识不清晰 请务必保证身边有bzd还有你信任的sitter 我这个…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2107353776537612288",
+            "3_2107353776537653248"
+          ]
+        },
+        "author_id": "1991066716085030912",
+        "conversation_id": "2107353815402033219",
+        "created_at": "2026-10-06T06:14:36.000Z",
+        "display_text_range": [
+          0,
+          147
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-06T07:14:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2107353815402033219"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 76,
+              "id": "2096460299213905920",
+              "start": 68,
+              "username": "d9nmTTT"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/0JrBF3IKVM",
+              "end": 171,
+              "expanded_url": "https://x.com/Rfy1017/status/2107353815402033219/photo/1",
+              "media_key": "3_2107353776537612288",
+              "start": 148,
+              "url": "https://t.co/0JrBF3IKVM"
+            },
+            {
+              "display_url": "pic.x.com/0JrBF3IKVM",
+              "end": 171,
+              "expanded_url": "https://x.com/Rfy1017/status/2107353815402033219/photo/1",
+              "media_key": "3_2107353776537653248",
+              "start": 148,
+              "url": "https://t.co/0JrBF3IKVM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2107353815402033219",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2107353776537612288"
+          },
+          {
+            "media_key": "3_2107353776537653248"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 340,
+          "like_count": 6,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "Allylescaline 50mg口服初体验 这是我第一次使用苯乙胺类迷幻剂 也是我第一次以带有强烈主观色彩的非线性结构写报告\n爱来自@d9nmTTT  整体躯体感受爆炸 我整个人全程意识不清晰 请务必保证身边有bzd还有你信任的sitter 我这个trip基本上是在作死 一旦bad会很恐怖 https://t.co/0JrBF3IKVM"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-05-17T01:27:33.000Z",
+        "description": "同类互fo，成分请查看@aeglepotato/点赞狂魔/平时喜欢说怪话和发癫/一般通过肉块爱好者/备用@aeglepotato /🦋@aeglepotato /匿名提问箱https://t.co/C8vIKrLtCN",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 11,
+                "username": "aeglepotato"
+              },
+              {
+                "end": 64,
+                "start": 52,
+                "username": "aeglepotato"
+              },
+              {
+                "end": 79,
+                "start": 67,
+                "username": "aeglepotato"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/aeglepotato",
+                "end": 109,
+                "expanded_url": "https://ngl.link/aeglepotato",
+                "start": 86,
+                "url": "https://t.co/C8vIKrLtCN"
+              }
+            ]
+          }
+        },
+        "id": "2055822314969665536",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2107375331770343901",
+        "name": "🌈ALLice⛄赛博幽灵",
+        "pinned_tweet_id": "2064878659698102753",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2055822314969665536/1790741335",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067517312576421888/aGH7Myxd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 511,
+          "following_count": 517,
+          "like_count": 23633,
+          "listed_count": 0,
+          "media_count": 137,
+          "tweet_count": 2063
+        },
+        "url": "",
+        "username": "GrievousPotato1",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-11-19T08:51:25.000Z",
+        "description": "本人男 side🏳️‍🌈 双相 ADHD lgbtq欢迎交友\n我只是一个萌萌的大肥猪 不要欺负我\n最爱的老公❤️‍🔥💉@Greenfish_111 @flyfrog_222\n没有碰过违禁物质哈 本人遵纪守法 \n药物来源医院有正规处方 化学品也是非列管物质",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 73,
+                "start": 59,
+                "username": "Greenfish_111"
+              },
+              {
+                "end": 86,
+                "start": 74,
+                "username": "flyfrog_222"
+              }
+            ]
+          }
+        },
+        "id": "1991066716085030912",
+        "is_identity_verified": false,
+        "location": "迷幻剂星球",
+        "most_recent_tweet_id": "2107356823129075865",
+        "name": "Heeseo.R",
+        "pinned_tweet_id": "2082512624802046345",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1991066716085030912/1784816828",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036413497047916548/4XE_ZRTW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 79,
+          "following_count": 125,
+          "like_count": 304,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 368
+        },
+        "url": "",
+        "username": "Rfy1017",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-09-06T04:49:36.000Z",
+        "description": "遵守一切推特规则",
+        "id": "2096460299213905920",
+        "is_identity_verified": false,
+        "location": "美国",
+        "most_recent_tweet_id": "2107286488090312890",
+        "name": "奈美",
+        "pinned_tweet_id": "2106716393928618280",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2106715715487289344/KMK028Iv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 413,
+          "following_count": 110,
+          "like_count": 232,
+          "listed_count": 0,
+          "media_count": 39,
+          "tweet_count": 488
+        },
+        "url": "",
+        "username": "d9nmTTT",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

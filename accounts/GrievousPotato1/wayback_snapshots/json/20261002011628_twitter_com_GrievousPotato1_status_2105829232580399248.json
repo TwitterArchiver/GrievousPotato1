@@ -1,0 +1,265 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2055822314969665536",
+    "conversation_id": "2105829232580399248",
+    "created_at": "2026-10-02T01:16:28.000Z",
+    "display_text_range": [
+      0,
+      29
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-02T02:16:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2105829232580399248"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/AORINGO_nemuru…",
+          "end": 53,
+          "expanded_url": "https://twitter.com/AORINGO_nemuru/status/2105724302180122750",
+          "start": 30,
+          "url": "https://t.co/C24MnEjBwb"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2105829232580399248",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2105724302180122750",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我是真的想知道课哪类物质能达到如此神力……里面指定掺了些啥 https://t.co/C24MnEjBwb"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2105724292235489280",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTkJFlGbcAA8ZtR.jpg",
+        "width": 946
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2055822314969665536",
+        "conversation_id": "2105829232580399248",
+        "created_at": "2026-10-02T01:16:28.000Z",
+        "display_text_range": [
+          0,
+          29
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-02T02:16:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2105829232580399248"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/AORINGO_nemuru…",
+              "end": 53,
+              "expanded_url": "https://twitter.com/AORINGO_nemuru/status/2105724302180122750",
+              "start": 30,
+              "url": "https://t.co/C24MnEjBwb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2105829232580399248",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2105724302180122750",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我是真的想知道课哪类物质能达到如此神力……里面指定掺了些啥 https://t.co/C24MnEjBwb"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2105724292235489280"
+          ]
+        },
+        "author_id": "1891848716023422976",
+        "conversation_id": "2105724302180122750",
+        "created_at": "2026-10-01T18:19:30.000Z",
+        "display_text_range": [
+          0,
+          8
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-01T19:19:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2105724302180122750"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/69gv1iP9ya",
+              "end": 32,
+              "expanded_url": "https://x.com/AORINGO_nemuru/status/2105724302180122750/photo/1",
+              "media_key": "3_2105724292235489280",
+              "start": 9,
+              "url": "https://t.co/69gv1iP9ya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2105724302180122750",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2105724292235489280"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 17,
+          "impression_count": 23172,
+          "like_count": 86,
+          "quote_count": 2,
+          "reply_count": 6,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "这个世界终于疯了 https://t.co/69gv1iP9ya"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-05-17T01:27:33.000Z",
+        "description": "同类互fo，成分请查看@aeglepotato/点赞狂魔/平时喜欢说怪话和发癫/一般通过肉块爱好者/备用@aeglepotato /🦋@aeglepotato /匿名提问箱https://t.co/C8vIKrLtCN",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 11,
+                "username": "aeglepotato"
+              },
+              {
+                "end": 64,
+                "start": 52,
+                "username": "aeglepotato"
+              },
+              {
+                "end": 79,
+                "start": 67,
+                "username": "aeglepotato"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/aeglepotato",
+                "end": 109,
+                "expanded_url": "https://ngl.link/aeglepotato",
+                "start": 86,
+                "url": "https://t.co/C8vIKrLtCN"
+              }
+            ]
+          }
+        },
+        "id": "2055822314969665536",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2105829232580399248",
+        "name": "🌈ALLice⛄赛博幽灵",
+        "pinned_tweet_id": "2064878659698102753",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2055822314969665536/1790741335",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067517312576421888/aGH7Myxd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 497,
+          "following_count": 508,
+          "like_count": 23299,
+          "listed_count": 0,
+          "media_count": 135,
+          "tweet_count": 2011
+        },
+        "url": "",
+        "username": "GrievousPotato1",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-02-18T13:54:55.000Z",
+        "description": "欲望,暴力,自由",
+        "id": "1891848716023422976",
+        "is_identity_verified": false,
+        "location": "🚪50/88",
+        "most_recent_tweet_id": "2105752663979856190",
+        "name": "青林檎",
+        "pinned_tweet_id": "2001999995273376236",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1891848716023422976/1745429351",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044971844642775042/k4QuHVS2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 762,
+          "following_count": 246,
+          "like_count": 16044,
+          "listed_count": 0,
+          "media_count": 37,
+          "tweet_count": 712
+        },
+        "url": "",
+        "username": "AORINGO_nemuru",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

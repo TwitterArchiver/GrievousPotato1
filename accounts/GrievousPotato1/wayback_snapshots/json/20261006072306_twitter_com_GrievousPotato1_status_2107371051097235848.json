@@ -1,0 +1,276 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2055822314969665536",
+    "conversation_id": "2107371051097235848",
+    "created_at": "2026-10-06T07:23:06.000Z",
+    "display_text_range": [
+      0,
+      140
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-06T08:23:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2107371051097235848"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1476198137589268480",
+          "start": 3,
+          "username": "N3kuv"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2107371051097235848",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2107340306580385914",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @N3kuv: 2026年10月1日麻精药品规范管理新规解读：\n1.规范了从医生到药房的管理。现在开具任何麻精药品患者必须签署知情同意书（可以让监护人代签）\n2.未成年开具麻精药品必须经监护人签字同意，然后药房会审核知情同意书。\n\n目前政策里没有强制限制开具麻精药品的数量…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1466,
+        "media_key": "3_2107340278268919808",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HT7G0WMXgAA-OPm.jpg",
+        "width": 1809
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2055822314969665536",
+        "conversation_id": "2107371051097235848",
+        "created_at": "2026-10-06T07:23:06.000Z",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-06T08:23:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2107371051097235848"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1476198137589268480",
+              "start": 3,
+              "username": "N3kuv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2107371051097235848",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2107340306580385914",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @N3kuv: 2026年10月1日麻精药品规范管理新规解读：\n1.规范了从医生到药房的管理。现在开具任何麻精药品患者必须签署知情同意书（可以让监护人代签）\n2.未成年开具麻精药品必须经监护人签字同意，然后药房会审核知情同意书。\n\n目前政策里没有强制限制开具麻精药品的数量…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2107340278268919808"
+          ]
+        },
+        "author_id": "1476198137589268480",
+        "conversation_id": "2107340306580385914",
+        "created_at": "2026-10-06T05:20:56.000Z",
+        "display_text_range": [
+          0,
+          141
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-06T06:20:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2107340306580385914"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/9wlClNRecA",
+              "end": 165,
+              "expanded_url": "https://x.com/N3kuv/status/2107340306580385914/photo/1",
+              "media_key": "3_2107340278268919808",
+              "start": 142,
+              "url": "https://t.co/9wlClNRecA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2107340306580385914",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2107340278268919808"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 695,
+          "like_count": 17,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "2026年10月1日麻精药品规范管理新规解读：\n1.规范了从医生到药房的管理。现在开具任何麻精药品患者必须签署知情同意书（可以让监护人代签）\n2.未成年开具麻精药品必须经监护人签字同意，然后药房会审核知情同意书。\n\n目前政策里没有强制限制开具麻精药品的数量，但理论能开多少药房会审核 https://t.co/9wlClNRecA"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-05-17T01:27:33.000Z",
+        "description": "同类互fo，成分请查看@aeglepotato/点赞狂魔/平时喜欢说怪话和发癫/一般通过肉块爱好者/备用@aeglepotato /🦋@aeglepotato /匿名提问箱https://t.co/C8vIKrLtCN",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 11,
+                "username": "aeglepotato"
+              },
+              {
+                "end": 64,
+                "start": 52,
+                "username": "aeglepotato"
+              },
+              {
+                "end": 79,
+                "start": 67,
+                "username": "aeglepotato"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/aeglepotato",
+                "end": 109,
+                "expanded_url": "https://ngl.link/aeglepotato",
+                "start": 86,
+                "url": "https://t.co/C8vIKrLtCN"
+              }
+            ]
+          }
+        },
+        "id": "2055822314969665536",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2107371051097235848",
+        "name": "🌈ALLice⛄赛博幽灵",
+        "pinned_tweet_id": "2064878659698102753",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2055822314969665536/1790741335",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067517312576421888/aGH7Myxd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 511,
+          "following_count": 516,
+          "like_count": 23626,
+          "listed_count": 0,
+          "media_count": 137,
+          "tweet_count": 2060
+        },
+        "url": "",
+        "username": "GrievousPotato1",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2021-12-29T14:29:24.000Z",
+        "description": "药物减害大使/政策解读/基础药理学/LGBT全肯定/不参与与药物无关的键政",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+xJGsITQkFGMxN…",
+                "end": 23,
+                "expanded_url": "https://t.me/+xJGsITQkFGMxNTM0",
+                "start": 0,
+                "url": "https://t.co/jM2uM0tOuC"
+              }
+            ]
+          }
+        },
+        "id": "1476198137589268480",
+        "is_identity_verified": false,
+        "location": "https://t.me/nekocaline",
+        "most_recent_tweet_id": "2107369746391826898",
+        "name": "ThePeaceOfMyMind",
+        "pinned_tweet_id": "2103393801754812563",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1476198137589268480/1790228628",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2106441802643619840/RH49IsjZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 694,
+          "following_count": 765,
+          "like_count": 7034,
+          "listed_count": 0,
+          "media_count": 101,
+          "tweet_count": 1043
+        },
+        "url": "https://t.co/jM2uM0tOuC",
+        "username": "N3kuv",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

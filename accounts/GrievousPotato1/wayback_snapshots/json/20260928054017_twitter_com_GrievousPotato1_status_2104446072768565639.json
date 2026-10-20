@@ -1,0 +1,277 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2055822314969665536",
+    "conversation_id": "2104386815084134429",
+    "created_at": "2026-09-28T05:40:17.000Z",
+    "display_text_range": [
+      16,
+      56
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-28T06:40:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2104446072768565639"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 56,
+          "start": 44,
+          "tag": "中国短视频平台支持毒品"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1937919950385254401",
+          "start": 0,
+          "username": "CAS148553_50_8"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2104446072768565639",
+    "in_reply_to_user_id": "1937919950385254401",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2104386815084134429",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@CAS148553_50_8 懂了，拒绝细读被封，但感康和od可以发，那就是支持细读\n#中国短视频平台支持毒品"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2104386805315534848",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTRIpmDaAAAL7RW.jpg",
+        "width": 1014
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2055822314969665536",
+        "conversation_id": "2104386815084134429",
+        "created_at": "2026-09-28T05:40:17.000Z",
+        "display_text_range": [
+          16,
+          56
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-28T06:40:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2104446072768565639"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 56,
+              "start": 44,
+              "tag": "中国短视频平台支持毒品"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1937919950385254401",
+              "start": 0,
+              "username": "CAS148553_50_8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104446072768565639",
+        "in_reply_to_user_id": "1937919950385254401",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2104386815084134429",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CAS148553_50_8 懂了，拒绝细读被封，但感康和od可以发，那就是支持细读\n#中国短视频平台支持毒品"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2104386805315534848"
+          ]
+        },
+        "author_id": "1937919950385254401",
+        "conversation_id": "2104386815084134429",
+        "created_at": "2026-09-28T01:44:48.000Z",
+        "display_text_range": [
+          0,
+          26
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-28T02:44:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2104386815084134429"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/5Z7DPey3zH",
+              "end": 50,
+              "expanded_url": "https://x.com/CAS148553_50_8/status/2104386815084134429/photo/1",
+              "media_key": "3_2104386805315534848",
+              "start": 27,
+              "url": "https://t.co/5Z7DPey3zH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104386815084134429",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2104386805315534848"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 47,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我在墙内发了一个拒绝毒品的手势舞给我ban了，气笑了 https://t.co/5Z7DPey3zH"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-05-17T01:27:33.000Z",
+        "description": "同类互fo，成分请查看@aeglepotato/点赞狂魔/平时喜欢说怪话和发癫/一般通过肉块爱好者，大量匂坂郁纪发言注意👁️/备用@aeglepotato /🦋@aeglepotato /匿名提问箱https://t.co/C8vIKrLtCN",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 11,
+                "username": "aeglepotato"
+              },
+              {
+                "end": 77,
+                "start": 65,
+                "username": "aeglepotato"
+              },
+              {
+                "end": 92,
+                "start": 80,
+                "username": "aeglepotato"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/aeglepotato",
+                "end": 122,
+                "expanded_url": "https://ngl.link/aeglepotato",
+                "start": 99,
+                "url": "https://t.co/C8vIKrLtCN"
+              }
+            ]
+          }
+        },
+        "id": "2055822314969665536",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2104446072768565639",
+        "name": "🌈ALLice⛄赛博幽灵",
+        "pinned_tweet_id": "2064878659698102753",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2055822314969665536/1790048433",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067517312576421888/aGH7Myxd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 477,
+          "following_count": 494,
+          "like_count": 22734,
+          "listed_count": 0,
+          "media_count": 130,
+          "tweet_count": 1944
+        },
+        "url": "",
+        "username": "GrievousPotato1",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-06-25T17:05:10.000Z",
+        "description": "=莉莉卡 \naudhd/oder/女/刚找回账号欢迎互fo\n中文/日本語/English\n药理学学习中\n遵循用法用量 上网快乐冲浪",
+        "id": "1937919950385254401",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2104435462568022275",
+        "name": "りりか",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1937919950385254401/1789981403",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2100623651813097473/9QevBrMI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 58,
+          "following_count": 236,
+          "like_count": 291,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 215
+        },
+        "url": "",
+        "username": "CAS148553_50_8",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

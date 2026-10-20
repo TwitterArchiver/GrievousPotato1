@@ -1,0 +1,266 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2055822314969665536",
+    "conversation_id": "2104754905131180439",
+    "created_at": "2026-09-29T03:45:46.000Z",
+    "display_text_range": [
+      14,
+      17
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-29T04:45:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2104779641474977907"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1906965920515551233",
+          "start": 0,
+          "username": "OrangeTsukii"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2104779641474977907",
+    "in_reply_to_user_id": "1906965920515551233",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2104754905131180439",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@OrangeTsukii 恭喜w"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 534,
+        "media_key": "3_2104754899166924800",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTWXbegbkAAO6qk.jpg",
+        "width": 1256
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2055822314969665536",
+        "conversation_id": "2104754905131180439",
+        "created_at": "2026-09-29T03:45:46.000Z",
+        "display_text_range": [
+          14,
+          17
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-29T04:45:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2104779641474977907"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1906965920515551233",
+              "start": 0,
+              "username": "OrangeTsukii"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104779641474977907",
+        "in_reply_to_user_id": "1906965920515551233",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2104754905131180439",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@OrangeTsukii 恭喜w"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2104754899166924800"
+          ]
+        },
+        "author_id": "1906965920515551233",
+        "conversation_id": "2104754905131180439",
+        "created_at": "2026-09-29T02:07:28.000Z",
+        "display_text_range": [
+          0,
+          55
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-29T03:07:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2104754905131180439"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/T3pNAEkbnS",
+              "end": 79,
+              "expanded_url": "https://x.com/OrangeTsukii/status/2104754905131180439/photo/1",
+              "media_key": "3_2104754899166924800",
+              "start": 56,
+              "url": "https://t.co/T3pNAEkbnS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104754905131180439",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2104754899166924800"
+          }
+        ],
+        "note_tweet": {
+          "entities": {},
+          "text": "橙子终于…打赢复活赛了。\n被封的20个小时把我变成互联网重度依赖了，走在路上总是会下意识看一眼推特有没有解封。\n我在想，记忆总是不可靠的，我连自己忘记了什么都不记得。就像沙滩上画画，画的美轮美奂，潮水一拨弄之后就像是什么都没有发生过。所以我尽可能的在写，写下来就能看见发生了什么，写下来就能证明真的存在过。\n我在想，最近一个半月生活的点点滴滴都记载在这个社媒上，是不是有点太脆弱了。本来想的是如果不能解封就注销这个账号了，既然回来了那应该还是会接着用下去。不过希望是绝对不想再被封第二次了，心中的空虚感无从填补。"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 304,
+          "like_count": 14,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "橙子终于…打赢复活赛了。\n被封的20个小时把我变成互联网重度依赖了，走在路上总是会下意识看一眼推特有没有解封。 https://t.co/T3pNAEkbnS"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-05-17T01:27:33.000Z",
+        "description": "同类互fo，成分请查看@aeglepotato/点赞狂魔/平时喜欢说怪话和发癫/一般通过肉块爱好者，大量匂坂郁纪发言注意👁️/备用@aeglepotato /🦋@aeglepotato /匿名提问箱https://t.co/C8vIKrLtCN",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 11,
+                "username": "aeglepotato"
+              },
+              {
+                "end": 77,
+                "start": 65,
+                "username": "aeglepotato"
+              },
+              {
+                "end": 92,
+                "start": 80,
+                "username": "aeglepotato"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/aeglepotato",
+                "end": 122,
+                "expanded_url": "https://ngl.link/aeglepotato",
+                "start": 99,
+                "url": "https://t.co/C8vIKrLtCN"
+              }
+            ]
+          }
+        },
+        "id": "2055822314969665536",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2104779641474977907",
+        "name": "🌈ALLice⛄赛博幽灵",
+        "pinned_tweet_id": "2064878659698102753",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2055822314969665536/1790048433",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067517312576421888/aGH7Myxd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 482,
+          "following_count": 498,
+          "like_count": 22880,
+          "listed_count": 0,
+          "media_count": 130,
+          "tweet_count": 1951
+        },
+        "url": "",
+        "username": "GrievousPotato1",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-04-01T07:04:46.000Z",
+        "description": "日本摇滚乐重度依赖。\n请你为我而失眠。",
+        "id": "1906965920515551233",
+        "is_identity_verified": false,
+        "location": "游荡在互联网的初恋幽灵",
+        "most_recent_tweet_id": "2104764041168323039",
+        "name": "Tsukiyo",
+        "pinned_tweet_id": "2097746438222700904",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1906965920515551233/1789065135",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2092182042708746240/2bOhDkc1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 226,
+          "following_count": 50,
+          "like_count": 16071,
+          "listed_count": 0,
+          "media_count": 88,
+          "tweet_count": 887
+        },
+        "url": "",
+        "username": "OrangeTsukii",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

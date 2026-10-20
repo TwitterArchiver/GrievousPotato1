@@ -1,0 +1,250 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2055822314969665536",
+    "conversation_id": "2105244689691512876",
+    "created_at": "2026-09-30T10:33:42.000Z",
+    "display_text_range": [
+      0,
+      125
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-30T11:33:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2105244689691512876"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1906965920515551233",
+          "start": 3,
+          "username": "OrangeTsukii"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2105244689691512876",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2105239558673817669",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @OrangeTsukii: 刷到这条推文，顺便给大家讲点你可能从来不知道的干货：\n不要再傻傻的为不小心用出套餐的流量和通话买单了，其实绝大多数时候，超出套餐的流量甚至通话费都是可以追回的。而且远比想象中的要简单，基本只需要一通电话就可以了。…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2055822314969665536",
+        "conversation_id": "2105244689691512876",
+        "created_at": "2026-09-30T10:33:42.000Z",
+        "display_text_range": [
+          0,
+          125
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-30T11:33:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2105244689691512876"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1906965920515551233",
+              "start": 3,
+              "username": "OrangeTsukii"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2105244689691512876",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2105239558673817669",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @OrangeTsukii: 刷到这条推文，顺便给大家讲点你可能从来不知道的干货：\n不要再傻傻的为不小心用出套餐的流量和通话买单了，其实绝大多数时候，超出套餐的流量甚至通话费都是可以追回的。而且远比想象中的要简单，基本只需要一通电话就可以了。…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1906965920515551233",
+        "conversation_id": "2105239558673817669",
+        "created_at": "2026-09-30T10:13:18.000Z",
+        "display_text_range": [
+          0,
+          106
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-30T11:13:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2105239558673817669"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/crypto_daha/st…",
+              "end": 130,
+              "expanded_url": "https://twitter.com/crypto_daha/status/2104937491203514557",
+              "start": 107,
+              "url": "https://t.co/K2dKAniH1H"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2105239558673817669",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "刷到这条推文，顺便给大家讲点你可能从来不知道的干货：\n不要再傻傻的为不小心用出套餐的流量和通话买单了，其实绝大多数时候，超出套餐的流量甚至通话费都是可以追回的。而且远比想象中的要简单，基本只需要一通电话就可以了。\n\n流量的话很简单，只需要给运营商客服打电话叫成人工模式，然后告诉他这些流量都是在自己不知情的情况下超出的，要求把多扣的钱返还到手机话费里就行。一般来说，只要强调一两次，他就会直接给你返还，这个还是很方便的。我超了很多次都可以追回，而且据说是一年只能用一次，但我实际上一年用了 3 次也没什么问题。\n\n至于通话费，是我这周刚帮我奶奶解决的。她打电话一个月不小心花超了80通话费。我也是打给客服，和他说这些通话都是在不知情的情况下超出的，自己没有意识到套餐的额度已经用超了。扯了两次皮之后，他跟我说会有专人回访。第二天专人回访给我的处理结果，就是把这80块钱都退回到话费里了。\n\n所以其实不要担心怕扯皮，其实只要打一通电话的事情可能几十块钱就回来了。"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 119,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2104937491203514557",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "刷到这条推文，顺便给大家讲点你可能从来不知道的干货：\n不要再傻傻的为不小心用出套餐的流量和通话买单了，其实绝大多数时候，超出套餐的流量甚至通话费都是可以追回的。而且远比想象中的要简单，基本只需要一通电话就可以了。 https://t.co/K2dKAniH1H"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-05-17T01:27:33.000Z",
+        "description": "同类互fo，成分请查看@aeglepotato/点赞狂魔/平时喜欢说怪话和发癫/一般通过肉块爱好者/备用@aeglepotato /🦋@aeglepotato /匿名提问箱https://t.co/C8vIKrLtCN",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 11,
+                "username": "aeglepotato"
+              },
+              {
+                "end": 64,
+                "start": 52,
+                "username": "aeglepotato"
+              },
+              {
+                "end": 79,
+                "start": 67,
+                "username": "aeglepotato"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/aeglepotato",
+                "end": 109,
+                "expanded_url": "https://ngl.link/aeglepotato",
+                "start": 86,
+                "url": "https://t.co/C8vIKrLtCN"
+              }
+            ]
+          }
+        },
+        "id": "2055822314969665536",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2105244689691512876",
+        "name": "🌈ALLice⛄赛博幽灵",
+        "pinned_tweet_id": "2064878659698102753",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2055822314969665536/1790741335",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067517312576421888/aGH7Myxd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 488,
+          "following_count": 505,
+          "like_count": 23113,
+          "listed_count": 0,
+          "media_count": 132,
+          "tweet_count": 1991
+        },
+        "url": "",
+        "username": "GrievousPotato1",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-04-01T07:04:46.000Z",
+        "description": "日本摇滚乐重度依赖。\n请你为我而失眠。",
+        "id": "1906965920515551233",
+        "is_identity_verified": false,
+        "location": "游荡在互联网的初恋幽灵",
+        "most_recent_tweet_id": "2105239558673817669",
+        "name": "Tsukiyo",
+        "pinned_tweet_id": "2097746438222700904",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1906965920515551233/1790745575",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2092182042708746240/2bOhDkc1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 228,
+          "following_count": 52,
+          "like_count": 16238,
+          "listed_count": 0,
+          "media_count": 93,
+          "tweet_count": 912
+        },
+        "url": "",
+        "username": "OrangeTsukii",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

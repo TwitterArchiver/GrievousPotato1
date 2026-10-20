@@ -1,0 +1,306 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2055822314969665536",
+    "conversation_id": "2104399457550839976",
+    "created_at": "2026-09-28T02:35:03.000Z",
+    "display_text_range": [
+      0,
+      146
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-28T03:35:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2104399457550839976"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1745006090822225920",
+          "start": 3,
+          "username": "sb6571"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2104399457550839976",
+    "lang": "ko",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2346
+    },
+    "referenced_tweets": [
+      {
+        "id": "2104052998934773970",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @sb6571: 갓반인들아 team 우울정뼝인들에게 하면 절대 안되는 말 알려드림.\n\n1. 너만 힘든 거 아냐. 다 힘들어\n-&gt;자신의 세상에서 가장 힘든 건 자기자신 뿐입니다. 아가리해주세요.\n\n2. 니가 진짜 고생을 안해봐서 그래ㅋ\n-&gt;뇌에서…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2055822314969665536",
+        "conversation_id": "2104399457550839976",
+        "created_at": "2026-09-28T02:35:03.000Z",
+        "display_text_range": [
+          0,
+          146
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-28T03:35:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2104399457550839976"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1745006090822225920",
+              "start": 3,
+              "username": "sb6571"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104399457550839976",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2346
+        },
+        "referenced_tweets": [
+          {
+            "id": "2104052998934773970",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @sb6571: 갓반인들아 team 우울정뼝인들에게 하면 절대 안되는 말 알려드림.\n\n1. 너만 힘든 거 아냐. 다 힘들어\n-&gt;자신의 세상에서 가장 힘든 건 자기자신 뿐입니다. 아가리해주세요.\n\n2. 니가 진짜 고생을 안해봐서 그래ㅋ\n-&gt;뇌에서…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1745006090822225920",
+        "conversation_id": "2104052998934773970",
+        "created_at": "2026-09-27T03:38:21.000Z",
+        "display_text_range": [
+          0,
+          169
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-27T04:38:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2104052998934773970"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2104052998934773970",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {},
+          "text": "갓반인들아 team 우울정뼝인들에게 하면 절대 안되는 말 알려드림.\n\n1. 너만 힘든 거 아냐. 다 힘들어\n->자신의 세상에서 가장 힘든 건 자기자신 뿐입니다. 아가리해주세요.\n\n2. 니가 진짜 고생을 안해봐서 그래ㅋ\n->뇌에서 호르몬 안 나오는 거랑 사회적 고생 배틀 뜨는 거랑 뭔 상관인지 모르겠습니다. 아가리해주세요.\n\n​3. 긍정적으로 생각해봐, 마음먹기에 달렸어\n-> 다리 부러진 사람한테 \"마음 긍정적으로 먹고 뛰어봐\" 하는 소리랑 똑같습니다. 아가리해주세요.\n\n4. 햇빛 쬐고 운동 좀 하면 다 나아\n-> 몸을 일으켜서 현관문 여는 것 자체가 보스 레이드 뛰는 수준입니다. 헬스장 보내려 하지 마시고 아가리해주세요.(물론 굉장히 중요하니까 team정뼝인들은 가능하시다면 꼭 가벼운 산책이라도 하시기를 권장합니다)\n\n6. 약 오래 먹으면 안 좋다던데 줄여봐/끊어봐\n-> 당신은 의사가 아닙니다. 당뇨 환자한테 인슐린 끊으라는 소리랑 동급이니 아가리해주세요.\n\n​7. 겉보기엔 ㅈㄴ 멀쩡해 보이는데? \n-> 내장이 터져서 피 흘리고 있는 걸 겉으로 안 보인다고 꾀병 취급하지 마시고 아가리해주세요.\n\n8. 나도 요즘 우울한데 그 정도는 누구나 다 겪어\n-> 일시적인 기분 저하랑 질병으로서의 질환을 동일 선상에 두지 마세요. 감기 걸렸다고 암 환자한테 동질감 느끼는 소리나 마찬가지이니 아가리해주세요.\n\n​9. 자꾸 집에만 틀어박혀 있지 말고 사람들 좀 만나\n-> 지금 사람 얼굴 보는 것 자체가 숨 막히고 공포인 상태입니다. 억지로 끌고 나가려 하지 말고 아가리해주세요.\n\n10. 그렇게 부정적으로만 생각하니까 안좋아지지\n-> 질환 때문에 부정적 사고 회로가 강제로 돌아가는 겁니다. 결과와 원인을 뒤바꿔서 자책감 심어주지 말고 아가리해주세요.\n\n*해당 글은 우울증을 별것 아닌 일로 치부하며 무례하게 구는 이들을 겨냥한 글입니다. 진심으로 걱정하고 위로해 주려는 분들의 따뜻한 마음을 탓하려는 의도가 아님을 분명히 짚고 넘어갑니다"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2607,
+          "impression_count": 830517,
+          "like_count": 7506,
+          "quote_count": 1600,
+          "reply_count": 23,
+          "retweet_count": 2346
+        },
+        "reply_settings": "everyone",
+        "text": "갓반인들아 team 우울정뼝인들에게 하면 절대 안되는 말 알려드림.\n\n1. 너만 힘든 거 아냐. 다 힘들어\n-&gt;자신의 세상에서 가장 힘든 건 자기자신 뿐입니다. 아가리해주세요.\n\n2. 니가 진짜 고생을 안해봐서 그래ㅋ\n-&gt;뇌에서 호르몬 안 나오는 거랑 사회적 고생 배틀 뜨는 거랑 뭔 상관인지"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-05-17T01:27:33.000Z",
+        "description": "同类互fo，成分请查看@aeglepotato/点赞狂魔/平时喜欢说怪话和发癫/一般通过肉块爱好者，大量匂坂郁纪发言注意👁️/备用@aeglepotato /🦋@aeglepotato /匿名提问箱https://t.co/C8vIKrLtCN",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 11,
+                "username": "aeglepotato"
+              },
+              {
+                "end": 77,
+                "start": 65,
+                "username": "aeglepotato"
+              },
+              {
+                "end": 92,
+                "start": 80,
+                "username": "aeglepotato"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/aeglepotato",
+                "end": 122,
+                "expanded_url": "https://ngl.link/aeglepotato",
+                "start": 99,
+                "url": "https://t.co/C8vIKrLtCN"
+              }
+            ]
+          }
+        },
+        "id": "2055822314969665536",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2104399457550839976",
+        "name": "🌈ALLice⛄赛博幽灵",
+        "pinned_tweet_id": "2064878659698102753",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2055822314969665536/1790048433",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067517312576421888/aGH7Myxd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 474,
+          "following_count": 493,
+          "like_count": 22722,
+          "listed_count": 0,
+          "media_count": 129,
+          "tweet_count": 1940
+        },
+        "url": "",
+        "username": "GrievousPotato1",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-01-10T08:54:13.000Z",
+        "description": "우결👰‍♂️@__12cc_ /내남자💋 @InaGeim\n귀요미💗@4rt1ficialiT/ 딸👸@metamong7831\n카사노바🕺@dyzqlv/ 짝사랑💖@yedyzip\n소중이🌶@taemulkamcha_\n부랄🥚@2beao6/@tyimgy\n조카👧@hxv5x/@zvonzxv",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 14,
+                "start": 6,
+                "username": "__12cc_"
+              },
+              {
+                "end": 29,
+                "start": 21,
+                "username": "InaGeim"
+              },
+              {
+                "end": 47,
+                "start": 34,
+                "username": "4rt1ficialiT"
+              },
+              {
+                "end": 64,
+                "start": 51,
+                "username": "metamong7831"
+              },
+              {
+                "end": 77,
+                "start": 70,
+                "username": "dyzqlv"
+              },
+              {
+                "end": 91,
+                "start": 83,
+                "username": "yedyzip"
+              },
+              {
+                "end": 110,
+                "start": 96,
+                "username": "taemulkamcha_"
+              },
+              {
+                "end": 121,
+                "start": 114,
+                "username": "2beao6"
+              },
+              {
+                "end": 129,
+                "start": 122,
+                "username": "tyimgy"
+              },
+              {
+                "end": 139,
+                "start": 133,
+                "username": "hxv5x"
+              },
+              {
+                "end": 148,
+                "start": 140,
+                "username": "zvonzxv"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pushoong.com/ask/3085674084",
+                "end": 23,
+                "expanded_url": "https://pushoong.com/ask/3085674084",
+                "start": 0,
+                "url": "https://t.co/JMWIdqiDrb"
+              }
+            ]
+          }
+        },
+        "id": "1745006090822225920",
+        "is_identity_verified": false,
+        "location": "Seoul, Republic of Korea",
+        "most_recent_tweet_id": "2104397437523927254",
+        "name": "팥빵",
+        "pinned_tweet_id": "2099535928951984217",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1745006090822225920/1787555678",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2104040983193440256/j35LcU-7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 297,
+          "following_count": 238,
+          "like_count": 3907,
+          "listed_count": 6,
+          "media_count": 155,
+          "tweet_count": 1362
+        },
+        "url": "https://t.co/JMWIdqiDrb",
+        "username": "sb6571",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}
